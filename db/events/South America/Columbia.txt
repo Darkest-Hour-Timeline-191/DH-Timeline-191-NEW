@@ -1,0 +1,28 @@
+# An event to prevent use of the Panama Canal
+event = {
+	id = 1040
+	random = no
+	country = COL
+	style = 2
+	picture = "news_paper"
+
+	name = "There is no Canal"
+	desc = "So you don't get to mess around with the area, sorry."
+
+	date = { day = 0 month = november year = 1933 }
+
+	action = {
+		name = ACTION_NAME_DAMN
+		command = { type = revolt which = 889 } # Balboa
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		command = { type = revolt which = 889 }
+		# ten militia should defeat even an airborne assault
+		}
+	}

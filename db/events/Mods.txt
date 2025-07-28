@@ -1,0 +1,329 @@
+
+# Richmond Agreement
+# TBD
+
+# Operation Blackbeard (decision)
+# TBD
+
+
+
+### Japanese-American War endings
+
+# Japanese victory
+
+event = {
+	id = 1050
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		control = { province = 7242 data = JAP } # Pearl Harbor
+		control = { province = 663 data = JAP } # Honolulu
+		atwar = USA
+	}
+
+	name = "Japanese-American War - Japanese victory"
+	desc = "The Japanese efforts against the imperialist Americans went almost exactly as planned. Without any proper bases on the Sandwich Islands, the Americans could no longer strike back at the Japanese in a meaningful way, and thus they achieved full dominance of the Pacific. Perhaps now the USA would be willing to sign a treaty accepting Japan's status as the premier power of the East, and pay indemnities for the damages caused to Japanese shipping and commerce."
+
+	date = { day = 0 month = november year = 1933 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1935 }
+
+	action_a = {
+		ai_chance = 99
+		name = "The Sun rises in the East!"
+		command = { type = dissent value = -5 } # 
+		command = { type = event which = 1051 where = USA when = 1 } #
+		}	
+	action_b = {
+		ai_chance = 1
+		name = "No peace with the Americans! Onwards to Philadelphia!"
+		command = { type = dissent value = 15 } # 
+		}
+	}
+
+event = {
+	id = 1051
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+	
+	name = "Japanese-American War - Japanese victory"
+	desc = "Despite the best efforts of the United States military, Japan overwhelmingly defeated them in the Pacific. The United States Navy was crippled decisively, and the Japanese took Pearl Harbor. The American government could not keep up the struggle any longer."
+	
+	action = {
+		name = "Accept the Japanese conditions"
+		ai_chance = 100
+		command = { type = dissent value = 5 } #
+        	command = { type = secederegion which = JAP value = "American Pacific" when = 1 }
+        	command = { type = secederegion which = JAP value = "Asian Pacific" when = 1 }
+		command = { type = peace which = JAP value = 1 }
+		command = {  type = peacetime_ic_mod value = -70 } # slightly higher than the other endings
+	}
+	action = {
+		name = "We won’t give up!"
+		ai_chance = 0
+		command = { type = dissent value = 15 }
+	}
+}
+
+# American victory
+
+event = {
+	id = 1055
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	trigger = {
+		# actual Japanese holdings
+		control = { province = 1599 data = USA } # Iwo Jima/Motoyama
+		control = { province = 1624 data = USA } # Agana/Guam
+		control = { province = 1785 data = USA } # Marcus Island/Minamitori-shima
+
+		# to ensure the USA is not just taking the piss by striking at Japanese islands while core territories are at risk
+		control = { province = 762 data = USA } # LOS ANGELES!
+		control = { province = 7242 data = USA } # Pearl Harbor
+		control = { province = 663 data = USA } # Honolulu
+		atwar = JAP
+	}
+
+	name = "Japanese-American War - American victory"
+	desc = "Despite the less than optimal state of the United States armed forces and the ongoing economic depression, they were able to beat back the Japanese and seize significant parts of their Pacific territories. Perhaps now the Japanese would be willing to sign a treaty that would acknowledge U. S. status as the strongest power in the Pacific."
+
+	date = { day = 0 month = november year = 1933 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1935 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Propose a deal for a Japanese retreat from the Pacific"
+		command = { type = dissent value = -5 } # 
+		command = { type = event which = 1056 where = JAP when = 1 } #
+		}	
+	action_b = {
+		ai_chance = 0
+		name = "Keep going until the Stars and Stripes flies in Tokyo!"
+		command = { type = dissent value = 15 } # 
+		}
+	}
+
+event = {
+	id = 1056
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+	
+	name = "Japanese-American War - American victory"
+	desc = "In a meeting with the privy council, the Emperor noted that the war in the Pacific had not exactly developed to Japan's advantage, and that an indirect American diplomatic approach had offered Japan a chance to surrender their Pacific island holdings to the USA, in order to avoid an invasion of the home islands. As the Imperial fleet had become too weak to resist further American incursions into Japan’s territory, it was seen as prudent to accept the offer."
+	
+	action = {
+		name = "Accept the American demands, as harsh as they are"
+		ai_chance = 99
+		command = { type = dissent value = 5 } #
+		command = { type = peace which = USA value = 1 }
+        	command = { type = secederegion which = USA value = "Asian Pacific" when = 1 } # 
+		command = { type = event which = 1057 where = USA } #
+
+	}
+	action = {
+		name = "No peace! Death before dishonor!"
+		ai_chance = 1
+		command = { type = dissent value = 15 }
+		command = { type = event which = 1058 where = JAP when = 1 } #
+	}
+}
+
+event = {
+	id = 1057
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	name = "Japanese-American War - American peace demands accepted"
+	desc = "The Japanese accepted the American demands of retreating from their Pacific holdings, though the Japanese requested the right to keep some of the islands particularly close to the Home Islands, which the Americans agreed to. The Japanese were also required to pay war indemnities, which of course would take some time to be arranged for and delivered."
+
+	action = {
+		name = ACTION_NAME_EXCELLENT
+		command = { type = secedeprovince which = JAP value = 7938 when = 1 } # Mitsune-mura
+		command = { type = secedeprovince which = JAP value = 3088 when = 1 } # Moto-mura
+		command = { type = event which = 1059 where = USA when = 60 } # maybe even higher?
+		command = { type = dissent value = -3 }
+		command = {  type = peacetime_ic_mod value = -75 }
+		}
+	}
+
+event = {
+	id = 1058
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	name = "Japanese-American War - American peace demands rejected"
+	desc = "No one can quite explain the reasoning behind the Japanese refusal to accept the American peace demands. It was possibly pure arrogance, the thought of continuing the fight to force better terms later on through exhausting the Americans' will to bring the fight to the Home Islands."
+
+	action = {
+		name = ACTION_NAME_DAMN
+		command = { type = dissent value = 3 }
+		}
+	}
+
+event = {
+	id = 1059
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	# triggered by USA 1057
+
+	name = "Japanese war indemnities to the United States"
+	desc = "The Japanese war indemnities for the Japanese-American War included monetary compensation and commercial vessels. The Japanese had to go through considerable lengths of security to ensure that their own vengeful officers did not scuttle or sabotage the vessels that were being being handed over."
+
+	action = {
+		ai_chance = 100
+		name = ACTION_NAME_GOOD
+		command = { type = dissent value = -1 } # 
+		command = { type = transport_pool which = -1 value = 40 }
+		command = { type = money value = 350 }
+		}
+	}
+
+# Stalemate
+# could maybe have a different version for the Japanese to call it, but I'm a lazy bastard --Korsteeni 27 Feb '23
+
+event = {
+	id = 1060
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		random = 67
+		control = { province = 1599 data = JAP } # Iwo Jima/Motoyama
+		control = { province = 1624 data = JAP } # Agana/Guam
+		control = { province = 1785 data = JAP } # Marcus Island/Minamitori-shima
+
+		control = { province = 7242 data = USA } # Pearl Harbor
+		control = { province = 663 data = USA } # Honolulu
+		atwar = JAP
+
+		NOT = {
+		event = 1056 # Japan has not already fully surrendered once
+		}
+	}
+
+	name = "Japanese-American War - Inconclusive"
+	desc = "With no progress by either side of the Pacific War, in early 1934, President Herbert Hoover proposed a 'status quo ante bellum' peace to the Japanese government."
+
+	date = { day = 0 month = february year = 1934 }
+	offset = 10
+	deathdate = { day = 29 month = december year = 1935 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Let us end this war"
+		command = { type = dissent value = -1 } # 
+		command = { type = event which = 1061 where = JAP when = 1 } #
+		}	
+	action_b = {
+		ai_chance = 0
+		name = "Keep going until the Stars and Stripes flies in Tokyo!"
+		command = { type = dissent value = 10 } # 
+		}
+	}
+
+event = {
+	id = 1061
+	random = no
+	country = JAP
+	style = 2
+	picture = "news_paper"
+	
+	name = "Japanese response to the American peace offer"
+	desc = "With no progress by either side of the Pacific War, in early 1934, President Herbert Hoover proposed a 'status quo ante bellum' peace to the Japanese government."
+	
+	action = {
+		name = "Agree, no reason to continue the war"
+		ai_chance = 99
+		command = { type = dissent value = -1 } #
+		command = { type = peace which = USA value = 1 }
+		command = { type = event which = 1062 where = USA } #
+
+	}
+	action = {
+		name = "No reason to QUIT this war!"
+		ai_chance = 1
+		command = { type = dissent value = 10 }
+	}
+}
+
+event = {
+	id = 1062
+	random = no
+	country = USA
+	style = 2
+	picture = "japs"
+
+	name = "Japanese-American War - American peace proposal accepted"
+	desc = "The Japanese accepted the American suggestion of ending the Pacific War with no territorial concessions or indemnities from either side."
+
+	action = {
+		name = ACTION_NAME_GOOD
+		command = { type = dissent value = -1 }
+		command = {  type = peacetime_ic_mod value = -75 }
+		}
+	}
+
+# test events
+
+event = {
+	id = 1063
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Louisiana test"
+	desc = "Louisiana test"
+
+#	date = { day = 10 month = november year = 1933 }
+
+	action = {
+		name = "Louisiana test"
+		command = { type = independence which = U15 value = 1 when = 1 } #
+		}
+	}
+
+event = {
+	id = 1064
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Blackbeard test"
+	desc = "Blackbeard test"
+
+	date = { day = 22 month = june year = 1941 }
+
+	action_a = {
+		ai_chance = 100
+		name = "Launch the attack!"
+		command = { type = war which = USA } #
+		}
+
+	action_b = {
+		ai_chance = 0
+		name = "Nope"
+		command = { type = dissent value = 10 }
+		}
+	}

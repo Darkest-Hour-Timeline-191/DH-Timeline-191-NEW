@@ -1,0 +1,18 @@
+event = {
+	id = 2000
+	random = no
+	country = USA
+	style = 2
+	picture = "news_paper"
+
+	name = "1938 New England Hurricane"
+	desc = "The 1938 New England Hurricane or Great New England Hurricane hit much of the Northeastern US on September 9 1938. Damages are well into the millions of dollars and the death toll is severe"
+
+	date = { day = 9 month = september year = 1938 }
+
+	action = {
+		name = ACTION_NAME_DAMN
+		command = { type = construct which = ic where = 6463 value = -1 } # Treton
+		command = { type = construct which = infrastructure where = 6329 value = -1 } # Long Beach NY
+		command = { type = construct which = ic where = 6333 value = -1 } # Norwich CT
+		command = { type = dissent value = 3 }

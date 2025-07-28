@@ -1,0 +1,38 @@
+### ID range 1200 - ?
+
+event = {
+	id = 1200
+	random = no
+	country = U09
+	style = 2
+	picture = "olympics"
+
+	name = "1936 Winter Olympics"
+	desc = "The IV Olympic Winter Games were inaugurated in Budweis, Austria-Hungary on February 6th 1936. They were heavily sponsored by the Budweis beer brewery, which is located in the same city."
+
+	date = { day = 6 month = february year = 1936 }
+
+	action = {
+		name = ACTION_NAME_GOOD
+		command = { type = money value = 200 }
+		command = { type = dissent value = -3 }
+		}
+	}
+
+event = {
+	id = 1201
+	random = no
+	country = HOL
+	style = 2
+	picture = "astronomy"
+
+	name = "Gerrit Kuiper discovers planet Pluto!"
+	desc = "It had long been speculated that a ninth planet of the Solar System, also known as 'Planet X', lied beyond the orbit of Neptune. On March 1st 1934, Dutch astronomer Gerrit Kuiper announced that he and his assistants had discovered the elusive and distant planet by carefully comparing pictures taken on different dates. The discovery came as a disappointment to many other astronomers, who had dreamed of finding it themselves first. The planet received the name 'Pluto' after the Roman god of the underworld."
+
+	date = { day = 0 month = march year = 1934 }
+
+	action = {
+		name = ACTION_NAME_GREAT
+		command = { type = dissent value = -1 }
+		}
+	}

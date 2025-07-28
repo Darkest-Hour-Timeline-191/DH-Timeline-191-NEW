@@ -1,0 +1,149 @@
+event = {
+id = 2100
+country = CSA
+random = no
+
+trigger = {
+control = { province = 615 data = CSA }
+war = { country = CSA country = USA }
+not = { flag = CAP_CLE }
+}
+
+name = "Cleveland Captured"
+desc = "We have captured the city of Cleveland from the damn Yankees, reaching the shores of Lake Erie. There is also an opportunity to recover some of the resources in the city. We can strip some of the factories and take some of the resources."
+style = 2
+picture = "urbanwarfare"
+
+date = { day = 1 month = january year = 1936 }
+offset = 1
+deathdate = { day = 29 month = december year = 1963 }
+
+action_a = {
+name = "Grab what we can."
+ai_chance = 85
+command = { type = construct which = IC where = 615 value = -1 }
+command = { type = supplies which = 1500 }
+command = { type = rarematerialspool value = 500 }
+command = { type = energypool value = 750 }
+command = { type = metalpool value = 500 }
+command = { type = oilpool value = 100 }
+command = { type = money value = 50 }
+command = { type = setflag which = CAP_CLE }
+command = { type = dissent value = -2 }
+}
+action_b = {
+name = "No, its not an honorble thing to do"
+ai_chance = 15
+command = { type = dissent value = -1 }
+command = { type = setflag which = CAP_CLE }
+}
+
+}
+event = {
+id = 2101
+country = CSA
+random = no
+
+trigger = {
+control = { province = 628 data = CSA }
+war = { country = CSA country = USA }
+not = { flag = CAP_CLE }
+}
+
+name = "Columbus Ohio Captured"
+desc = "We have captured the city of Columbus from the damn Yankees, driving deep into the heart of the enemy state of Ohio. There is also an opportunity to recover some of the resources in the city. We can strip some of the factories and take some of the resources."
+style = 2
+picture = "urbanwarfare"
+
+date = { day = 1 month = january year = 1936 }
+offset = 1
+deathdate = { day = 29 month = december year = 1963 }
+
+action_a = {
+name = "Grab what we can."
+ai_chance = 85
+command = { type = construct which = IC where = 628 value = -1 }
+command = { type = supplies which = 1500 }
+command = { type = rarematerialspool value = 500 }
+command = { type = energypool value = 750 }
+command = { type = metalpool value = 500 }
+command = { type = oilpool value = 100 }
+command = { type = money value = 50 }
+command = { type = setflag which = CAP_CLE }
+command = { type = dissent value = -2 }
+}
+action_b = {
+name = "No, its not an honorble thing to do"
+ai_chance = 15
+command = { type = dissent value = -1 }
+command = { type = setflag which = CAP_CLE }
+}
+
+}
+
+event = {
+id = 2102
+country = CSA
+random = no
+
+trigger = {
+control = { province = 2685 data = CSA }
+war = { country = CSA country = USA }
+not = { flag = CAP_CLE }
+}
+
+name = Toledo Captured"
+desc = "We have captured the city of Toledo from the damn Yankees, reaching the shores of Lake Erie. There is also an opportunity to recover some of the resources in the city. We can strip some of the factories and take some of the resources."
+style = 2
+picture = "urbanwarfare"
+
+date = { day = 1 month = january year = 1936 }
+offset = 1
+deathdate = { day = 29 month = december year = 1963 }
+
+action_a = {
+name = "Grab what we can."
+ai_chance = 85
+command = { type = construct which = IC where = 2685 value = -1 }
+command = { type = supplies which = 1500 }
+command = { type = rarematerialspool value = 500 }
+command = { type = energypool value = 750 }
+command = { type = metalpool value = 500 }
+command = { type = oilpool value = 100 }
+command = { type = money value = 50 }
+command = { type = setflag which = CAP_CLE }
+command = { type = dissent value = -2 }
+}
+action_b = {
+name = "No, its not an honorble thing to do"
+ai_chance = 15
+command = { type = dissent value = -1 }
+command = { type = setflag which = CAP_CLE }
+}
+
+}
+
+event = {
+id = 2103
+country = CSA
+random = no
+
+trigger = {
+control = { province = 606 data = CSA }
+war = { country = CSA country = USA }
+not = { flag = CAP_CLE }
+}
+
+name = Washington DC Captured"
+desc = "Our glorius forces have once again captured the former Yankee Capital of Washington DC. There is also an opportunity to recover some of the resources in the city. We can strip some of the factories and take some of the resources."
+style = 2
+picture = "urbanwarfare"
+
+date = { day = 1 month = january year = 1936 }
+offset = 1
+deathdate = { day = 29 month = december year = 1963 }
+
+action_a = {
+name = "An important symbolic victory."
+}
+}

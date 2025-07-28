@@ -1,0 +1,168 @@
+Alternative HoI2 Editor Changelog
+
+- 6 Feb 2016; Ver 0.53
+
+Fixed a write error when saving scenario files.
+Fixed a crash bug when improper misc.txt is loaded.
+
+- 18 Jan 2016; Ver 0.52
+
+Fixed area names; Belarus and Benelux are swapped.
+Supported saving the selectable country specification: songs.
+Improved compativility of various mods.
+
+- 7 Jan 2016; Ver 0.51
+
+Added batch copying and moving of leaders, ministers and tech teams.
+Added row reordering by drag and drop on some list items.
+Added double-click editing on some list items.
+Fixed a bug that unit equipments are shared by duplicated items.
+Supported the selectable country specification: songs.
+Fixed errors when loading scenarios of DH 1.04 Full.
+Fixed a crash bug when removing trades and wars of a scenario.
+Fixed a bug that when initial units and divisions are duplicated, some items are not changed red.
+
+- 23 Nov 2015; Ver 0.50
+
+Fixed a crash bug with duplicated minister personality names.
+Fixed reading errors with various duplicated defines.
+Supported province name changes of AoD1.10rc5.
+
+- 3 Nov 2015; Ver 0.49
+
+Fixed an error when CON scenario settings are saved.
+Fixed a crash bug when the mod folder is changed after a scenario editor window is closed.
+Fixed a crash bug using invalid path letters with picture file names.
+
+- 15 April 2015; Ver 0.48
+
+Fixed a bug that defensiveness tech effect command is not supported.
+Fixed a crash bug when loading tech tree after game version is changed.
+
+- 11 April 2015; Ver 0.47
+
+Fixed a crash bug with the leader, minister, team, and province editor.
+
+- 11 April 2015; Ver 0.46
+
+Added an option to forbid loading maps.
+Added missing commands at unit effects editing.
+Fixed a bug that some unit equipments are changed to another one.
+Fixed a crash bug when there are not axis, allies, and comintern definitions.
+Fixed a bug that the map is not loaded when game or mod folder is changed.
+Fixed a bug that the text color is not reverted when reloading at the model name editor.
+Fixed the window layout of the OOB editor.
+
+- 13 Mar 2015; Ver 0.45
+
+Corrected typo of division_development/new_model.
+Undeployed naval/air divisions are saved now.
+Fixed a crash when a boarding unit is selected.
+Initialized location/base province when a new division is created.
+When unit type is changed in OOB editor, unit model list is updated.
+When unit type is changed in OOB editor, max allowed brigades are updated.
+Fixed a bug that unit OOB can be edited without selecting any countries. 
+Fixed a bug that province list of air division's location contains (Embarked).
+If country specific model name is null, common model name is shown.
+
+- 7 Mar 2015; Ver 0.44
+
+Added unit OOB editing.
+Fixed a bug that transportcapability of air unit is not saved.
+Fixed a bug that tech effect command parameters are not saved.
+Only existing provinces are checked in the scenario editor.
+Write a log if there is not a closing brace at the end of scenario files.
+
+- 21 Feb 2015; Ver 0.43
+
+New country's inc file can be saved.
+Supported scenario switching and reloading.
+Added province owner/controller checking.
+When a province is owned by a new country, it is released from original owner.
+The map is resized in proportion to the window size.
+When a province is clicked with no map filter, its controller country is selected.
+More scenario tags are supported.
+Fixed a bug that text files are not saved in the correct places.
+Fixed a bug that the scenario editor crashes when saving or reloading without loading any scenarios.
+Fixed a bug that the scenario editor crashes when closing the window and reopening it.
+Fixed a bug that the scenario editor crashes if a country is selected before the map is loaded.
+Fixed a bug that province settings are saved into both bases.inc and country-specific.inc.
+
+- 15 Feb 2015; Ver 0.42
+
+Supported DH 1.04 features.
+Added a scenario editor. (EXPERIMENTAL)
+Fixed a bug that branches are double registered on reloading units.
+Fixed a bug that some editable items are not updated when the unit branch is switched.
+Fixed a bug that some editable items are not updated when unit names are changed from the default value.
+Fixed a bug that unnecessary string keys are assigned when new divisions or brigades are modified.
+Fixed a bug that when a tech label is moved with drag and drop, its position is not changed red.
+
+- 27 May 2014; Ver 0.41
+
+Division's branch can be changed on DH 1.03.
+Fixed a crash when tech tree label's positions are over 999.
+Fixed a bug that d_rsv_33-d_rsv_40,d_01-d_99,b_rsv_36-b_rsv_40,b_01-b_99 are not saved.
+
+- 20 May 2014; Ver 0.40
+
+Fixed a crash when sequential names are added in empty countries.
+
+- 17 May 2014; Ver 0.39
+
+Changed the tech editor window size to match the tech tree picture size.
+Abolished reassigning  sequential number of the tech name.
+Supported for command: sub_detection
+
+- 10 May 2014; Ver 0.38
+
+Added a function for batch editing of leaders, ministers, and teams.
+Corrected unit model item names changed from DH1.03.
+When a new tech item is created, 5 tech components are created together.
+Fixed a bug that a tech effect parameter cannot be deleted though its field is blanked.
+
+- 6 April 2014; Ver 0.37
+
+Fixed a crash on redrawing not defined unit model picture.
+Fixed a bug that world tree view nodes are duplicated when provinces are reloaded.
+Changed the priority of game type: DH > HoI2 > AoD
+
+- 24 March 2014; Ver 0.36
+
+Fixed a radix point of unit upgrade info.
+
+- 23 March 2014; Ver 0.35
+
+Fixed a bug that new assigned strings are not stored on second saving.
+Fixed a bug that tech tree editor's height is not saved.
+
+- 22 March 2014; Ver 0.34
+
+Fixed a bug that a unit editor crashes when editing undefined names.
+Fixed a crash when saving tech trees.
+Changed to save window position and some selections when the editor has been closed.
+Revised modified status view of a unit model editor.
+Renamed division names to corps names.
+Logging things to a log file.
+
+- 9 March 2014; Ver 0.33
+
+Added a research speed viewer.
+Added an export folder specification.
+Changed to save leader/minister/team list files on DH.
+Added editing max naval brigades on AoD 1.07 or higher.
+Fixed a bug that the real unit types of light cruiser and battlecruiser are swapped.
+
+- 22 February 2014; Ver 0.32
+
+Fixed a bug that tech effect parameters cannot be edited correctly in some countries.
+When a tech effect parameter is changed, the input field becomes red.
+Fixed a bug that some area ids and names are not matched.
+
+- 15 February 2014; Ver 0.31
+
+Fixed a bug that unit models, misc values, and province resources cannot be edited correctly in some countries.
+
+- 11 February 2014; Ver 0.30
+
+Initial release for English version.
