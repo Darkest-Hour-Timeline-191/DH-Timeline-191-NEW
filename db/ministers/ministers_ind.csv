@@ -1,5 +1,5 @@
-IND;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;;X
+IND;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
 250001;Head of State;Rajendra Prasad;1933;1964;SL;Weary Stiffneck;High;M59031;X
 250002;Head of Government;Mahatma Mohandas Gandhi;1933;1964;SD;Naive Optimist;High;M59037;X
 250003;Foreign Minister;Subhas Chandra Bose;1933;1964;LWR;The Cloak N Dagger Schemer;High;M59011;X
@@ -68,7 +68,7 @@ IND;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 250066;Head of State;Subhas Chandra Bose;1939;1964;NS;Resigned Generalissimo;High;M59011;X
 250067;Head of Government;Subhas Chandra Bose;1939;1964;NS;Naive Optimist;High;M59011;X
 250068;Foreign Minister;A.C.N. Nambiar;1939;1964;NS;The Cloak N Dagger Schemer;Very High;IND-A_C_N_Nambiar;X
-250069;Minister of Armament;Mohan Singh;1939;1964;NS;Reformer;Very High;6089;X
+250069;Minister of Armament;Mohan Singh;1939;1964;NS;Generic;Very High;6089;X
 250070;Minister of Security;S.A. Ayer;1939;1964;NS;Media Magnate;Very High;IND-S_A_Ayer;X
 250071;Head of Military Intelligence;Lakshmi Sahgal;1939;1964;NS;Logistics Specialist;Very High;IND-Lakshmi_Sahgal;X
 250072;Chief of Staff;Mohan Singh;1939;1964;NS;School of Mass Combat;Very High;6089;X
@@ -78,11 +78,11 @@ IND;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 250076;Head of State;Shripad Amrit Dange;1933;1964;LE;Ruthless Powermonger;Medium;M250106;X
 250077;Head of Government;Abaninath Mukherji;1933;1964;LE;Political Protege;Medium;IND-Abaninath_Mukherji;X
 250078;Foreign Minister;Radharaman Mitra;1933;1964;LE;Biased Intellectual;High;IND-Radharaman_Mitra;X
-250079;Minister of Armament;Jyoti Basu;1933;1964;LE;Planned Economy Proponent;High;M59021;X
+250079;Minister of Armament;Jyoti Basu;1933;1964;LE;Generic;High;M59021;X
 250080;Minister of Security;Darshan A. Sangha;1933;1964;LE;Back Stabber;High;IND-Darshan_Singh_Canadian;X
 250081;Head of Military Intelligence;Romesh Chandra;1933;1964;LE;Dismal Enigma;High;IND-Romesh_Chandra;X
 250082;Chief of Staff;Puchalapalli Sundarayya;1933;1964;LE;School of Mass Combat;High;IND-Puchalapalli_Sundarayya;X
-250083;Chief of Army;Charu Majumdar;1933;1964;LE;Doctrine of Autonomy;High;IND-Charu_Majumdar;X
+250083;Chief of Army;Charu Majumdar;1933;1964;LE;Generic;High;IND-Charu_Majumdar;X
 250084;Chief of Navy;Puchalapalli Sundarayya;1933;1964;LE;Indirect Approach Doctrine;High;IND-Puchalapalli_Sundarayya;X
 250085;Chief of Air Force;Charu Majumdar;1933;1964;LE;Army Aviation Doctrine;High;IND-Charu_Majumdar;X
 250086;Head of State;Victor Lord Linlithgow;1936;1964;PA;Stern Imperialist;High;M59001;X
@@ -95,26 +95,30 @@ IND;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 250093;Head of State;H.M. Elizabeth II;1952;2012;PA;Popular Figurehead;High;M1182;X
 250094;Head of State;Madhav S. Golwalkar;1947;1964;FA;Autocratic Charmer;High;8543;X
 250095;Head of State;H.H. Osman of Hyderabad;1933;1964;PA;Die-hard Reformer;Very High;M59015;X
-250096;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-250097;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-250098;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-250099;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-250100;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-250101;Head of State;Victor Lord Linlithgow;1936;1964;SC;Stern Imperialist;High;M59001;X
-250102;Head of State;Archibald Wavell;1943;1964;ML;Resigned Generalissimo;High;L1311;X
-250103;Head of State;Lord Louis Mountbatten;1947;1964;ML;Insignificant Layman;High;M59033;X
-250104;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
-250105;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
-250106;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
-250107;Head of State;H.H. Osman of Hyderabad;1933;1964;SC;Die-hard Reformer;Very High;M59015;X
-250108;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-250109;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-250110;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-250111;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-250112;Head of State;H.M. George VII Tudor;1944;1998;ML;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-250113;Head of Government;Lawrence Marquess of Zetland;1933;1962;PA;Naive Optimist;Medium;M825100;X
-250114;Head of Government;Leo Amery;1940;1964;PA;Corporate Suit;Medium;M825101;X
-250115;Head of Government;Frederick Pethick-Lawrence;1945;1962;PA;Political Protege;Medium;M825102;X
-250116;Head of Government;Lal Bahadur Shastri;1964;1980;ML;Silent Workhorse;High;M250108;X
-250117;Head of Government;Shripad Amrit Dange;1952;1964;SL;Happy Amateur;Low;M250106;X
-250118;Head of Government;Madhav S. Golwalkar;1947;1964;FA;Backroom Backstabber;High;8543;X
+250096;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+250097;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER - Albrecht von Bayern;X
+250098;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+250099;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+250100;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+250101;Head of State;H.M. Edward VIII;1963;1973;FA;Autocratic Charmer;High;ENG - Edward VIII;X
+250102;Head of State;H.M. Elizabeth II;1984;2012;PA;Popular Figurehead;High;ENG - Elizabeth II;X
+250103;Head of State;Victor Lord Linlithgow;1936;1964;SC;Stern Imperialist;High;M59001;X
+250104;Head of State;Archibald Wavell;1943;1964;ML;Resigned Generalissimo;High;L1311;X
+250105;Head of State;Lord Louis Mountbatten;1947;1964;ML;Insignificant Layman;High;M59033;X
+250106;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
+250107;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
+250108;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
+250109;Head of State;H.H. Osman of Hyderabad;1933;1964;SC;Die-hard Reformer;Very High;M59015;X
+250110;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+250111;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER - Albrecht von Bayern;X
+250112;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+250113;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+250114;Head of State;H.M. George VII Tudor;1944;1998;ML;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+250115;Head of State;H.M. Edward VIII;1963;1973;SC;Autocratic Charmer;High;ENG - Edward VIII;X
+250116;Head of State;H.M. Elizabeth II;1984;2012;ML;Popular Figurehead;High;ENG - Elizabeth II;X
+250117;Head of Government;Lawrence Marquess of Zetland;1933;1962;PA;Naive Optimist;Medium;M825100;X
+250118;Head of Government;Leo Amery;1940;1964;PA;Corporate Suit;Medium;M825101;X
+250119;Head of Government;Frederick Pethick-Lawrence;1945;1962;PA;Political Protege;Medium;M825102;X
+250120;Head of Government;Lal Bahadur Shastri;1964;1980;ML;Silent Workhorse;High;M250108;X
+250121;Head of Government;Shripad Amrit Dange;1952;1964;SL;Happy Amateur;Low;M250106;X
+250122;Head of Government;Madhav S. Golwalkar;1947;1964;FA;Backroom Backstabber;High;8543;X

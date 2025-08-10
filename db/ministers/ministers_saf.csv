@@ -1,5 +1,5 @@
-SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;;X
+SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
 425001;Head of State;G.H.H. Villiers Lord Clarendon;1931;1964;ML;Stern Imperialist;High;M70001;X
 425002;Head of Government;James Hertzog;1933;1964;SC;Old General;High;M70002;X
 425003;Foreign Minister;James Hertzog;1933;1964;SC;General Staffer;Very High;M70002;X
@@ -46,8 +46,8 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 425044;Foreign Minister;Eric H. Louw;1943;1964;PA;Biased Intellectual;Very High;M70032;X
 425045;Minister of Armament;Christiaan du Toit;1933;1964;PA;Tank Proponent;Medium;M70015;X
 425046;Minister of Armament;Nicolaas Havenga;1933;1964;SC;Laissez-Faire Capitalist;Very High;M70004;X
-425047;Minister of Armament;Eric H. Louw;1950;1964;SC;Mixed Economy;Very High;M70032;X
-425048;Minister of Armament;T.E. Dönges;1948;1964;SC;Construction Magnate;High;M70059;X
+425047;Minister of Armament;Eric H. Louw;1950;1964;SC;Generic;Very High;M70032;X
+425048;Minister of Armament;T.E. Dönges;1948;1964;SC;Generic;High;M70059;X
 425049;Minister of Armament;Jozua F. Naude;1955;1964;SC;Administrative Genius;High;M70076;X
 425050;Minister of Armament;J. G. Strijdom;1937;1964;PA;Resource Industrialist;Very High;M70041;X
 425051;Minister of Armament;S.P. Le Roux;1938;1964;ML;Administrative Genius;Low;M70043;X
@@ -64,35 +64,35 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 425062;Minister of Armament;F.C. Erasmus;1948;1964;SC;Laissez-Faire Capitalist;Medium;M70063;X
 425063;Minister of Armament;J. J. Fouche;1959;1964;SC;Resource Industrialist;High;M70100;X
 425064;Minister of Armament;Nicolaas Havenga;1933;1964;PA;Laissez-Faire Capitalist;Very High;M70004;X
-425065;Minister of Armament;T.E. Dönges;1948;1964;PA;Construction Magnate;High;M70059;X
-425066;Minister of Armament;Eric H. Louw;1950;1964;PA;Mixed Economy;Very High;M70032;X
+425065;Minister of Armament;T.E. Dönges;1948;1964;PA;Generic;High;M70059;X
+425066;Minister of Armament;Eric H. Louw;1950;1964;PA;Generic;Very High;M70032;X
 425067;Minister of Armament;Jozua F. Naude;1955;1964;PA;Administrative Genius;High;M70076;X
 425068;Minister of Armament;Oswald Pirow;1941;1964;FA;Military Entrepreneur;Very High;M70014;X
 425069;Minister of Security;Jan C. Smuts;1933;1949;ML;Man of the People;Medium;M70005;X
 425070;Minister of Security;T.E. Dönges;1938;1964;SC;Prince of Terror;Very High;M70059;X
 425071;Minister of Security;Jozua F. Naude;1958;1964;SC;Compassionate Gentleman;High;M70076;X
 425072;Minister of Security;Johannes de Klerk;1961;1964;SC;Silent Lawyer;High;M70102;X
-425073;Minister of Security;D. F. Malan;1938;1958;1958;SC;Crime Fighter;High;M70029;X
+425073;Minister of Security;D. F. Malan;1938;1958;;Generic;;High;X
 425074;Minister of Security;Hendrik F. Verwoerd;1941;1964;SC;Efficient Sociopath;High;M70055;X
 425075;Minister of Security;J. G. Strijdom;1940;1964;SC;Back Stabber;Very High;M70041;X
 425076;Minister of Security;C. F. Stallard;1938;1964;ML;Silent Lawyer;High;M70058;X
 425077;Minister of Security;T.E. Dönges;1938;1964;PA;Prince of Terror;Very High;M70059;X
 425078;Minister of Security;Jozua F. Naude;1958;1964;PA;Man of the People;High;M70076;X
 425079;Minister of Security;Johannes de Klerk;1961;1964;PA;Silent Lawyer;High;M70102;X
-425080;Minister of Security;D. F. Malan;1938;1958;1958;PA;Crime Fighter;High;M70029;X
+425080;Minister of Security;D. F. Malan;1938;1958;;Generic;;High;X
 425081;Minister of Security;Hendrik F. Verwoerd;1941;1964;PA;Efficient Sociopath;High;M70055;X
 425082;Minister of Security;J. G. Strijdom;1940;1964;PA;Back Stabber;Very High;M70041;X
 425083;Head of Military Intelligence;T.E. Dönges;1938;1964;SC;Political Specialist;Very High;M70059;X
 425084;Head of Military Intelligence;Jozua F. Naude;1958;1964;SC;Dismal Enigma;High;M70076;X
 425085;Head of Military Intelligence;Johannes de Klerk;1961;1964;SC;Technical Specialist;High;M70102;X
-425086;Head of Military Intelligence;D. F. Malan;1938;1958;1958;SC;Political Specialist;High;M70029;X
+425086;Head of Military Intelligence;D. F. Malan;1938;1958;;Generic;;High;X
 425087;Head of Military Intelligence;Hendrik F. Verwoerd;1941;1964;SC;Logistics Specialist;High;M70055;X
 425088;Head of Military Intelligence;J. G. Strijdom;1940;1964;SC;Dismal Enigma;Very High;M70041;X
 425089;Head of Military Intelligence;C. F. Stallard;1938;1964;ML;Political Specialist;High;M70058;X
 425090;Head of Military Intelligence;T.E. Dönges;1938;1964;PA;Political Specialist;Very High;M70059;X
 425091;Head of Military Intelligence;Jozua F. Naude;1958;1964;PA;Dismal Enigma;High;M70076;X
 425092;Head of Military Intelligence;Johannes de Klerk;1961;1964;PA;Technical Specialist;High;M70102;X
-425093;Head of Military Intelligence;D. F. Malan;1938;1958;1958;PA;Political Specialist;High;M70029;X
+425093;Head of Military Intelligence;D. F. Malan;1938;1958;;Generic;;High;X
 425094;Head of Military Intelligence;Hendrik F. Verwoerd;1941;1964;PA;Logistics Specialist;High;M70055;X
 425095;Head of Military Intelligence;J. G. Strijdom;1940;1964;PA;Dismal Enigma;Very High;M70041;X
 425096;Chief of Staff;Leonard Beyers;1940;1964;SC;School of Defence;Medium;M70072;X
@@ -111,14 +111,14 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 425109;Chief of Army;Hendrik Klopper;1950;1964;SC;Elastic Defence Doctrine;High;L450017;X
 425110;Chief of Army;Stephen Melville;1953;1964;SC;Decisive Battle Doctrine;High;L450050;X
 425111;Chief of Army;Nick Bierman;1958;1964;SC;Guns and Butter Doctrine;High;L450052;X
-425112;Chief of Army;Sybrand Engelbrecht;1959;1964;SC;Commando Doctrine Army;High;L450053;X
+425112;Chief of Army;Sybrand Engelbrecht;1959;1964;SC;Generic;High;L450053;X
 425113;Chief of Army;Petrus Jacobs;1963;1964;SC;Static Defence Doctrine;High;unknownminister;X
 425114;Chief of Army;Leonard Beyers;1940;1964;PA;Static Defence Doctrine;High;M70072;X
 425115;Chief of Army;Christiaan du Toit;1942;1964;PA;Armoured Spearhead Doctrine;High;M70015;X
 425116;Chief of Army;Hendrik Klopper;1950;1964;PA;Elastic Defence Doctrine;High;L450017;X
 425117;Chief of Army;Stephen Melville;1953;1964;PA;Decisive Battle Doctrine;High;L450050;X
 425118;Chief of Army;Nick Bierman;1958;1964;PA;Guns and Butter Doctrine;High;L450052;X
-425119;Chief of Army;Sybrand Engelbrecht;1959;1964;PA;Commando Doctrine Army;High;L450053;X
+425119;Chief of Army;Sybrand Engelbrecht;1959;1964;PA;Generic;High;L450053;X
 425120;Chief of Army;Petrus Jacobs;1963;1964;PA;Static Defence Doctrine;High;unknownminister;X
 425121;Chief of Navy;Pierre van Ryneveld;1933;1950;SC;Decisive Naval Battle Doctrine;Very High;M70007;X
 425122;Chief of Navy;Guy Hallifax;1940;1942;ML;Open Seas Doctrine;Very High;9822;X
@@ -138,7 +138,7 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 425136;Chief of Air Force;Jimmy T. Durrant;1947;1964;ML;Air Superiority Doctrine;High;L450057;X
 425137;Chief of Air Force;Stephen Melville;1953;1964;SC;Air Superiority Doctrine;High;L450050;X
 425138;Chief of Air Force;Barend Viljoen;1956;1964;SC;Vertical Envelopment Doctrine;High;L450058;X
-425139;Chief of Air Force;Hector Daniel;1937;1953;1953;PA;Air Superiority Doctrine;High;L450054;X
+425139;Chief of Air Force;Hector Daniel;1937;1953;;Generic;;High;X
 425140;Chief of Air Force;John Holthouse;1939;1964;PA;Army Aviation Doctrine;High;L450055;X
 425141;Chief of Air Force;Christoffel Venter;1940;1964;PA;Vertical Envelopment Doctrine;Very High;M70084;X
 425142;Chief of Air Force;Harold Willmott;1945;1964;PA;Carpet Bombing Doctrine;High;L450056;X
@@ -181,24 +181,28 @@ SAF;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 425179;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
 425180;Head of State;H.M. George VI;1933;1953;PA;Benevolent Gentleman;High;M1033;X
 425181;Head of State;H.M. Elizabeth II;1952;2012;PA;Popular Figurehead;High;M1182;X
-425182;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-425183;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-425184;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-425185;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-425186;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-425187;Head of State;Louis Weichardt;1941;1964;NS;Powerhungry Demagogue;High;SAF-Louis_Weichardt;X
-425188;Head of State;Oswald Pirow;1941;1960;FA;Barking Buffoon;Very High;M70014;X
-425189;Head of State;William H. Andrews;1933;1951;LE;Powerhungry Demagogue;Medium;SAF-Bill_Andrews;X
-425190;Head of State;Bram Fischer;1950;1964;LE;Die-hard Reformer;Medium;SAF-Bram_Fischer;X
-425191;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
-425192;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
-425193;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
-425194;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-425195;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-425196;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-425197;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-425198;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-425199;Head of Government;Louis Weichardt;1941;1964;NS;Ambitious Union Boss;High;SAF-Louis_Weichardt;X
-425200;Head of Government;Jimmy T. Durrant;1948;1964;PA;Old Airmarshal;High;L450057;X
-425201;Head of Government;Moses Kotane;1933;1964;LE;Ambitious Union Boss;Medium;SAF-Moses_Kotane;X
-425202;Head of Government;Yusuf Dadoo;1950;1964;LE;Silent Workhorse;Medium;SAF-Yusuf_Dadoo;X
+425182;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+425183;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER - Albrecht von Bayern;X
+425184;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+425185;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+425186;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+425187;Head of State;H.M. Edward VIII;1963;1973;FA;Autocratic Charmer;High;ENG - Edward VIII;X
+425188;Head of State;H.M. Elizabeth II;1984;2012;PA;Popular Figurehead;High;M1182;X
+425189;Head of State;Louis Weichardt;1941;1964;NS;Powerhungry Demagogue;High;SAF - Louis Weichardt;X
+425190;Head of State;Oswald Pirow;1941;1960;FA;Barking Buffoon;Very High;M70014;X
+425191;Head of State;William H. Andrews;1933;1951;LE;Powerhungry Demagogue;Medium;SAF - Bill Andrews;X
+425192;Head of State;Bram Fischer;1950;1964;LE;Die-hard Reformer;Medium;SAF - Bram Fischer;X
+425193;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
+425194;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
+425195;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
+425196;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+425197;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER - Albrecht von Bayern;X
+425198;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+425199;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+425200;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+425201;Head of State;H.M. Edward VIII;1963;1973;SC;Autocratic Charmer;High;ENG - Edward VIII;X
+425202;Head of State;H.M. Elizabeth II;1984;2012;ML;Popular Figurehead;High;M1182;X
+425203;Head of Government;Louis Weichardt;1941;1964;NS;Ambitious Union Boss;High;SAF - Louis Weichardt;X
+425204;Head of Government;Jimmy T. Durrant;1948;1964;PA;Old Airmarshal;High;SAF - Jimmy T Durrant;X
+425205;Head of Government;Moses Kotane;1933;1964;LE;Ambitious Union Boss;Medium;SAF - Moses Kotane;X
+425206;Head of Government;Yusuf Dadoo;1950;1964;LE;Silent Workhorse;Medium;SAF - Yusuf Dadoo;X

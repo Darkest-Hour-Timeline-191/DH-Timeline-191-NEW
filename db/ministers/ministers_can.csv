@@ -1,5 +1,5 @@
-CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;;X
+CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
 220001;Head of State;Sir John Buchan;1933;1964;ML;Benevolent Gentleman;High;M45001;X
 220002;Head of Government;Mackenzie King;1933;1964;ML;Flamboyant Tough Guy;High;M45002;X
 220003;Foreign Minister;Mackenzie King;1933;1964;ML;Great Compromiser;Undying;M45002;X
@@ -226,23 +226,27 @@ CAN;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 220234;Head of State;H.M. Edward VIII;1933;1973;FA;Autocratic Charmer;High;M1011;X
 220235;Head of State;H.M. George VI;1933;1953;PA;Benevolent Gentleman;High;M1033;X
 220236;Head of State;H.M. Elizabeth II;1952;2012;PA;Popular Figurehead;High;M1182;X
-220237;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-220238;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-220239;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-220240;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-220241;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-220242;Head of State;John Ross Taylor;1948;1948;NS;Barking Buffoon;Medium;M45014;X
-220243;Head of State;Mitchell Sharp;1952;1952;SD;Powerhungry Demagogue;Low;CAN-Mitchell_Sharp;X
-220244;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
-220245;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
-220246;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
-220247;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-220248;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-220249;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-220250;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-220251;Head of State;H.M. George VII Tudor;1944;1998;ML;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-220252;Head of Government;John Ross Taylor;1948;1948;NS;Ambitious Union Boss;Medium;M45014;X
-220253;Head of Government;Chuck Crate;1952;1964;FA;Silent Workhorse;High;M45015;X
-220254;Head of Government;John Horne Blackmore;1936;1964;PA;Naive Optimist;High;CAN-John_Blackmore;X
-220255;Head of Government;Solon Earl Low;1944;1964;PA;Flamboyant Tough Guy;High;CAN-Solon_Low;X
-220256;Head of Government;Robert N. Thompson;1950;1964;PA;Old Airmarshal;High;CAN-Robert_Thompson;X
+220237;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+220238;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER - Albrecht von Bayern;X
+220239;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+220240;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+220241;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+220242;Head of State;H.M. Edward VIII;1963;1973;FA;Autocratic Charmer;High;ENG - Edward VIII;X
+220243;Head of State;H.M. Elizabeth II;1984;2012;PA;Popular Figurehead;High;ENG - Elizabeth II;X
+220244;Head of State;John Ross Taylor;1948;1948;NS;Barking Buffoon;Medium;M45014;X
+220245;Head of State;Mitchell Sharp;1952;1952;SD;Powerhungry Demagogue;Low;CAN - Mitchell Sharp;X
+220246;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
+220247;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
+220248;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
+220249;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+220250;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER - Albrecht von Bayern;X
+220251;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+220252;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+220253;Head of State;H.M. George VII Tudor;1944;1998;ML;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+220254;Head of State;H.M. Edward VIII;1963;1973;SC;Autocratic Charmer;High;ENG - Edward VIII;X
+220255;Head of State;H.M. Elizabeth II;1984;2012;ML;Popular Figurehead;High;ENG - Elizabeth II;X
+220256;Head of Government;John Ross Taylor;1948;1948;NS;Ambitious Union Boss;Medium;M45014;X
+220257;Head of Government;Chuck Crate;1952;1964;FA;Silent Workhorse;High;M45015;X
+220258;Head of Government;John Horne Blackmore;1936;1964;PA;Naive Optimist;High;CAN - John Blackmore;X
+220259;Head of Government;Solon Earl Low;1944;1964;PA;Flamboyant Tough Guy;High;CAN - Solon Low;X
+220260;Head of Government;Robert N. Thompson;1950;1964;PA;Old Airmarshal;High;CAN - Robert Thompson;X

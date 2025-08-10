@@ -123,7 +123,7 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515121;Minister of Armament;Nikolay Nekrasov;1914;1933;SD;Theoretical Scientist;High;3080;X
 515122;Minister of Armament;Mikhail Bernatsky;1914;1943;SL;Industrial Chemist;High;3079;X
 515123;Minister of Armament;Alexander Konovalov;1914;1949;SL;Steel Magnate;High;3073;X
-515124;Minister of Armament;Sergey Prokopovich;1914;1955;SD;Reformer;High;9201;X
+515124;Minister of Armament;Sergey Prokopovich;1914;1955;SD;Generic;High;9201;X
 515125;Minister of Armament;Vladimir Sukhomlinov;1907;1917;PA;Infantry Proponent;Very High;3040;X
 515126;Minister of Armament;Alexey Polivanov;1913;1918;PA;Military Entrepreneur;High;3077;X
 515127;Minister of Armament;Dmitry Shuvaev;1914;1919;SC;Infantry Proponent;High;6376;X
@@ -139,8 +139,8 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515137;Minister of Security;Boris Stürmer;1914;1918;PA;Efficient Sociopath;High;3056;X
 515138;Minister of Security;Alexander Protopopov;1914;1919;PA;Crooked Kleptocrat;High;3083;X
 515139;Minister of Security;Georgy Lvov;1914;1926;ML;Media Magnate;High;3067;X
-515140;Minister of Security;Nikolay Avksentev;1914;1944;SD;Health and Safety;High;4974;X
-515141;Minister of Security;Alexey Nikitin;1914;1940;SD;Secret Police Chief;High;5904;X
+515140;Minister of Security;Nikolay Avksentev;1914;1944;SD;Generic;High;4974;X
+515141;Minister of Security;Alexey Nikitin;1914;1940;SD;Generic;High;5904;X
 515142;Head of Military Intelligence;Nikolay Monkevits;1906;1916;SC;Naval Intelligence Specialist;High;5920;X
 515143;Head of Military Intelligence;Oskar Paul Enckell;1911;1916;PA;Technical Specialist;High;8998;X
 515144;Head of Military Intelligence;Nikolay Rasha;1912;1933;PA;Logistics Specialist;High;6100;X
@@ -151,21 +151,21 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515149;Chief of Staff;Georgy Romanovsky;1917;1918;SC;School of Defence;High;8721;X
 515150;Chief of Staff;Vladimir Marushevsky;1917;1918;PA;School of Psychology;High;6301;X
 515151;Chief of Staff;Nikolay Yanushkevich;1914;1916;PA;School of Mass Combat;High;3049;X
-515152;Chief of Staff;Mikhail Alekseyev;1915;1918;SC;Commando Doctrine Staff;High;8732;X
+515152;Chief of Staff;Mikhail Alekseyev;1915;1918;SC;Generic;High;8732;X
 515153;Chief of Staff;Vasily Gurko;1916;1918;PA;School of Fire Support;Very High;3050;X
 515154;Chief of Staff;Vladislav Klembovsky;1917;1922;PA;School of Manoeuvre;High;6500;X
 515155;Chief of Staff;Anton Denikin;1917;1948;SC;School of Defence;High;8696;X
 515156;Chief of Staff;Alexander Lukomsky;1917;1940;PA;School of Psychology;Very High;3953;X
 515157;Chief of Staff;Nikolay Dukhonin;1917;1918;ML;School of Mass Combat;Very High;3954;X
-515158;Chief of Staff;Mikhail Diterihs;1917;1938;SC;Commando Doctrine Staff;High;8898;X
+515158;Chief of Staff;Mikhail Diterihs;1917;1938;SC;Generic;High;8898;X
 515159;Chief of Staff;Mikhail Bonch-Bruevich;1917;1957;ML;School of Fire Support;High;6501;X
 515160;Chief of Army;Nikolai III;1914;1929;PA;Guns and Butter Doctrine;High;4461;X
 515161;Chief of Army;E.I.V. Nikolai II;1914;1919;PA;Armoured Spearhead Doctrine;Very High;3045;X
 515162;Chief of Army;Mikhail Alekseyev;1914;1919;ML;Decisive Battle Doctrine;High;8732;X
 515163;Chief of Army;Alexey Brusilov;1914;1937;SL;Static Defence Doctrine;High;3041;X
 515164;Chief of Army;Lavr Kornilov;1915;1933;SC;Elastic Defence Doctrine;High;4675;X
-515165;Chief of Army;Alexander Kerensky;1916;1971;SD;Commando Doctrine Army;High;3051;X
-515166;Chief of Army;Nikolay Dukhonin;1917;1918;ML;Doctrine of Autonomy;High;3954;X
+515165;Chief of Army;Alexander Kerensky;1916;1971;SD;Generic;High;3051;X
+515166;Chief of Army;Nikolay Dukhonin;1917;1918;ML;Generic;High;3954;X
 515167;Chief of Navy;Alexander Rusin;1912;1933;PA;Power Projection Doctrine;Very High;5218;X
 515168;Chief of Navy;Mikhail Kedrov;1915;1933;PA;Indirect Approach Doctrine;High;3047;X
 515169;Chief of Navy;Alexey Kapnist;1915;1919;PA;Base Control Doctrine;High;4551;X
@@ -175,26 +175,28 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515173;Chief of Air Force;Sergey Ulyanin;1914;1922;SC;Air Superiority Doctrine;High;6505;X
 515174;Chief of Air Force;Mikhail Shishkevich;1910;1930;SC;Army Aviation Doctrine;High;6506;X
 515175;Chief of Air Force;Vyacheslav Tkachyov;1916;1945;ML;Carpet Bombing Doctrine;High;5464;X
-515176;Head of State;E.I.V. Mikhail II;1933;1964;FA;Stern Imperialist;High;RUS-Prince_Mikhail;X
+515176;Head of State;E.I.V. Mikhail II;1933;1964;FA;Stern Imperialist;High;RUS - Prince Mikhail;X
 515177;Head of State;E.I.V. Vladimir III;1938;1993;PA;Weary Stiffneck;High;9906;X
-515178;Head of State;E.I.V. Mikhail II;1933;1964;SC;Insignificant Layman;High;RUS-Prince_Mikhail;X
+515178;Head of State;E.I.V. Mikhail II;1933;1964;SC;Insignificant Layman;High;RUS - Prince Mikhail;X
 515179;Head of State;E.I.V. Vladimir III;1938;1993;ML;Weary Stiffneck;High;9906;X
-515180;Head of State;Boris Savinkov;1964;1964;NS;Ruthless Powermonger;High;RUS-Boris_Savinkov;X
+515180;Head of State;Boris Savinkov;1964;1964;NS;Ruthless Powermonger;High;RUS - Boris Savinkov;X
 515181;Head of State;Bronislav Kaminski;1964;1964;NS;Resigned Generalissimo;High;M517048;X
-515182;Head of Government;Vladimir Zenzinov;1943;1956;SD;Naive Optimist;Medium;RUS-Boris_Zenzinov;X
-515183;Head of Government;Dmitriy Meysner;1956;1964;SD;Silent Workhorse;High;RUS-Dimitry_Meysner;X
-515184;Head of Government;Aleksandr I. Konovalov;1936;1950;SL;Corporate Suit;Medium;RUS-Aleksandr_Konovalov;X
-515185;Head of Government;Ariadna Tyrkova-Williams;1941;1963;SL;Flamboyant Tough Guy;High;RUS-Ariadna_Tyrkova-Williams;X
-515186;Head of Government;Andrei Sakharov;1959;1964;SL;Naive Optimist;High;RUS-Andrei_Sakharov;X
-515187;Head of Government;Vasily Maklakov;1936;1958;ML;Political Protege;High;RUS-Vasily_Maklakov;X
-515188;Head of Government;Pitirim Sorokin;1950;1964;ML;Naive Optimist;High;RUS-Pitrim_Sorokin;X
-515189;Head of Government;Georgi P. Ignatiev;1943;1964;SC;Silent Workhorse;High;RUS-Georgi_Ignatiev;X
-515190;Head of Government;Pyotr Wrangel;1925;1952;SC;Old General;High;3956;X
-515191;Head of Government;Felix Yusopov;1933;1964;PA;Political Protege;Very High;M4112;X
-515192;Head of Government;Alexander Kolchak;1933;1964;PA;Old Admiral;High;M522011;X
-515193;Head of Government;Anastasy Vonsyatsky;1933;1964;FA;Flamboyant Tough Guy;High;9948;X
-515194;Head of Government;Viktor M. Baydalakov;1943;1964;FA;Corporate Suit;High;RUS-Viktor_Baydalakov;X
-515195;Head of Government;Pavel Bermondt-Avalov;1933;1964;FA;Old General;High;6379;X
-515196;Head of Government;Nikolai Y. Markov;1933;1946;NS;Flamboyant Tough Guy;Very High;RUS-Nikolai_Markov;X
-515197;Head of Government;Boris Savinkov;1936;1964;NS;Ambitious Union Boss;High;RUS-Boris_Savinkov;X
-515198;Head of Government;Nikolai V. Ustryalov;1944;1964;NS;Happy Amateur;High;RUS-Nikolai_Ustryalov;X
+515182;Head of State;E.I.V. Vladimir III;1963;1993;PA;Weary Stiffneck;High;RUS - Prince Vladimir Romanov;X
+515183;Head of State;E.I.V. Vladimir III;1963;1993;ML;Weary Stiffneck;High;RUS - Prince Vladimir Romanov;X
+515184;Head of Government;Vladimir Zenzinov;1943;1956;SD;Naive Optimist;Medium;RUS - Boris Zenzinov;X
+515185;Head of Government;Dmitriy Meysner;1956;1964;SD;Silent Workhorse;High;RUS - Dimitry Meysner;X
+515186;Head of Government;Aleksandr I. Konovalov;1936;1950;SL;Corporate Suit;Medium;RUS - Aleksandr Konovalov;X
+515187;Head of Government;Ariadna Tyrkova-Williams;1941;1963;SL;Flamboyant Tough Guy;High;RUS - Ariadna Tyrkova-Williams;X
+515188;Head of Government;Andrei Sakharov;1959;1964;SL;Naive Optimist;High;RUS - Andrei Sakharov;X
+515189;Head of Government;Vasily Maklakov;1936;1958;ML;Political Protege;High;RUS - Vasily Maklakov;X
+515190;Head of Government;Pitirim Sorokin;1950;1964;ML;Naive Optimist;High;RUS - Pitrim Sorokin;X
+515191;Head of Government;Georgi P. Ignatiev;1943;1964;SC;Silent Workhorse;High;RUS - Georgi Ignatiev;X
+515192;Head of Government;Pyotr Wrangel;1925;1952;SC;Old General;High;3956;X
+515193;Head of Government;Felix Yusopov;1933;1964;PA;Political Protege;Very High;M4112;X
+515194;Head of Government;Alexander Kolchak;1933;1964;PA;Old Admiral;High;M522011;X
+515195;Head of Government;Anastasy Vonsyatsky;1933;1964;FA;Flamboyant Tough Guy;High;9948;X
+515196;Head of Government;Viktor M. Baydalakov;1943;1964;FA;Corporate Suit;High;RUS - Viktor Baydalakov;X
+515197;Head of Government;Pavel Bermondt-Avalov;1933;1964;FA;Old General;High;6379;X
+515198;Head of Government;Nikolai Y. Markov;1933;1946;NS;Flamboyant Tough Guy;Very High;RUS - Nikolai Markov;X
+515199;Head of Government;Boris Savinkov;1936;1964;NS;Ambitious Union Boss;High;RUS - Boris Savinkov;X
+515200;Head of Government;Nikolai V. Ustryalov;1944;1964;NS;Happy Amateur;High;RUS - Nikolai Ustryalov;X

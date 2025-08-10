@@ -1,5 +1,5 @@
-NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;;X
+NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
 215001;Head of State;George de Vere Viscount Galway;1933;1964;SD;Stern Imperialist;High;M55001;X
 215002;Head of Government;Michael Joseph Savage;1933;1964;SD;Silent Workhorse;High;M55002;X
 215003;Foreign Minister;Michael Joseph Savage;1933;1964;SD;Great Compromiser;Very High;M55002;X
@@ -143,26 +143,32 @@ NZL;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 215142;Head of State;H.M. Elizabeth II;1952;2012;PA;Popular Figurehead;High;M1182;X
 215143;Head of State;Charles Lyttelton Viscount Cobham;1957;1978;PA;Benevolent Gentleman;Medium;M215200;X
 215144;Head of State;Bernard Fergusson Baron Ballantrae;1962;1981;PA;Die-hard Reformer;Medium;M215202;X
-215145;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-215146;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-215147;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-215148;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-215149;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-215150;Head of State;H.M. Koroki Mahuta;1933;1964;PA;Insignificant Layman;Very High;NZL-Koroki_Mahuta;X
-215151;Head of State;Ralph Love;1964;1964;LWR;Weary Stiffneck;High;NZL-Ralph_Love;X
-215153;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
-215154;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
-215155;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
-215156;Head of State;Charles Lyttelton Viscount Cobham;1957;1978;ML;Benevolent Gentleman;Medium;M215200;X
-215157;Head of State;Bernard Fergusson Baron Ballantrae;1962;1981;ML;Die-hard Reformer;Medium;M215202;X
-215158;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER-Rupprecht_von_Bayern;X
-215159;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER-Albrecht_von_Bayern;X
-215160;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA-Jacobo_Fitz-James_Stuart;X
-215161;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA-Cayetana_Fitz-James_Stuart;X
-215162;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG-George_Child-Villiers;X
-215163;Head of State;H.M. Koroki Mahuta;1933;1964;SC;Insignificant Layman;Very High;NZL-Koroki_Mahuta;X
-215164;Head of Government;Keith J. Holyoake;1957;1984;ML;Happy Amateur;Medium;M215201;X
-215165;Head of Government;Arnold H. Nordmeyer;1963;1990;SD;Political Protege;Medium;M215203;X
-215166;Head of Government;A. N. Field;1936;1964;FA;Ambitious Union Boss;High;NZL-Arthur_Nelson_Field;X
-215167;Head of Government;S. J. E. Closey;1936;1964;PA;Old General;High;NZL-S_J_E_Closey;X
-215168;Head of Government;James Henare;1941;1964;PA;Old General;High;NZL-James_Henare;X
+215145;Head of State;H.M. Robert I Wittelsbach;1936;1956;PA;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+215146;Head of State;H.M. Albert I Wittelsbach;1955;1995;PA;Insignificant Layman;High;GER - Albrecht von Bayern;X
+215147;Head of State;H.M. James III FitzJames Stuart;1936;1954;PA;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+215148;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;PA;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+215149;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+215150;Head of State;H.M. Koroki Mahuta;1933;1967;PA;Insignificant Layman;Very High;NZL- Koroki Mahuta;X
+215151;Head of State;H.M. Te Atairangikaahu;1966;2006;PA;Benevolent Gentleman;High;NZL - Te Atairangikaahu;X
+215152;Head of State;H.M. Edward VIII;1963;1973;FA;Autocratic Charmer;High;ENG - Edward VIII;X
+215153;Head of State;H.M. Elizabeth II;1984;2012;PA;Popular Figurehead;High;M1182;X
+215154;Head of State;Ralph Love;1964;1964;LWR;Weary Stiffneck;High;NZL- Ralph Love;X
+215155;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
+215156;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
+215157;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
+215158;Head of State;Charles Lyttelton Viscount Cobham;1957;1978;ML;Benevolent Gentleman;Medium;M215200;X
+215159;Head of State;Bernard Fergusson Baron Ballantrae;1962;1981;ML;Die-hard Reformer;Medium;M215202;X
+215160;Head of State;H.M. Robert I Wittelsbach;1936;1956;SC;Benevolent Gentleman;High;GER - Rupprecht von Bayern;X
+215161;Head of State;H.M. Albert I Wittelsbach;1955;1995;SC;Insignificant Layman;High;GER - Albrecht von Bayern;X
+215162;Head of State;H.M. James III FitzJames Stuart;1936;1954;SC;Popular Figurehead;High;SPA - Jacobo Fitz-James Stuart;X
+215163;Head of State;H.M. Mary III FitzJames Stuart;1953;1964;SC;Benevolent Gentleman;High;SPA - Cayetana Fitz-James Stuart;X
+215164;Head of State;H.M. George VII Tudor;1944;1998;SC;Resigned Generalissimo;High;ENG - George Child-Villiers;X
+215165;Head of State;H.M. Koroki Mahuta;1933;1967;SC;Insignificant Layman;Very High;NZL-Koroki_Mahuta;X
+215166;Head of State;H.M. Te Atairangikaahu;1966;2006;SC;Benevolent Gentleman;High;NZL - Te Atairangikaahu;X
+215167;Head of State;H.M. Edward VIII;1963;1973;SC;Autocratic Charmer;High;ENG - Edward VIII;X
+215168;Head of State;H.M. Elizabeth II;1984;2012;ML;Popular Figurehead;High;ENG - Elizabeth II;X
+215169;Head of Government;Keith J. Holyoake;1957;1984;ML;Happy Amateur;Medium;M215201;X
+215170;Head of Government;Arnold H. Nordmeyer;1963;1990;SD;Political Protege;Medium;M215203;X
+215171;Head of Government;A. N. Field;1936;1964;FA;Ambitious Union Boss;High;NZL- Arthur Nelson Field;X
+215172;Head of Government;S. J. E. Closey;1936;1964;PA;Old General;High;NZL- S J E Closey;X
+215173;Head of Government;James Henare;1941;1964;PA;Old General;High;NZL- James Henare;X

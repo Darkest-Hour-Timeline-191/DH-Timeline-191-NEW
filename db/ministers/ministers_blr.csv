@@ -75,7 +75,7 @@ BLR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 470073;Minister of Armament;Wasyl Zacharka;1914;1933;ML;Laissez-Faire Capitalist;Medium;6948;X
 470074;Minister of Armament;E. Bialewicz;1919;1933;ML;Infantry Proponent;Medium;unknown;X
 470075;Minister of Armament;Kanstantzin Barisavich Yezavitaw;1914;1947;PA;Infantry Proponent;High;9270;X
-470076;Minister of Armament;Jan Sierada;1914;1948;PA;Planned Economy Proponent;High;5964;X
+470076;Minister of Armament;Jan Sierada;1914;1948;PA;Generic;High;5964;X
 470077;Minister of Security;Alaksandar Cwikiewicz;1914;1933;ML;Prince of Terror;Medium;unknown;X
 470078;Minister of Security;Pawel Aleksiuk;1919;1933;ML;Back Stabber;Medium;unknown;X
 470079;Minister of Security;Alaksandar Cwikiewicz;1918;1933;ML;Man of the People;Medium;unknown;X
@@ -112,20 +112,21 @@ BLR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 470110;Head of State;Ivan F. Klimov;1952;1964;ST;Stern Imperialist;Medium;M470113;X
 470111;Head of State;Nikolay S. Patolichev;1953;1964;LE;Insignificant Layman;Medium;M470115;X
 470112;Head of State;Kirill T. Mazurov;1956;1964;LE;Autocratic Charmer;Medium;M470117;X
-470113;Head of State;Michal Vituška;1941;2007;NS;Resigned Generalissimo;High;BLR-Michal_Vituska;X
+470113;Head of State;Michal Vituška;1941;2007;NS;Resigned Generalissimo;High;BLR - Michal Vituska;X
 470114;Head of State;Raduslau Astrouski;1939;1977;FA;Insignificant Layman;High;BLR-Raduslau_Astrouski;X
 470115;Head of State;Mikola Abramchyk;1943;1971;PA;Powerhungry Demagogue;High;M517026;X
 470116;Head of State;S.M. Waldemar I of Prussia;1929;1946;SC;Insignificant Layman;High;9273;X
 470117;Head of State;S.M. Sigismund I of Prussia;1944;1979;SC;Ruthless Powermonger;High;9274;X
-470118;Head of Government;Yazip Losik;1933;1964;SD;Ambitious Union Boss;High;M517006;X
-470119;Head of Government;Vasil Zacharka;1933;1944;SC;Political Protege;High;M517016;X
-470120;Head of Government;Mikola Abramchyk;1943;1971;SC;Ambitious Union Boss;High;M517026;X
-470121;Head of Government;Janka Survilla;1933;1964;SC;Backroom Backstabber;High;M517012;X
-470122;Head of Government;Nikolai F. Gikalo;1936;1964;ST;Ambitious Union Boss;Medium;M517030;X
-470123;Head of Government;Aleksiy A. Volkov;1937;1943;ST;Silent Workhorse;Medium;M517002;X
-470124;Head of Government;Panteleion Ponomarenko;1938;1985;ST;Political Protege;Medium;M517036;X
-470125;Head of Government;Nikolay I. Gusarov;1947;1964;ST;Happy Amateur;Medium;M470109;X
-470126;Head of Government;Nikolay S. Patolichev;1950;1964;ST;Ambitious Union Boss;Medium;M470111;X
-470127;Head of Government;Kirill T. Mazurov;1956;1964;LE;Flamboyant Tough Guy;Medium;M470117;X
-470128;Head of Government;Michal Vituška;1941;2007;NS;Backroom Backstabber;High;BLR-Michal_Vituska;X
-470129;Head of Government;Raduslau Astrouski;1939;1977;FA;Political Protege;High;BLR-Raduslau_Astrouski;X
+470118;Head of State;S.M. Alfred II of Prussia;1978;2014;SC;Insignificant Layman;High;GER - Prince Alfred of Prussia;X
+470119;Head of Government;Yazip Losik;1933;1964;SD;Ambitious Union Boss;High;M517006;X
+470120;Head of Government;Vasil Zacharka;1933;1944;SC;Political Protege;High;M517016;X
+470121;Head of Government;Mikola Abramchyk;1943;1971;SC;Ambitious Union Boss;High;M517026;X
+470122;Head of Government;Janka Survilla;1933;1964;SC;Backroom Backstabber;High;M517012;X
+470123;Head of Government;Nikolai F. Gikalo;1936;1964;ST;Ambitious Union Boss;Medium;M517030;X
+470124;Head of Government;Aleksiy A. Volkov;1937;1943;ST;Silent Workhorse;Medium;M517002;X
+470125;Head of Government;Panteleion Ponomarenko;1938;1985;ST;Political Protege;Medium;M517036;X
+470126;Head of Government;Nikolay I. Gusarov;1947;1964;ST;Happy Amateur;Medium;M470109;X
+470127;Head of Government;Nikolay S. Patolichev;1950;1964;ST;Ambitious Union Boss;Medium;M470111;X
+470128;Head of Government;Kirill T. Mazurov;1956;1964;LE;Flamboyant Tough Guy;Medium;M470117;X
+470129;Head of Government;Michal Vituška;1941;2007;NS;Backroom Backstabber;High;BLR - Michal Vituska;X
+470130;Head of Government;Raduslau Astrouski;1939;1977;FA;Political Protege;High;BLR - Raduslau Astrouski;X

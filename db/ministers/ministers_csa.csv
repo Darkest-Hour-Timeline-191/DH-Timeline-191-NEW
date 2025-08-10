@@ -17,7 +17,7 @@ CSA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 600015;Foreign Minister;James Houston Davies;1945;1964;SC;Ideological Crusader;High;M573015;X
 600016;Foreign Minister;Chauncey Sparks;1945;1964;SC;Great Compromiser;High;M573016;X
 600017;Minister of Armament;Harry Hill McAllister;1937;1964;SC;Infantry Proponent;Medium;M573017;X
-600018;Minister of Armament;David Bibb Graves;1937;1964;SC;laissez-faire capitalist;Medium;M573018;X
+600018;Minister of Armament;David Bibb Graves;1937;1964;SC;Laissez-Faire Capitalist;Medium;M573018;X
 600019;Minister of Armament;Carl Bailey;1938;1964;SC;Strategic Air Proponent;Medium;M573019;X
 600020;Minister of Armament;Junius M. Futtrell;1939;1964;SC;Resource Industrialist;Medium;M573020;X
 600021;Minister of Armament;Colgate W. Darden Jr.;1940;1964;SC;Administrative Genius;Medium;M573021;X
@@ -52,25 +52,25 @@ CSA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 600050;Chief of Air Force;Thomas Lowry Bailey;1941;1964;SC;Vertical Envelopment Doctrine;Medium;M573050;X
 600051;Chief of Air Force;John Faulkenberry;1943;1964;SC;Air Superiority Doctrine;Medium;M573051;X
 600052;Head of State;Jake Featherston;1933;1964;NS;The Snake;Very High;CSA - Jake Featherston;X
-600053;Head of State;Willy Knight;1933;1964;FA;Stern Imperialist;High;CSA-Willy Knight;X
-600054;Head of Government;Willy Knight;1933;1964;FA;Backroom Backstabber;High;CSA-Willy Knight;X
-600055;Head of Government;Ferdinand Koenig;1933;1964;NS;Flamboyant Tough Guy;Very High;Ferdinand Koenig;X
-600056;Head of State;Ferdinand Koenig;1933;1964;NS;Ruthless Powermonger;Very High;Ferdinand Koenig;X
+600053;Head of State;Willy Knight;1933;1964;FA;Stern Imperialist;High;CSA - Willy Knight;X
+600054;Head of Government;Willy Knight;1933;1964;FA;Backroom Backstabber;High;CSA - Willy Knight;X
+600055;Head of Government;Ferdinand Koenig;1933;1964;NS;Flamboyant Tough Guy;Very High;CSA - Ferdinand Koenig;X
+600056;Head of State;Ferdinand Koenig;1933;1964;NS;Ruthless Powermonger;Very High;CSA - Ferdinand Koenig;X
 600057;Chief of Staff;Nathan B. Forrest III;1940;1964;PA;School of Manoeuvre;High;M6173;X
 600058;Head of State;Nathan B. Forrest III;1940;1964;PA;Resigned Generalissimo;High;M6173;X
-600059;Minister of Security;Ferdinand Koenig;1933;1964;NS;Efficient Sociopath;Very High;Ferdinand Koenig;X
-600060;Minister of Security;Jefferson Pinkard;1941;1964;NS;Prince of Terror;Very High;Jefferson Pinkard;X
+600059;Minister of Security;Ferdinand Koenig;1933;1964;NS;Efficient Sociopath;Very High;CSA - Ferdinand Koenig;X
+600060;Minister of Security;Jefferson Pinkard;1941;1964;NS;Prince of Terror;Very High;CSA - Jefferson Pinkard;X
 600061;Chief of Staff;Cyril Northcote;1940;1964;FA;School of Mass Combat;High;unknownminister;X
 600062;Foreign Minister;Herbert Walker;1933;1964;FA;Ideological Crusader;High;unknownminister;X
 600063;Minister of Security;Saul Goldman;1933;1964;FA;Media Magnate;Very High;unknownminister;X
-600064;Head of State;Burton Mitchel;1923;1934;SC;The Unpopular President;Very High;CSA-Burton Mitchel;X
+600064;Head of State;Burton Mitchel;1923;1934;SC;The Unpopular President;Very High;CSA - Burton Mitchel;X
 600065;Head of Government;Jonathan Jackson;1927;1964;SC;Naive Optimist;High;CSA - Jonathan Jackson;X
 600066;Foreign Minister;Richard B. Russell Jr.;1940;1964;FA;Apologetic Clerk;Very High;unknownminister;X
 600067;Head of Government;Don Partridge;1939;1964;NS;The Satisfied Puppet;High;unknownminister;X
 600068;Head of State;Don Partridge;1939;1964;NS;The Unprepared President;High;unknownminister;X
 600069;Foreign Minister;Anne Colleton;1933;1964;NS;The Cloak N Dagger Schemer;High;unknownminister;X
 600070;Head of State;Huey Long;1933;1964;SL;Die-hard Reformer;Undying;CSA - Huey Long;X
-600071;Head of Military Intelligence;Clarence Potter;1933;1964;PA;Logistics Specialist;High;Clarence Potter;X
+600071;Head of Military Intelligence;Clarence Potter;1933;1964;PA;Logistics Specialist;High;CSA - Clarence Potter;X
 600072;Head of Military Intelligence;Stanley McGillivray;1933;1964;PA;Technical Specialist;High;unknownminister;X
 600073;Head of Government;Hugo Black;1933;1964;SC;Flamboyant Tough Guy;High;M6205;X
 600074;Head of State;Samuel Longstreet;1933;1964;SC;Benevolent Gentleman;High;CSA-Samuel Longstreet;X

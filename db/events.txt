@@ -16,3 +16,10 @@ event = "db\events\Mods.txt"
 
 event = "db\events\CSA flavour.txt"
 event = "db\events\Europe flavour.txt"
+
+# Timeline 191 Events
+
+# Entente
+event = "db/events/North America/Entente/CSA Domestic.txt"
+event = "db/events/North America/Entente/CSA Capture Events.txt"
+event = "db/events/North America/Entente/CSA flavour.txt"

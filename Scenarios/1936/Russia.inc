@@ -388,7 +388,7 @@ country = {
     interventionism   = 6
   }
   headofstate            = { type = 9 id = 515176 } # E.I.V. Mikhail II
-  headofgovernment       = { type = 9 id = 515196 } # Nikolai Y. Markov
+  headofgovernment       = { type = 9 id = 515198 } # Nikolai Y. Markov
   foreignminister        = { type = 9 id = 515019 } # Konstantin Rodzaevsky
   armamentminister       = { type = 9 id = 515032 } # Mikhail Meandrov
   ministerofsecurity     = { type = 9 id = 515047 } # Boris Menshagin
@@ -2213,25 +2213,19 @@ country = {
       strength       = 100
     }
   }
-
-### Alaska garrison
-
   landunit = {
     id       = { type = 10848 id = 267 }
-    name     = "Alaska Garrison" # translate to Russian!
-    location = 549 # Etolingrad/Anchorage
+    name     = "Alaska Garrison"
+    location = 549
     division = {
       id             = { type = 10848 id = 268 }
       name           = "Alaska Garrison"
       type           = garrison
       model          = 4
       strength       = 100
-      locked       = yes
+      locked         = yes
     }
-}
-
-
-### naval units
+  }
 
   navalunit = {
     id       = { type = 10848 id = 5100 }

@@ -1,10 +1,11 @@
-USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
-240001;Head of State;Franklin D. Roosevelt;1932;1946;SL;Democrat idealistic;High;3596;X
+USA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+240001;Head of State;Franklin D. Roosevelt;1932;1946;SL;Democrat Idealistic;High;3596;X
 240002;Head of Government;John Nance Garner;1932;1942;SL;Corporate Suit;High;M6002;X
-240003;Foreign Minister;Cordell Hull;1933;1946;SL;Father of United Nations;High;7374;X
-240004;Minister of Armament;Henry Morgenthau;1933;1946;SD;orthodox economist;High;M6077;X
-240005;Minister of Security;J. Edgar Hoover;1933;1973;SL;Director of FBI;Very High;M6005;X
-240006;Head of Military Intelligence;William F. Friedman;1917;1957;SL;Cryptographer;Very High;M6006;X
+240003;Foreign Minister;Cordell Hull;1933;1946;SL;Generic;High;7374;X
+240004;Minister of Armament;Henry Morgenthau;1933;1946;SD;Generic;High;M6077;X
+240005;Minister of Security;J. Edgar Hoover;1933;1973;SL;Generic;Very High;M6005;X
+240006;Head of Military Intelligence;William F. Friedman;1917;1957;SL;Generic;Very High;M6006;X
 240007;Chief of Staff;Malin Craig;1935;1964;SL;School of Defence;High;7375;X
 240008;Chief of Army;Malin Craig;1935;1946;SL;Armoured Spearhead Doctrine;High;7375;X
 240009;Chief of Navy;Claude A. Swanson;1933;1940;SL;Decisive Naval Battle Doctrine;High;M6009;X
@@ -28,13 +29,13 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240027;Head of Government;Charles McNary;1940;1945;ML;Political Protege;High;M6037;X
 240028;Head of Government;John Bricker;1944;1964;ML;Corporate Suit;High;M6050;X
 240029;Head of Government;Strom Thurmond;1944;1964;SC;Old General;High;M6051;X
-240030;Head of Government;H.R. Mengert;1933;1964;PA;old airmarshal;High;M6052;X
+240030;Head of Government;H.R. Mengert;1933;1964;PA;Old Airmarshal;High;M6052;X
 240031;Head of Government;Gerald K. Smith;1933;1977;PA;Happy Amateur;High;M6040;X
 240032;Head of Government;Dr. Samuel Green;1944;1950;PA;Old Admiral;High;M6054;X
 240033;Head of Government;William Z. Foster;1923;1932;ST;Political Protege;High;M6055;X
 240034;Head of Government;James Cannon;1928;1975;LWR;Smiling Oilman;High;M6056;X
 240035;Head of Government;Joseph P. Lash;1940;1988;LE;Naive Optimist;High;M6024;X
-240036;Foreign Minister;Edward Stettinius;1944;1950;SL;Ambassador to UN;Very High;M6060;X
+240036;Foreign Minister;Edward Stettinius;1944;1950;SL;Generic;Very High;M6060;X
 240037;Foreign Minister;Henry L. Stimson;1928;1946;SL;Apologetic Clerk;High;M6061;X
 240038;Foreign Minister;Walker Lyerly;1944;1964;SL;The Cloak N Dagger Schemer;High;M6062;X
 240039;Foreign Minister;James Byrnes;1945;1955;SD;Great Compromiser;Very High;M6063;X
@@ -51,20 +52,20 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240050;Foreign Minister;Robert Minor;1920;1953;ST;General Staffer;High;M6075;X
 240051;Foreign Minister;Eugene Dennis;1926;1962;LE;Biased Intellectual;High;M6076;X
 240052;Minister of Armament;George H. Dern;1933;1937;SD;Military Entrepreneur;High;M6004;X
-240053;Minister of Armament;Harry L. Hopkins;1938;1947;SL;laissez-faire capitalist;High;M6078;X
-240054;Minister of Armament;Jesse H. Jones;1940;1957;SL;Construction magnate;Very High;M6079;X
+240053;Minister of Armament;Harry L. Hopkins;1938;1947;SL;Laissez-Faire Capitalist;High;M6078;X
+240054;Minister of Armament;Jesse H. Jones;1940;1957;SL;Generic;Very High;M6079;X
 240055;Minister of Armament;Leroy Grumman;1940;1967;SD;Air Superiority Proponent;Very High;M6080;X
 240056;Minister of Armament;Preston T. Tucker;1944;1951;SL;Strategic Air Proponent;Very High;M6081;X
 240058;Minister of Armament;Robert P. Patterson;1945;1953;SL;Tank Proponent;High;M6083;X
-240059;Minister of Armament;Kenneth C. Royall;1947;1972;SD;laissez-faire capitalist;High;M6084;X
+240059;Minister of Armament;Kenneth C. Royall;1947;1972;SD;Laissez-Faire Capitalist;High;M6084;X
 240060;Minister of Armament;Daniel C. Roper;1933;1944;ML;Air Superiority Proponent;Very High;M6085;X
 240061;Minister of Armament;James M. Cox;1939;1958;ML;Military Entrepreneur;Very High;M6086;X
 240062;Minister of Armament;Warren G. Hooper;1940;1946;ML;Corrupt Kleptocrat;Low;M6033;X
 240063;Minister of Armament;Harry H. Woodring;1933;1968;ML;Strategic Air Proponent;High;M6089;X
-240064;Minister of Armament;John D. Rockefeller Jr.;1944;1961;ML;Oil baron;High;M6090;X
-240065;Minister of Armament;Frederick Vinson;1945;1954;ML;Keynesian economy;Very High;M6091;X
+240064;Minister of Armament;John D. Rockefeller Jr.;1944;1961;ML;Oil Baron;High;M6090;X
+240065;Minister of Armament;Frederick Vinson;1945;1954;ML;Generic;Very High;M6091;X
 240066;Minister of Armament;Louis Johnson;1945;1951;ML;Battle Fleet Proponent;High;M6092;X
-240067;Minister of Armament;Norman H. Davis;1922;1945;ML;Balanced budget economy;Very High;M6093;X
+240067;Minister of Armament;Norman H. Davis;1922;1945;ML;Generic;Very High;M6093;X
 240068;Minister of Armament;William D. Pelley;1933;1966;FA;Air to Sea Proponent;Very High;M6094;X
 240069;Minister of Armament;Francis Townsend;1940;1961;PA;Resource Industrialist;Very High;M6095;X
 240070;Minister of Armament;Henry Ford;1928;1948;PA;Administrative Genius;Very High;M6014;X
@@ -74,7 +75,7 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240074;Minister of Armament;Upton Sinclair;1940;1969;ST;Air to Ground Proponent;High;M6100;X
 240075;Minister of Armament;Lemart Harris;1944;1964;LWR;Resource Industrialist;Very High;M6101;X
 240076;Minister of Armament;Walther Reuther;1946;1971;LWR;Resource Industrialist;Very High;M6102;X
-240077;Minister of Security;Victor Selden Clark;1940;1946;SL;Health and safety;Very High;M6104;X
+240077;Minister of Security;Victor Selden Clark;1940;1946;SL;Generic;Very High;M6104;X
 240078;Minister of Security;Henry Chalmers;1944;1964;SD;Man of the People;Very High;M6105;X
 240079;Minister of Security;Francis B. Biddle;1944;1969;SL;Prince of Terror;Very High;M6106;X
 240080;Minister of Security;Frank Murphy;1933;1950;ML;Crime Fighter;Very High;M6107;X
@@ -152,16 +153,16 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240155;Chief of Staff;Joseph Lawton Collins;1945;1988;SL;School of Manoeuvre;Very High;L60105;X
 240156;Chief of Army;Joseph Stilwell;1944;1947;SL;Decisive Battle Doctrine;Very High;L60341;X
 240157;Chief of Navy;William Halsey;1944;1960;SC;Power Projection Doctrine;Very High;L60414;X
-240158;Minister of Armament;Dean Acheson;1944;1972;SL;laissez-faire capitalist;Very High;M6198;X
-240159;Minister of Armament;Harold Ickes;1933;1953;SL;Secretary of the Interior;Very High;M6199;X
+240158;Minister of Armament;Dean Acheson;1944;1972;SL;Laissez-Faire Capitalist;Very High;M6198;X
+240159;Minister of Armament;Harold Ickes;1933;1953;SL;Generic;Very High;M6199;X
 240160;Minister of Security;Archibald MacLeish;1939;1950;LWR;Man of the People;Medium;M6200;X
 240161;Foreign Minister;Archibald MacLeish;1939;1983;LWR;Biased Intellectual;Medium;M6200;X
 240162;Minister of Security;Burton K. Wheeler;1910;1947;SC;Efficient Sociopath;Medium;3621;X
 240163;Foreign Minister;Thomas Connally;1941;1964;SL;Ideological Crusader;High;M6203;X
 240164;Minister of Security;Charles E. Hughes;1933;1949;SC;Efficient Sociopath;Medium;M6204;X
 240165;Minister of Security;Hugo Black;1937;1972;SL;Compassionate Gentleman;High;M6205;X
-240166;Minister of Armament;Robert F. Wagner;1933;1954;SL;laissez-faire capitalist;Very High;M6206;X
-240167;Minister of Armament;Henry L. Stimson;1940;1946;SL;Secretary of War;Very High;M6061;X
+240166;Minister of Armament;Robert F. Wagner;1933;1954;SL;Laissez-Faire Capitalist;Very High;M6206;X
+240167;Minister of Armament;Henry L. Stimson;1940;1946;SL;Generic;Very High;M6061;X
 240169;Head of State;Adlai Stevenson;1952;1966;SL;Benevolent Gentleman;High;M6209;X
 240170;Head of Government;Earl Warren;1948;1975;ML;Naive Optimist;High;M6210;X
 240171;Head of Government;Richard M. Nixon;1952;1961;ML;Backroom Backstabber;High;M6211;X
@@ -172,7 +173,7 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240176;Foreign Minister;Culbert Levy Olson;1952;1963;SL;Great Compromiser;High;M6216;X
 240177;Minister of Armament;John W. Snyder;1948;1954;SL;Theoretical Scientist;High;M6217;X
 240178;Minister of Armament;Joseph Bracken Lee;1948;1997;ML;Infantry Proponent;High;M6218;X
-240179;Minister of Armament;George M. Humphrey;1952;1971;ML;Balanced budget economy;High;M6219;X
+240179;Minister of Armament;George M. Humphrey;1952;1971;ML;Generic;High;M6219;X
 240180;Minister of Armament;Herbert R. O'Connor;1952;1961;SL;Submarine Proponent;High;M6220;X
 240181;Minister of Security;Julius A. Krug;1948;1971;SL;Silent Lawyer;Very High;M6221;X
 240182;Minister of Security;Oscar L. Chapman;1951;1979;SL;Man of the People;Very High;M6222;X
@@ -203,7 +204,7 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240208;Minister of Armament;Robert B. Anderson;1956;1962;ML;Resource Industrialist;High;M6248;X
 240209;Minister of Armament;Robert A. Lovett;1956;1987;SL;Military Entrepreneur;High;M6249;X
 240210;Minister of Armament;C. Douglas Dillon;1958;1976;SL;Submarine Proponent;High;M6250;X
-240211;Minister of Armament;Nelson A. Rockefeller;1950;1979;ML;laissez-faire capitalist;High;M6251;X
+240211;Minister of Armament;Nelson A. Rockefeller;1950;1979;ML;Laissez-Faire Capitalist;High;M6251;X
 240212;Head of Military Intelligence;Peter C. Reilly;1956;1964;SL;Political Specialist;Very High;M6252;X
 240213;Head of Military Intelligence;John A. McCone;1960;1966;SL;Technical Specialist;Very High;M6253;X
 240214;Head of State;Lyndon B. Johnson;1963;1974;SL;Stern Imperialist;High;M6244;X
@@ -235,12 +236,12 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240243;Chief of Army;John C. Bates;1906;1920;ML;Decisive Battle Doctrine;High;3604;X
 240244;Chief of Army;J. Franklin Bell;1906;1920;ML;Decisive Battle Doctrine;High;3605;X
 240246;Chief of Army;Leonard Wood;1912;1928;SC;Decisive Battle Doctrine;High;3606;X
-240247;Chief of Army;William W. Wotherspoon;1914;1922;ML;static defence doctrine;High;3607;X
+240247;Chief of Army;William W. Wotherspoon;1914;1922;ML;Static Defence Doctrine;High;3607;X
 240248;Chief of Army;Hugh L. Scott;1914;1920;ML;Decisive Battle Doctrine;High;3608;X
 240249;Chief of Army;Tasker H. Bliss;1917;1931;ML;Decisive Battle Doctrine;High;3609;X
 240250;Chief of Army;Peyton C. March;1918;1921;ML;Decisive Battle Doctrine;High;3610;X
 240251;Chief of Army;John J. Pershing;1921;1924;ML;Guns and Butter Doctrine;High;3611;X
-240252;Chief of Army;John L. Hines;1924;1933;ML;static defence doctrine;High;3612;X
+240252;Chief of Army;John L. Hines;1924;1933;ML;Static Defence Doctrine;High;3612;X
 240253;Chief of Army;Nelson A. Miles;1898;1926;ML;Decisive Battle Doctrine;High;3613;X
 240254;Chief of Navy;William S. Benson;1912;1932;SD;Decisive Naval Battle Doctrine;High;3614;X
 240255;Chief of Navy;William S. Benson;1912;1932;FA;Decisive Naval Battle Doctrine;High;3614;X
@@ -252,12 +253,12 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240262;Chief of Staff;John C. Bates;1906;1920;ML;School of Fire Support;High;3604;X
 240263;Chief of Staff;J. Franklin Bell;1906;1920;ML;School of Fire Support;High;3605;X
 240265;Chief of Staff;Leonard Wood;1912;1928;PA;School of Fire Support;High;3606;X
-240266;Chief of Staff;William W. Wotherspoon;1914;1922;ML;school of defence;High;3607;X
+240266;Chief of Staff;William W. Wotherspoon;1914;1922;ML;School of Defence;High;3607;X
 240267;Chief of Staff;Hugh L. Scott;1914;1920;ML;School of Fire Support;High;3608;X
 240268;Chief of Staff;Tasker H. Bliss;1917;1931;ML;School of Mass Combat;High;3609;X
 240269;Chief of Staff;Peyton C. March;1918;1921;ML;School of Fire Support;High;3610;X
 240270;Chief of Staff;John J. Pershing;1921;1924;ML;School of Mass Combat;High;3611;X
-240271;Chief of Staff;John L. Hines;1924;1933;ML;school of manoeuvre;High;3612;X
+240271;Chief of Staff;John L. Hines;1924;1933;ML;School of Manoeuvre;High;3612;X
 240272;Chief of Staff;Nelson A. Miles;1898;1926;ML;School of Fire Support;High;3613;X
 240273;Foreign Minister;Philander C. Knox;1908;1922;ML;General Staffer;High;3618;X
 240274;Foreign Minister;Augustus Bacon;1908;1915;SL;General Staffer;High;3619;X
@@ -309,7 +310,7 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240322;Head of State;Cornelius N. Bliss;1897;1912;ML;Weary Stiffneck;High;3635;X
 240323;Head of State;Alton B. Parker;1903;1914;SL;Benevolent Gentleman;High;3636;X
 240324;Head of State;William H. Taft;1908;1914;ML;Weary Stiffneck;High;3637;X
-240325;Head of State;Woodrow Wilson;1912;1925;SL;Democratic idealist;High;3638;X
+240325;Head of State;Woodrow Wilson;1912;1925;SL;Democratic Idealist;High;3638;X
 240326;Head of State;Leonard Wood;1912;1928;SC;Resigned Generalissimo;High;3606;X
 240327;Head of State;Allan L. Benson;1914;1941;SD;Die-hard Reformer;High;3639;X
 240328;Head of State;Charles Evans Hughes;1916;1926;ML;Insignificant Layman;High;3628;X
@@ -350,15 +351,15 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240366;Minister of Security;Hugh L. Scott;1912;1920;PA;Crime Fighter;High;3608;X
 240367;Minister of Security;Alexander M. Palmer;1917;1937;ML;Prince of Terror;High;3676;X
 240368;Minister of Security;William J. Burns;1921;1933;ML;Compassionate Gentleman;High;3677;X
-240369;Minister of Security;J. Edgar Hoover;1924;1973;ML;Director of FBI;High;3678;X
-240371;Minister of Security;Robert Minor;1920;1953;ST;crooked kleptocrat;High;3655;X
+240369;Minister of Security;J. Edgar Hoover;1924;1973;ML;Generic;High;3678;X
+240371;Minister of Security;Robert Minor;1920;1953;ST;Crooked Kleptocrat;High;3655;X
 240372;Minister of Security;Cornelius N. Bliss;1897;1912;ML;Silent Lawyer;High;3635;X
 240373;Foreign Minister;Francis Parker Yockey;1945;1961;FA;Biased Intellectual;High;5908;X
 240374;Head of Military Intelligence;Francis Parker Yockey;1946;1961;FA;Political Specialist;High;5908;X
-240375;Minister of Security;William Randolph Hearst;1900;1952;PA;Media magnate;Medium;5913;X
+240375;Minister of Security;William Randolph Hearst;1900;1952;PA;Media Magnate;Medium;5913;X
 240376;Foreign Minister;William D. Pelley;1933;1966;NS;Ideological Crusader;Medium;M6094;X
 240377;Minister of Security;William D. Pelley;1940;1966;NS;Crooked Kleptocrat;Medium;M6094;X
-240378;Minister of Armament;William H. Woodin;1933;1935;SL;Keynesian economy;Very High;8138;X
+240378;Minister of Armament;William H. Woodin;1933;1935;SL;Generic;Very High;8138;X
 240379;Chief of Staff;George H. Dern;1933;1937;SD;School of Defence;High;M6004;X
 240380;Head of Government;Thomas R. Marshall;1913;1921;SL;Naive Optimist;High;9323;X
 240381;Head of Government;Charles G. Dawes;1923;1930;SC;Naive Optimist;High;3053;X
@@ -382,7 +383,7 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240399;Minister of Security;Albert Goldman;1928;1961;LE;Man of the People;Medium;unknownminister;X
 240400;Foreign Minister;Martin Abern;1928;1950;LE;Ideological Crusader;Medium;unknownminister;X
 240401;Head of Military Intelligence;Joseph Vanzler;1928;1957;LE;Political Specialist;High;unknownminister;X
-240402;Minister of Armament;David Dubinsky;1928;1983;SL;Resource Industrialist;Very High;unknownminister;x
+240402;Minister of Armament;David Dubinsky;1928;1983;SL;Resource Industrialist;Very High;unknownminister;X
 240403;Foreign Minister;Jacob Panken;1928;1969;LE;Ideological Crusader;Medium;unknownminister;X
 240404;Minister of Security;Prescott Sheldon Bush;1928;1973;PA;Man of the People;Very High;3540;X
 240405;Chief of Army;Charles Pelot Summerall;1926;1932;ML;Guns and Butter Doctrine;High;1673;X
@@ -392,12 +393,12 @@ USA;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 240409;Chief of Air Force;James Fechet;1927;1932;ML;Air Superiority Doctrine;High;unknownminister;X
 240410;Chief of Staff;Larry K. Arnold;1964;1964;PA;School of Fire Support;High;unknownminister;X
 240411;Chief of Army;George S. Patton;1924;1946;PA;Armoured Spearhead Doctrine;High;L60294;X
-240413;Head of Government;Burton K. Wheeler;1910;1958;SC;political protege;High;3621;X
+240413;Head of Government;Burton K. Wheeler;1910;1958;SC;Political Protege;High;3621;X
 240414;Head of State;Alfred E. Smith;1936;1945;SD;Pig-headed Isolationist;High;M6067;X
 240415;Head of State;Upton Sinclair;1920;1932;SD;Die-hard Reformer;High;M6100;X
 240417;Chief of Staff;Irving Morrell;1945;1964;ML;Popular Military Leader;Very High;unknownminister;X
-240417;Head of Government;Charles W. La Follette;1936;1946;SD;Silent Workhorse;High;Charles La Follette;X
-240418;Head of State;Charles W. La Follette;1936;1946;SD;Die-hard Reformer;High;Charles La Follette;X
+240417;Head of Government;Charles W. La Follette;1936;1946;SD;Silent Workhorse;High;USA -  Charles La Follette;X
+240418;Head of State;Charles W. La Follette;1936;1946;SD;Die-hard Reformer;High;USA -  Charles La Follette;X
 240419;Head of Government;Jim Curley;1944;1964;SD;Ambitious Union Boss;High;unknownminister;X
 240420;Head of State;Hosea Blackford;1920;1937;SD;Weary Stiffneck;High;unknownminister;X
 240421;Chief of Army;Irving Morrell;1945;1964;ML;Armoured Spearhead Doctrine;Very High;unknownminister;X

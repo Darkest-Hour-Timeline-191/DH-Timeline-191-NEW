@@ -3,7 +3,7 @@ UKR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 545001;Head of State;Nikita Kruschev;1933;1964;ST;Stern Imperialist;High;M518001;X
 545002;Head of Government;Lazar Kaganovich;1933;1964;ST;Flamboyant Tough Guy;High;M518002;X
 545003;Foreign Minister;Vlas Chubar;1933;1964;ST;Apologetic Clerk;High;M518003;X
-545004;Minister of Armament;Mikhail Bondarenko;1933;1964;ST;Planned Economy Proponent;Medium;M518004;X
+545004;Minister of Armament;Mikhail Bondarenko;1933;1964;ST;Generic;Medium;M518004;X
 545005;Minister of Security;Khrystian G. Rakovsky;1933;1964;ST;Efficient Sociopath;Medium;M518005;X
 545006;Head of Military Intelligence;Demyan Korotchenko;1933;1964;ST;Logistics Specialist;Medium;M518006;X
 545007;Chief of Staff;Oleg Golovnev;1933;1964;ST;School of Manoeuvre;Medium;M518007;X
@@ -43,7 +43,7 @@ UKR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 545042;Minister of Security;Sergei Kubiyovich;1933;1964;SC;Prince of Terror;Medium;M518042;X
 545043;Minister of Security;His Beatitude Sheptitsky;1933;1964;SC;Compassionate Gentleman;Medium;M518043;X
 545044;Minister of Security;Curt von Gottberg;1933;1964;NS;Prince of Terror;Medium;M517034;X
-545045;Minister of Security;Karl Hermann Frank;1933;1964;NS;Secret Police Chief;Medium;M518045;X
+545045;Minister of Security;Karl Hermann Frank;1933;1964;NS;Generic;Medium;M518045;X
 545046;Head of Military Intelligence;Leonid Korniyets;1933;1964;ST;Industrial Specialist;Medium;M518046;X
 545047;Head of Military Intelligence;Yevgennij Paton;1933;1964;ST;Technical Specialist;Medium;M518047;X
 545048;Head of Military Intelligence;Olena Teliha;1933;1964;SD;Dismal Enigma;Medium;M518048;X
@@ -108,11 +108,11 @@ UKR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 545108;Minister of Armament;P. Klimovich;1914;1920;SD;Resource Industrialist;Medium;unknownminister;X
 545109;Minister of Armament;Anton Rzhepetsky;1914;1932;PA;Theoretical Scientist;Medium;8940;X
 545110;Minister of Armament;Sergiy Ostapenko;1920;1932;SD;Oil Baron;Medium;9060;X
-545111;Minister of Armament;Vasil Mazurenko;1920;1932;SD;Construction Magnate;Medium;unknownminister;X
-545112;Minister of Armament;I. Feshchenko-Chopivsky;1920;1932;SD;Balanced Budget Economy;Medium;unknownminister;X
-545113;Minister of Armament;Mikhailo Krivetsky;1920;1932;SD;Mixed Economy;Medium;unknownminister;X
-545114;Minister of Armament;Boris Martos;1920;1932;SD;Keynesian Economy;Medium;8941;X
-545115;Minister of Armament;M. Shadlun;1920;1932;SD;Reformer;Medium;unknownminister;X
+545111;Minister of Armament;Vasil Mazurenko;1920;1932;SD;Generic;Medium;unknownminister;X
+545112;Minister of Armament;I. Feshchenko-Chopivsky;1920;1932;SD;Generic;Medium;unknownminister;X
+545113;Minister of Armament;Mikhailo Krivetsky;1920;1932;SD;Generic;Medium;unknownminister;X
+545114;Minister of Armament;Boris Martos;1920;1932;SD;Generic;Medium;8941;X
+545115;Minister of Armament;M. Shadlun;1920;1932;SD;Generic;Medium;unknownminister;X
 545116;Minister of Armament;Dmitro Antonovich;1914;1932;SD;Battle Fleet Proponent;Medium;8946;X
 545117;Minister of Armament;Mikola Maksimov;1914;1932;PA;Battle Fleet Proponent;Medium;9029;X
 545118;Minister of Armament;Andriy Pokrovsky;1914;1932;PA;Submarine Proponent;Medium;8935;X
@@ -136,7 +136,7 @@ UKR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 545136;Minister of Security;Viktor Reynbot;1914;1932;PA;Efficient Sociopath;Medium;unknownminister;X
 545137;Minister of Security;Grigori Chishevsky;1914;1932;SD;Crooked Kleptocrat;Medium;9014;X
 545138;Minister of Security;Isaak Mazepa;1914;1932;SD;Media Magnate;Medium;9017;X
-545139;Minister of Security;Mikhail Belinsky;1914;1921;SD;Health and Safety;Medium;unknownminister;X
+545139;Minister of Security;Mikhail Belinsky;1914;1921;SD;Generic;Medium;unknownminister;X
 545140;Head of Military Intelligence;Vasil Tyutyunnik;1914;1919;SD;Industrial Specialist;Medium;9074;X
 545141;Head of Military Intelligence;Oleksandr Udovitsenko;1914;1932;PA;Political Specialist;Medium;9042;X
 545142;Chief of Staff;Boris Borovsky;1914;1918;SL;School of Fire Support;Medium;8943;X
@@ -144,14 +144,14 @@ UKR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 545144;Chief of Staff;Oleksandr Grekiv;1914;1932;SC;School of Defence;Medium;9044;X
 545145;Chief of Staff;Oleksandr Osetsky;1914;1932;SL;School of Psychology;Medium;9046;X
 545146;Chief of Staff;Mikola Yunakiv;1914;1932;SL;School of Mass Combat;Medium;9030;X
-545147;Chief of Staff;Volodomir Sinkler;1914;1932;SL;Commando Doctrine Staff;Medium;9083;X
+545147;Chief of Staff;Volodomir Sinkler;1914;1932;SL;Generic;Medium;9083;X
 545148;Chief of Staff;Oleksandr Grekiv;1914;1932;PA;School of Defence;Medium;9044;X
 545149;Chief of Army;Boris Borovsky;1914;1932;SL;Guns and Butter Doctrine;Medium;8943;X
 545150;Chief of Army;Oleksandr Slivinsky;1914;1932;SL;Armoured Spearhead Doctrine;Medium;9047;X
 545151;Chief of Army;Oleksandr Grekiv;1914;1932;SC;Decisive Battle Doctrine;Medium;9044;X
 545152;Chief of Army;Oleksandr Osetsky;1914;1932;SL;Static Defence Doctrine;Medium;9046;X
 545153;Chief of Army;Mikola Yunakiv;1914;1932;SL;Elastic Defence Doctrine;Medium;9030;X
-545154;Chief of Army;Volodomir Sinkler;1914;1932;SL;Commando Doctrine Army;Medium;9083;X
+545154;Chief of Army;Volodomir Sinkler;1914;1932;SL;Generic;Medium;9083;X
 545155;Chief of Army;Oleksandr Grekiv;1914;1932;PA;Decisive Battle Doctrine;Medium;9044;X
 545156;Chief of Navy;Mikola Maksimov;1914;1932;SL;Base Control Doctrine;Medium;9029;X
 545158;Chief of Navy;Mikola Protasov;1914;1932;SC;Open Seas Doctrine;Medium;unknownminister;X
@@ -167,15 +167,18 @@ UKR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 545168;Head of State;Mykhailo Hrechukha;1939;1964;ST;Ruthless Powermonger;Low;M545204;X
 545169;Head of State;Demyan Korotchenko;1954;1964;LE;Insignificant Layman;Low;M518006;X
 545170;Head of State;H.M. Pavlo Skoropadsky;1914;1950;SC;Stern Imperialist;High;9054;X
-545171;Head of State;H.M. Danylo I Skoropadsky;1944;1964;SC;Benevolent Gentleman;High;UKR-Danylo_Skoropadsky;X
-545172;Head of State;S.M. Vasily I Vyshyvaniy;1933;1964;ML;Benevolent Gentleman;High;UKR-Wilhelm_Franz_of_Austria;X
-545173;Head of State;Stepjan Bandera;1933;1964;NS;Die-hard Reformer;High;M518011;X
-545174;Head of State;Dmytro Dontsov;1933;1964;FA;Popular Figurehead;High;UKR-Dmytro_Dontsov;X
-545175;Head of State;Andriy Melnyk;1933;1964;PA;Resigned Generalissimo;High;M518013;X
-545176;Head of Government;Volodymyr Vynnychenko;1933;1952;SL;Political Protege;Medium;9079;X
-545177;Head of Government;Jaroslav Rudnyckyj;1945;1964;ML;Happy Amateur;High;UKR-Jaroslav_Rudnyckyj;X
-545178;Head of Government;Yaroslav Stetsko;1933;1964;NS;Political Protege;High;M518015;X
-545179;Head of Government;Yevhen Konovalets;1933;1964;FA;Ambitious Union Boss;High;M518021;X
-545180;Head of Government;Stjepjan Lenkawsky;1933;1964;PA;Naive Optimist;High;M518017;X
-545181;Head of Government;Mykola Boretsky;1933;1964;PA;Silent Workhorse;High;UKR-Mykola_Boretsky;X
-545182;Head of Government;Andriy Melnyk;1933;1964;SC;Old General;High;M518013;X
+545171;Head of State;H.M. Danylo I Skoropadsky;1944;1999;SC;Benevolent Gentleman;High;UKR - Danylo Skoropadsky;X
+545172;Head of State;H.M. Elena Skoropadska-Ott;1975;2015;SC;Benevolent Gentleman;High;UKR - Elena Skoropadska-Ott;X
+545173;Head of State;S.M. Vasily I Vyshyvaniy;1933;1964;ML;Benevolent Gentleman;High;UKR - Wilhelm Franz of Austria;X
+545174;Head of State;H.M. Danylo I Skoropadsky;1944;1999;PA;Benevolent Gentleman;High;UKR - Danylo Skoropadsky;X
+545175;Head of State;H.M. Elena Skoropadska-Ott;1975;2015;PA;Benevolent Gentleman;High;UKR - Elena Skoropadska-Ott;X
+545176;Head of State;Stepjan Bandera;1933;1964;NS;Die-hard Reformer;High;M518011;X
+545177;Head of State;Dmytro Dontsov;1933;1964;FA;Popular Figurehead;High;UKR - Dmytro Dontsov;X
+545178;Head of State;Andriy Melnyk;1933;1964;PA;Resigned Generalissimo;High;M518013;X
+545179;Head of Government;Volodymyr Vynnychenko;1933;1952;SL;Political Protege;Medium;9079;X
+545180;Head of Government;Jaroslav Rudnyckyj;1945;1964;ML;Happy Amateur;High;UKR - Jaroslav Rudnyckyj;X
+545181;Head of Government;Yaroslav Stetsko;1933;1964;NS;Political Protege;High;M518015;X
+545182;Head of Government;Yevhen Konovalets;1933;1964;FA;Ambitious Union Boss;High;M518021;X
+545183;Head of Government;Stjepjan Lenkawsky;1933;1964;PA;Naive Optimist;High;M518017;X
+545184;Head of Government;Mykola Boretsky;1933;1964;PA;Silent Workhorse;High;UKR - Mykola Boretsky;X
+545185;Head of Government;Andriy Melnyk;1933;1964;SC;Old General;High;M518013;X
