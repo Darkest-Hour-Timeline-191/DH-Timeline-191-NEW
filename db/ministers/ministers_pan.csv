@@ -3,18 +3,18 @@ PAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 405001;Head of State;Harmodio Arías de la Madrid;1933;1964;ML;Autocratic Charmer;High;M95001;X
 405002;Head of Government;Harmodio Arías de la Madrid;1933;1964;ML;Corporate Suit;High;M95001;X
 405003;Foreign Minister;Narciso Garay Díaz;1933;1964;SL;Ideological Crusader;Medium;M95003;X
-405004;Minister of Armament;Daniel C. Pinzon;1933;1964;ML;laissez-faire capitalist;Medium;M95004;X
+405004;Minister of Armament;Daniel C. Pinzon;1933;1964;ML;Laissez-Faire Capitalist;Medium;M95004;X
 405005;Minister of Security;Ignacio E. Mendoza;1933;1964;SL;Back Stabber;Medium;M95005;X
 405006;Head of Military Intelligence;Ezequeil Fernandez Jaen;1933;1964;ML;Dismal Enigma;Medium;M95006;X
-405007;Chief of Staff;Juan Remón;1933;1964;SL;School of Psychology;Medium;M95007;X
+405007;Chief of Staff;José Remón Cantera;1933;1964;SL;School of Psychology;Medium;M95007;X
 405008;Chief of Army;Bolivar Villarino;1933;1964;ML;Guns and Butter Doctrine;Medium;M95008;X
 405009;Chief of Navy;Juan A. Hernandez;1933;1964;SL;Decisive Naval Battle Doctrine;Medium;M95009;X
-405010;Chief of Air Force;Juan Remón;1933;1964;ML;Naval Aviation Doctrine;Medium;M95007;X
+405010;Chief of Air Force;José Remón Cantera;1933;1964;ML;Naval Aviation Doctrine;Medium;M95007;X
 405011;Head of State;Juan Demosthenes Arosemana;1933;1964;SC;Resigned Generalissimo;High;M95031;X
 405012;Head of State;Arnulfo Arías de la Madrid;1940;1964;ML;Popular Figurehead;High;M95032;X
 405013;Head of State;Riccardo de la Guardia;1941;1964;PA;Powerhungry Demagogue;High;M95013;X
 405014;Head of State;Arnulfo Arías de la Madrid;1945;1964;SL;Autocratic Charmer;High;M95034;X
-405015;Head of State;Enrique Jimenez Brín;1946;1964;PA;Stern Imperialist;High;M95035;X
+405015;Head of State;Enrique Jimenez Brín;1946;1964;SL;Stern Imperialist;High;M95035;X
 405016;Head of Government;Carlos Zavala;1933;1964;SC;Old Admiral;High;M95036;X
 405017;Head of Government;Arnulfo Arías de la Madrid;1940;1964;ML;Corporate Suit;High;M95032;X
 405018;Head of Government;Augusto Samuel Boyd;1941;1964;PA;Ambitious Union Boss;High;M95038;X
@@ -37,7 +37,7 @@ PAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 405035;Minister of Armament;Ignacio E. Mendoza;1946;1964;SC;Infantry Proponent;Medium;M95005;X
 405036;Minister of Security;Raoul Arias Amador;1933;1964;SC;Man of the People;Medium;M95015;X
 405037;Minister of Security;Carlos Mendoza;1940;1964;SL;Crime Fighter;Medium;M95059;X
-405038;Minister of Security;Juan Remon;1941;1964;SC;Man of the People;Medium;M95007;X
+405038;Minister of Security;José Remón Cantera;1941;1964;SC;Man of the People;Medium;M95007;X
 405039;Minister of Security;Nicolas Ardito Barletta;1945;1964;SL;Compassionate Gentleman;Medium;M95061;X
 405040;Minister of Security;José Avila;1946;1964;SC;Crime Fighter;Medium;M95062;X
 405041;Head of Military Intelligence;Ernesto Fabréga López;1933;1964;SC;Dismal Enigma;Medium;M95063;X
@@ -49,7 +49,7 @@ PAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 405047;Chief of Staff;Juan José Parada;1940;1964;SL;School of Manoeuvre;Medium;M95020;X
 405048;Chief of Staff;Pacificio Marciaga;1941;1964;PA;School of Psychology;Medium;M95017;X
 405049;Chief of Staff;José Gomez Ayan;1945;1964;SL;School of Fire Support;Medium;M95071;X
-405050;Chief of Army;Juan Remón;1933;1964;SC;Guns and Butter Doctrine;Medium;M95007;X
+405050;Chief of Army;José Remón Cantera;1933;1964;SC;Guns and Butter Doctrine;Medium;M95007;X
 405051;Chief of Army;Enrico Fabrego Páz;1940;1964;ML;Static Defence Doctrine;Medium;M95018;X
 405052;Chief of Army;Omar Torrijos;1946;1964;PA;Armoured Spearhead Doctrine;Medium;M95077;X
 405053;Chief of Navy;Arturo Osborne Irragá;1941;1964;PA;Open Seas Doctrine;Medium;M95019;X
@@ -76,11 +76,11 @@ PAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 405074;Head of Government;Domingo Diaz Arosemena;1948;1964;SC;Silent Workhorse;High;M95091;X
 405075;Minister of Security;Henrique de Obarrio;1948;1964;SC;Back Stabber;Medium;M95093;X
 405076;Head of State;Daniel C. Pinzon;1949;1964;ML;Benevolent Gentleman;High;M95004;X
-405077;Head of Government;Alciabides Arosemena;1949;1964;ML;Corporate Suit;High;M95095;X
+405077;Head of Government;Alciabides Arosemena;1949;1964;SC;Corporate Suit;High;M95095;X
 405078;Head of State;Alciabides Arosemena;1951;1964;SC;Insignificant Layman;High;M95095;X
-405079;Head of Government;Juan Remón;1951;1964;SC;Old General;High;M95007;X
+405079;Head of Government;José Remón Cantera;1951;1964;SC;Old General;High;M95007;X
 405080;Foreign Minister;Pietro del Oramio;1951;1964;SC;Biased Intellectual;High;M95098;X
-405081;Head of State;Juan Remón;1952;1964;SC;Resigned Generalissimo;High;M95007;X
+405081;Head of State;José Remón Cantera;1952;1964;SC;Resigned Generalissimo;High;M95007;X
 405082;Minister of Security;Ernesto de la Guardia;1952;1964;SC;Compassionate Gentleman;Medium;M95100;X
 405083;Chief of Staff;Henrique de Obarrio;1952;1964;SC;School of Mass Combat;Medium;M95093;X
 405084;Foreign Minister;Narciso Garay;1916;1933;SL;Great Compromiser;Medium;unknown;X
@@ -122,3 +122,38 @@ PAN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 405120;Minister of Security;Jose Gonzales;1914;1933;LE;Man of the People;Medium;unknown;X
 405121;Minister of Security;Juan B. Sosa;1916;1933;SL;Silent Lawyer;Medium;unknown;X
 405122;Minister of Security;Prospero Pinel;1918;1933;ML;Silent Lawyer;Medium;unknown;X
+405123;Head of State;Roberto Chiari Remón;1949;1982;SL;Benevolent Gentleman;Medium;PAN - Roberto Chiari Remón;X
+405124;Head of State;Ricardo Arias Espinosa;1955;1994;SC;Resigned Generalissimo;Medium;PAN - Ricardo Arias Espinosa;X
+405125;Head of State;Ernesto de la Guardia;1956;1984;SC;Benevolent Gentleman;Medium;M95100;X
+405126;Head of State;Marco Aurelio Robles;1964;1991;SL;Weary Stiffneck;Medium;PAN - Marco Aurelio Robles;X
+405127;Head of State;Arnulfo Arías de la Madrid;1963;1989;ML;Popular Figurehead;High;M95032;X
+405128;Head of State;Omar Torrijos Herrera;1968;1982;PA;Weary Stiffneck;Medium;PAN - Omar Torrijos;X
+405129;Head of State;Florencio Flores Aguilar;1981;1990;PA;Die-hard Reformer;Medium;PAN - Florencio Flores Aguilar;X
+405130;Head of State;Ruben Dario Paredes;1982;2020;PA;Popular Figurehead;Medium;PAN - Ruben Dario Paredes;X
+405131;Head of State;Manuel Noriega Moreno;1983;2018;PA;Autocratic Charmer;Medium;PAN - Manuel Noriega;X
+405132;Head of State;Guillermo Endara Galimany;1989;2010;SC;Barking Buffoon;Medium;PAN - Guillermo Endara;X
+405133;Head of State;Ernesto Pérez Balladares;1993;2020;SL;Weary Stiffneck;Medium;PAN - Ernesto Pérez Balladares;X
+405134;Head of State;Mireya Moscoso Rodríguez;1994;2020;SC;Autocratic Charmer;Medium;PAN - Mireya Moscoso;X
+405135;Head of State;Victor Florencio Goytia;1956;1964;SD;Die-hard Reformer;Medium;PAN - Victor Florencio Goytia;X
+405136;Head of State;Carlos Duque Jaén;1988;2015;SD;Ruthless Powermonger;Medium;PAN - Carlos Duque Jaén;X
+405137;Head of State;Martín Torrijos Espino;1998;2020;SL;Autocratic Charmer;Medium;PAN - Martin Torrijos Espino;X
+405138;Head of State;Carlos Chang Marín;1963;2013;LE;Popular Figurehead;Medium;PAN - Carlos Chang Marin;X
+405139;Head of State;Rómulo Escobar Bethancourt;1963;1996;LWR;Stern Imperialist;Medium;PAN - Rómulo Escobar Bethancourt;X
+405140;Head of Government;Riccardo de la Guardia;1941;1964;PA;Silent Workhorse;High;M95013;X
+405141;Head of Government;Enrique Jiménez Brín;1946;1964;SL;Flamboyant Tough Guy;High;M95035;X
+405142;Head of Government;Roberto Chiari Remón;1949;1982;SL;Corporate Suit;Medium;PAN - Roberto Chiari Remón;X
+405143;Head of Government;Ricardo Arias Espinosa;1955;1994;SC;Silent Workhorse;Medium;PAN - Ricardo Arias Espinosa;X
+405144;Head of Government;Ernesto de la Guardia;1956;1984;SC;Political Protege;Medium;M95100;X
+405145;Head of Government;Arnulfo Arías de la Madrid;1963;1989;ML;Corporate Suit;High;M95032;X
+405146;Head of Government;Marco Aurelio Robles;1964;1991;SL;Silent Workhorse;Medium;PAN - Marco Aurelio Robles;X
+405147;Head of Government;Omar Torrijos Herrera;1968;1982;PA;Old General;Medium;PAN - Omar Torrijos;X
+405148;Head of Government;Florencio Flores Aguilar;1981;1990;PA;Political Protege;Medium;PAN - Florencio Flores Aguilar;X
+405149;Head of Government;Ruben Dario Paredes;1982;2020;PA;Happy Amateur;Medium;PAN - Ruben Dario Paredes;X
+405150;Head of Government;Manuel Noriega Moreno;1983;2018;PA;Old General;Medium;PAN - Manuel Noriega;X
+405151;Head of Government;Guillermo Endara Galimany;1989;2010;SC;Backroom Backstabber;Medium;PAN - Guillermo Endara;X
+405152;Head of Government;Mireya Moscoso Rodríguez;1994;2020;SC;Happy Amateur;Medium;PAN - Mireya Moscoso;X
+405153;Head of Government;Victor Florencio Goytia;1956;1964;SD;Ambitious Union Boss;Medium;PAN - Victor Florencio Goytia;X
+405154;Head of Government;Carlos Duque Jaén;1988;2015;SD;Corporate Suit;Medium;PAN - Carlos Duque Jaén;X
+405155;Head of Government;Martín Torrijos Espino;1998;2020;SL;Backroom Backstabber;Medium;PAN - Martin Torrijos Espino;X
+405156;Head of Government;Carlos Chang Marín;1963;2013;LE;Happy Amateur;Medium;PAN - Carlos Chang Marin;X
+405157;Head of Government;Rómulo Escobar Bethancourt;1963;1996;LWR;Flamboyant Tough Guy;Medium;PAN - Rómulo Escobar Bethancourt;X

@@ -48,23 +48,23 @@ country = {
   policy = {
     date              = { year = 0 month = january day = 0 }
     democratic        = 8
-    political_left    = 8
+    political_left    = 4
     freedom           = 6
     free_market       = 6
     professional_army = 2
     defense_lobby     = 4
     interventionism   = 3
   }
-  headofstate            = { type = 9 id = 36001 }
-  headofgovernment       = { type = 9 id = 36002 }
-  foreignminister        = { type = 9 id = 36003 }
-  armamentminister       = { type = 9 id = 36004 }
-  ministerofsecurity     = { type = 9 id = 36005 }
-  ministerofintelligence = { type = 9 id = 36006 }
-  chiefofstaff           = { type = 9 id = 36007 }
-  chiefofarmy            = { type = 9 id = 36008 }
-  chiefofnavy            = { type = 9 id = 36009 }
-  chiefofair             = { type = 9 id = 36010 }
+  headofstate            = { type = 9 id = 170301 } # H.I.M. María I de Habsburgo-Itúrbide
+  headofgovernment       = { type = 9 id = 170021 } # Manuel M. Marquez
+  foreignminister        = { type = 9 id = 170030 } # Alesso Melecio
+  armamentminister       = { type = 9 id = 170043 } # Francisco R. Serrano
+  ministerofsecurity     = { type = 9 id = 170056 } # Enrique C. del Rio
+  ministerofintelligence = { type = 9 id = 170066 } # Juan Andreu Alamaza
+  chiefofstaff           = { type = 9 id = 170074 } # Hector Meixueiro
+  chiefofarmy            = { type = 9 id = 170081 } # Gilberto Limon Marquez
+  chiefofnavy            = { type = 9 id = 170088 } # Enrique Panizio Vargas
+  chiefofair             = { type = 9 id = 170092 } # Enrique Panizio Vargas
 
   landunit = {
     id       = { type = 29500 id = 1 }
@@ -121,31 +121,31 @@ country = {
     }
   }
 
-	airunit = { 
-		id       = { type = 29500 id = 11 }
-		name     = "Fuerza Aérea Mexicana"
-		location = 754
-		base     = 754
-	division = {
-		id             = { type = 29500 id = 12 }
-		name           = "1a Grupo Aéreo de Caza"
-		type           = interceptor
-		model          = 4
-		strength       = 50
-	}
+  navalunit = {
+    id       = { type = 29500 id = 13 }
+    name     = "Armada de México"
+    location = 751
+    base     = 751
+    division = {
+      id             = { type = 29500 id = 14 }
+      name           = "1a Flotilla de Destructores"
+      type           = destroyer
+      model          = 1
+      strength       = 95
+    }
   }
 
-	navalunit = {
-		id       = { type = 29500 id = 13 }
-		name     = "Armada de México"
-		location = 751 # Acapulco de Juárez
-		base     = 751
-	division = {
-		id             = { type = 29500 id = 14 }
-		name           = "1a Flotilla de Destructores"
-		type           = destroyer
-		model          = 1
-		strength       = 95
+  airunit = { 
+    id       = { type = 29500 id = 11 }
+    name     = "Fuerza Aérea Mexicana"
+    location = 754
+    base     = 754
+    division = {
+      id             = { type = 29500 id = 12 }
+      name           = "1a Grupo Aéreo de Caza"
+      type           = interceptor
+      model          = 4
+      strength       = 50
     }
   }
 }

@@ -10,10 +10,10 @@ CRO;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 275008;Chief of Army;Vilko Begic;1933;1964;NS;Armoured Spearhead Doctrine;High;M30004;X
 275009;Chief of Navy;Djuro Jakcin;1933;1964;NS;Base Control Doctrine;Medium;M30009;X
 275010;Chief of Air Force;Vladimir Kren;1933;1964;NS;Air Superiority Doctrine;Medium;M30010;X
-275011;Head of State;Tomislav II;1938;1964;NS;Powerhungry Demagogue;High;M30001;X
+275011;Head of State;Ante Pavelic;1933;1964;NS;Powerhungry Demagogue;High;M30002;X
 275012;Head of State;Alojzije Stepinac;1945;1964;PA;Weary Stiffneck;High;M30022;X
 275013;Head of State;Vladko Macek;1938;1964;SC;Insignificant Layman;High;M30011;X
-275014;Head of Government;Ante Pavelic;1938;1964;NS;Ambitious Union Boss;High;M30002;X
+275014;Head of Government;Ante Pavelic;1933;1964;NS;Ambitious Union Boss;High;M30002;X
 275015;Head of Government;Vladimir Laxa;1945;1964;PA;Old General;High;M30017;X
 275016;Head of Government;Ivan Subasic;1938;1964;SD;Backroom Backstabber;High;M30012;X
 275017;Foreign Minister;Mladen Lorkovic;1944;1964;NS;General Staffer;High;M30005;X
@@ -33,7 +33,7 @@ CRO;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 275031;Chief of Staff;Vladimir Laxa;1941;1964;NS;School of Defence;Medium;M30017;X
 275032;Chief of Staff;Fedor Dragojlov;1943;1964;NS;School of Mass Combat;High;M30048;X
 275033;Chief of Staff;Ante Pavelic;1944;1964;NS;School of Psychology;Very High;M30002;X
-275034;Chief of Army;Slavko Kvaternik;1941;1964;NS;Guns and Butter Doctrine;Medium;M30007;X
+275034;Chief of Army;Slavko Kvaternik;1941;1964;NS;Guns and Butter Doctrine;High;M30007;X
 275035;Chief of Army;Slavko Stancer;1942;1964;NS;Static Defence Doctrine;Medium;M30054;X
 275036;Chief of Army;Friedrich Navratil;1943;1964;NS;Decisive Battle Doctrine;High;M30020;X
 275037;Chief of Army;Vladimir Laxa;1944;1964;NS;Elastic Defence Doctrine;Medium;M30017;X

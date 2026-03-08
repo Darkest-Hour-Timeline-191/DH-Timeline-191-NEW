@@ -11,7 +11,7 @@ TUR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 45009;Chief of Navy;Mehmet Ali Üngen;1933;1964;PA;Base Control Doctrine;Medium;M12009;X
 45010;Chief of Air Force;Ali Örlungat;1933;1964;PA;Army Aviation Doctrine;Medium;M12010;X
 45011;Head of State;Mustafa Ismet Inönü;1938;1964;SC;Pig-headed Isolationist;High;3380;X
-45012;Head of Government;Mahmud Celal Bayar;1938;1964;SC;Silent Workhorse;High;3382;X
+45012;Head of Government;Mahmut Celal Bayar;1938;1964;SC;Silent Workhorse;High;3382;X
 45013;Head of Government;Refik Saydam;1939;1964;ML;Smiling Oilman;High;3383;X
 45014;Head of Government;Sükrü Saracoglu;1942;1964;ML;Flamboyant Tough Guy;High;M12034;X
 45015;Foreign Minister;Sükrü Saracoglu;1938;1964;SC;Biased Intellectual;High;M12034;X
@@ -23,20 +23,20 @@ TUR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 45021;Foreign Minister;Ali Fehti Okyar;1937;1964;ML;Biased Intellectual;Medium;M12013;X
 45022;Foreign Minister;Abdülhalik Renda;1943;1964;ML;Apologetic Clerk;Medium;M12043;X
 45023;Minister of Armament;Nurullah Esat Sümer;1943;1964;ML;Corrupt Kleptocrat;Medium;M12045;X
-45024;Minister of Armament;Adnan Menderes;1946;1964;ML;Theoretical Scientist;Medium;M12046;X
+45024;Minister of Armament;Adnan Menderes;1946;1964;SC;Theoretical Scientist;Medium;M12046;X
 45025;Minister of Armament;Mustafa Ismet Inönü;1933;1964;SC;Administrative Genius;Medium;3380;X
 45026;Minister of Armament;Fuad Calistar;1933;1964;SC;Infantry Proponent;Medium;M12048;X
 45027;Minister of Armament;Kazim Özalp;1933;1964;SC;Military Entrepreneur;Medium;M12049;X
 45028;Minister of Armament;Tevfik Rüsta Aras;1939;1964;ML;Theoretical Scientist;Medium;M12050;X
 45029;Minister of Armament;Mehmet Günaltay;1940;1964;SC;Tank Proponent;Medium;M12051;X
-45030;Minister of Armament;Münir Bürsen;1946;1964;ML;laissez-faire capitalist;Medium;M12052;X
+45030;Minister of Armament;Münir Bürsen;1946;1964;ML;Laissez-Faire Capitalist;Medium;M12052;X
 45031;Minister of Armament;Mustafa Renda;1938;1964;ML;Military Entrepreneur;Medium;M12054;X
 45032;Minister of Security;Hüsnü Cakir;1943;1964;ML;Crooked Kleptocrat;Medium;M12056;X
 45033;Minister of Security;Hilmi Uran;1944;1964;ML;Crime Fighter;Medium;M12057;X
 45034;Minister of Security;Memduh Tagmac;1946;1964;ML;Prince of Terror;Medium;M12059;X
 45035;Minister of Security;Adnan Menderes;1947;1964;ML;Back Stabber;Medium;M12046;X
 45036;Minister of Security;Abdul Naci Tinaz;1938;1964;ML;Silent Lawyer;Medium;M12061;X
-45037;Minister of Security;Mahmud Celal Bayar;1933;1964;SC;Back Stabber;Medium;3382;X
+45037;Minister of Security;Mahmut Celal Bayar;1933;1964;SC;Back Stabber;Medium;3382;X
 45038;Minister of Security;Abbas Cevat;1939;1964;SD;Crooked Kleptocrat;Medium;M12025;X
 45039;Minister of Security;Saffet Arikan;1940;1964;SC;Crime Fighter;Medium;M12058;X
 45040;Minister of Security;Ali Riza Türel;1940;1964;ML;Efficient Sociopath;Medium;M12065;X
@@ -61,7 +61,7 @@ TUR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 45059;Head of Government;Zeki Velidi Togan;1933;1964;FA;Old General;High;M12012;X
 45060;Foreign Minister;Ali Fethi Okyar;1933;1964;PA;Ideological Crusader;Medium;M12013;X
 45061;Minister of Armament;Sadi Özbek;1933;1964;FA;Air to Sea Proponent;Medium;M12014;X
-45062;Head of Military Intelligence;Ali Fehti Okyar;1933;1964;SC;Dismal Enigma;Medium;M12013;X
+45062;Head of Military Intelligence;Ali Fehti Okyar;1933;1964;PA;Dismal Enigma;Medium;M12013;X
 45063;Chief of Staff;Mustafa Ismet Inönü;1933;1964;PA;School of Defence;Medium;M12002;X
 45064;Chief of Army;Alparslan Türkes;1933;1964;FA;Guns and Butter Doctrine;Medium;M12018;X
 45065;Chief of Navy;Rauf Orbay;1933;1964;FA;Base Control Doctrine;Medium;M12019;X
@@ -74,16 +74,46 @@ TUR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 45072;Chief of Army;Pertev Naili Boratav;1933;1964;LWR;Elastic Defence Doctrine;Very Low;M12022;X
 45073;Chief of Navy;Ismael Erim;1933;1964;LE;Decisive Naval Battle Doctrine;Medium;M12029;X
 45074;Chief of Air Force;Refik Saydam;1933;1964;LE;Air Superiority Doctrine;Medium;3383;X
-45075;Head of State;Mahmud Celal Bayar;1950;1964;ML;Barking Buffoon;High;3382;X
+45075;Head of State;Mahmut Celal Bayar;1950;1964;ML;Barking Buffoon;High;3382;X
 45076;Head of Government;Mehmet Recep Peker;1946;1964;SC;Political Protege;High;M12067;X
 45077;Head of Government;Hassan Saka;1947;1964;SC;Happy Amateur;High;M12038;X
-45078;Head of Government;Mehmet Günaltay;1949;1964;SC;Silent Workhorse;High;M12051;X
-45079;Head of Government;Adnan Menderes;1950;1964;ML;Ambitious Union Boss;High;M12046;X
+45078;Head of Government;Mehmet Günaltay;1949;1964;ML;Silent Workhorse;High;M12051;X
+45079;Head of Government;Adnan Menderes;1950;1964;SC;Ambitious Union Boss;High;M12046;X
 45080;Foreign Minister;Mehmet Fuat Köprülü;1950;1964;ML;Iron Fisted Brute;Medium;M12090;X
 45081;Minister of Armament;Faik Ahmet Barutcu;1947;1964;SC;Battle Fleet Proponent;Medium;M12091;X
 45082;Minister of Armament;Ismael Erim;1949;1964;SC;Resource Industrialist;Medium;M12029;X
 45083;Minister of Armament;Samet Agaoglu;1950;1964;ML;Theoretical Scientist;Medium;M12093;X
 45084;Minister of Armament;Fatim Rüstü Zorlu;1952;1964;ML;Administrative Genius;Medium;M12094;X
 45085;Minister of Security;Refik Koraltan;1950;1964;ML;Silent Lawyer;Medium;M12095;X
-45086;Head of Government;Alparslan Tuerkes;1941;1964;NS;Ambitious Union Boss;medium;M12018;x
-45087;Minister of Security;Alparslan Tuerkes;1939;1964;NS;Prince of Terror;medium;M12018;x
+45086;Head of Government;Alparslan Türkes;1941;1964;FA;Ambitious Union Boss;Medium;M12018;X
+45087;Minister of Security;Alparslan Türkes;1939;1964;FA;Prince of Terror;Medium;M12018;X
+45088;Head of State;Cemal Gürsel;1960;1967;ML;Popular Figurehead;High;TUR - Cemal Gürsel;X
+45089;Head of State;Cevdet Sunay;1966;1983;SC;Die-hard Reformer;High;TUR - Cevdet Sunay;X
+45090;Head of State;Fahri Korutürk;1973;1988;SC;Stern Imperialist;Medium;TUR - Fahri Korutürk;X
+45091;Head of State;Kenan Evren;1980;2016;PA;Ruthless Powermonger;Medium;TUR - Kenan Evren;X
+45092;Head of State;Turgut Özal;1989;1994;SC;Die-hard Reformer;High;TUR - Turgut Ozal;X
+45093;Head of State;Süleyman Demirel;1993;2016;ML;Benevolent Gentleman;High;TUR - Süleyman Demirel;X
+45094;Head of State;Alparslan Türkes;1964;1998;FA;Stern Imperialist;High;TUR - Alparslan Türkes;X
+45095;Head of State;Devlet Bahceli;1997;2020;FA;Barking Buffoon;High;TUR - Devlet Bahceli;X
+45096;Head of State;Asim Gündüz;1936;1971;NS;Resigned Generalissimo;High;TUR - Asim Gündüz;X
+45097;Head of State;Ismet Rasin Tümtürk;1970;2002;NS;Die-hard Reformer;High;TUR - Ismet Rasin Tümtürk;X
+45098;Head of Government;Cemal Gürsel;1960;1967;ML;Old General;High;TUR - Cemal Gürsel;X
+45099;Head of Government;Suat Hayri Ürgüplü;1965;1982;SC;Happy Amateur;High;TUR - Suat Hayri Urgüplü;X
+45100;Head of Government;Süleyman Demirel;1965;2016;ML;Political Protege;High;TUR - Süleyman Demirel;X
+45101;Head of Government;Nihat Erim;1971;1999;SL;Flamboyant Tough Guy;High;TUR - Nihat Erim;X
+45102;Head of Government;Ferit Melen;1972;1989;SL;Happy Amateur;High;TUR - Ferit Melen;X
+45103;Head of Government;Naim Talu;1973;1999;SC;Political Protege;High;TUR - Naim Talu;X
+45104;Head of Government;Bülent Ecevit;1974;2007;SD;Flamboyant Tough Guy;Medium;TUR - Bülent Ecevit;X
+45105;Head of Government;Bülend Ulusu;1980;2016;PA;Political Protege;High;TUR - Bülend Ulusu;X
+45106;Head of Government;Turgut Özal;1983;1989;PA;Corporate Suit;High;TUR - Turgut Ozal;X
+45107;Head of Government;Yildirim Akbulut;1989;2020;SC;Naive Optimist;High;TUR - Yildirim Akbulut;X
+45108;Head of Government;Tansu Çiller;1993;2020;SL;Happy Amateur;High;TUR - Tansu Ciller;X
+45109;Head of Government;Necmettin Erbakan;1983;2012;PA;Naive Optimist;High;TUR - Necmettin Erbakan;X
+45110;Head of Government;Osman Bölükbasi;1958;2003;PA;Ambitious Union Boss;High;TUR - Osman Bölükbasi;X
+45111;Head of Government;Suat Hayri Ürgüplü;1965;1982;PA;Happy Amateur;High;TUR - Suat Hayri Urgüplü;X
+45112;Head of Government;Nazim Al-Haqqani;1973;2015;PA;Silent Workhorse;High;OTT - Nazim Al-Haqqani;X
+45113;Head of Government;Kadir Misiroglu;1980;2020;PA;Flamboyant Tough Guy;High;OTT - Kadir Misiroglu;X
+45114;Head of Government;Necip Fazil Kisakürek;1933;1984;FA;Political Protege;High;OTT - Necip Fazil Kisakürek;X
+45115;Head of Government;Reha Oguz Türkkan;1975;2011;FA;Flamboyant Tough Guy;High;TUR - Reha Oguz Türkkan;X
+45116;Head of Government;Asim Gündüz;1933;1971;NS;Old General;High;TUR - Asim Gündüz;X
+45117;Head of Government;Ismet Rasin Tümtürk;1970;2002;NS;Backroom Backstabber;High;TUR - Ismet Rasin Tümtürk;X

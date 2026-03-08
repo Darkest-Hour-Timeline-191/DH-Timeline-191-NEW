@@ -192,7 +192,7 @@ country = {
     relation = { tag = IRE value = 25 }
     relation = { tag = IRQ value = 100 }
     relation = { tag = ITA value = -50 }
-    relation = { tag = JAP value =  35 }
+    relation = { tag = JAP value = 35 }
     relation = { tag = LAT value = 65 }
     relation = { tag = LIT value = 65 }
     relation = {
@@ -229,11 +229,10 @@ country = {
       value      = 50
       guaranteed = { year = 1935 month = january day = 7 }
     }
-    relation = { tag = U09 value = -50 } # Austria-Hungary
+    relation = { tag = U09 value = -50 }
     relation = { tag = USA value = -50 }
     relation = { tag = YEM value = 150 }
   }
-
   SpyInfo                = { country = "ENG" NumberOfSpies = 3 }
   SpyInfo                = { country = "GER" NumberOfSpies = 4 }
   SpyInfo                = { country = "RUS" NumberOfSpies = 2 }
@@ -277,16 +276,16 @@ country = {
     defense_lobby     = 7
     interventionism   = 7
   }
-  headofstate            = { type = 9 id = 5001 } # S.M. Jean III de Orléans
-  headofgovernment       = { type = 9 id = 5002 } # Charles Maurras
-  foreignminister        = { type = 9 id = 5003 } # Maurice Pujo
-  armamentminister       = { type = 9 id = 5004 } # Louis Renault
-  ministerofsecurity     = { type = 9 id = 5005 } # Raphael Alibert
-  ministerofintelligence = { type = 9 id = 5006 } # René Bousquet
-  chiefofstaff           = { type = 9 id = 5007 } # Phillipe Pétain
-  chiefofarmy            = { type = 9 id = 5008 } # Eugène Bridoux
+  headofstate            = { type = 9 id = 5001 } # Albert Lebrun
+  headofgovernment       = { type = 9 id = 5002 } # Albert Sarraut
+  foreignminister        = { type = 9 id = 5003 } # Pierre Etienne Flandin
+  armamentminister       = { type = 9 id = 5004 } # Vincent Auriol
+  ministerofsecurity     = { type = 9 id = 5005 } # Marx Dormoy
+  ministerofintelligence = { type = 9 id = 5006 } # Joseph Paganon
+  chiefofstaff           = { type = 9 id = 5007 } # Maurice Gamelin
+  chiefofarmy            = { type = 9 id = 5008 } # Maurice Gamelin
   chiefofnavy            = { type = 9 id = 5009 } # François Darlan
-  chiefofair             = { type = 9 id = 5010 } # Joseph Vuillemin
+  chiefofair             = { type = 9 id = 5010 } # Victor Denain
 
   landunit = {
     id       = { type = 13500 id = 1 }
@@ -1177,7 +1176,6 @@ country = {
     name     = "1ère Flotte"
     location = 38
     base     = 38
-
     division = {
       id             = { type = 13500 id = 120 }
       name           = "1ère Flottille de Contre-Torpilleurs"
@@ -1302,7 +1300,6 @@ country = {
     name     = "3ème Flotte"
     location = 38
     base     = 38
-	
     division = {
       id             = { type = 13500 id = 143 }
       name           = "NMF Hugues Quiéret"

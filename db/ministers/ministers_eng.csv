@@ -21,7 +21,7 @@ ENG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 10019;Head of Government;Clement Attlee;1935;1964;SD;Silent Workhorse;High;3818;X
 10020;Head of Government;Oswald Mosley;1931;1964;FA;Flamboyant Tough Guy;High;M1012;X
 10021;Head of Government;Harry Pollitt;1933;1964;LWR;Ambitious Union Boss;High;M1022;X
-10022;Foreign Minister;Lord Halifax;1938;1964;SC;Generic;Very High;3819;X
+10022;Foreign Minister;Lord Halifax;1938;1964;SC;Great Compromiser;Very High;3819;X
 10023;Foreign Minister;John Selwyn Lloyd;1944;1964;SC;Biased Intellectual;High;M1046;X
 10024;Foreign Minister;Ernest Bevin;1935;1964;SD;The Cloak N Dagger Schemer;High;3820;X
 10025;Foreign Minister;Herbert Morrison;1940;1964;SD;Biased Intellectual;High;3821;X
@@ -44,7 +44,7 @@ ENG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 10042;Minister of Armament;Hugh Dalton;1931;1964;SD;Resource Industrialist;Medium;M1065;X
 10043;Minister of Armament;Clement Attlee;1941;1964;SD;Generic;Medium;3818;X
 10044;Minister of Armament;Stafford Cripps;1942;1964;SD;Air to Ground Proponent;Medium;M1024;X
-10045;Minister of Armament;Oswald Mosley;1933;1964;FA;Generic;Undying;M1012;X
+10045;Minister of Armament;Oswald Mosley;1933;1964;FA;Genius Organizer;Undying;M1012;X
 10046;Minister of Armament;Alliott Vernon-Roe;1938;1964;FA;Air to Ground Proponent;High;M1069;X
 10047;Minister of Armament;Neil Francis-Hawkins;1929;1964;FA;Submarine Proponent;High;M1070;X
 10048;Minister of Armament;Alexander Raven-Thomson;1941;1964;FA;Strategic Air Proponent;High;M1071;X

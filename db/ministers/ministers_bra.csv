@@ -39,14 +39,14 @@ BRA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 160037;Foreign Minister;Plinio Salgado;1942;1964;FA;Apologetic Clerk;Medium;M34041;X
 160038;Foreign Minister;Newton Cavalcanti;1944;1964;FA;General Staffer;Medium;M34047;X
 160039;Minister of Armament;Januario Coelho Neto;1937;1964;LWR;Tank Proponent;High;M34093;X
-160040;Minister of Armament;José de Macedo Soares;1939;1964;LWR;laissez-faire capitalist;Medium;M34003;X
+160040;Minister of Armament;José de Macedo Soares;1939;1964;LWR;Laissez-Faire Capitalist;Medium;M34003;X
 160041;Minister of Armament;Getulio Vargas;1941;1964;LWR;Administrative Genius;High;M34001;X
 160042;Minister of Armament;Agustin Juarez Folhã;1943;1964;LWR;Corrupt Kleptocrat;Medium;M34096;X
 160043;Minister of Armament;Henry Berger;1941;1964;ST;Air Superiority Proponent;Very Low;M34053;X
 160044;Minister of Armament;Luis Carlos Prestes;1945;1964;SD;Strategic Air Proponent;Very Low;M34051;X
 160045;Minister of Armament;Americo de Almeida;1937;1964;ML;Resource Industrialist;Medium;M34024;X
 160046;Minister of Armament;Gastão da Cunha Bahiana;1939;1964;ML;Theoretical Scientist;Medium;M34103;X
-160047;Minister of Armament;José Linhares Filho;1940;1964;ML;laissez-faire capitalist;High;M34104;X
+160047;Minister of Armament;José Linhares Filho;1940;1964;ML;Laissez-Faire Capitalist;High;M34104;X
 160048;Minister of Armament;Eduardo Gomes;1943;1964;ML;Air to Ground Proponent;Medium;M34021;X
 160049;Minister of Armament;Elyseu F. de Montarroyos;1945;1964;ML;Air Superiority Proponent;High;M34106;X
 160050;Minister of Armament;Washington Luis Pereira;1943;1964;SC;Administrative Genius;Low;M34066;X
@@ -55,7 +55,7 @@ BRA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 160053;Minister of Armament;Gustavo Barroso;1946;1964;SC;Submarine Proponent;Medium;M34044;X
 160054;Minister of Armament;Gustavo Barroso;1937;1964;FA;Military Entrepreneur;Medium;M34044;X
 160055;Minister of Armament;Waldemar Costa Neto;1941;1964;FA;Infantry Proponent;High;M34112;X
-160056;Minister of Armament;Carlos Ferreira de Camargo;1943;1964;FA;laissez-faire capitalist;High;M34113;X
+160056;Minister of Armament;Carlos Ferreira de Camargo;1943;1964;FA;Laissez-Faire Capitalist;High;M34113;X
 160057;Minister of Security;Pedro Leão Veloso;1937;1964;LWR;Compassionate Gentleman;Medium;M34077;X
 160058;Minister of Security;Manuel A. Venâncio;1940;1964;LWR;Man of the People;Low;M34035;X
 160059;Minister of Security;Mario Pimentel Brandão;1943;1964;LWR;Crooked Kleptocrat;High;M34080;X
@@ -128,7 +128,7 @@ BRA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 160126;Head of Government;Café Filho;1951;1964;SC;Silent Workhorse;High;M34004;X
 160127;Head of Government;Afranio de Mello Franco;1951;1964;SD;Naive Optimist;High;M34083;X
 160128;Foreign Minister;Manuel A. Venâncio;1951;1964;SD;Biased Intellectual;Medium;M34035;X
-160129;Minister of Armament;Vicente Raõ;1951;1964;SC;laissez-faire capitalist;Medium;M34200;X
+160129;Minister of Armament;Vicente Raõ;1951;1964;SC;Laissez-Faire Capitalist;Medium;M34200;X
 160130;Minister of Armament;S. Rauliono de Oliviera;1951;1964;SD;Resource Industrialist;Medium;M34201;X
 160131;Minister of Security;José de Macedo Soares;1951;1964;SC;Compassionate Gentleman;Medium;M34202;X
 160132;Minister of Security;Horacio Lafér;1951;1964;SD;Crime Fighter;Medium;M34203;X
@@ -158,7 +158,7 @@ BRA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 160156;Foreign Minister;Augusto Cochrane de Alencar;1919;1927;SC;Apologetic Clerk;Medium;unknown;X
 160157;Foreign Minister;José Manuel de Azevedo Marques;1919;1932;SC;The Cloak N Dagger Schemer;Medium;unknown;X
 160158;Foreign Minister;José Félix Alves Pacheco;1922;1932;SC;Iron Fisted Brute;Medium;2244;X
-160159;Minister of Armament;David Morethson Campista;1906;1911;SC;laissez-faire capitalist;Medium;2227;X
+160159;Minister of Armament;David Morethson Campista;1906;1911;SC;Laissez-Faire Capitalist;Medium;2227;X
 160160;Minister of Armament;José Leopoldo de Bulhões Jardim;1909;1928;SC;Corrupt Kleptocrat;Medium;3713;X
 160161;Minister of Armament;Francisco Antônio de Sales;1910;1932;SC;Air to Sea Proponent;Medium;2235;X
 160162;Minister of Armament;Rivadávia da Cunha Correia;1913;1920;SC;Air to Ground Proponent;Medium;6230;X
@@ -195,10 +195,10 @@ BRA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 160193;Chief of Army;Luís Mendes de Morais;1908;1914;SC;Guns and Butter Doctrine;Medium;2210;X
 160194;Chief of Army;Carlos Eugênio de Andrade Guimarães;1909;1920;SC;Static Defence Doctrine;Medium;188;X
 160195;Chief of Army;José Bernardino Bormann;1909;1919;SC;Decisive Battle Doctrine;Medium;196;X
-160196;Chief of Army;Emídio Dantas Barreto;1910;1932;SC;elastic defence doctrine;Medium;189;X
+160196;Chief of Army;Emídio Dantas Barreto;1910;1932;SC;Elastic Defence Doctrine;Medium;189;X
 160197;Chief of Army;Antônio Adolfo da Fontoura Mena Barreto;1911;1923;SC;Static Defence Doctrine;Medium;185;X
 160198;Chief of Army;Vespasiano Gonçalves de Albuquerque e Silva;1912;1924;SC;Guns and Butter Doctrine;Medium;2214;X
-160199;Chief of Army;José Caetano de Faria;1914;1920;SC;elastic defence doctrine;Medium;2208;X
+160199;Chief of Army;José Caetano de Faria;1914;1920;SC;Elastic Defence Doctrine;Medium;2208;X
 160200;Chief of Army;Alberto Cardoso de Aguiar;1918;1932;SC;Decisive Battle Doctrine;Medium;183;X
 160201;Chief of Army;João Pandiá Calógeras;1919;1932;SC;Static Defence Doctrine;Medium;2240;X
 160202;Chief of Army;Fernando Setembrino de Carvalho;1922;1932;SC;Armoured Spearhead Doctrine;Medium;191;X
@@ -228,5 +228,67 @@ BRA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 160226;Minister of Security;José Veríssimo Dias de Matos;1902;1916;LWR;Man of the People;Medium;2069;X
 160227;Minister of Security;Manuel Bomfim;1902;1932;LWR;Compassionate Gentleman;Medium;2084;X
 160228;Minister of Security;Cruz Júnior;1918;1932;LWR;Efficient Sociopath;Medium;unknown;X
-160229;Head of State;Pedro IV;1908;1964;PA;Die-hard Reformer;High;BRA - Pedro IV;X
-160230;Head of Government;Afonso Celso Junior;1914;1939;PA;Silent Workhorse;Medium;BRA - Afonso Celso Junior;X
+160229;Head of State;H.I.M. Pedro IV;1908;1964;PA;Die-hard Reformer;High;BRA - Pedro IV;X
+160230;Head of State;H.I.M. Pedro V;1940;2008;PA;Benevolent Gentleman;High;BRA - Pedro V;X
+160231;Head of State;Nereu de Oliveira Ramos;1954;1964;SC;Barking Buffoon;Medium;BRA - Nereu Ramos;X
+160232;Head of State;Juscelino Kubitschek de Oliveira;1956;1977;SD;Insignificant Layman;Medium;BRA - Juscelino Kubitschek;X
+160233;Head of State;Jânio da Silva Quadros;1961;1993;SC;Weary Stiffneck;Medium;BRA - Janio Quadros;X
+160234;Head of State;João Goulart;1961;1977;SD;Die-hard Reformer;Low;BRA - Joao Goulart;X
+160235;Head of State;Humberto de Alencar Castelo Branco;1964;1968;PA;Weary Stiffneck;Medium;BRA - Castelo Branco;X
+160236;Head of State;Artur da Costa e Silva;1967;1970;PA;Barking Buffoon;Medium;BRA - Costa e Silva;X
+160237;Head of State;Emílio Garrastazu Médici;1969;1986;PA;Weary Stiffneck;Medium;BRA - Emilio Medici;X
+160238;Head of State;Ernesto Beckmann Geisel;1974;1997;PA;Barking Buffoon;Medium;BRA - Ernesto Geisel;X
+160239;Head of State;João de Oliveira Figueiredo;1980;2000;PA;Autocratic Charmer;Medium;BRA - Joao Figueiredo;X
+160240;Head of State;José Sarney;1985;2020;SC;Die-hard Reformer;Medium;BRA - José Sarney;X
+160241;Head of State;Fernando Collor de Mello;1990;2020;SC;Barking Buffoon;Medium;BRA - Fernando Collor;X
+160242;Head of State;Itamar Cautiero Franco;1992;2020;ML;Weary Stiffneck;Medium;BRA - Itamar Franco;X
+160243;Head of State;Fernando Henrique Cardoso;1995;2020;SL;Die-hard Reformer;Medium;BRA - Fernando Henrique Cardoso;X
+160244;Head of State;Juarez Fernandes Távora;1956;1964;SC;Die-hard Reformer;Medium;BRA - Juarez Távora;X
+160245;Head of State;Henrique Teixeira Lott;1961;1985;SD;Powerhungry Demagogue;Medium;BRA - Henrique Teixeira Lott;X
+160246;Head of State;Elias Ximenes do Prado;1964;2020;SC;Weary Stiffneck;Medium;BRA - Elias Prado;X
+160247;Head of State;Leonel Brizola;1964;2005;SL;Autocratic Charmer;Medium;BRA - Leonel Brizola;X
+160248;Head of State;Francisco Julião;1964;1990;SD;Ruthless Powermonger;Medium;BRA - Francisco Juliao;X
+160249;Head of State;Luiz Inácio Lula da Silva;1990;2020;SD;Ruthless Powermonger;Low;BRA - Lula da Silva;X
+160250;Head of State;Luis Carlos Prestes;1963;1991;ST;Die-hard Reformer;High;M34051;X
+160251;Head of State;Giocondo Dias;1980;1988;LE;Benevolent Gentleman;Medium;BRA - Giocondo Dias;X
+160252;Head of State;Salomão Malina;1987;2003;LE;Resigned Generalissimo;Medium;BRA - Salomao Malina;X
+160253;Head of State;Roberto Freire;1988;2020;LWR;Autocratic Charmer;Medium;BRA - Roberto Freire;X
+160254;Head of State;Augusto Rademaker;1969;1986;FA;Resigned Generalissimo;Medium;BRA - Augusto Rademaker;X
+160255;Head of State;Raimundo Padilha;1971;1989;FA;Weary Stiffneck;Medium;BRA - Raimundo Padilha;X
+160256;Head of State;Márcio de Sousa Melo;1972;1991;FA;Insignificant Layman;Medium;BRA - Márcio de Sousa Melo;X
+160257;Head of State;Miguel Reale;1963;2007;FA;Die-hard Reformer;Medium;BRA - Miguel Reale;X
+160258;Head of State;H.I.M. Pedro IV;1908;1964;SC;Die-hard Reformer;High;BRA - Pedro IV;X
+160259;Head of State;H.I.M. Pedro V;1984;2008;PA;Benevolent Gentleman;High;BRA - Pedro V_B;X
+160260;Head of State;H.I.M. Pedro V;1940;2008;SC;Benevolent Gentleman;High;BRA - Pedro V;X
+160261;Head of State;H.I.M. Pedro V;1984;2008;SC;Benevolent Gentleman;High;BRA - Pedro V_B;X
+160262;Head of Government;Afonso Celso Junior;1914;1939;PA;Silent Workhorse;Medium;BRA - Afonso Celso Junior;X
+160263;Head of Government;Gaspar Dutra;1945;1964;SC;Old General;High;M34011;X
+160264;Head of Government;Nereu de Oliveira Ramos;1954;1964;SC;Happy Amateur;Medium;BRA - Nereu Ramos;X
+160265;Head of Government;Juscelino Kubitschek de Oliveira;1956;1977;SD;Silent Workhorse;Medium;BRA - Juscelino Kubitschek;X
+160266;Head of Government;Jânio da Silva Quadros;1961;1993;SC;Political Protege;Medium;BRA - Janio Quadros;X
+160267;Head of Government;João Goulart;1961;1977;SD;Ambitious Union Boss;Low;BRA - Joao Goulart;X
+160268;Head of Government;Humberto de Alencar Castelo Branco;1964;1968;PA;Political Protege;Medium;BRA - Castelo Branco;X
+160269;Head of Government;Artur da Costa e Silva;1967;1970;PA;Old General;Medium;BRA - Costa e Silva;X
+160270;Head of Government;Emílio Garrastazu Médici;1969;1986;PA;Smiling Oilman;Medium;BRA - Emilio Medici;X
+160271;Head of Government;Ernesto Beckmann Geisel;1974;1997;PA;Backroom Backstabber;Medium;BRA - Ernesto Geisel;X
+160272;Head of Government;João de Oliveira Figueiredo;1980;2000;PA;Naive Optimist;Medium;BRA - Joao Figueiredo;X
+160273;Head of Government;José Sarney;1985;2020;SC;Political Protege;Medium;BRA - José Sarney;X
+160274;Head of Government;Fernando Collor de Mello;1990;2020;SC;Backroom Backstabber;Medium;BRA - Fernando Collor;X
+160275;Head of Government;Itamar Cautiero Franco;1992;2020;ML;Happy Amateur;Medium;BRA - Itamar Franco;X
+160276;Head of Government;Fernando Henrique Cardoso;1995;2020;SL;Naive Optimist;Medium;BRA - Fernando Henrique Cardoso;X
+160277;Head of Government;Juarez Fernandes Távora;1956;1964;SC;Old General;Medium;BRA - Juarez Távora;X
+160278;Head of Government;Henrique Teixeira Lott;1961;1985;SD;Ambitious Union Boss;Medium;BRA - Henrique Teixeira Lott;X
+160279;Head of Government;Elias Ximenes do Prado;1964;2020;SC;Silent Workhorse;Medium;BRA - Elias Prado;X
+160280;Head of Government;Leonel Brizola;1964;2005;SL;Flamboyant Tough Guy;Medium;BRA - Leonel Brizola;X
+160281;Head of Government;Francisco Julião;1964;1990;SD;Political Protege;Medium;BRA - Francisco Juliao;X
+160282;Head of Government;Luiz Inácio Lula da Silva;1990;2020;SD;Ambitious Union Boss;Low;BRA - Lula da Silva;X
+160283;Head of Government;Luis Carlos Prestes;1963;1991;ST;Smiling Oilman;High;M34051;X
+160284;Head of Government;Giocondo Dias;1980;1988;LE;Happy Amateur;Medium;BRA - Giocondo Dias;X
+160285;Head of Government;Salomão Malina;1987;2003;LE;Old General;Medium;BRA - Salomao Malina;X
+160286;Head of Government;Roberto Freire;1988;2020;LWR;Backroom Backstabber;Medium;BRA - Roberto Freire;X
+160287;Head of Government;Arlindo Veiga dos Santos;1939;1979;PA;Silent Workhorse;High;BRA - Arlindo Veiga dos Santos;X
+160288;Head of Government;Plinio Corrêa de Oliveira;1939;1996;PA;Flamboyant Tough Guy;High;BRA - Plino Correa de Oliveira;X
+160289;Head of Government;Augusto Rademaker;1969;1986;FA;Old Admiral;Medium;BRA - Augusto Rademaker;X
+160290;Head of Government;Raimundo Padilha;1971;1989;FA;Ambitious Union Boss;Medium;BRA - Raimundo Padilha;X
+160291;Head of Government;Márcio de Sousa Melo;1972;1991;FA;Old Airmarshal;Medium;BRA - Márcio de Sousa Melo;X
+160292;Head of Government;Miguel Reale;1963;2007;FA;Silent Workhorse;Medium;BRA - Miguel Reale;X

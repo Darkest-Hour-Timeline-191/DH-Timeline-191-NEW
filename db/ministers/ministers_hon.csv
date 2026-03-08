@@ -3,7 +3,7 @@ HON;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 355001;Head of State;Tiburcio Carias Andina;1933;1964;PA;Popular Figurehead;High;M79001;X
 355002;Head of Government;Carlos Alberto Ucles;1933;1964;PA;Silent Workhorse;High;M79002;X
 355003;Foreign Minister;Tiburcio Carias Andina;1933;1964;PA;Iron Fisted Brute;Very High;M79001;X
-355004;Minister of Armament;Roberto Michelleti Bain;1933;1964;SC;laissez-faire capitalist;Medium;M79004;X
+355004;Minister of Armament;Roberto Michelleti Bain;1933;1964;SC;Laissez-Faire Capitalist;Medium;M79004;X
 355005;Minister of Security;Carlos Alberto Ucles;1933;1964;PA;Silent Lawyer;Medium;M79002;X
 355006;Head of Military Intelligence;Raimundo Stochler Garcia;1933;1964;PA;Logistics Specialist;Medium;M79006;X
 355007;Chief of Staff;Tiburcio Carias Andina;1933;1964;PA;School of Psychology;Very High;M79001;X
@@ -16,7 +16,7 @@ HON;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 355014;Head of State;Raul Sanchez Banados;1937;1964;LWR;Autocratic Charmer;High;M79021;X
 355015;Head of State;Orlando Rodriguez Jimino;1945;1964;SD;Die-hard Reformer;High;M79036;X
 355016;Head of Government;Carlos Alberto Ucles;1937;1964;SC;Silent Workhorse;High;M79002;X
-355017;Head of Government;Tiburcio Carias Andina;1941;1964;SC;Old General;High;M79001;X
+355017;Head of Government;Tiburcio Carias Andina;1933;1964;PA;Old General;High;M79001;X
 355018;Head of Government;Abraham Williams Calderon;1943;1964;SC;Political Protege;High;M79039;X
 355019;Head of Government;Juan Manuel Galvez;1945;1964;SC;Old General;High;M79017;X
 355020;Head of Government;Juan B. Valladares;1937;1964;SL;Smiling Oilman;High;M79011;X
@@ -44,11 +44,11 @@ HON;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 355042;Minister of Armament;Roberto Michelleti Bain;1937;1964;SL;Resource Industrialist;Medium;M79004;X
 355043;Minister of Armament;Oswaldo López Arellano;1939;1964;SL;Battle Fleet Proponent;Medium;M79064;X
 355044;Minister of Armament;Juan B. Valladares;1941;1964;SL;Tank Proponent;Low;M79011;X
-355045;Minister of Armament;dr. Ramon Villeda Morales;1945;1964;SL;laissez-faire capitalist;Medium;M79066;X
+355045;Minister of Armament;Ramon Villeda Morales;1945;1964;SL;Laissez-Faire Capitalist;Medium;M79066;X
 355046;Minister of Armament;Augustin Espinoza Reyes;1937;1964;LWR;Administrative Genius;Medium;M79024;X
 355047;Minister of Armament;Misael Becker Villarroel;1941;1964;SD;Military Entrepreneur;Medium;M79068;X
 355048;Minister of Armament;Carlos Molina Dejonje;1945;1964;SD;Submarine Proponent;Medium;M79069;X
-355049;Minister of Armament;Jaime Herda Garcia;1946;1964;SD;laissez-faire capitalist;Medium;M79070;X
+355049;Minister of Armament;Jaime Herda Garcia;1946;1964;SD;Laissez-Faire Capitalist;Medium;M79070;X
 355050;Minister of Security;Miguel A. Navarro;1937;1964;SC;Crooked Kleptocrat;Medium;M79056;X
 355051;Minister of Security;Rafael Alvarado Guerrero;1938;1964;SC;Back Stabber;Medium;M79058;X
 355052;Minister of Security;Abraham Williams Calderon;1941;1964;SC;Prince of Terror;Medium;M79039;X
@@ -92,3 +92,36 @@ HON;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 355090;Head of State;Francisco Bertrand;1913;1933;ML;Ruthless Powermonger;Medium;unknown;X
 355091;Head of State;Rafael López Gutiérrez;1919;1933;SL;Ruthless Powermonger;Medium;unknown;X
 355092;Head of State;Tiburcio Carías Andino;1924;1933;ML;Barking Buffoon;Medium;unknown;X
+355093;Head of State;Juan Manuel Galvez;1948;1972;SC;Weary Stiffneck;High;M79017;X
+355094;Head of State;Julio Lozano Díaz;1954;1958;PA;Ruthless Powermonger;Medium;M79042;X
+355095;Head of State;Ramon Villeda Morales;1954;1972;SD;Ruthless Powermonger;Medium;M79066;X
+355096;Head of State;Oswaldo López Arellano;1963;2011;SC;Autocratic Charmer;Medium;M79064;X
+355097;Head of State;Ramón Cruz Uclés;1971;1986;SC;Barking Buffoon;Medium;HON - Ramón Cruz Uclés;X
+355098;Head of State;Oswaldo López Arellano;1973;2011;PA;Autocratic Charmer;Medium;M79064;X
+355099;Head of State;Juan Melgar Castro;1975;1988;PA;Pig-headed Isolationist;Medium;HON - Juan Melgar Castro;X
+355100;Head of State;Policarpo Paz García;1978;2001;PA;Weary Stiffneck;Medium;HON - Policarpo Paz Garcia;X
+355101;Head of State;Roberto Suazo Córdova;1981;2019;SL;Barking Buffoon;Medium;HON - Roberto Suazo Córdova;X
+355102;Head of State;José Azcona del Hoyo;1986;2006;SL;Powerhungry Demagogue;Medium;HON - José Azcona del Hoyo;X
+355103;Head of State;Rafael Callejas Romero;1986;2004;SC;Popular Figurehead;Medium;HON - Rafael Callejas Romero;X
+355104;Head of State;Carlos Reina Idiáquez;1992;2004;SL;Die-hard Reformer;Medium;HON - Carlos Reina Idiáquez;X
+355105;Head of State;Carlos Flores Facussé;1990;2020;SL;Barking Buffoon;Medium;HON - Carlos Flores Facussé;X
+355106;Head of State;Oswaldo Ramos Soto;1992;2020;SC;Benevolent Gentleman;Medium;HON - Oswaldo Ramos Soto;X
+355107;Head of State;Nora Gúnera de Melgar;1997;2020;SC;Insignificant Layman;Medium;HON - Nora Gúnera de Melgar;X
+355108;Head of State;Ramos Dionisio Bejarano;1954;2009;LE;Autocratic Charmer;Medium;HON - Ramos Dionisio Bejarano;X
+355109;Head of State;Ramon Villeda Morales;1954;1972;LWR;Ruthless Powermonger;Medium;M79066;X
+355110;Head of Government;Julio Lozano Díaz;1954;1958;PA;Silent Workhorse;Medium;M79042;X
+355111;Head of Government;Ramon Villeda Morales;1954;1972;SD;Ambitious Union Boss;Medium;M79066;X
+355112;Head of Government;Oswaldo López Arellano;1963;2011;SC;Old General;Medium;M79064;X
+355113;Head of Government;Ramón Cruz Uclés;1971;1986;SC;Naive Optimist;Medium;HON - Ramón Cruz Uclés;X
+355114;Head of Government;Oswaldo López Arellano;1973;2011;PA;Old General;Medium;M79064;X
+355115;Head of Government;Juan Melgar Castro;1975;1988;PA;Flamboyant Tough Guy;Medium;HON - Juan Melgar Castro;X
+355116;Head of Government;Policarpo Paz García;1978;2001;PA;Backroom Backstabber;Medium;HON - Policarpo Paz Garcia;X
+355117;Head of Government;Roberto Suazo Córdova;1981;2019;SL;Happy Amateur;Medium;HON - Roberto Suazo Córdova;X
+355118;Head of Government;José Azcona del Hoyo;1986;2006;SL;Corporate Suit;Medium;HON - José Azcona del Hoyo;X
+355119;Head of Government;Rafael Callejas Romero;1986;2004;SC;Naive Optimist;Medium;HON - Rafael Callejas Romero;X
+355120;Head of Government;Carlos Reina Idiáquez;1992;2004;SL;Naive Optimist;Medium;HON - Carlos Reina Idiáquez;X
+355121;Head of Government;Carlos Flores Facussé;1990;2020;SL;Corporate Suit;Medium;HON - Carlos Flores Facussé;X
+355122;Head of Government;Oswaldo Ramos Soto;1992;2020;SC;Silent Workhorse;Medium;HON - Oswaldo Ramos Soto;X
+355123;Head of Government;Nora Gúnera de Melgar;1997;2020;SC;Happy Amateur;Medium;HON - Nora Gúnera de Melgar;X
+355124;Head of Government;Ramos Dionisio Bejarano;1954;2009;LE;Political Protege;Medium;HON - Ramos Dionisio Bejarano;X
+355125;Head of Government;Ramon Villeda Morales;1954;1972;LWR;Ambitious Union Boss;Medium;M79066;X

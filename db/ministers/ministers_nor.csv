@@ -1,6 +1,6 @@
 NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-65001;Head of State;Haakon VII;1933;1964;SD;Weary Stiffneck;High;M14001;X
+65001;Head of State;H.M. Haakon VII;1933;1964;ML;Weary Stiffneck;High;M14001;X
 65002;Head of Government;Johan Nygaardsvold;1933;1964;SD;Ambitious Union Boss;High;M14002;X
 65003;Foreign Minister;Halvdan Koht;1933;1964;SD;Biased Intellectual;Medium;M14003;X
 65004;Minister of Armament;Adolf Indrebø;1933;1964;SD;Resource Industrialist;Medium;M14004;X
@@ -10,7 +10,7 @@ NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 65008;Chief of Army;Kristian K. Laake;1933;1964;SD;Guns and Butter Doctrine;Medium;M14008;X
 65009;Chief of Navy;Jacob von der Lippe;1933;1964;SD;Indirect Approach Doctrine;Medium;M14009;X
 65010;Chief of Air Force;Jacob von der Lippe;1933;1964;SD;Army Aviation Doctrine;Medium;M14009;X
-65011;Head of State;Haakon VII;1933;1964;ML;Weary Stiffneck;High;M14001;X
+65011;Head of State;H.M. Haakon VII;1933;1964;PA;Weary Stiffneck;High;M14001;X
 65012;Head of State;Erling Sandberg;1945;1964;PA;Autocratic Charmer;High;M14014;X
 65013;Head of Government;C.J. Hambro;1937;1964;ML;Silent Workhorse;High;M14036;X
 65014;Head of Government;Einar Gerhardsen;1941;1964;SD;Political Protege;High;M14037;X
@@ -35,8 +35,8 @@ NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 65033;Minister of Armament;Johan H. Andresen;1938;1964;ML;Resource Industrialist;Medium;M14056;X
 65034;Minister of Armament;Benjamin Vogt;1940;1964;ML;Battle Fleet Proponent;Medium;M14057;X
 65035;Minister of Armament;Michael Hansson;1941;1964;SL;Strategic Air Proponent;Medium;M14058;X
-65036;Minister of Armament;Erling Sandberg;1943;1964;SL;Infantry Proponent;Very low;M14014;X
-65037;Minister of Armament;Gunnar Jahn;1945;1964;SL;laissez-faire capitalist;Medium;M14060;X
+65036;Minister of Armament;Erling Sandberg;1943;1964;SL;Infantry Proponent;Very Low;M14014;X
+65037;Minister of Armament;Gunnar Jahn;1945;1964;SL;Laissez-Faire Capitalist;Medium;M14060;X
 65038;Minister of Armament;Albert Viljam Hagelin;1941;1964;FA;Tank Proponent;Low;M14048;X
 65039;Minister of Armament;Fredrik Prytz;1942;1964;FA;Submarine Proponent;Medium;M14062;X
 65040;Minister of Armament;Carl Fröhlich Hansen;1943;1964;FA;Military Entrepreneur;Low;M14063;X
@@ -45,7 +45,7 @@ NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 65043;Minister of Security;Asbjørn Bryhn;1943;1964;SD;Crime Fighter;Low;M14066;X
 65044;Minister of Security;Haakon Lie;1945;1964;SD;Prince of Terror;High;M14067;X
 65045;Minister of Security;Arne Sunde;1937;1964;SL;Silent Lawyer;High;M14068;X
-65046;Minister of Security;Erling Sandberg;1943;1964;SL;Compassionate Gentleman;Very low;M14014;X
+65046;Minister of Security;Erling Sandberg;1943;1964;SL;Compassionate Gentleman;Very Low;M14014;X
 65047;Minister of Security;Rolf Fuglesang;1942;1964;FA;Efficient Sociopath;Very Low;M14070;X
 65048;Head of Military Intelligence;Bertram Dybwad Brochmann;1933;1964;ML;Dismal Enigma;Medium;M14071;X
 65049;Head of Military Intelligence;Vilhelm Evang;1943;1964;SD;Political Specialist;Medium;M14072;X
@@ -72,7 +72,7 @@ NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 65070;Chief of Air Force;Trygve Klingenberg;1937;1964;SL;Army Aviation Doctrine;Medium;M14093;X
 65071;Chief of Air Force;Ole Reistad;1939;1964;SL;Carpet Bombing Doctrine;Medium;M14094;X
 65072;Head of Military Intelligence;Carl Fröhlich Hansen;1945;1964;FA;Industrial Specialist;Low;M14063;X
-65073;Head of State;Josef Terboven;1933;1964;FA;Resigned Generalissimo;High;M14011;X
+65073;Head of State;Josef Terboven;1933;1964;NS;Resigned Generalissimo;High;M14011;X
 65074;Head of Government;Vidkun Quisling;1933;1964;FA;Corporate Suit;High;M14012;X
 65075;Foreign Minister;Vidkun Quisling;1933;1964;FA;The Cloak N Dagger Schemer;High;M14012;X
 65076;Minister of Security;Jonas Lie;1933;1964;NS;Crime Fighter;High;M14015;X
@@ -106,8 +106,8 @@ NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 65104;Head of Government;Abraham Berge;1923;1933;SL;Happy Amateur;High;3924;X
 65105;Head of Government;Johan Mowinckel;1924;1933;SL;Corporate Suit;High;2878;X
 65106;Head of Military Intelligence;Trygve Frivold Graff-Vang;1914;1933;SL;Naval Intelligence Specialist;High;2881;X
-65107;Head of State;Håakon VII;1914;1933;PA;Popular Figurehead;High;2882;X
-65108;Head of State;Håakon VII;1914;1933;SL;Popular Figurehead;High;2882;X
+65107;Head of State;H.M. Håakon VII;1914;1933;PA;Popular Figurehead;High;2882;X
+65108;Head of State;H.M. Håakon VII;1914;1933;SL;Popular Figurehead;High;2882;X
 65109;Head of State;Jens Bratlie;1914;1933;SC;Resigned Generalissimo;High;2879;X
 65110;Head of State;Otto Halvorsen;1920;1933;SC;Benevolent Gentleman;High;2880;X
 65111;Head of State;Otto Blehr;1921;1933;SL;Benevolent Gentleman;High;2883;X
@@ -132,8 +132,26 @@ NOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 65130;Foreign Minister;Johan S. Johansen;1933;1944;LE;Ideological Crusader;Medium;5986;X
 65131;Head of Government;Gunnar Knudsen;1913;1920;SL;Ambitious Union Boss;High;8022;X
 65132;Minister of Armament;Christian Theodor Holtfodt;1914;1919;SL;Resource Industrialist;High;8023;X
-65133;Chief of Army;Einar Wilhelm Anton Martin Krohn;1912;1916;SL;Guns and Butter doctrine;High;8024;X
-65134;Chief of Army;Johan Christopher Ræder;1916;1927;SL;Guns and Butter doctrine;High;8025;X
+65133;Chief of Army;Einar Wilhelm Anton Martin Krohn;1912;1916;SL;Guns and Butter Doctrine;High;8024;X
+65134;Chief of Army;Johan Christopher Ræder;1916;1927;SL;Guns and Butter Doctrine;High;8025;X
 65135;Chief of Navy;Karl Friedrich Griffin Dawes;1910;1919;ML;Decisive Naval Battle Doctrine;High;8028;X
 65136;Chief of Air Force;Einar Wilhelm Anton Martin Krohn;1912;1916;SL;Air Superiority Doctrine;High;8024;X
 65137;Chief of Air Force;Einar Sem-Jacobsen;1912;1922;SL;Air Superiority Doctrine;High;8026;X
+65138;Head of State;H.M. Olav V;1951;1992;ML;Popular Figurehead;High;NOR - Olav V;X
+65139;Head of State;H.M. Harald V;1991;2020;ML;Popular Figurehead;High;NOR - Harald V;X
+65140;Head of State;Sverre Riisnæs;1940;1988;NS;Ruthless Powermonger;High;M14017;X
+65141;Head of State;Bjørn Østring;1987;2012;NS;Resigned Generalissimo;High;NOR - Bjørn Oestring;X
+65142;Head of Government;John Lyng;1957;1979;ML;Happy Amateur;High;NOR - John Lyng;X
+65143;Head of Government;Per Borten;1965;2006;SC;Ambitious Union Boss;High;NOR - Per Borten;X
+65144;Head of Government;Trygve Bratteli;1969;1985;SD;Flamboyant Tough Guy;High;NOR - Trygve Bratteli;X
+65145;Head of Government;Lars Korvald;1972;2007;SC;Naive Optimist;High;NOR - Lars Korvald;X
+65146;Head of Government;Odvar Nordli;1976;2018;SD;Smiling Oilman;High;NOR - Odvar Nordli;X
+65147;Head of Government;Gro Harlem Brundtland;1981;2020;SL;Backroom Backstabber;Medium;NOR - Gro Harlem Brundtland;X
+65148;Head of Government;Kåre Willoch;1973;2020;SC;Silent Workhorse;High;NOR - Kåre Willoch;X
+65149;Head of Government;Jan P. Syse;1989;1998;SC;Corporate Suit;High;NOR - Jan P Syse;X
+65150;Head of Government;Thorbjørn Jagland;1996;2020;SD;Smiling Oilman;Medium;NOR - Thorbjørn Jagland;X
+65151;Head of Government;Kjell Magne Bondevik;1997;2020;ML;Naive Optimist;High;NOR - Kjell Magne Bondevik;X
+65152;Head of Government;Vidar Kleppe;1996;2020;PA;Flamboyant Tough Guy;High;NOR - Vidar Kleppe;X
+65153;Head of Government;Finn Thrana;1963;1981;FA;Political Protege;High;NOR - Finn Thrana;X
+65154;Head of Government;Fredrik Jensen;1985;2012;NS;Reformist Soldierhog;High;NOR - Fredrik Jensen;X
+65155;Head of Government;Finn Thrana;1980;2007;FA;Political Protege;High;NOR - Finn Thrana_B;X

@@ -30,7 +30,7 @@ country = {
     relation = { tag = ENG value = 50 }
   }
 
-  nationalprovinces      = { 757 758 2649 4302 4303 4304 4305 4306 7380}
+  nationalprovinces      = { 757 758 2649 4302 4303 4304 4305 4306 7380 }
   ownedprovinces         = { 757 758 2649 4302 4303 4304 4305 4306 7380 }
   controlledprovinces    = { 757 758 2649 4302 4303 4304 4305 4306 7380 }
 

@@ -74,16 +74,8 @@ country = {
     defense_lobby     = 6
     interventionism   = 3
   }
-  headofstate            = { type = 9 id = 160229 } # S.M.I. Dom Pedro III
+  headofstate            = { type = 9 id = 160229 } # Pedro IV
   headofgovernment       = { type = 9 id = 160230 } # Afonso Celso Junior
-#  foreignminister        = { type = 9 id = 160127 } # Raoul Fernandes
-#  armamentminister       = { type = 9 id = 160004 } # Café Filho
-#  ministerofsecurity     = { type = 9 id = 160005 } # Marcondes Filho
-#  ministerofintelligence = { type = 9 id = 160006 } # Filinto Muller
-#  chiefofstaff           = { type = 9 id = 160007 } # Gaspar Dutra
-#  chiefofarmy            = { type = 9 id = 160008 } # Joao Neves da Fontoura
-#  chiefofnavy            = { type = 9 id = 160009 } # Aristides Guilhem
-#  chiefofair             = { type = 9 id = 160010 } # Salgado Filho
 
   landunit = {
     id       = { type = 18000 id = 1 }

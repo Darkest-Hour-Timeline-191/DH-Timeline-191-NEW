@@ -1,9 +1,9 @@
 LUX;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-385001;Head of State;Charlotte;1933;1964;SC;Autocratic Charmer;High;M66001;X
+385001;Head of State;H.H. Charlotte;1933;1966;SC;Autocratic Charmer;High;M66001;X
 385002;Head of Government;Joseph Bech;1933;1964;SC;Naive Optimist;High;M66002;X
 385003;Foreign Minister;Joseph Bech;1933;1964;SC;Ideological Crusader;Very High;M66002;X
-385004;Minister of Armament;Pierre Dupong;1933;1964;SC;laissez-faire capitalist;Very High;M66004;X
+385004;Minister of Armament;Pierre Dupong;1933;1964;SC;Laissez-Faire Capitalist;Very High;M66004;X
 385005;Minister of Security;Norbert Dumont;1933;1964;SC;Crime Fighter;Very High;M66005;X
 385006;Head of Military Intelligence;Nicholas Marque;1933;1964;SC;Industrial Specialist;Very High;M66006;X
 385007;Chief of Staff;Pierre Dupong;1933;1964;SC;School of Defence;Very High;M66004;X
@@ -66,14 +66,14 @@ LUX;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 385064;Chief of Navy;Paul Medinger;1933;1964;LE;Base Control Doctrine;Medium;M66021;X
 385065;Chief of Air Force;Guillaume Soisson;1933;1964;FA;Air Superiority Doctrine;Medium;M66016;X
 385066;Chief of Air Force;Jean Marc Steffen;1933;1964;LWR;Vertical Envelopment Doctrine;Medium;M66030;X
-385067;Head of State;Charlotte;1945;1964;FA;Autocratic Charmer;High;M66001;X
+385067;Head of State;H.H. Charlotte;1933;1966;FA;Autocratic Charmer;High;M66001;X
 385068;Chief of Navy;Pierre Fischbach;1940;1964;SC;Open Seas Doctrine;Very High;M66111;X
 385069;Minister of Security;Max Simon;1940;1964;FA;Prince of Terror;Medium;M66077;X
 385070;Minister of Security;Eugene Schaus;1946;1964;SL;Man of the People;Medium;M66114;X
 385071;Head of Military Intelligence;Joseph Wohlfart;1951;1964;ML;Industrial Specialist;Very High;M66115;X
-385072;Foreign Minister;Paul Eyschen;1914;1933;ML;GENERAL STAFFER;High;2825;X
-385073;Foreign Minister;Hubert Loutsch;1915;1933;ML;GENERAL STAFFER;High;3906;X
-385074;Foreign Minister;Léon Kauffman;1917;1933;ML;APOLOGETIC CLERK;High;3907;X
+385072;Foreign Minister;Paul Eyschen;1914;1933;ML;General Staffer;High;2825;X
+385073;Foreign Minister;Hubert Loutsch;1915;1933;ML;General Staffer;High;3906;X
+385074;Foreign Minister;Léon Kauffman;1917;1933;ML;Apologetic Clerk;High;3907;X
 385075;Foreign Minister;Émile Reuter;1918;1933;ML;Great Compromiser;High;3908;X
 385076;Head of Government;Paul Eyschen;1914;1933;ML;Happy Amateur;High;2825;X
 385077;Head of Government;Mathias Mongenast;1915;1933;ML;Happy Amateur;High;2826;X
@@ -85,16 +85,29 @@ LUX;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 385083;Head of State;Marie-Adélaïde;1914;1933;SL;Insignificant Layman;High;2827;X
 385084;Head of State;Marie-Adélaïde;1914;1933;PA;Insignificant Layman;High;2827;X
 385085;Head of State;Aloys Kaiser;1914;1933;ST;Die-hard Reformer;High;unknown;X
-385086;Head of State;Charlotte;1919;1933;PA;Popular Figurehead;High;2828;X
-385087;Head of State;Charlotte;1919;1933;SL;Popular Figurehead;High;2828;X
+385086;Head of State;H.H. Charlotte;1919;1933;PA;Popular Figurehead;High;2828;X
+385087;Head of State;H.H. Charlotte;1919;1933;SL;Popular Figurehead;High;2828;X
 385088;Minister of Armament;Mathias Mongenast;1914;1933;ML;Administrative Genius;High;2826;X
-385089;Minister of Armament;Edmond Reiffers;1915;1933;ML;laissez-faire capitalist;High;unknown;X
-385090;Minister of Armament;Léon Kauffman;1916;1933;ML;INFANTRY PROPONENT;High;3907;X
+385089;Minister of Armament;Edmond Reiffers;1915;1933;ML;Laissez-Faire Capitalist;High;unknown;X
+385090;Minister of Armament;Léon Kauffman;1916;1933;ML;Infantry Proponent;High;3907;X
 385091;Minister of Armament;Alphonse Neyens;1918;1933;ML;Administrative Genius;High;unknown;X
-385092;Minister of Security;Pierre Braun;1914;1933;ML;BACK STABBER;High;unknown;X
+385092;Minister of Security;Pierre Braun;1914;1933;ML;Back Stabber;High;unknown;X
 385093;Minister of Security;Ernest Leclere;1915;1933;ML;Silent Lawyer;High;unknown;X
-385094;Minister of Security;Jean-Baptiste Sax;1915;1933;ML;COMPASSIONATE GENTLEMAN;High;unknown;X
-385095;Minister of Security;Léon Moutrier;1916;1933;ML;CRIME FIGHTER;High;unknown;X
+385094;Minister of Security;Jean-Baptiste Sax;1915;1933;ML;Compassionate Gentleman;High;unknown;X
+385095;Minister of Security;Léon Moutrier;1916;1933;ML;Crime Fighter;High;unknown;X
 385096;Minister of Security;Maurice Kohn;1917;1933;ML;Silent Lawyer;High;unknown;X
-385097;Minister of Security;Émile Reuter;1918;1933;ML;PRINCE OF TERROR;High;3908;X
-385098;Minister of Security;Joseph Bech;1921;1933;ML;MAN OF THE PEOPLE;High;3910;X
+385097;Minister of Security;Émile Reuter;1918;1933;ML;Prince of Terror;High;3908;X
+385098;Minister of Security;Joseph Bech;1921;1933;ML;Man of the People;High;3910;X
+385099;Head of State;H.H. Jean;1964;2001;SC;Stern Imperialist;High;LUX - Grand Duke Jean of Luxembourg;X
+385100;Head of State;H.H. Jean;1964;2001;PA;Stern Imperialist;High;LUX - Grand Duke Jean of Luxembourg;X
+385101;Head of Government;Pierre Werner;1959;2003;ML;Corporate Suit;Medium;LUX - Pierre Werner;X
+385102;Head of Government;Gaston Thorn;1974;2008;ML;Flamboyant Tough Guy;Medium;LUX - Gaston Thorn;X
+385103;Head of Government;Jacques Santer;1974;2020;SL;Political Protege;Medium;LUX - Jacques Santer;X
+385104;Head of Government;Jean-Claude Juncker;1995;2020;ML;Happy Amateur;Low;LUX - Jean-Claude Juncker;X
+385105;Head of Government;Michel Rasquin;1945;1959;SD;Silent Workhorse;Medium;LUX - Michel Rasquin;X
+385106;Head of Government;Paul Wilwertz;1959;1980;SD;Backroom Backstabber;Medium;LUX - Paul Wilwertz;X
+385107;Head of Government;Henry Cravatte;1964;1991;SD;Ambitious Union Boss;Medium;LUX - Henry Cravatte;X
+385108;Head of Government;Jacques Poos;1984;2020;SD;Happy Amateur;Medium;LUX - Jacques Poos;X
+385109;Head of Government;Jean Asselborn;1999;2020;SD;Naive Optimist;Medium;LUX - Jean Asselborn;X
+385110;Head of Government;Jules Prussen;1941;1977;PA;Silent Workhorse;High;M66078;X
+385111;Head of Government;Emile Krieps;1964;1999;PA;Old General;High;LUX - Emile Krieps;X

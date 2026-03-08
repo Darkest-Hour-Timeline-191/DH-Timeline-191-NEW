@@ -3,7 +3,7 @@ PHI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 325001;Head of State;Manuel Quezon;1933;1964;SL;Die-hard Reformer;High;M50001;X
 325002;Head of Government;Sergio Osmeña;1933;1964;SL;Silent Workhorse;High;M50002;X
 325003;Foreign Minister;Quintin Paredes;1933;1964;SL;Apologetic Clerk;Low;M50003;X
-325004;Minister of Armament;Elpidio Quirino;1933;1964;SL;laissez-faire capitalist;Medium;M50004;X
+325004;Minister of Armament;Elpidio Quirino;1933;1964;SL;Laissez-Faire Capitalist;Medium;M50004;X
 325005;Minister of Security;Jose Yulo;1933;1964;SL;Compassionate Gentleman;Medium;M50005;X
 325006;Head of Military Intelligence;Benito N. Ebuen;1933;1964;SL;Logistics Specialist;High;M50006;X
 325007;Chief of Staff;Paulino Santos;1933;1964;SL;School of Psychology;Medium;M50007;X
@@ -18,7 +18,7 @@ PHI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 325016;Head of Government;Elpidio Quirino;1933;1964;SC;Silent Workhorse;High;M50004;X
 325017;Head of Government;Rafel Liwanag;1933;1964;SD;Political Protege;High;M50037;X
 325018;Head of Government;Juan Sumulong;1941;1964;SD;Happy Amateur;High;M50033;X
-325019;Foreign Minister;Manuel Quezon;1937;1964;SL;the cloak n dagger schemer;High;M50001;X
+325019;Foreign Minister;Manuel Quezon;1937;1964;SL;The Cloak N Dagger Schemer;High;M50001;X
 325020;Foreign Minister;Joaquin Elizalde;1938;1964;SL;Great Compromiser;High;M50040;X
 325021;Foreign Minister;Sergio Osmeña;1939;1964;SL;Iron Fisted Brute;Low;M50002;X
 325022;Foreign Minister;Manuel Quadrino;1940;1964;SL;Biased Intellectual;Very Low;M50042;X
@@ -26,7 +26,7 @@ PHI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 325024;Foreign Minister;Elpidio Quirino;1933;1964;SC;Ideological Crusader;Medium;M50004;X
 325025;Foreign Minister;Ferdinand Marcos;1945;1964;SC;Iron Fisted Brute;Medium;M50013;X
 325026;Foreign Minister;Emilio Aguinaldo;1933;1964;SD;Ideological Crusader;Medium;M50032;X
-325027;Minister of Armament;Antonio de las Alas;1933;1964;SL;laissez-faire capitalist;Low;M50014;X
+325027;Minister of Armament;Antonio de las Alas;1933;1964;SL;Laissez-Faire Capitalist;Low;M50014;X
 325028;Minister of Armament;Rafel Liwanag;1933;1964;SD;Submarine Proponent;Medium;M50037;X
 325029;Minister of Armament;Manuel Roxas;1938;1964;SC;Air to Sea Proponent;Medium;M50035;X
 325030;Minister of Armament;Manuel Quadrino;1941;1964;SL;Corrupt Kleptocrat;Very Low;M50042;X
@@ -68,7 +68,7 @@ PHI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 325066;Head of Government;Manuel Roxas;1945;1964;SL;Old General;High;M50035;X
 325067;Head of State;José P. Laurel;1933;1964;PA;Powerhungry Demagogue;High;M50011;X
 325068;Head of Government;José P. Laurel;1933;1964;PA;Smiling Oilman;High;M50011;X
-325069;Minister of Security;Benigno Aquino sr.;1933;1964;PA;Crooked Kleptocrat;Medium;M50015;X
+325069;Minister of Security;Benigno Aquino Sr.;1933;1964;PA;Crooked Kleptocrat;Medium;M50015;X
 325070;Chief of Army;Basilio J. Valdez;1933;1964;PA;Static Defence Doctrine;Medium;M50017;X
 325071;Chief of Air Force;Felix Pestana;1933;1964;FA;Air Superiority Doctrine;Medium;M50020;X
 325072;Head of State;Crisanto Evangelista;1933;1964;LE;Weary Stiffneck;High;M50021;X
@@ -81,3 +81,39 @@ PHI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 325079;Chief of Army;Jesus Lava;1933;1964;LE;Guns and Butter Doctrine;Medium;M50028;X
 325080;Chief of Navy;Jesus Lava;1933;1964;LE;Base Control Doctrine;Medium;M50028;X
 325081;Chief of Air Force;Joe Rogers;1933;1964;LWR;Carpet Bombing Doctrine;Medium;M50030;X
+325082;Head of State;Ramon Magsaysay;1953;1964;ML;Benevolent Gentleman;Medium;PHI - Ramon Magsaysay;X
+325083;Head of State;Carlos P. Garcia;1957;1972;ML;Benevolent Gentleman;Medium;PHI - Carlos P Garcia;X
+325084;Head of State;Diosdado Macapagal;1961;1998;SL;Weary Stiffneck;Medium;PHI - Diosdado Macapagal;X
+325085;Head of State;Ferdinand E. Marcos;1965;1990;PA;Pig-headed Isolationist;Medium;PHI - Ferdinand Marcos;X
+325086;Head of State;Corazon Aquino;1986;2010;SL;Barking Buffoon;Medium;PHI - Corazon Aquino;X
+325087;Head of State;Fidel V. Ramos;1992;2020;ML;Resigned Generalissimo;Medium;PHI - Fidel V Ramos;X
+325088;Head of State;Joseph Estrada;1998;2020;ML;Barking Buffoon;Medium;PHI - Joseph Estrada;X
+325089;Head of State;Jose Yulo;1957;1977;SL;Pig-headed Isolationist;Medium;PHI - Jose Yulo;X
+325090;Head of State;Sergio Osmeña Jr.;1969;1985;SL;Benevolent Gentleman;Medium;PHI - Sergio Osmeña Jr;X
+325091;Head of State;Alejo Santos;1981;1985;SC;Resigned Generalissimo;Medium;PHI - Alejo Santos;X
+325092;Head of State;Miriam Defensor Santiago;1992;2017;SD;Die-hard Reformer;Medium;PHI - Miriam Defensor Santiago;X
+325093;Head of State;Jose de Venecia Jr.;1998;2020;SC;Insignificant Layman;Medium;PHI - Jose de Venecia Jr;X
+325094;Head of State;Jose Maria Sison;1963;2020;ST;Ruthless Powermonger;Medium;PHI - Jose Maria Sison;X
+325095;Head of State;Ferdinand E. Marcos;1965;1990;SC;Pig-headed Isolationist;Medium;PHI - Ferdinand Marcos;X
+325096;Head of State;Fabian Ver;1984;2020;PA;Resigned Generalissimo;High;PHI - Fabien Ver;X
+325097;Head of State;Emilio Aguinaldo;1933;1964;FA;Popular Figurehead;High;M50032;X
+325098;Head of State;Benigno Ramos;1950;1964;FA;Die-hard Reformer;High;M50016;X
+325099;Head of State;Gregorio Honasan;1984;2020;FA;Reformist Soldierhos;High;PHI - Gregorio Honasan;X
+325100;Head of Government;Ramon Magsaysay;1953;1964;ML;Naive Optimist;Medium;PHI - Ramon Magsaysay;X
+325101;Head of Government;Carlos P. Garcia;1957;1972;ML;Old General;Medium;PHI - Carlos P Garcia;X
+325102;Head of Government;Diosdado Macapagal;1961;1998;SL;Happy Amateur;Medium;PHI - Diosdado Macapagal;X
+325103;Head of Government;Ferdinand E. Marcos;1965;1990;PA;Silent Workhorse;Medium;PHI - Ferdinand Marcos;X
+325104;Head of Government;Corazon Aquino;1986;2010;SL;Happy Amateur;Medium;PHI - Corazon Aquino;X
+325105;Head of Government;Fidel V. Ramos;1992;2020;ML;Silent Workhorse;Medium;PHI - Fidel V Ramos;X
+325106;Head of Government;Joseph Estrada;1998;2020;ML;Flamboyant Tough Guy;Medium;PHI - Joseph Estrada;X
+325107;Head of Government;Jose Yulo;1957;1977;SL;Ambitious Union Boss;Medium;PHI - Jose Yulo;X
+325108;Head of Government;Sergio Osmeña Jr.;1969;1985;SL;Political Protege;Medium;PHI - Sergio Osmeña Jr;X
+325109;Head of Government;Alejo Santos;1981;1985;SC;Old General;Medium;PHI - Alejo Santos;X
+325110;Head of Government;Miriam Defensor Santiago;1992;2017;SD;Happy Amateur;Medium;PHI - Miriam Defensor Santiago;X
+325111;Head of Government;Jose de Venecia Jr.;1998;2020;SC;Political Protege;Medium;PHI - Jose de Venecia Jr;X
+325112;Head of Government;Jose Maria Sison;1963;2020;ST;Backroom Backstabber;Medium;PHI - Jose Maria Sison;X
+325113;Head of Government;Ferdinand E. Marcos;1965;1990;SC;Silent Workhorse;Medium;PHI - Ferdinand Marcos;X
+325114;Head of Government;Fabian Ver;1984;2020;PA;Old General;High;PHI - Fabien Ver;X
+325115;Head of Government;Emilio Aguinaldo;1933;1964;FA;Ambitious Union Boss;High;M50032;X
+325116;Head of Government;Benigno Ramos;1950;1964;FA;Flamboyant Tough Guy;High;M50016;X
+325117;Head of Government;Gregorio Honasan;1984;2020;FA;Reformist Soldierhog;High;PHI - Gregorio Honasan;X

@@ -3,7 +3,7 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85001;Head of State;José Barnet y Vinageras;1933;1964;ML;Insignificant Layman;High;M33001;X
 85002;Head of Government;Miguel Gómez y Arias;1933;1964;ML;Naive Optimist;High;M33002;X
 85003;Foreign Minister;José Barnet y Vinageras;1933;1964;ML;Iron Fisted Brute;Medium;M33001;X
-85004;Minister of Armament;Carlos Prio;1933;1964;ML;Administrative Genius;Low;M33004;X
+85004;Minister of Armament;Carlos Prio;1933;1964;SC;Administrative Genius;Low;M33004;X
 85005;Minister of Security;Sergio Carbo;1933;1964;ML;Compassionate Gentleman;Medium;M33005;X
 85006;Head of Military Intelligence;Manuel Ferrara;1933;1964;ML;Dismal Enigma;Medium;M33006;X
 85007;Chief of Staff;Julio Sanguily;1933;1964;ML;School of Defence;Medium;M33007;X
@@ -40,7 +40,7 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85038;Foreign Minister;José Irrisari;1933;1964;LWR;Biased Intellectual;Very Low;M33023;X
 85039;Foreign Minister;Carlos Prio;1944;1964;LWR;Great Compromiser;Medium;M33004;X
 85040;Minister of Armament;Ezequiel Garcia Ensenat;1933;1964;ML;Administrative Genius;Medium;M33061;X
-85041;Minister of Armament;Miguel Gómez y Arias;1940;1964;ML;laissez-faire capitalist;Medium;M33002;X
+85041;Minister of Armament;Miguel Gómez y Arias;1940;1964;ML;Laissez-Faire Capitalist;Medium;M33002;X
 85042;Minister of Armament;Eduardo Chibas;1944;1964;ML;Theoretical Scientist;Low;M33013;X
 85043;Minister of Armament;Fulgencio Batista;1933;1964;SD;Corrupt Kleptocrat;Medium;M33034;X
 85044;Minister of Armament;José Orlando Ferrer;1937;1964;SD;Battle Fleet Proponent;Medium;M33065;X
@@ -90,7 +90,7 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85088;Head of Government;Raul Lopez y Castillo;1947;1964;SC;Happy Amateur;High;M33121;X
 85089;Head of Government;Manuel de Varona Loredo;1948;1964;SC;Flamboyant Tough Guy;High;M33122;X
 85090;Head of Government;Felix Lanchis Sanchez;1950;1964;SC;Political Protege;High;M33123;X
-85091;Head of Government;Oscar y Lopez-Martinez;1951;1964;SC;Naive Optimist;High;M33124;X
+85091;Head of Government;Oscar Gans y Lopez-Martinez;1951;1964;SC;Naive Optimist;High;M33124;X
 85092;Foreign Minister;Carlos Prio Soccares;1947;1964;SC;Ideological Crusader;Medium;M33125;X
 85093;Minister of Security;Andres Perez Chaumont;1951;1964;SC;Prince of Terror;Medium;M33126;X
 85094;Foreign Minister;Pablo Desvernine;1914;1933;ML;Ideological Crusader;High;unknown;X
@@ -107,8 +107,24 @@ CUB;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 85105;Head of State;José Miguel Gómez;1914;1933;ML;Resigned Generalissimo;Very High;unknown;X
 85106;Minister of Security;Aurelio Hevia;1914;1933;ML;Crime Fighter;High;unknown;X
 85107;Minister of Security;Ricardo Lancís;1921;1933;SL;Prince of Terror;High;unknown;X
-85108;Minister of Security;Fidél Castro;1958;1964;LWR;Back Stabber;low;6075;x
-85109;Head of Government;Fidél Castro;1959;1964;LWR;Flamboyant Tough Guy;low;6075;x
-85110;Chief of Staff;Che Ernesto Guevara;1956;1964;LE;school of psychology;medium;6076;x
-85111;Foreign Minister;Che Ernesto Guevara;1959;1964;LE;Biased Intellectual;medium;6076;x
-85112;Head of Military Intelligence;Che Ernesto Guevara;1960;1964;LE;Political Specialist;medium;6076;x
+85108;Minister of Security;Fidél Castro;1958;1964;LWR;Back Stabber;Low;6075;X
+85109;Head of Government;Fidél Castro;1959;1964;LWR;Flamboyant Tough Guy;Low;6075;X
+85110;Chief of Staff;Ernesto Guevara;1956;1964;LE;School of Psychology;Medium;6076;X
+85111;Foreign Minister;Ernesto 'Che' Guevara;1959;1964;LE;Biased Intellectual;Medium;6076;X
+85112;Head of Military Intelligence;Ernesto 'Che' Guevara;1960;1964;LE;Political Specialist;Medium;6076;X
+85113;Head of State;Manuel Urrutia Lleo;1959;1982;LWR;Benevolent Gentleman;Medium;CUB - Manuel Urrutia Lleo;X
+85114;Head of State;Osvaldo Dorticos Torrado;1960;1984;LE;Weary Stiffneck;Medium;CUB - Osvaldo Dorticos Torrado;X
+85115;Head of State;Fidél Castro;1975;2017;LE;Ruthless Powermonger;Medium;CUB - Fidél Castro;X
+85116;Head of State;Roberto Agramonte;1960;1996;SD;Benevolent Gentleman;Medium;CUB - Roberto Agramonte;X
+85117;Head of State;Huber Matos Benítez;1979;2015;SD;Die-hard Reformer;Medium;CUB - Huber Matos Benitez;X
+85118;Head of State;Andrés Rivero Aguero;1957;1997;SC;Benevolent Gentleman;Medium;CUB - Andrés Rivero Aguero;X
+85119;Head of State;Oswaldo Payá Sardiñas;1985;2013;SC;Die-hard Reformer;Medium;CUB - Oswaldo Payá Sardiñas;X
+85120;Head of State;Luis Posada Carriles;1959;2019;PA;Reformist Soldierhos;High;CUB - Luis Posada Carriles;X
+85121;Head of Government;Jorge Garcia Montes;1955;1983;ML;Political Protege;Medium;CUB - Jorge Garcia Montes;X
+85122;Head of Government;Andrés Rivero Aguero;1957;1997;SC;Ambitious Union Boss;Medium;CUB - Andrés Rivero Aguero;X
+85123;Head of Government;Gonzalo de los Rios;1958;1986;SL;Happy Amateur;Medium;CUB - Gonzalo de los Rios;X
+85124;Head of Government;Fidél Castro;1975;2017;LE;Flamboyant Tough Guy;Medium;CUB - Fidél Castro;X
+85125;Head of Government;Huber Matos Benítez;1959;2015;SD;Ambitious Union Boss;Medium;CUB - Huber Matos Benitez;X
+85126;Head of Government;Manuel Ray Rivero;1977;2014;SD;Political Protege;Medium;CUB - Manuel Ray Rivero;X
+85127;Head of Government;Oswaldo Payá Sardiñas;1985;2013;SC;Flamboyant Tough Guy;Medium;CUB - Oswaldo Payá Sardiñas;X
+85128;Head of Government;Luis Posada Carriles;1959;2019;PA;Naive Optimist;High;CUB - Luis Posada Carriles;X

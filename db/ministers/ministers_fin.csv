@@ -136,65 +136,97 @@ FIN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 145134;Chief of Navy;Jouko O. Arho;1948;1964;SL;Indirect Approach Doctrine;Medium;L9757;X
 145135;Chief of Air Force;Olavi Sarko;1948;1964;SL;Vertical Envelopment Doctrine;Very High;L9777;X
 145136;Head of Military Intelligence;Johan V. Arajuuri;1933;1964;SC;Dismal Enigma;Medium;387;X
-145137;Chief of Air Force;Carl Seber;1914;1933;ML;Air Superiority Doctrine;Very High;3754;X
-145138;Chief of Army;Carl Mannerheim;1914;1933;ML;Decisive Battle Doctrine;Medium;2545;X
-145139;Chief of Army;Johannes Ignatius;1914;1933;ML;Decisive Battle Doctrine;Very High;2546;X
-145140;Chief of Army;Eero Haapalainen;1914;1933;ST;DECISIVE BATTLE DOCTRINE;Very High;3755;X
-145141;Chief of Army;Adolf Taimi;1914;1933;ST;ELASTIC DEFENCE DOCTRINE;Very High;3756;X
-145142;Chief of Army;Evert Eloranta;1914;1933;ST;GUNS AND BUTTER DOCTRINE;Very High;3757;X
-145143;Chief of Army;Ali Aaltonen;1914;1933;ST;STATIC DEFENCE DOCTRINE;Very High;unknown;X
-145144;Chief of Army;Heikki Kaljunen;1914;1933;ST;ARMOURED SPEARHEAD DOCTRINE;Very High;2547;X
+145137;Chief of Air Force;Carl Seber;1914;1933;ML;Air Superiority Doctrine;Very High;8961;X
+145138;Chief of Army;Carl Mannerheim;1914;1933;ML;Decisive Battle Doctrine;Medium;8959;X
+145139;Chief of Army;Johannes Ignatius;1914;1933;ML;Decisive Battle Doctrine;Very High;8977;X
+145140;Chief of Army;Eero Haapalainen;1914;1933;ST;Decisive Battle Doctrine;Very High;unknown;X
+145141;Chief of Army;Adolf Taimi;1914;1933;ST;Elastic Defence Doctrine;Very High;unknown;X
+145142;Chief of Army;Evert Eloranta;1914;1933;ST;Guns and Butter Doctrine;Very High;unknown;X
+145143;Chief of Army;Ali Aaltonen;1914;1933;ST;Static Defence Doctrine;Very High;unknown;X
+145144;Chief of Army;Heikki Kaljunen;1914;1933;ST;Armoured Spearhead Doctrine;Very High;unknown;X
 145145;Chief of Navy;Vilho Nenonen;1914;1933;ML;Base Control Doctrine;High;3759;X
-145146;Chief of Staff;Carl Mannerheim;1914;1933;ML;school of defence;High;2545;X
-145147;Chief of Staff;Wilhelm Thesleff;1914;1933;ML;School of Psychology;Very High;2548;X
-145148;Chief of Staff;August Wesley;1914;1933;ST;School of Psychology;Very High;3760;X
-145149;Chief of Staff;O. Kallio;1914;1933;ST;SCHOOL OF FIRE SUPPORT;Very High;unknown;X
-145150;Chief of Staff;Edvard Gylling;1914;1933;ST;SCHOOL OF MASS COMBAT;Very High;3761;X
-145151;Chief of Staff;Ernst Hausen;1914;1933;ST;SCHOOL OF MANOEUVRE;Very High;unknown;X
-145152;Foreign Minister;Carl Enckell;1914;1933;ML;Apologetic Clerk;Medium;2549;X
+145146;Chief of Staff;Carl Mannerheim;1914;1933;ML;School of Defence;High;8959;X
+145147;Chief of Staff;Wilhelm Thesleff;1914;1933;ML;School of Psychology;Very High;unknown;X
+145148;Chief of Staff;August Wesley;1914;1933;ST;School of Psychology;Very High;unknown;X
+145149;Chief of Staff;O. Kallio;1914;1933;ST;School of Fire Support;Very High;unknown;X
+145150;Chief of Staff;Edvard Gylling;1914;1933;ST;School of Mass Combat;Very High;unknown;X
+145151;Chief of Staff;Ernst Hausen;1914;1933;ST;School of Manoeuvre;Very High;unknown;X
+145152;Foreign Minister;Carl Enckell;1914;1933;ML;Apologetic Clerk;Medium;8957;X
 145153;Foreign Minister;Eino R. Holsti;1914;1933;SL;Biased Intellectual;Medium;M29071;X
-145154;Foreign Minister;Hjalmar J. Procope;1924;1933;ML;Biased Intellectual;Medium;3762;X
-145155;Foreign Minister;Juho Vennola;1922;1933;SL;Great Compromiser;Medium;3763;X
-145156;Foreign Minister;Otto Stenroth;1914;1933;ML;Ideological Crusader;Medium;3764;X
-145157;Foreign Minister;Yrjö Sirola;1914;1933;ST;IRON FISTED BRUTE;Very High;2550;X
+145154;Foreign Minister;Hjalmar J. Procope;1924;1933;ML;Biased Intellectual;Medium;unknown;X
+145155;Foreign Minister;Juho Vennola;1922;1933;SL;Great Compromiser;Medium;8990;X
+145156;Foreign Minister;Otto Stenroth;1914;1933;ML;Ideological Crusader;Medium;9001;X
+145157;Foreign Minister;Yrjö Sirola;1914;1933;ST;Iron Fisted Brute;Very High;unknown;X
 145158;Head of Government;Otto Ville Kuusinen;1914;1933;ST;Flamboyant Tough Guy;Very High;2513;X
-145159;Head of Government;Kullervo Manner;1914;1933;ST;Silent Workhorse;Medium;2551;X
-145160;Head of Government;Juho Paasikivi;1914;1933;ML;Political Protege;Medium;2552;X
-145161;Head of Government;Lauri Ingman;1914;1933;ML;Naive Optimist;Medium;3765;X
-145162;Head of Government;Kaarlo Castrén;1914;1933;SL;Happy Amateur;Medium;3766;X
-145163;Head of Government;Juho Vennola;1914;1933;SL;Flamboyant Tough Guy;Medium;3763;X
-145164;Head of Government;Rafael Erich;1920;1933;ML;Corporate Suit;Medium;3767;X
+145159;Head of Government;Kullervo Manner;1914;1933;ST;Silent Workhorse;Medium;unknown;X
+145160;Head of Government;Juho Paasikivi;1914;1933;ML;Political Protege;Medium;8979;X
+145161;Head of Government;Lauri Ingman;1914;1933;ML;Naive Optimist;Medium;8994;X
+145162;Head of Government;Kaarlo Castrén;1914;1933;SL;Happy Amateur;Medium;8982;X
+145163;Head of Government;Juho Vennola;1914;1933;SL;Flamboyant Tough Guy;Medium;8980;X
+145164;Head of Government;Rafael Erich;1920;1933;ML;Corporate Suit;Medium;9004;X
 145165;Head of Government;Aimo Cajander;1922;1933;SL;Backroom Backstabber;Medium;2553;X
-145166;Head of Government;Kyösti Kallio;1922;1933;ML;Ambitious Union Boss;Medium;2554;X
-145167;Head of Government;Pehr Svinhufvud;1914;1933;ML;Naive Optimist;Medium;2555;X
-145168;Head of Military Intelligence;Onni Talas;1914;1933;SL;Political Specialist;High;3768;X
-145169;Head of Military Intelligence;O. Kallio;1914;1933;ST;INDUSTRIAL SPECIALIST;High;unknown;X
-145170;Head of State;Pehr Svinhufvud;1914;1933;ML;Benevolent Gentleman;High;2555;X
-145171;Head of State;Väinö I;1914;1933;FA;Autocratic Charmer;Medium;2556;X
-145172;Head of State;Kullervo Manner;1914;1933;ST;Die-hard Reformer;Medium;2551;X
-145173;Head of State;Kaarlo Ståhlberg;1914;1933;ML;Ruthless Powermonger;Medium;2557;X
-145174;Head of State;Lauri Relander;1914;1933;ML;Weary Stiffneck;Medium;2558;X
+145166;Head of Government;Kyösti Kallio;1922;1933;ML;Ambitious Union Boss;Medium;2511;X
+145167;Head of Government;Pehr Svinhufvud;1914;1933;ML;Naive Optimist;Medium;2501;X
+145168;Head of Military Intelligence;Onni Talas;1914;1933;SL;Political Specialist;High;unknown;X
+145169;Head of Military Intelligence;O. Kallio;1914;1933;ST;Industrial Specialist;High;unknown;X
+145170;Head of State;Pehr Svinhufvud;1914;1933;ML;Benevolent Gentleman;High;2501;X
+145171;Head of State;H.M. Väinö I;1914;1933;FA;Autocratic Charmer;Medium;8967;X
+145172;Head of State;Kullervo Manner;1914;1933;ST;Die-hard Reformer;Medium;unknown;X
+145173;Head of State;Kaarlo Ståhlberg;1914;1933;ML;Ruthless Powermonger;Medium;8985;X
+145174;Head of State;Lauri Relander;1914;1933;ML;Weary Stiffneck;Medium;unknown;X
 145175;Head of State;Otto Ville Kuusinen;1914;1933;ST;Ruthless Powermonger;Medium;2513;X
-145176;Minister of Armament;Kaarlo Castrén;1914;1933;SL;Administrative Genius;Medium;3766;X
+145176;Minister of Armament;Kaarlo Castrén;1914;1933;SL;Administrative Genius;Medium;8982;X
 145177;Minister of Armament;Hugo Relander;1924;1933;ML;Administrative Genius;Medium;unknown;X
-145178;Minister of Armament;Yrjö Pulkkinen;1924;1933;ML;Administrative Genius;Medium;3769;X
+145178;Minister of Armament;Yrjö Pulkkinen;1924;1933;ML;Administrative Genius;Medium;unknown;X
 145179;Minister of Armament;Oskari Tokoi;1914;1933;ST;Military Entrepreneur;High;3770;X
-145180;Minister of Armament;Otto Lundson;1914;1933;SL;Military Entrepreneur;Medium;3771;X
+145180;Minister of Armament;Otto Lundson;1914;1933;SL;Military Entrepreneur;Medium;unknown;X
 145181;Minister of Armament;Ernst Gråsten;1922;1933;ML;Military Entrepreneur;Medium;unknown;X
 145182;Minister of Armament;Juhani Arajärvi;1914;1933;ML;Resource Industrialist;Medium;2559;X
 145183;Minister of Armament;August Ramsay;1914;1933;SL;Resource Industrialist;Medium;unknown;X
-145184;Minister of Armament;Jonathan Wartiovaara;1920;1933;ML;Resource Industrialist;Medium;2560;X
-145185;Minister of Armament;Risto Ryti;1921;1933;SL;Resource Industrialist;Medium;2561;X
-145186;Minister of Armament;Jalo Kohonen;1914;1933;ST;THEORETICAL SCIENTIST;High;3772;X
-145187;Minister of Armament;Edvard Gylling;1914;1933;ST;CORRUPT KLEPTOCRAT;High;3761;X
-145188;Minister of Security;Antti Tulenheimo;1914;1933;ML;Compassionate Gentleman;Medium;3773;X
-145189;Minister of Security;Baron von Hellens;1920;1933;ML;Compassionate Gentleman;Medium;3774;X
+145184;Minister of Armament;Jonathan Wartiovaara;1920;1933;ML;Resource Industrialist;Medium;unknown;X
+145185;Minister of Armament;Risto Ryti;1921;1933;SL;Resource Industrialist;Medium;2510;X
+145186;Minister of Armament;Jalo Kohonen;1914;1933;ST;Theoretical Scientist;High;unknown;X
+145187;Minister of Armament;Edvard Gylling;1914;1933;ST;Corrupt Kleptocrat;High;unknown;X
+145188;Minister of Security;Antti Tulenheimo;1914;1933;ML;Compassionate Gentleman;Medium;8952;X
+145189;Minister of Security;Albert von Hellens;1920;1933;ML;Compassionate Gentleman;Medium;8950;X
 145190;Minister of Security;Carl Voss-Schrader;1914;1933;SL;Crime Fighter;Medium;unknown;X
-145191;Minister of Security;Heikki Ritavuori;1914;1933;SL;Crime Fighter;Medium;3775;X
+145191;Minister of Security;Heikki Ritavuori;1914;1933;SL;Crime Fighter;Medium;8974;X
 145192;Minister of Security;Heimo Helminen;1922;1933;ML;Crime Fighter;Medium;unknown;X
-145193;Minister of Security;Jonas Castrén;1914;1933;ML;Silent Lawyer;Medium;3776;X
+145193;Minister of Security;Jonas Castrén;1914;1933;ML;Silent Lawyer;Medium;unknown;X
 145194;Minister of Security;Yrjö Eskelä;1922;1933;SL;Silent Lawyer;Medium;unknown;X
-145195;Minister of Security;Vilkku Joukahainen;1922;1933;SL;Silent Lawyer;Medium;3777;X
-145196;Minister of Security;Georg Sahlstein;1924;1933;ML;Silent Lawyer;Medium;3778;X
-145197;Minister of Security;Lauri Letonmäki;1914;1933;ST;BACK STABBER;High;3779;X
-145198;Minister of Security;Antti Kiviranta;1914;1933;ST;EFFICIENT SOCIOPATH;High;unknown;X
+145195;Minister of Security;Vilkku Joukahainen;1922;1933;SL;Silent Lawyer;Medium;9012;X
+145196;Minister of Security;Georg Sahlstein;1924;1933;ML;Silent Lawyer;Medium;8970;X
+145197;Minister of Security;Lauri Letonmäki;1914;1933;ST;Back Stabber;High;unknown;X
+145198;Minister of Security;Antti Kiviranta;1914;1933;ST;Efficient Sociopath;High;unknown;X
+145199;Head of State;Urho K. Kekkonen;1956;1987;ML;Ruthless Powermonger;Medium;2515;X
+145200;Head of State;Mauno Koivisto;1982;2018;SL;Pig-headed Isolationist;Medium;FIN - Mauno Koivisto;X
+145201;Head of State;Martti Ahtisaari;1994;2020;SL;Popular Figurehead;Medium;FIN - Martti Ahtisaari;X
+145202;Head of State;Tarja Halonen;2000;2020;SD;Benevolent Gentleman;Medium;FIN - Tarja Halonen;X
+145203;Head of State;Paavo Väyrynen;1988;2020;SC;Benevolent Gentleman;High;FIN - Paavo Väyrynen;X
+145204;Head of State;Elisabeth Rehn;1994;2020;ML;Autocratic Charmer;Medium;FIN - Elisabeth Rehn;X
+145205;Head of State;Esko Aho;2000;2020;SC;Popular Figurehead;Medium;FIN - Esko Aho;X
+145206;Head of State;H.M. Väinö I;1933;1941;SC;Autocratic Charmer;Medium;8967;X
+145207;Head of State;H.M. Moritz I;1940;1971;SC;Benevolent Gentleman;High;GER - Prince Wolfgang of Hess;X
+145208;Head of State;H.M. Henrik I;1988;2000;SC;Insignificant Layman;High;GER - Prince Heinrich of Hess-Kassel;X
+145209;Head of State;H.M. Moritz I;1970;1990;SC;Benevolent Gentleman;High;GER - Prince Wolfgang of Hess_B;X
+145210;Head of State;Unto Parvilahti;1940;1971;NS;Die-hard Reformer;High;FIN - Unto Parvilahti;X
+145211;Head of State;Karl-Erik Ladau;1969;2010;NS;Reformist Soldierhos;High;FIN - Karl-Erik Ladau;X
+145212;Head of State;Risto Teinonen;1995;2020;NS;Ruthless Powermonger;High;FIN - Risto Teinonen;X
+145213;Head of State;H.M. Moritz I;1940;1971;FA;Benevolent Gentleman;High;GER - Prince Wolfgang of Hess;X
+145214;Head of State;H.M. Henrik I;1988;2000;PA;Insignificant Layman;High;GER - Prince Heinrich of Hess-Kassel;X
+145215;Head of State;H.M. Moritz I;1970;1990;FA;Benevolent Gentleman;High;GER - Prince Wolfgang of Hess_B;X
+145216;Head of Government;V. J. Sukselainen;1958;1996;ML;Naive Optimist;High;2544;X
+145217;Head of Government;Ahti Karjalainen;1962;1991;ML;Smiling Oilman;High;FIN - Ahti Karjalainen;X
+145218;Head of Government;Johannes Virolainen;1964;2000;SC;Ambitious Union Boss;High;FIN - Johannes Virolainen;X
+145219;Head of Government;Rafael Paasio;1966;1981;SD;Silent Workhorse;Medium;FIN - Rafael Paasio;X
+145220;Head of Government;Mauno Koivisto;1966;1982;SL;Ambitious Union Boss;Medium;FIN - Mauno Koivisto;X
+145221;Head of Government;Kalevi Sorsa;1972;2004;SL;Silent Workhorse;Medium;FIN - Kalevi Sorsa;X
+145222;Head of Government;Martti Miettunen;1975;2003;SC;Flamboyant Tough Guy;Medium;FIN - Martti Miettunen;X
+145223;Head of Government;Harri Holkeri;1979;2012;SC;Happy Amateur;Medium;FIN - Harri Holkeri;X
+145224;Head of Government;Esko Aho;1991;2020;SC;Corporate Suit;Medium;FIN - Esko Aho;X
+145225;Head of Government;Paavo Lipponen;1995;2020;SL;Backroom Backstabber;Low;FIN - Paavo Lipponen;X
+145226;Head of Government;Kurt M. Wallenius;1940;1984;FA;Old General;High;432;X
+145227;Head of Government;Olavi Mäenpää;1983;2019;FA;Happy Amateur;High;FIN - Olavi Mäenpää;X
+145228;Head of Government;Jouko Itälä;1940;1991;NS;Political Protege;High;FIN - Jouko Itälä;X
+145229;Head of Government;Pekka Malinen;1969;2005;NS;Silent Workhorse;High;FIN - Pekka Malinen;X
+145230;Head of Government;Pekka Siitoin;1969;2004;NS;Backroom Backstabber;High;FIN - Pekka Siitoin;X

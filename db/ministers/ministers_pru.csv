@@ -44,7 +44,7 @@ PRU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 185042;Minister of Armament;Manuel Vásquez Díaz;1939;1964;SD;Air to Ground Proponent;High;M39062;X
 185043;Minister of Armament;David S. Ocampo;1939;1964;SD;Military Entrepreneur;Medium;M39044;X
 185044;Minister of Armament;Eduardo Rebagliati Martins;1941;1964;SC;Military Entrepreneur;High;M39064;X
-185045;Minister of Armament;David Dasso;1942;1964;SC;laissez-faire capitalist;High;M39065;X
+185045;Minister of Armament;David Dasso;1942;1964;SC;Laissez-Faire Capitalist;High;M39065;X
 185046;Minister of Armament;Oscar Trelles Montés;1943;1964;SC;Submarine Proponent;Medium;M39066;X
 185047;Minister of Armament;Julio Portugal Montero;1944;1964;ML;Theoretical Scientist;Medium;M39046;X
 185048;Minister of Armament;Benjamín Roca;1944;1964;ML;Theoretical Scientist;High;M39068;X
@@ -111,11 +111,11 @@ PRU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 185109;Head of Government;José de la Riva Agüero;1933;1964;FA;Old Admiral;High;M39011;X
 185110;Foreign Minister;Felipe Tudela;1933;1964;FA;The Cloak N Dagger Schemer;Medium;M39013;X
 185111;Head of State;Lodovico Rovino Morales;1933;1964;ST;Benevolent Gentleman;High;M39021;X
-185112;Head of Government;Lodovico Rovino Morales;1933;1964;ST;old airmarshal;High;M39021;X
+185112;Head of Government;Lodovico Rovino Morales;1933;1964;ST;Old Airmarshal;High;M39021;X
 185113;Foreign Minister;Eduardo Cantabria Gomez;1933;1964;LE;Great Compromiser;Medium;M39023;X
 185114;Head of State;Manuel Odria Amoretti;1948;1964;PA;Resigned Generalissimo;High;L260017;X
 185115;Head of Government;Alberto Roque Saldías;1947;1964;SC;Old Admiral;High;M39069;X
-185116;Head of Government;Armando Reveredo Iglesias;1948;1964;ML;old airmarshal;High;M39142;X
+185116;Head of Government;Armando Reveredo Iglesias;1948;1964;ML;Old Airmarshal;High;M39142;X
 185117;Head of Government;Alberto Zenon Agüero;1948;1964;PA;Old General;High;L260016;X
 185118;Chief of Staff;Alberto Zenon Agüero;1948;1964;SC;School of Psychology;Medium;L260016;X
 185119;Chief of Staff;Nicolas Lindley Lopez;1950;1964;PA;School of Manoeuvre;Medium;L260036;X
@@ -123,17 +123,17 @@ PRU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 185121;Chief of Army;Riccardo Perez Godoy;1950;1964;PA;Armoured Spearhead Doctrine;Medium;L260020;X
 185122;Minister of Armament;Armando Reveredo Iglesias;1950;1964;SC;Military Entrepreneur;Medium;M39142;X
 185123;Minister of Security;Rocas Sanchez Mapás;1951;1964;PA;Efficient Sociopath;Low;M39149;X
-185124;Chief of Staff;Benjamín Boza;1914;1933;ML;SCHOOL OF DEFENCE;Medium;unknown;X
-185125;Foreign Minister;J. Fernando Gazzani;1914;1933;ML;APOLOGETIC CLERK;Medium;unknown;X
-185126;Foreign Minister;Javier Prado;1914;1933;ML;BIASED INTELLECTUAL;Medium;unknown;X
-185127;Foreign Minister;Jose Matías Manzanilla;1914;1933;ML;GENERAL STAFFER;Medium;unknown;X
-185128;Foreign Minister;Sólon Pole;1914;1933;ML;GREAT COMPROMISER;Medium;unknown;X
-185129;Foreign Minister;Arturo Garcia Salazar;1915;1933;ML;THE CLOAK N DAGGER SCHEMER;Medium;unknown;X
-185130;Foreign Minister;Ricardo L. Flores;1915;1933;ML;IRON FISTED BRUTE;Medium;unknown;X
-185131;Foreign Minister;Alberto Salomón Osorio;1919;1933;ML;IDEOLOGICAL CRUSADER;Medium;unknown;X
-185132;Foreign Minister;Germán Leguía;1919;1933;ML;BIASED INTELLECTUAL;Medium;unknown;X
-185133;Foreign Minister;Melitón F. Porras;1919;1933;ML;APOLOGETIC CLERK;Medium;unknown;X
-185134;Foreign Minister;Francisco Tudela y Varela;1914;1933;ML;GENERAL STAFFER;Medium;2980;X
+185124;Chief of Staff;Benjamín Boza;1914;1933;ML;School of Defence;Medium;unknown;X
+185125;Foreign Minister;J. Fernando Gazzani;1914;1933;ML;Apologetic Clerk;Medium;unknown;X
+185126;Foreign Minister;Javier Prado;1914;1933;ML;Biased Intellectual;Medium;unknown;X
+185127;Foreign Minister;Jose Matías Manzanilla;1914;1933;ML;General Staffer;Medium;unknown;X
+185128;Foreign Minister;Sólon Pole;1914;1933;ML;Great Compromiser;Medium;unknown;X
+185129;Foreign Minister;Arturo Garcia Salazar;1915;1933;ML;The Cloak N Dagger Schemer;Medium;unknown;X
+185130;Foreign Minister;Ricardo L. Flores;1915;1933;ML;Iron Fisted Brute;Medium;unknown;X
+185131;Foreign Minister;Alberto Salomón Osorio;1919;1933;ML;Ideological Crusader;Medium;unknown;X
+185132;Foreign Minister;Germán Leguía;1919;1933;ML;Biased Intellectual;Medium;unknown;X
+185133;Foreign Minister;Melitón F. Porras;1919;1933;ML;Apologetic Clerk;Medium;unknown;X
+185134;Foreign Minister;Francisco Tudela y Varela;1914;1933;ML;General Staffer;Medium;2980;X
 185135;Head of Government;Aurelio Matute;1914;1933;ML;Ambitious Union Boss;Medium;unknown;X
 185136;Head of Government;Germán Waddington;1914;1933;ML;Flamboyant Tough Guy;Medium;unknown;X
 185137;Head of Government;Manuel Carvajal;1914;1933;ML;Happy Amateur;Medium;unknown;X
@@ -150,9 +150,42 @@ PRU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 185148;Head of Military Intelligence;Luis Miguel Sánchez Cerro;1914;1933;ML;Undistinguished Suit;Medium;2981;X
 185149;Head of State;Óscar Raymundo Benavides;1914;1933;ML;Autocratic Charmer;Medium;unknown;X
 185150;Head of State;José Simón Pardo;1915;1933;ML;Die-hard Reformer;Medium;2982;X
-185151;Head of State;Augusto Bernardino Leguía;1919;1933;ML;powerhungry demagogue;Medium;2983;X
+185151;Head of State;Augusto Bernardino Leguía;1919;1933;ML;Powerhungry Demagogue;Medium;2983;X
 185152;Head of State;Guillermo E. Billinghurst;1914;1933;ML;Ruthless Powermonger;Medium;2984;X
-185153;Minister of Armament;Arturo Osores;1914;1933;ML;ADMINISTRATIVE GENIUS;Medium;unknown;X
-185154;Minister of Armament;Baldomero F. Maldonado;1914;1933;ML;THEORETICAL SCIENTIST;Medium;unknown;X
-185155;Minister of Security;Antonio Rodríguez Ramirez;1914;1933;ML;BACK STABBER;Medium;unknown;X
-185156;Minister of Security;Elías Malpartida;1914;1933;ML;MAN OF THE PEOPLE;Medium;unknown;X
+185153;Minister of Armament;Arturo Osores;1914;1933;ML;Administrative Genius;Medium;unknown;X
+185154;Minister of Armament;Baldomero F. Maldonado;1914;1933;ML;Theoretical Scientist;Medium;unknown;X
+185155;Minister of Security;Antonio Rodríguez Ramirez;1914;1933;ML;Back Stabber;Medium;unknown;X
+185156;Minister of Security;Elías Malpartida;1914;1933;ML;Man of the People;Medium;unknown;X
+185157;Head of State;Riccardo Perez Godoy;1962;1983;PA;Pig-headed Isolationist;Medium;PRU - Riccardo Perez Godoy;X
+185158;Head of State;Nicolás Lindley López;1963;1996;PA;Insignificant Layman;Medium;PRU - Nicolás Lindley López;X
+185159;Head of State;Fernando Belaunde Terry;1956;2003;ML;Die-hard Reformer;Medium;PRU - Fernando Belaunde Terry;X
+185160;Head of State;Juan Velasco Alvarado;1968;1978;LWR;Die-hard Reformer;Medium;PRU - Juan Velasco Alvarado;X
+185161;Head of State;Francisco Morales Bermudez;1975;2020;PA;Weary Stiffneck;Medium;PRU - Francisco Morales Bermudez;X
+185162;Head of State;Alan García Pérez;1985;2020;SD;Autocratic Charmer;Medium;PRU - Alan Garcia;X
+185163;Head of State;Alberto Fujimori;1990;2020;SC;Pig-headed Isolationist;Medium;PRU - Alberto Fujimori;X
+185164;Head of State;Armando Villanueva del Campo;1980;2014;SD;Ruthless Powermonger;Medium;PRU - Armando Villanueva del Campo;X
+185165;Head of State;Luis Bedoya Reyes;1985;2020;ML;Popular Figurehead;Medium;PRU - Luis Bedoya Reyes;X
+185166;Head of State;Mario Vargas Llosa;1990;2020;ML;Weary Stiffneck;Medium;PRU - Mario Vargas Llosa;X
+185167;Head of State;Javier Pérez de Cuéllar;1995;2020;SD;Insignificant Layman;Medium;PRU - Javier Pérez de Cuéllar;X
+185168;Head of State;Víctor Haya de la Torre;1944;1980;LWR;Die-hard Reformer;Medium;PRU - Victor Haya de la Torre;X
+185169;Head of State;Jorge del Prado Chávez;1955;2000;LE;Weary Stiffneck;Medium;PRU - Jorge del Prado Chávez;X
+185170;Head of State;Abimael Guzmán Reinoso;1974;2020;ST;Ruthless Dictator;Medium;PRU - Abimael Guzmán;X
+185171;Head of State;Alberto Fujimori;1990;2020;PA;Pig-headed Isolationist;Medium;PRU - Alberto Fujimori;X
+185172;Head of Government;Oscar Benavides Larrea;1933;1964;PA;Old General;High;M39001;X
+185173;Head of Government;Manuel Prado y Ugarteche;1939;1964;SC;Corporate Suit;High;M39032;X
+185174;Head of Government;José Bustamante y Rivero;1945;1964;ML;Political Protege;High;M39033;X
+185175;Head of Government;Manuel Odria Amoretti;1948;1964;PA;Old General;High;L260017;X
+185176;Head of Government;Riccardo Perez Godoy;1962;1983;PA;Old General;Medium;PRU - Riccardo Perez Godoy;X
+185177;Head of Government;Fernando Belaunde Terry;1956;2003;ML;Naive Optimist;Medium;PRU - Fernando Belaunde Terry;X
+185178;Head of Government;Juan Velasco Alvarado;1968;1978;LWR;Ambitious Union Boss;Medium;PRU - Juan Velasco Alvarado;X
+185179;Head of Government;Francisco Morales Bermudez;1975;2020;PA;Political Protege;Medium;PRU - Francisco Morales Bermudez;X
+185180;Head of Government;Alan García Pérez;1985;2020;SD;Backroom Backstabber;Medium;PRU - Alan Garcia;X
+185181;Head of Government;Alberto Fujimori;1990;2020;SC;Corporate Suit;Medium;PRU - Alberto Fujimori;X
+185182;Head of Government;Luis Bedoya Reyes;1985;2020;ML;Political Protege;Medium;PRU - Luis Bedoya Reyes;X
+185183;Head of Government;Mario Vargas Llosa;1990;2020;ML;Naive Optimist;Medium;PRU - Mario Vargas Llosa;X
+185184;Head of Government;Javier Pérez de Cuéllar;1995;2020;SD;Silent Workhorse;Medium;PRU - Javier Pérez de Cuéllar;X
+185185;Head of Government;Víctor Haya de la Torre;1944;1980;LWR;Political Protege;Medium;PRU - Victor Haya de la Torre;X
+185186;Head of Government;Jorge del Prado Chávez;1955;2000;LE;Happy Amateur;Medium;PRU - Jorge del Prado Chávez;X
+185187;Head of Government;Abimael Guzmán Reinoso;1974;2020;ST;Backroom Backstabber;Medium;PRU - Abimael Guzmán;X
+185188;Head of Government;Oscar Benavides Larrea;1933;1964;SC;Old General;High;M39001;X
+185189;Head of Government;Alberto Fujimori;1990;2020;PA;Corporate Suit;Medium;PRU - Alberto Fujimori;X

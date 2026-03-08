@@ -60,7 +60,7 @@ country = {
     interventionism   = 6
   }
   headofstate            = { type = 6 id = 470116 } # S.M. Waldemar I of Prussia
-  headofgovernment       = { type = 6 id = 470118 } # Yazip Losik
+  headofgovernment       = { type = 6 id = 470118 } # S.M. Alfred II of Prussia
   chiefofnavy            = { type = 6 id = 470097 } # Under Army Command
   chiefofair             = { type = 6 id = 470100 } # Under Army Command
 }

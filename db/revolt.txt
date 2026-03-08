@@ -2915,20 +2915,17 @@ U24 = { # Aliancka strefa okupacyjna
 	regular_id = GER
 	intrinsic_gov_type = market_liberal
 }
-U25 = { # Radziecka strefa okupacyjna
+U25 = { # Kingdom of Hawaii
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
-300 298 299 301 296 297 310 309 311 80 81 82 83 84 85 86 87 88 89 90 312 313 314 315 375 376 374 76 67 75 74 66
-3248 3247 3246 3249 547 989 2597 3250 1014 3251 970 2627 3252 1015 1016 1018 1904 3253 1405 3257 3256 3255 2381
-3254 2370 3244 3245 546 3243 3242 3241 3240 3239 6500 6520 6521 6917
-7179 7178 7180 7189 7188 7187 7185 7184 7186 7183 7182 7260 7181 7266 7190 7986 7045
+663 658 659 660 7242
 	}
 	min = 1
 	extra = {  }
-	capital = 300
-	regular_id = GER
-	intrinsic_gov_type = leninist
+	capital = 663
+	regular_id = USA
+	intrinsic_gov_type = paternal_autocrat
 }
 U26 = { # Kom. Szwajcaria
 	date = { day = 1 month = january year = 1000 }
@@ -3522,7 +3519,7 @@ U70 = { # Uganda
 	capital = 1064
 }
 
-U71 = { # Northern Ireland
+U71 = { # Dominon of Ulster
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 28 29 7128 7129 }
@@ -3944,15 +3941,19 @@ UCH = { # Gwalior Residency
 	capital =  5262
 }
 
-UBO = { # Madras States Agency
-	date = { day = 1 month = january year = 1000 }
-	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 
-1514 1758 5301 7306
+UBO = { # Carlist-National Spain
+ date = { day = 1 month = january year = 1000 }
+ expirydate = { day = 29 month = december year = 3000 }
+ minimum = {
+341 334 332 333 339 338 343 346 347 349 350 351 352 353 354 342 355 340 330 331 356 329 357 535 536 537 961 962 963 964
+348 2243 2244 1537 1532 1531 1162 1161 1157 1714 1734 1726 2581 2617 2618 2619 2620 3178 3179 3180 954 957
+3181 3182 3183 3184 3185 3186 3187 3188 3189 3190 3201 3202 3203 3204 3205 3191 3192 3193 3194 3195 3196 3197 3198 3199 3200 6526
+7106 7107 7108 7109 7110 7111 7112 7113 7114 7115 7116 7117 7118 7119 7120 7121 7127 7132 7133 7134 7135 7136 7164 7165 7981
  }
- 	min = 1	
-	extra = {  }				  
-	capital =  1514
+ min = 1 
+ extra = {  }
+ capital = 333 # Burgos
+ intrinsic_gov_type = fascist
 }
 
 UTC = { # North-West Frontier States Agency

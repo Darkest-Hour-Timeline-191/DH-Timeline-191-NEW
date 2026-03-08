@@ -229,10 +229,10 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225228;Head of State;H.M. George VII Tudor;1944;1998;PA;Resigned Generalissimo;High;ENG - George Child-Villiers;X
 225229;Head of State;H.M. Edward VIII;1963;1973;FA;Autocratic Charmer;High;ENG - Edward VIII;X
 225230;Head of State;H.M. Elizabeth II;1984;2012;PA;Popular Figurehead;High;ENG - Elizabeth II;X
-225231;Head of State;Alexander Rud Mills;1964;1964;NS;Powerhungry Demagogue;Medium;AST- Alexander Rud Mills;X
-225232;Head of State;Donald M. Grant;1964;1964;SD;Ruthless Powermonger;Medium;AST- Donald Grant;X
+225231;Head of State;Alexander Rud Mills;1964;1964;NS;Powerhungry Demagogue;Medium;AST - Alexander Rud Mills;X
+225232;Head of State;Donald M. Grant;1964;1964;SD;Ruthless Powermonger;Medium;AST - Donald Grant;X
 225233;Head of State;J. T. Lang;1964;1964;SL;Powerhungry Demagogue;Medium;AST - Jack Lang;X
-225234;Head of State;Laurie Aarons;1953;1953;LE;Autocratic Charmer;Medium;AST- Laurie Aarons;X
+225234;Head of State;Laurie Aarons;1953;1953;LE;Autocratic Charmer;Medium;AST - Laurie Aarons;X
 225235;Head of State;H.M. Edward VIII;1933;1973;SC;Autocratic Charmer;High;M1011;X
 225236;Head of State;H.M. George VI;1933;1953;ML;Benevolent Gentleman;High;M1033;X
 225237;Head of State;H.M. Elizabeth II;1952;2012;ML;Popular Figurehead;High;M1182;X
@@ -244,7 +244,7 @@ AST;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 225243;Head of State;H.M. Edward VIII;1963;1973;SC;Autocratic Charmer;High;ENG - Edward VIII;X
 225244;Head of State;H.M. Elizabeth II;1984;2012;ML;Popular Figurehead;High;ENG - Elizabeth II;X
 225245;Head of Government;Eric Campbell;1933;1964;FA;Silent Workhorse;High;AST - Eric Campbell;X
-225246;Head of Government;P. R. Stephensen;1933;1964;NS;Happy Amateur;High;AST- Percy Stephensen;X
-225247;Head of Government;Alexander Rud Mills;1941;1964;NS;Backroom Backstabber;Medium;AST- Alexander Rud Mills;X
-225248;Head of Government;Henry Gullet;1948;1964;PA;Flamboyant Tough Guy;High;AST- Jo Gullet;X
+225246;Head of Government;P. R. Stephensen;1933;1964;NS;Happy Amateur;High;AST - Percy Stephensen;X
+225247;Head of Government;Alexander Rud Mills;1941;1964;NS;Backroom Backstabber;Medium;AST - Alexander Rud Mills;X
+225248;Head of Government;Henry Gullet;1948;1964;PA;Flamboyant Tough Guy;High;AST - Jo Gullet;X
 225249;Minister of Armament;Essington Lewis;1933;1964;SC;Administrative Genius;High;AST - Essington Lewis;X

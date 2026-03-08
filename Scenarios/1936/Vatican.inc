@@ -13,7 +13,6 @@ country = {
   oil            = 50
   supplies       = 100
   money          = 100
-#  transports     = 50
 
   diplomacy = {
     relation = { tag = GER value = 80 }
@@ -37,17 +36,17 @@ country = {
     interventionism   = 2
   }
 
-	landunit = {
-		id       = { type = 13503 id = 1 }
-		name     = "Pontificia Cohors Helvetica"
-		location = 2300 # take a guess
-	division = {
-		id             = { type = 13503 id = 2 }
-		name           = "Pontificia Cohors Helvetica"
-		type           = infantry
-		model          = 1
-		strength       = 1
-		max_strength   = 10
-		}
+  landunit = {
+    id       = { type = 13503 id = 1 }
+    name     = "Pontificia Cohors Helvetica"
+    location = 2300
+    division = {
+      id             = { type = 13503 id = 2 }
+      name           = "Pontificia Cohors Helvetica"
+      type           = infantry
+      model          = 1
+      strength       = 1
+      max_strength   = 10
+    }
   }
 }

@@ -1,7 +1,7 @@
-U09;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Personality;Loyalty;Picturename;X
-;Replacements;;;;;;;;;X
-860001;Head of State;S.K.M. Franz Joseph I;1900;1917;PA;Weary Old Emperor;Medium;3504;X
-860002;Head of State;S.K.M. Karl I;1916;1964;PA;Die-hard Reformer;Medium;3510;X
+U09;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
+860001;Head of State;S.K.u.K.M. Franz Joseph I;1900;1917;PA;Weary Old Emperor;Medium;3504;X
+860002;Head of State;S.K.u.K.M. Karl I;1916;1964;PA;Die-hard Reformer;Medium;3510;X
 860003;Head of State;Maximilian Eugen von Österreich;1916;1952;PA;Benevolent Gentleman;Medium;3516;X
 860004;Head of Government;Alois Lexa von Aehrenthal;1900;1912;PA;Flamboyant Tough Guy;Medium;3494;X
 860005;Head of Government;Leopold Berchtold;1900;1942;PA;Backroom Backstabber;Medium;3514;X
@@ -63,16 +63,19 @@ U09;Ruling Cabinet - Start;Name;Start Year;End Year;Retirement Year;Ideology;Per
 860065;Chief of Air Force;Milan Emil Uzelac;1900;1954;PA;Carpet Bombing Doctrine;Medium;3527;X
 860066;Chief of Air Force;Joseph Ferdinand von Österreich-Toskana;1900;1942;PA;Air Superiority Doctrine;Medium;3509;X
 860067;Chief of Air Force;Otto Ellison von Nidlef;1900;1947;PA;Army Aviation Doctrine;Medium;3520;X
-860068;Head of State;S.K.M. Karl I;1916;1964;SC;Die-hard Reformer;Medium;3510;X
-860069;Head of State;S.K.M. Otto I;1941;1964;ML;Benevolent Gentleman;High;M21044;X
-860070;Head of Government;Kurt Schuschnigg;1933;1964;PA;Silent Workhorse;High;8594;X
-860071;Head of Government;Miklós Horthy de Nagybánya;1933;1957;PA;Old Admiral;High;M21001;X
-860072;Head of Government;Taras von Borodajkewycz;1948;1964;PA;Flamboyant Tough Guy;High;U09-Taras_von_Borodajkewycz;X
-860073;Head of Government;Leopold Figl;1933;1964;SC;Silent Workhorse;High;M23045;X
-860074;Head of Government;Zoltán Tildy;1948;1964;SC;Naive Optimist;High;M21011;X
-860075;Head of Government;Milan Hodza;1933;1945;ML;Naive Optimist;High;2380;X
-860076;Head of Government;Bedrich Homola;1944;1964;ML;Happy Amateur;High;M24047;X
-860077;Head of Government;Vladko Macek;1936;1964;SL;Happy Amateur;High;M30011;X
-860078;Head of Government;Mladen Lorkovic;1948;1964;SL;Backroom Backstabber;High;M30005;X
-860079;Head of Government;Karl Renner;1933;1951;SD;Ambitious Union Boss;High;M23021;X
-860080;Head of Government;Adolf Schärf;1949;1964;SD;Political Protege;High;M23022;X
+860068;Head of State;S.K.u.K.M. Karl I;1916;1964;SC;Die-hard Reformer;Medium;3510;X
+860069;Head of State;S.K.u.K.M. Otto I;1941;1964;ML;Benevolent Gentleman;High;M23041;X
+860070;Head of State;S.K.u.K.M. Otto I;1963;2012;ML;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+860071;Head of State;S.K.u.K.M. Otto I;1941;1964;PA;Benevolent Gentleman;High;M23041;X
+860072;Head of State;S.K.u.K.M. Otto I;1963;2012;PA;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+860073;Head of Government;Kurt Schuschnigg;1933;1964;PA;Silent Workhorse;High;8594;X
+860074;Head of Government;Miklós Horthy de Nagybánya;1933;1957;PA;Old Admiral;High;M21001;X
+860075;Head of Government;Taras von Borodajkewycz;1948;1964;PA;Flamboyant Tough Guy;High;U09 - Taras von Borodajkewycz;X
+860076;Head of Government;Leopold Figl;1933;1964;SC;Silent Workhorse;High;M23045;X
+860077;Head of Government;Zoltán Tildy;1948;1964;SC;Naive Optimist;High;M21011;X
+860078;Head of Government;Milan Hodza;1933;1945;ML;Naive Optimist;High;2380;X
+860079;Head of Government;Bedrich Homola;1944;1964;ML;Happy Amateur;High;M24047;X
+860080;Head of Government;Vladko Macek;1936;1964;SL;Happy Amateur;High;M30011;X
+860081;Head of Government;Mladen Lorkovic;1948;1964;SL;Backroom Backstabber;High;M30005;X
+860082;Head of Government;Karl Renner;1933;1951;SD;Ambitious Union Boss;High;M23021;X
+860083;Head of Government;Adolf Schärf;1949;1964;SD;Political Protege;High;M23022;X

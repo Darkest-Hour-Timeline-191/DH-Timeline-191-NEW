@@ -1,6 +1,6 @@
 GRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-90001;Head of State;Georgios II;1933;1964;PA;Insignificant Layman;High;2646;X
+90001;Head of State;H.M. Georgios II;1933;1964;PA;Insignificant Layman;High;2646;X
 90002;Head of Government;Konstantinos Demertzis;1933;1964;PA;Naive Optimist;High;M18002;X
 90003;Foreign Minister;Konstantinos Demertzis;1933;1964;PA;Biased Intellectual;Very High;M18002;X
 90004;Minister of Armament;Georgios Mantzavinos;1933;1964;PA;Military Entrepreneur;Medium;M18004;X
@@ -10,18 +10,18 @@ GRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 90008;Chief of Army;Alexandros Papagos;1933;1964;PA;Elastic Defence Doctrine;Low;M18008;X
 90009;Chief of Navy;Alexandros Sakellariou;1933;1964;PA;Open Seas Doctrine;Medium;8145;X
 90010;Chief of Air Force;Eleftherios Venizelos;1933;1935;PA;Army Aviation Doctrine;Medium;M18010;X
-90011;Head of State;Georgios II;1933;1964;SL;Insignificant Layman;High;2646;X
+90011;Head of State;H.M. Georgios II;1933;1964;SL;Insignificant Layman;High;2646;X
 90012;Head of State;Archbishop Damaskinos;1941;1964;SL;Barking Buffoon;High;M18032;X
-90013;Head of State;Pavlos I;1947;1964;SL;Die-hard Reformer;High;M18033;X
-90014;Head of State;Georgios II;1933;1964;SC;Insignificant Layman;High;2646;X
+90013;Head of State;H.M. Pavlos I;1947;1964;SL;Die-hard Reformer;High;M18033;X
+90014;Head of State;H.M. Georgios II;1933;1964;SC;Insignificant Layman;High;2646;X
 90015;Head of State;Archbishop Damaskinos;1941;1964;SC;Barking Buffoon;High;M18032;X
-90016;Head of State;Pavlos I;1947;1964;SC;Die-hard Reformer;High;M18033;X
-90017;Head of State;Georgios II;1933;1964;FA;Insignificant Layman;High;2646;X
+90016;Head of State;H.M. Pavlos I;1947;1964;SC;Die-hard Reformer;High;M18033;X
+90017;Head of State;H.M. Georgios II;1933;1964;FA;Insignificant Layman;High;2646;X
 90018;Head of State;Archbishop Damaskinos;1941;1964;PA;Barking Buffoon;High;M18032;X
 90019;Head of State;Grigoriev Murnov;1941;1964;NS;Weary Stiffneck;High;M18040;X
 90020;Head of State;Mario Vercellino;1942;1964;NS;Resigned Generalissimo;High;M18041;X
 90021;Head of State;Reinhard Altenburg;1943;1964;NS;Autocratic Charmer;High;M18042;X
-90022;Head of State;Pavlos I;1947;1964;PA;Die-hard Reformer;High;M18033;X
+90022;Head of State;H.M. Pavlos I;1947;1964;PA;Die-hard Reformer;High;M18033;X
 90023;Head of State;Giorgis Siantos;1933;1964;ST;Popular Figurehead;High;M18021;X
 90024;Head of State;Nikos Zahariadis;1944;1964;ST;Autocratic Charmer;High;M18022;X
 90025;Head of Government;Themistocles Sophoulis;1933;1964;SL;Flamboyant Tough Guy;High;M18014;X
@@ -71,14 +71,14 @@ GRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 90069;Minister of Armament;Demetrios Gousis;1945;1964;SL;Battle Fleet Proponent;High;M18090;X
 90070;Minister of Armament;Alexiou Tsamotos;1933;1964;SC;Submarine Proponent;High;M18091;X
 90071;Minister of Armament;Antoine Frangulis;1938;1964;SC;Air Superiority Proponent;Medium;M18092;X
-90072;Minister of Armament;Thanassos Exaharis;1939;1964;SC;laissez-faire capitalist;Medium;M18093;X
+90072;Minister of Armament;Thanassos Exaharis;1939;1964;SC;Laissez-Faire Capitalist;Medium;M18093;X
 90073;Minister of Armament;Takis Pipenelis;1940;1964;SC;Theoretical Scientist;Medium;M18094;X
 90074;Minister of Armament;Eleftherios Venizelos;1941;1964;SC;Air to Ground Proponent;Medium;M18010;X
 90075;Minister of Armament;Gaecia Geanados;1942;1964;SC;Strategic Air Proponent;Medium;M18096;X
 90076;Minister of Armament;Anastassios Bardivilias;1943;1964;SC;Air to Sea Proponent;Medium;M18097;X
 90077;Minister of Armament;Anatasios Kanellopoulos;1944;1964;SC;Administrative Genius;Very High;M18098;X
 90078;Minister of Armament;Giorgios Lavdas;1945;1964;SC;Tank Proponent;Very High;M18099;X
-90079;Minister of Armament;Alchibiades Stephanopoulos;1946;1964;SC;laissez-faire capitalist;Medium;M18100;X
+90079;Minister of Armament;Alchibiades Stephanopoulos;1946;1964;SC;Laissez-Faire Capitalist;Medium;M18100;X
 90080;Minister of Armament;Panagis Tsaldaris;1938;1964;FA;Air to Sea Proponent;High;M18055;X
 90081;Minister of Armament;Pavlos Milziadis;1941;1964;NS;Resource Industrialist;Medium;M18103;X
 90082;Minister of Armament;Christos Tsigantes;1942;1964;NS;Resource Industrialist;Medium;M18104;X
@@ -152,11 +152,11 @@ GRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 90150;Chief of Air Force;Antoine Frangulis;1941;1964;SC;Air Superiority Doctrine;Medium;M18092;X
 90151;Chief of Air Force;Anastassios Bardivilias;1944;1964;SC;Naval Aviation Doctrine;Medium;M18097;X
 90152;Chief of Air Force;Nikos Beloyannis;1933;1964;ST;Naval Aviation Doctrine;High;M18030;X
-90153;Foreign Minister;Themistocles Sophoulis;1933;1964;SL;The Cloak N Dagger Schemer;high;M18014;X
+90153;Foreign Minister;Themistocles Sophoulis;1933;1964;SL;The Cloak N Dagger Schemer;High;M18014;X
 90154;Head of State;Archbishop Damaskinos;1946;1964;SL;Barking Buffoon;High;M18032;X
 90155;Head of State;Archbishop Damaskinos;1946;1964;SC;Barking Buffoon;High;M18032;X
-90156;Head of State;Georgios II;1946;1964;SL;Insignificant Layman;High;2646;X
-90157;Head of State;Georgios II;1946;1964;SC;Insignificant Layman;High;2646;X
+90156;Head of State;H.M. Georgios II;1946;1964;SL;Insignificant Layman;High;2646;X
+90157;Head of State;H.M. Georgios II;1946;1964;SC;Insignificant Layman;High;2646;X
 90158;Head of Government;Themistocles Sophoulis;1946;1964;SL;Flamboyant Tough Guy;High;M18014;X
 90159;Head of Government;Konstantinos Tsaldaris;1947;1964;SC;Corporate Suit;High;M18053;X
 90160;Foreign Minister;Ioannis Safianopoulos;1945;1964;PA;The Cloak N Dagger Schemer;Medium;M18068;X
@@ -210,9 +210,9 @@ GRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 90208;Head of Government;Andreas Michalakopoulos;1924;1933;ML;Ambitious Union Boss;Medium;3793;X
 90209;Head of Government;Georgios Kaphantaris;1924;1933;SL;Smiling Oilman;Medium;3802;X
 90210;Head of Government;Themistocles Sophoulis;1924;1933;SL;Happy Amateur;Medium;M18014;X
-90211;Head of State;Alexandros I;1917;1933;ML;Barking Buffoon;Medium;3803;X
-90212;Head of State;Georgios II;1922;1933;ML;Autocratic Charmer;Medium;2646;X
-90213;Head of State;Constantine I;1914;1933;ML;Weary Stiffneck;High;2649;X
+90211;Head of State;H.M. Alexandros I;1917;1933;ML;Barking Buffoon;Medium;3803;X
+90212;Head of State;H.M. Georgios II;1922;1933;ML;Autocratic Charmer;Medium;2646;X
+90213;Head of State;H.M. Konstantinos I;1914;1933;ML;Weary Stiffneck;High;2649;X
 90214;Minister of Armament;Alexandros Diomidis;1914;1933;SL;Administrative Genius;Medium;8232;X
 90215;Minister of Armament;Stephanos N. Dragoumis;1915;1933;PA;Administrative Genius;Medium;3804;X
 90216;Minister of Armament;M.Momferatos;1916;1933;PA;Administrative Genius;Medium;unknown;X
@@ -238,7 +238,39 @@ GRE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 90236;Chief of Air Force;Spyridon Paparigopoulos;1933;1964;PA;Army Aviation Doctrine;High;unknown;X
 90237;Head of Military Intelligence;Eksadaktilos Athanasios;1914;1933;ML;Logistics Specialist;High;unknown;X
 90238;Chief of Staff;Ioannis Metaxas;1914;1933;ML;School of Fire Support;High;M18049;X
-90239;Chief of Army;Constantine I;1914;1933;ML;Static Defence Doctrine;High;2649;X
+90239;Chief of Army;H.M. Konstantinos I;1914;1933;ML;Static Defence Doctrine;High;2649;X
 90240;Chief of Navy;Mark Kerr;1914;1917;ML;Decisive Naval Battle Doctrine;High;8230;X
 90241;Head of Military Intelligence;Ioannis Metaxas;1933;1964;SC;Logistics Specialist;High;M18049;X
 90242;Chief of Air Force;Panagiotes Gazis;1933;1964;SC;Air Superiority Doctrine;High;8231;X
+90243;Head of State;H.M. Konstantinos II;1963;2020;SC;Autocratic Charmer;High;GRE - Constantine II;X
+90244;Head of State;H.M. Konstantinos II;1963;2020;PA;Autocratic Charmer;High;GRE - Constantine II;X
+90245;Head of State;Georgios Zoitakis;1967;1997;FA;Insignificant Layman;High;GRE - Georgios Zoitakis;X
+90246;Head of State;Georgios Papadopoulos;1972;2000;FA;Barking Buffoon;High;GRE - Georgios Papadopoulos;X
+90247;Head of State;Phaedon Gizikis;1973;2000;FA;Weary Stiffneck;High;GRE - Phaedon Gizikis;X
+90248;Head of State;Phaedon Gizikis;1973;2000;SC;Weary Stiffneck;High;GRE - Phaedon Gizikis;X
+90249;Head of State;Konstantinos Tsatsos;1975;1988;ML;Benevolent Gentleman;Medium;GRE - Konstantinos Tsatsos;X
+90250;Head of State;Konstantinos Karamanlis;1980;1999;SC;Autocratic Charmer;Medium;GRE - Konstantinos Karamanlis;X
+90251;Head of State;Christos Sartzetakis;1985;2020;SL;Barking Buffoon;Medium;GRE - Christos Sartzetakis;X
+90252;Head of State;Konstantinos Stephanopoulos;1995;2017;ML;Popular Figurehead;Medium;GRE - Konstantinos Stephanopoulos;X
+90253;Head of State;Dimitrios Ioannidis;1973;2011;NS;Ruthless Powermonger;Medium;GRE - Dimitrios Ioannidis;X
+90254;Head of State;H.M. Konstantinos II;1986;2020;SC;Autocratic Charmer;High;GRE - Constantine II_B;X
+90255;Head of State;H.M. Konstantinos II;1986;2020;PA;Autocratic Charmer;High;GRE - Constantine II_B;X
+90256;Head of Government;Konstantinos Karamanlis;1958;1999;SC;Ambitious Union Boss;Medium;GRE - Konstantinos Karamanlis;X
+90257;Head of Government;Ioannis Passalidis;1959;1969;SD;Happy Amateur;Medium;GRE - Ioannis Passalidis;X
+90258;Head of Government;Georgios Papandreou;1963;1969;SL;Silent Workhorse;High;M18015;X
+90259;Head of Government;Panagiotis Kanellopoulos;1964;1987;SC;Smiling Oilman;Medium;GRE - Panagiotis Kanellopoulos;X
+90260;Head of Government;Stefanos Stefanopoulos;1965;1983;SC;Happy Amateur;Medium;GRE - Stefanos Stefanopoulos;X
+90261;Head of Government;Konstantinos Kollias;1967;1999;PA;Old General;High;GRE - Konstantinos Kollias;X
+90262;Head of Government;Georgios Papadopoulos;1967;2000;FA;Flamboyant Tough Guy;High;GRE - Georgios Papadopoulos;X
+90263;Head of Government;Spyridon Markezinis;1967;2001;PA;Naive Optimist;High;GRE - Spyridon Markezinis;X
+90264;Head of Government;Adamantios Androutsopoulos;1973;2001;FA;Flamboyant Tough Guy;Medium;GRE - Adamantios Androutsopoulos;X
+90265;Head of Government;Georgios Rallis;1980;2006;SC;Happy Amateur;Medium;GRE - Georgios Rallis;X
+90266;Head of Government;Andreas Papandreou;1977;1997;SD;Ambitious Union Boss;Medium;GRE - Andreas Papandreou;X
+90267;Head of Government;Konstantinos Mitsotakis;1985;2018;SC;Happy Amateur;Medium;GRE - Konstantinos Mitsotakis;X
+90268;Head of Government;Costas Simitis;1996;2020;SL;Backroom Backstabber;Medium;GRE - Costas Simitis;X
+90269;Head of Government;Miltiadis Evert;1993;2012;ML;Corporate Suit;Medium;GRE - Miltiadis Evert;X
+90270;Head of Government;Konstantinos Karamanlis;1958;1999;PA;Ambitious Union Boss;Medium;GRE - Konstantinos Karamanlis;X
+90271;Head of Government;Panagiotis Kanellopoulos;1964;1987;PA;Smiling Oilman;Medium;GRE - Panagiotis Kanellopoulos;X
+90272;Head of Government;Stefanos Stefanopoulos;1965;1983;PA;Happy Amateur;Medium;GRE - Stefanos Stefanopoulos;X
+90273;Head of Government;Nikolaos Michaloliakos;1980;2020;FA;Ambitious Union Boss;Medium;GRE - Nikolaos Michaloliakos;X
+90274;Head of Government;Aristotelis Kalentzis;1980;2020;NS;Flamboyant Tough Guy;Medium;GRE - Aristotelis Kalentzis;X

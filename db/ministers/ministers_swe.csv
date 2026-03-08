@@ -1,6 +1,6 @@
 SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-40001;Head of State;Gustav V;1933;1964;SC;Pig-headed Isolationist;High;M7001;X
+40001;Head of State;H.M. Gustaf V;1933;1964;SC;Pig-headed Isolationist;High;M7001;X
 40002;Head of Government;Axel Pehrsson-Bramstorp;1933;1964;SL;Happy Amateur;High;M7002;X
 40003;Foreign Minister;Karl G. Westman;1933;1964;SL;Apologetic Clerk;Very High;M7003;X
 40004;Minister of Armament;Vilmar Ljungdahl;1933;1964;SL;Tank Proponent;Very High;M7004;X
@@ -10,9 +10,9 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40008;Chief of Army;Oscar Nygren;1933;1964;SC;Guns and Butter Doctrine;Medium;M7007;X
 40009;Chief of Navy;Charles de Champs;1933;1964;PA;Decisive Naval Battle Doctrine;Very Low;M7009;X
 40010;Chief of Air Force;Torsten Friis;1933;1964;ML;Army Aviation Doctrine;Very High;M7010;X
-40011;Head of State;Gustav V;1933;1964;SD;Pig-headed Isolationist;High;M7001;X
+40011;Head of State;H.M. Gustaf V;1933;1964;PA;Pig-headed Isolationist;High;M7001;X
 40012;Head of Government;Per Albin Hansson;1933;1964;SD;Ambitious Union Boss;High;M7033;X
-40013;Head of Government;Tage Erlander;1946;1964;SD;Political Protege;High;M7034;X
+40013;Head of Government;Tage Erlander;1946;1986;SD;Political Protege;High;M7034;X
 40014;Head of Government;Gösta Bagge;1942;1964;ML;Smiling Oilman;High;M7035;X
 40015;Head of Government;Axel Pehrsson-Bramstorp;1938;1964;SL;Happy Amateur;High;M7002;X
 40016;Head of Government;Bertil Ohlin;1945;1964;SL;Corporate Suit;High;M7037;X
@@ -26,7 +26,7 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40024;Foreign Minister;Georg Andrén;1945;1964;SC;Ideological Crusader;High;M7045;X
 40025;Foreign Minister;Axel Pehrsson-Bramstorp;1940;1964;SL;The Cloak N Dagger Schemer;Very High;M7002;X
 40026;Minister of Armament;Ernst Wigforss;1933;1964;SD;Resource Industrialist;Low;M7047;X
-40027;Minister of Armament;Gustav Möller;1933;1964;SD;laissez-faire capitalist;Medium;M7048;X
+40027;Minister of Armament;Gustav Möller;1933;1964;SD;Laissez-Faire Capitalist;Medium;M7048;X
 40028;Minister of Armament;Gustav Cassel;1937;1964;ML;Administrative Genius;Medium;M7049;X
 40029;Minister of Armament;Erik Palmstierna;1937;1964;SD;Battle Fleet Proponent;Medium;M7050;X
 40030;Minister of Armament;Ernst Trygger;1938;1964;ML;Theoretical Scientist;Medium;M7051;X
@@ -34,7 +34,7 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40032;Minister of Armament;Gösta Bagge;1940;1964;ML;Resource Industrialist;Medium;M7035;X
 40033;Minister of Armament;Östen Undén;1941;1964;LWR;Infantry Proponent;Medium;M7054;X
 40034;Minister of Armament;Bertil Ohlin;1944;1964;SL;Military Entrepreneur;Medium;M7037;X
-40035;Minister of Armament;Martin Skoglund;1940;1964;ML;laissez-faire capitalist;High;M7056;X
+40035;Minister of Armament;Martin Skoglund;1940;1964;ML;Laissez-Faire Capitalist;High;M7056;X
 40036;Minister of Armament;Fritjof Domö;1945;1964;ML;Administrative Genius;High;M7057;X
 40037;Minister of Security;Karl Schlyter;1933;1964;SD;Silent Lawyer;High;M7058;X
 40038;Minister of Security;Gustav Andersson-Rasjön;1940;1964;SL;Compassionate Gentleman;Medium;M7059;X
@@ -48,7 +48,7 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40046;Head of Military Intelligence;Erik Palmstierna;1939;1964;SC;Naval Intelligence Specialist;Medium;M7050;X
 40047;Head of Military Intelligence;Åke Hammerskiöld;1941;1964;SL;Dismal Enigma;High;M7070;X
 40048;Chief of Staff;Olof Thörnell;1937;1964;SC;School of Fire Support;Very High;M7072;X
-40049;Chief of Staff;Axel Rappe;1940;1964;SC;school of manoeuvre;Low;M7073;X
+40049;Chief of Staff;Axel Rappe;1940;1964;SC;School of Manoeuvre;Low;M7073;X
 40050;Chief of Staff;Samuel Åkerhielm;1941;1964;ML;School of Mass Combat;Medium;M7074;X
 40051;Chief of Staff;Axel Bredberg;1942;1964;ML;School of Psychology;High;M7075;X
 40052;Chief of Staff;Carl Gustav Ehrensvärd;1944;1964;SC;School of Manoeuvre;Medium;M7076;X
@@ -86,14 +86,14 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40084;Chief of Army;Axel Pettersson;1933;1964;ST;Decisive Battle Doctrine;Very High;unknown;X
 40085;Chief of Navy;Per M. Eriksson;1933;1964;ST;Decisive Naval Battle Doctrine;Very High;unknown;X
 40086;Chief of Air Force;Krister Reuterswärd;1933;1964;LWR;Army Aviation Doctrine;Low;unknown;X
-40087;Head of State;Gustav VI Adolf;1950;1964;SD;Benevolent Gentleman;High;M7093;X
+40087;Head of State;H.M. Gustaf VI Adolf;1950;1974;ML;Benevolent Gentleman;High;M7093;X
 40088;Minister of Armament;Per Edvin Sköld;1949;1964;SD;Infantry Proponent;High;M7041;X
-40089;Head of State;Gustav VI Adolf;1950;1964;ML;Benevolent Gentleman;High;M7093;X
-40090;Chief of Army;Carsten Warberg;1900;1933;SC;static defence doctrine;High;unknown;X
-40091;Chief of Army;Oscar II;1900;1907;SC;static defence doctrine;High;3308;X
-40092;Chief of Army;Axel Rappe;1900;1933;SC;static defence doctrine;High;3309;X
+40089;Head of State;H.M. Gustaf VI Adolf;1950;1974;PA;Benevolent Gentleman;High;M7093;X
+40090;Chief of Army;Carsten Warberg;1900;1933;SC;Static Defence Doctrine;High;unknown;X
+40091;Chief of Army;Oscar II;1900;1907;SC;Static Defence Doctrine;High;3308;X
+40092;Chief of Army;Axel Rappe;1900;1933;SC;Static Defence Doctrine;High;3309;X
 40093;Chief of Army;Knut Gillis Bildt;1905;1933;SC;Decisive Battle Doctrine;High;3310;X
-40094;Chief of Army;Gustaf V;1907;1933;ML;static defence doctrine;High;3311;X
+40094;Chief of Army;Gustaf V;1907;1933;ML;Static Defence Doctrine;High;3311;X
 40095;Chief of Army;Anton Nilsson;1914;1933;ST;Guns and Butter Doctrine;High;3312;X
 40096;Chief of Army;Axel Rappe;1915;1933;PA;Guns and Butter Doctrine;Very High;3309;X
 40097;Chief of Army;Lars Tingsten;1916;1933;SL;Decisive Battle Doctrine;High;3313;X
@@ -112,12 +112,12 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40110;Chief of Staff;Carl Gustaf Hammarskjöld;1922;1933;SC;School of Mass Combat;High;3314;X
 40111;Foreign Minister;Ludvig Douglas;1900;1933;ML;Biased Intellectual;High;3317;X
 40112;Foreign Minister;Alfred Lagerheim;1900;1933;SC;Great Compromiser;High;3318;X
-40113;Foreign Minister;August Gyldenstolpe;1904;1933;ML;Apologetic clerk;High;3319;X
+40113;Foreign Minister;August Gyldenstolpe;1904;1933;ML;Apologetic Clerk;High;3319;X
 40114;Foreign Minister;Eric Trolle;1905;1933;SL;Great Compromiser;High;3320;X
 40115;Foreign Minister;Fredrik Wachtmeister;1905;1933;SC;Biased Intellectual;High;3321;X
 40116;Foreign Minister;Victoria;1907;1933;PA;Ideological Crusader;High;3322;X
 40117;Foreign Minister;Arvid Taube;1909;1933;ML;Ideological Crusader;High;unknown;X
-40118;Foreign Minister;Albert Ehrensvärd jr;1911;1933;SL;Ideological Crusader;High;3323;X
+40118;Foreign Minister;Albert Ehrensvärd Jr.;1911;1933;SL;Ideological Crusader;High;3323;X
 40119;Foreign Minister;Ture Nerman;1914;1933;ST;Ideological Crusader;Very High;3324;X
 40120;Foreign Minister;Knut Wallenberg;1914;1933;SC;Ideological Crusader;High;3325;X
 40121;Foreign Minister;Arvid Lindman;1917;1933;ML;Ideological Crusader;High;3326;X
@@ -128,7 +128,7 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40126;Foreign Minister;Hjalmar Branting;1921;1933;SD;Apologetic Clerk;High;3331;X
 40127;Foreign Minister;Carl Hederstierna;1923;1933;ML;Ideological Crusader;High;3332;X
 40128;Foreign Minister;Erik Marks von Württemberg;1923;1933;ML;Biased Intellectual;High;3987;X
-40129;Foreign Minister;Eliel Löfgren;1926;1933;SL;BIASED INTELLECTUAL;High;3333;X
+40129;Foreign Minister;Eliel Löfgren;1926;1933;SL;Biased Intellectual;High;3333;X
 40130;Head of Government;Erik Gustav Boström;1900;1933;SC;Flamboyant Tough Guy;High;3334;X
 40131;Head of Government;Fredrik von Otter;1900;1933;ML;Old Admiral;High;3335;X
 40132;Head of Government;Johan Ramstedt;1905;1933;ML;Corporate Suit;High;3336;X
@@ -152,22 +152,22 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40150;Head of Military Intelligence;Lars Tingsten;1919;1933;SC;Logistics Specialist;High;3313;X
 40151;Head of Military Intelligence;Carlos Adlercreutz;1920;1933;ML;Political Specialist;High;3348;X
 40152;Head of Military Intelligence;Carl Gustaf Hammarskjöld;1922;1933;SC;Logistics Specialist;High;3314;X
-40153;Head of State;Oscar II;1900;1907;ML;Benevolent Gentleman;High;3308;X
-40154;Head of State;Oscar II;1900;1907;PA;Benevolent Gentleman;High;3308;X
-40155;Head of State;Oscar II;1900;1907;SC;Benevolent Gentleman;High;3308;X
-40156;Head of State;Gustaf V;1907;1933;SC;Popular Figurehead;High;3311;X
-40157;Head of State;Gustaf V;1907;1933;ML;Popular Figurehead;High;3311;X
-40158;Head of State;Gustaf V;1907;1933;PA;Popular Figurehead;High;3311;X
+40153;Head of State;H.M. Oscar II;1900;1907;ML;Benevolent Gentleman;High;3308;X
+40154;Head of State;H.M. Oscar II;1900;1907;PA;Benevolent Gentleman;High;3308;X
+40155;Head of State;H.M. Oscar II;1900;1907;SC;Benevolent Gentleman;High;3308;X
+40156;Head of State;H.M. Gustaf V;1907;1933;SC;Popular Figurehead;High;3311;X
+40157;Head of State;H.M. Gustaf V;1907;1933;ML;Popular Figurehead;High;3311;X
+40158;Head of State;H.M. Gustaf V;1907;1933;PA;Popular Figurehead;High;3311;X
 40159;Head of State;Zeth Höglund;1914;1933;ST;Die-hard Reformer;High;3349;X
 40160;Minister of Armament;Fredrik Wachtmeister;1900;1933;SC;Resource Industrialist;High;3321;X
 40161;Minister of Armament;Ernst Meyer;1902;1933;SL;Laissez-Faire Capitalist;High;unknown;X
 40162;Minister of Armament;Elof Biesèrt;1905;1933;SL;Resource Industrialist;High;unknown;X
 40163;Minister of Armament;Carl Swartz;1906;1933;SC;Resource Industrialist;High;3340;X
 40164;Minister of Armament;Theodor Adelswärd;1911;1933;SL;Resource Industrialist;High;3350;X
-40165;Minister of Armament;Karl Kilbom;1914;1933;ST;Battle Fleet proponent;High;3315;X
+40165;Minister of Armament;Karl Kilbom;1914;1933;ST;Battle Fleet Proponent;High;3315;X
 40166;Minister of Armament;Axel Vennersten;1914;1933;ML;Administrative Genius;High;3351;X
 40167;Minister of Armament;Ernst Trygger;1915;1933;PA;Laissez-Faire Capitalist;High;3345;X
-40168;Minister of Armament;Per Albin Hansson;1917;1933;SD;military entrepreneur;High;3352;X
+40168;Minister of Armament;Per Albin Hansson;1917;1933;SD;Military Entrepreneur;High;3352;X
 40169;Minister of Armament;Conrad Carleson;1917;1933;SC;Laissez-Faire Capitalist;High;3988;X
 40170;Minister of Armament;Hjalmar Branting;1917;1933;SD;Resource Industrialist;High;3331;X
 40171;Minister of Armament;Fredrik Thorsson;1918;1933;SD;Resource Industrialist;High;3353;X
@@ -194,7 +194,27 @@ SWE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 40192;Minister of Security;Assar Åkerman;1920;1933;SD;Silent Lawyer;High;3362;X
 40193;Minister of Security;Torsten Nothin;1924;1933;SD;Silent Lawyer;High;3363;X
 40194;Minister of Security;Johan Thyrén;1924;1933;SL;Compassionate Gentleman;High;3364;X
-40195;Chief of Air Force;Torsten Rapp;1948;1964;SD;Air Superiority Doctrine;High;6019;x
-40196;Chief of Army;Nils Swedlund;1950;1964;ML;Armoured Spearhead Doctrine;High;6020;x 
-40197;Minister of Security;Birger Furugård;1933;1964;NS;Back Stabber;Medium;6021;x
-40198;Foreign Minister;Birger Furugård;1933;1964;NS;Apologetic Clerk;Medium;6021;x
+40195;Chief of Air Force;Torsten Rapp;1948;1964;SD;Air Superiority Doctrine;High;6019;X
+40196;Chief of Army;Nils Swedlund;1950;1964;ML;Armoured Spearhead Doctrine;High;6020;X
+40197;Minister of Security;Birger Furugård;1933;1964;NS;Back Stabber;Medium;6021;X
+40198;Foreign Minister;Birger Furugård;1933;1964;NS;Apologetic Clerk;Medium;6021;X
+40199;Head of State;H.M. Carl XVI Gustaf;1973;1992;ML;Popular Figurehead;High;SWE - Carl XVI Gustaf;X
+40200;Head of State;H.M. Carl XVI Gustaf;1991;2020;ML;Popular Figurehead;High;SWE - Carl XVI Gustaf_B;X
+40201;Head of State;H.M. Carl XVI Gustaf;1973;1992;PA;Popular Figurehead;High;SWE - Carl XVI Gustaf;X
+40202;Head of State;H.M. Carl XVI Gustaf;1991;2020;PA;Popular Figurehead;High;SWE - Carl XVI Gustaf_B;X
+40203;Head of Government;Olof Palme;1969;1999;SD;Flamboyant Tough Guy;High;SWE - Olof Palme;X
+40204;Head of Government;Thorbjörn Fälldin;1973;2017;ML;Naive Optimist;High;SWE - Thorbjörn Fälldin;X
+40205;Head of Government;Ola Ullsten;1978;2019;ML;Backroom Backstabber;High;SWE - Ola Ullsten;X
+40206;Head of Government;Ingvar Carlsson;1986;2020;SD;Silent Workhorse;Medium;SWE - Ingvar Carlsson;X
+40207;Head of Government;Carl Bildt;1988;2020;ML;Flamboyant Tough Guy;Medium;SWE - Carl Bildt;X
+40208;Head of Government;Göran Persson;1988;2020;SD;Backroom Backstabber;Medium;SWE - Göran Persson;X
+40209;Head of Government;Bertil Ohlin;1964;1980;ML;Flamboyant Tough Guy;High;SWE - Bertil Ohlin;X
+40210;Head of Government;Gunnar Hedlund;1968;1990;ML;Flamboyant Tough Guy;High;SWE - Gunnar Hedlund;X
+40211;Head of Government;Herman Lindqvist;1991;2020;PA;Political Protege;High;SWE - Herman Lindqvist;X
+40212;Head of Government;Sven Olov Lindholm;1933;1970;FA;Silent Workhorse;High;SWE - Sven Olov Lindholm;X
+40213;Head of Government;Per Engdahl;1933;1970;FA;Ambitious Union Boss;High;SWE - Per Engdahl;X
+40214;Head of Government;Göran Oredsson;1964;2010;NS;Political Protege;High;SWE - Göran Oredsson;X
+40215;Head of Government;Gustaf Ekström;1985;1995;NS;Silent Workhorse;High;SWE - Gustaf Ekström;X
+40216;Head of Government;Sven Olov Lindholm;1969;1998;PA;Silent Workhorse;High;SWE - Sven Olov Lindholm_B;X
+40217;Head of Government;Gustaf Ekström;1985;1995;PA;Silent Workhorse;High;SWE - Gustaf Ekström;X
+40218;Head of Government;Per Engdahl;1969;1994;FA;Ambitious Union Boss;High;SWE - Per Engdahl_B;X

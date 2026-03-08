@@ -69,7 +69,7 @@ CSA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 600067;Head of Government;Don Partridge;1939;1964;NS;The Satisfied Puppet;High;unknownminister;X
 600068;Head of State;Don Partridge;1939;1964;NS;The Unprepared President;High;unknownminister;X
 600069;Foreign Minister;Anne Colleton;1933;1964;NS;The Cloak N Dagger Schemer;High;unknownminister;X
-600070;Head of State;Huey Long;1933;1964;SL;Die-hard Reformer;Undying;CSA - Huey Long;X
+600070;Head of Government;Huey Long;1933;1964;SL;Flamboyant Tough Guy;Undying;CSA - Huey Long;X
 600071;Head of Military Intelligence;Clarence Potter;1933;1964;PA;Logistics Specialist;High;CSA - Clarence Potter;X
 600072;Head of Military Intelligence;Stanley McGillivray;1933;1964;PA;Technical Specialist;High;unknownminister;X
 600073;Head of Government;Hugo Black;1933;1964;SC;Flamboyant Tough Guy;High;M6205;X
@@ -91,3 +91,4 @@ CSA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 600089;Foreign Minister;Breckinridge Long;1933;1964;SC;Great Compromiser;High;CSA - Breckinridge Long;X
 600090;Chief of Army;T. J. J. Christian Sr.;1933;1964;SC;Elastic Defence Doctrine;Very High;CSA - Thomas Jonathan Jackson Christian Sr;X
 600091;Minister of Security;Park Trammell;1933;1937;SC;Compassionate Gentleman;Very High;CSA - Park Trammell;X
+600092;Head of State;Cordell Hull;1933;1946;SL;Die-hard Reformer;Very High;7374;X

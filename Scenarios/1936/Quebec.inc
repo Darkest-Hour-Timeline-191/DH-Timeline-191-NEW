@@ -27,7 +27,6 @@ country = {
   oil            = 500
   supplies       = 500
   money          = 10
-
   transports     = 20
   escorts        = 5
 

@@ -27,16 +27,15 @@ RSI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 750025;Chief of Navy;Carlo di Cossata;1933;1964;FA;Indirect Approach Doctrine;Medium;L6164;X
 750026;Chief of Air Force;Rino Corso Fougier;1945;1964;NS;Air Superiority Doctrine;Low;M3161;X
 750027;Chief of Air Force;Ruggero Bonomi;1943;1964;FA;Vertical Envelopment Doctrine;Low;M508027;X
-750028;Minister of Armament;Karl Wolff;1943;1964;NS;Military Entrepreneur;High;M508028;X
-750029;Minister of Armament;Rodolfo Graziani;1933;1964;FA;Infantry Proponent;High;M508008;X
-750030;Minister of Security;Karl Wolff;1943;1964;NS;Compassionate Gentleman;High;M508028;X
-750031;Chief of Staff;Albert Kesselring;1942;1964;NS;School of Defence;Very High;M508031;X
-750032;Chief of Staff;Karl Wolff;1943;1964;NS;School of Psychology;High;M508028;X
-750033;Chief of Army;Albert Kesselring;1942;1964;NS;Elastic Defence Doctrine;Very High;M508031;X
-750034;Chief of Army;Heinrich Gottfried von Vietinghoff-Scheel;1944;1964;FA;Armoured Spearhead Doctrine;High;M508034;X
-750035;Chief of Air Force;Albert Kesselring;1942;1964;NS;Army Aviation Doctrine;Very High;M508031;X
-750036;Minister of Armament;Arturo Michelini;1954;1964;FA;Laissez-Faire Capitalist;High;6080;x
-750037;Foreign Minister;Augusto De Marsanich;1944;1964;FA;Great Compromiser;High;6081;X
-750038;Head of Government;Augusto De Marsanich;1955;1964;FA;Silent Workhorse;High;6081;x
-750039;Minister of Security;Giorgio Almirante;1946;1964;NS;Back Stabber;High;6082;x
-750040;Foreign Minister;Giorgio Almirante;1945;1964;NS;The Cloak N Dagger Schemer;High;6082;x
+750028;Minister of Armament;Rodolfo Graziani;1933;1964;FA;Infantry Proponent;High;M508008;X
+750029;Minister of Security;Giorgio Almirante;1946;1964;NS;Back Stabber;High;6082;X
+750030;Foreign Minister;Giorgio Almirante;1945;1964;NS;The Cloak N Dagger Schemer;High;6082;X
+750031;Head of State;H.M. Filiberto I;1933;1991;FA;Resigned Generalissimo;High;ITA - Filiberto Duke of Genoa;X
+750032;Head of State;H.M. Amadeo II;1984;2020;FA;Benevolent Gentleman;High;ITA - Prince Amadeo Duke of Aosta;X
+750033;Head of State;Alessandro Pavolini;1933;1933;NS;Ruthless Powermonger;Very High;M508017;X
+750034;Head of State;Licio Gelli;1964;1964;NS;Autocratic Charmer;Very High;RSI - Licio Gelli;X
+750035;Head of Government;Benito Mussolini;1933;1964;FA;Imperialist Buffoon;High;2688;X
+750036;Head of Government;Gino Birindelli;1953;2009;FA;Old Admiral;Very High;ITA - Gino Birindelli;X
+750037;Head of Government;Roberto Farinacci;1933;1964;NS;Political Protege;High;M3096;X
+750038;Head of Government;Giorgio Almirante;1955;1988;NS;Backroom Backstabber;High;6082;X
+750039;Head of Government;Pino Rauti;1985;2013;NS;Ambitious Union Boss;High;RSI - Pino Rauti;X

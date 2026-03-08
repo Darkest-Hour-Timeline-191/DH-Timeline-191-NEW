@@ -92,7 +92,7 @@ war = { country = CSA country = USA }
 not = { flag = CAP_CLE }
 }
 
-name = Toledo Captured"
+name = "Toledo Captured"
 desc = "We have captured the city of Toledo from the damn Yankees, reaching the shores of Lake Erie. There is also an opportunity to recover some of the resources in the city. We can strip some of the factories and take some of the resources."
 style = 2
 picture = "urbanwarfare"
@@ -134,7 +134,7 @@ war = { country = CSA country = USA }
 not = { flag = CAP_CLE }
 }
 
-name = Washington DC Captured"
+name = "Washington DC Captured"
 desc = "Our glorius forces have once again captured the former Yankee Capital of Washington DC. There is also an opportunity to recover some of the resources in the city. We can strip some of the factories and take some of the resources."
 style = 2
 picture = "urbanwarfare"

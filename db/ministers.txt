@@ -51,7 +51,7 @@ ministers_eth.csv
 ministers_eus.csv
 ministers_fin.csv
 ministers_fla.csv
-#ministers_fra.csv
+ministers_fra.csv
 ministers_gab.csv
 ministers_geo.csv
 ministers_ger.csv
@@ -125,9 +125,8 @@ ministers_sar.csv
 ministers_sau.csv
 ministers_sca.csv
 ministers_sch.csv
-#ministers_sco.csv
 ministers_ser.csv
-#ministers_sia.csv
+ministers_sia.csv
 ministers_sib.csv
 ministers_sie.csv
 ministers_sik.csv
@@ -156,8 +155,6 @@ ministers_U06.csv
 ministers_U08.csv
 ministers_U09.csv
 ministers_U10.csv
-#ministers_U11.csv
-#ministers_U12.csv
 ministers_U13.csv
 ministers_U14.csv
 ministers_U15.csv
@@ -203,15 +200,12 @@ ministers_u57.csv
 ministers_u58.csv
 ministers_u59.csv
 ministers_U60.csv
-#ministers_U66.csv
 ministers_U67.csv
 ministers_U70.csv
 ministers_U71.csv
 ministers_U72.csv
-#ministers_U73.csv
 ministers_U74.csv
 ministers_U75.csv
-#ministers_U76.csv
 ministers_U77.csv
 ministers_U78.csv
 ministers_U79.csv
@@ -241,9 +235,10 @@ ministers_usa.csv
 ministers_UTC.csv
 ministers_uzb.csv
 ministers_ven.csv
-#ministers_vic.csv
 ministers_vie.csv
 ministers_wll.csv
 ministers_yem.csv
 ministers_yug.csv
 ministers_uch.csv
+ministers_ubo.csv
+ministers_u69.csv

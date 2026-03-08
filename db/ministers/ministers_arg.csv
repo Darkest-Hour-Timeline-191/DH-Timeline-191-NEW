@@ -3,7 +3,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165001;Head of State;Agustín P. Justo;1922;1933;PA;Resigned Generalissimo;High;M35001;X
 165002;Head of Government;Agustín P. Justo;1922;1933;PA;Old General;High;M35001;X
 165003;Foreign Minister;Carlos Saavedra Lamas;1933;1964;PA;The Cloak N Dagger Schemer;High;M35003;X
-165004;Minister of Armament;Alberto Hueyo;1933;1964;PA;laissez-faire capitalist;High;M35004;X
+165004;Minister of Armament;Alberto Hueyo;1933;1964;PA;Laissez-Faire Capitalist;High;M35004;X
 165005;Minister of Security;Ramon Castillo;1933;1964;PA;Prince of Terror;Medium;M35005;X
 165006;Head of Military Intelligence;Jorge de la Torre;1933;1964;PA;Industrial Specialist;Medium;M35006;X
 165007;Chief of Staff;Manuel A. Rodriguez;1933;1964;PA;School of Defence;Very High;M35007;X
@@ -61,7 +61,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165059;Foreign Minister;Juan Bramuglia;1945;1964;LWR;Great Compromiser;Medium;M35081;X
 165060;Foreign Minister;Juan Isaac Cooke;1947;1964;LWR;Iron Fisted Brute;Medium;M35082;X
 165061;Minister of Armament;Lisandro de la Torre;1937;1964;SC;Resource Industrialist;High;M35084;X
-165062;Minister of Armament;Luis Podesta Costa;1938;1964;SC;Air To Ground Proponent;Medium;M35014;X
+165062;Minister of Armament;Luis Podesta Costa;1938;1964;SC;Air to Ground Proponent;Medium;M35014;X
 165063;Minister of Armament;Pedro Aramburu;1940;1964;SC;Tank Proponent;High;M35062;X
 165064;Minister of Armament;Agustin Rodriguez;1944;1964;SC;Administrative Genius;High;M35087;X
 165065;Minister of Armament;Elpidio Gonzalez;1933;1964;SL;Resource Industrialist;High;M35088;X
@@ -75,7 +75,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165073;Minister of Armament;Humberto de Cejas Verda;1933;1964;SD;Theoretical Scientist;High;M35096;X
 165074;Minister of Armament;Juan Oztero Medina;1940;1964;SD;Resource Industrialist;High;M35097;X
 165075;Minister of Armament;Guillermo Rothe;1938;1964;PA;Corrupt Kleptocrat;Medium;M35074;X
-165076;Minister of Armament;Federico Pinedo;1939;1964;PA;laissez-faire capitalist;High;M35099;X
+165076;Minister of Armament;Federico Pinedo;1939;1964;PA;Laissez-Faire Capitalist;High;M35099;X
 165077;Minister of Armament;Julio A. Roca;1940;1964;PA;Battle Fleet Proponent;High;M35040;X
 165078;Minister of Armament;Augusto Díaz Bustan;1941;1964;PA;Military Entrepreneur;High;M35101;X
 165079;Minister of Armament;Antonio Parodi;1940;1964;PA;Air Superiority Proponent;Very High;M35010;X
@@ -177,7 +177,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165175;Head of State;Adolfo Rawson Bustamante;1943;1964;SC;Barking Buffoon;High;M35150;X
 165176;Head of Government;Adolfo Rawson Bustamante;1943;1964;SC;Old Admiral;High;M35150;X
 165177;Foreign Minister;Segundo R. Storni;1943;1964;SC;Iron Fisted Brute;High;M35225;X
-165178;Minister of Armament;Benito Sueyro;1943;1964;SC;laissez-faire capitalist;High;M35226;X
+165178;Minister of Armament;Benito Sueyro;1943;1964;SC;Laissez-Faire Capitalist;High;M35226;X
 165179;Minister of Security;Diego Isidro Mason;1943;1964;SC;Silent Lawyer;Medium;M35227;X
 165180;Head of Military Intelligence;Vicente Huidrabra Urribe;1943;1964;SC;Technical Specialist;Medium;M35228;X
 165181;Chief of Army;Adolfo Rawson Bustamante;1941;1964;SC;Decisive Battle Doctrine;Very High;M35150;X
@@ -193,7 +193,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165191;Chief of Air Force;Benjamín Matienzo;1918;1933;ML;Carpet Bombing Doctrine;High;5931;X
 165192;Chief of Air Force;Alejandro Obligado;1915;1933;ML;Army Aviation Doctrine;Very High;2159;X
 165193;Chief of Army;Francisco Velez;1914;1933;ML;Decisive Battle Doctrine;Very High;2160;X
-165194;Chief of Army;Angel P. Allaria;1914;1933;ML;elastic defence doctrine;High;5932;X
+165194;Chief of Army;Angel P. Allaria;1914;1933;ML;Elastic Defence Doctrine;High;5932;X
 165195;Chief of Navy;Servando Cardozo;1914;1933;ML;Decisive Naval Battle Doctrine;High;unknown;X
 165196;Chief of Navy;Gabriel Albarracion;1915;1933;ML;Open Seas Doctrine;High;unknown;X
 165197;Chief of Navy;Ricardo Ugarriza;1916;1933;ML;Base Control Doctrine;High;5933;X
@@ -204,7 +204,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165202;Chief of Navy;Enrique G. Fliess;1923;1933;ML;Base Control Doctrine;High;unknown;X
 165203;Chief of Navy;Carlos G. Daireaux;1924;1933;ML;Decisive Naval Battle Doctrine;High;unknown;X
 165204;Chief of Staff;Francisco Velez;1914;1933;ML;School of Psychology;Very High;2160;X
-165205;Chief of Staff;Angel P. Allaria;1914;1933;ML;school of defence;High;5932;X
+165205;Chief of Staff;Angel P. Allaria;1914;1933;ML;School of Defence;High;5932;X
 165206;Foreign Minister;Ernesto Bosch;1914;1933;ML;Great Compromiser;High;5935;X
 165207;Foreign Minister;José Luis Muratore;1914;1933;ML;Great Compromiser;High;2161;X
 165208;Foreign Minister;Hipólito Yrigoyen;1916;1933;LWR;Ideological Crusader;High;2162;X
@@ -225,7 +225,7 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165223;Minister of Armament;Francisco J. Oliver;1914;1933;ML;Administrative Genius;High;unknown;X
 165224;Minister of Armament;Ramon Gomez;1916;1933;LWR;Resource Industrialist;High;5939;X
 165225;Minister of Armament;Francisco Beiro;1916;1933;LWR;Resource Industrialist;High;5937;X
-165226;Minister of Armament;José Nicolas Matienzo;1922;1933;SL;laissez-faire capitalist;High;5938;X
+165226;Minister of Armament;José Nicolas Matienzo;1922;1933;SL;Laissez-Faire Capitalist;High;5938;X
 165227;Minister of Armament;Vicente C. Gallo;1922;1933;SL;Resource Industrialist;High;2171;X
 165228;Minister of Armament;José P. Tamborini;1922;1933;SL;Administrative Genius;High;2172;X
 165229;Minister of Security;Indelecio Gomez;1914;1933;ML;Silent Lawyer;High;5940;X
@@ -235,8 +235,71 @@ ARG;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 165233;Minister of Security;José Nicolas Matienzo;1922;1933;SL;Man of the People;High;5938;X
 165234;Minister of Security;Vicente C. Gallo;1922;1933;SL;Compassionate Gentleman;High;2171;X
 165235;Minister of Security;José P. Tamborini;1922;1933;SL;Crime Fighter;High;2172;X
-165236;Minister of Security;Rodolf Almiron Sena;1959;1964;FA;Crooked Kleptocrat;Very Low;5990;x
-165237;Head of Government;Nimio de Anquín;1940;1964;FA;Naive Optimist;High;5991;x
-165238;Foreign Minister;Nimio de Anquín;1934;1964;FA;Biased Intellectual;High;5991;x
-165239;Minister of Security;Julio Meinvielle;1934;1964;NS;Prince of Terror;High;5992;x
-165240;Minister of Armament;Alfredo Martínez de Hoz;1956;1964;PA;Laissez-Faire Capitalist;medium;5993;x 
+165236;Minister of Security;Rodolf Almiron Sena;1959;1964;FA;Crooked Kleptocrat;Very Low;5990;X
+165237;Head of Government;Nimio de Anquín;1940;1964;FA;Naive Optimist;High;5991;X
+165238;Foreign Minister;Nimio de Anquín;1934;1964;FA;Biased Intellectual;High;5991;X
+165239;Minister of Security;Julio Meinvielle;1934;1964;NS;Prince of Terror;High;5992;X
+165240;Minister of Armament;Alfredo Martínez de Hoz;1956;1964;PA;Laissez-Faire Capitalist;Medium;5993;X
+165241;Head of State;Pedro Aramburu;1955;1971;SC;Stern Imperialist;High;M35062;X
+165242;Head of State;Arturo Frondizi;1958;1996;SD;Barking Buffoon;Medium;ARG - Arturo Frondizi;X
+165243;Head of State;Arturo Umberto Illia;1963;1984;SC;Die-hard Reformer;Medium;ARG - Arturo Umberto Illia;X
+165244;Head of State;Juan Carlos Ongania;1966;1996;PA;Resigned Generalissimo;Medium;ARG - Juan Carlos Ongania;X
+165245;Head of State;Roberto M. Levingston;1970;2016;PA;Weary Stiffneck;Medium;ARG - Roberto M Levingston;X
+165246;Head of State;Alejandro A. Lanusse;1971;1997;PA;Barking Buffoon;Medium;ARG - Alejandro A Lanusse;X
+165247;Head of State;Juan Domingo Perón;1973;1975;SC;Barking Buffoon;Medium;ARG - Juan Domingo Perón;X
+165248;Head of State;Isabel Martinez de Perón;1973;2020;SC;Weary Stiffneck;Medium;ARG - Isabel Martinez de Perón;X
+165249;Head of State;Jorge Rafael Videla;1976;2014;FA;Resigned Generalissimo;High;ARG - Jorge Rafael Videla;X
+165250;Head of State;Roberto Eduardo Viola;1981;1995;PA;Ruthless Powermonger;Medium;ARG - Roberto Eduardo Viola;X
+165251;Head of State;Leopoldo Galtieri;1982;2004;PA;Popular Figurehead;Medium;ARG - Leopoldo Galtieri;X
+165252;Head of State;Reynaldo Bignone;1982;2019;PA;Ruthless Powermonger;Medium;ARG - Reynaldo Bignone;X
+165253;Head of State;Raúl Alfonsín;1983;2010;SD;Powerhungry Demagogue;Medium;ARG - Raúl Alfonsin;X
+165254;Head of State;Carlos Menem;1989;2020;SC;Autocratic Charmer;Medium;ARG - Carlos Menem;X
+165255;Head of State;Fernando de la Rúa;1999;2020;SL;Weary Stiffneck;Medium;ARG - Fernando de la Rúa;X
+165256;Head of State;José P. Tamborini;1946;1956;ML;Die-hard Reformer;Medium;2172;X
+165257;Head of State;Ricardo Balbin;1951;1982;ML;Popular Figurehead;Medium;ARG - Ricardo Balbin;X
+165258;Head of State;Eduardo Angeloz;1983;2018;SD;Insignificant Layman;Medium;ARG - Eduardo Angeloz;X
+165259;Head of State;Italo Luder;1983;2009;SC;Stern Imperialist;Medium;ARG - Italo Luder;X
+165260;Head of State;Eduardo Duhalde;1999;2020;ML;Barking Buffoon;Medium;ARG - Eduardo Duhalde;X
+165261;Head of State;Luis Víctor Sommi;1933;1971;ST;Powerhungry Demagogue;Medium;ARG - Luis Víctor Sommi;X
+165262;Head of State;Fanny Edelman;1970;2012;ST;Ruthless Powermonger;Medium;ARG - Fanny Edelman;X
+165263;Head of State;Rodolfo José Ghioldi;1933;1986;LE;Die-hard Reformer;Medium;ARG - Rodolfo José Ghioldi;X
+165264;Head of State;Athos Fava;1980;2017;LE;Weary Stiffneck;Medium;ARG - Athos Fava;X
+165265;Head of State;Francisco Pérez Leirós;1933;1972;LWR;Stern Imperialist;Medium;ARG - Francisco Pérez Leirós;X
+165266;Head of State;Juan Gelman;1971;2015;LWR;Autocratic Charmer;Medium;ARG - Juan Gelman;X
+165267;Head of State;Mohamed Alí Seineldín;1983;2010;PA;Reformist Soldierhos;High;ARG - Mohamed Ali Seineldin;X
+165268;Head of State;Nimio de Anquín;1940;1964;FA;Benevolent Gentleman;High;5991;X
+165269;Head of State;Alberto Ezcurra Uriburu;1963;1994;FA;Pig-headed Isolationist;High;ARG - Alberto Ezcurra Uriburu;X
+165270;Head of State;Rodolfo Eduardo Almirón;1980;2010;FA;Autocratic Charmer;High;ARG - Rodolfo Eduardo Almirón;X
+165271;Head of State;José López Rega;1963;1990;NS;Ruthless Powermonger;High;ARG - José López Rega;X
+165272;Head of State;Julio Héctor Simón;1985;2020;NS;Stern Imperialist;High;ARG - Julio Héctor Simón;X
+165273;Head of Government;Pedro Aramburu;1955;1971;SC;Ambitious Union Boss;High;M35062;X
+165274;Head of Government;Arturo Frondizi;1958;1996;SD;Corporate Suit;Medium;ARG - Arturo Frondizi;X
+165275;Head of Government;Arturo Umberto Illia;1963;1984;SC;Silent Workhorse;Medium;ARG - Arturo Umberto Illia;X
+165276;Head of Government;Juan Carlos Ongania;1966;1996;PA;Old General;Medium;ARG - Juan Carlos Ongania;X
+165277;Head of Government;Roberto M. Levingston;1970;2016;PA;Silent Workhorse;Medium;ARG - Roberto M Levingston;X
+165278;Head of Government;Alejandro A. Lanusse;1971;1997;PA;Old General;Medium;ARG - Alejandro A Lanusse;X
+165279;Head of Government;Juan Domingo Perón;1973;1975;SC;Old General;Medium;ARG - Juan Domingo Perón;X
+165280;Head of Government;Isabel Martinez de Perón;1973;2020;SC;Happy Amateur;Medium;ARG - Isabel Martinez de Perón;X
+165281;Head of Government;Jorge Rafael Videla;1976;2014;FA;Ambitious Union Boss;High;ARG - Jorge Rafael Videla;X
+165282;Head of Government;Roberto Eduardo Viola;1981;1995;PA;Backroom Backstabber;Medium;ARG - Roberto Eduardo Viola;X
+165283;Head of Government;Leopoldo Galtieri;1982;2004;PA;Happy Amateur;Medium;ARG - Leopoldo Galtieri;X
+165284;Head of Government;Reynaldo Bignone;1982;2019;PA;Silent Workhorse;Medium;ARG - Reynaldo Bignone;X
+165285;Head of Government;Raúl Alfonsín;1983;2010;SD;Smiling Oilman;Medium;ARG - Raúl Alfonsin;X
+165286;Head of Government;Carlos Menem;1989;2020;SC;Ambitious Union Boss;Medium;ARG - Carlos Menem;X
+165287;Head of Government;Fernando de la Rúa;1999;2020;SL;Happy Amateur;Medium;ARG - Fernando de la Rúa;X
+165288;Head of Government;José P. Tamborini;1946;1956;ML;Silent Workhorse;Medium;2172;X
+165289;Head of Government;Ricardo Balbin;1951;1982;ML;Political Protege;Medium;ARG - Ricardo Balbin;X
+165290;Head of Government;Eduardo Angeloz;1983;2018;SD;Ambitious Union Boss;Medium;ARG - Eduardo Angeloz;X
+165291;Head of Government;Italo Luder;1983;2009;SC;Backroom Backstabber;Medium;ARG - Italo Luder;X
+165292;Head of Government;Eduardo Duhalde;1999;2020;ML;Flamboyant Tough Guy;Medium;ARG - Eduardo Duhalde;X
+165293;Head of Government;Luis Víctor Sommi;1933;1971;ST;Backroom Backstabber;Medium;ARG - Luis Víctor Sommi;X
+165294;Head of Government;Fanny Edelman;1970;2012;ST;Flamboyant Tough Guy;Medium;ARG - Fanny Edelman;X
+165295;Head of Government;Rodolfo José Ghioldi;1933;1986;LE;Political Protege;Medium;ARG - Rodolfo José Ghioldi;X
+165296;Head of Government;Athos Fava;1980;2017;LE;Silent Workhorse;Medium;ARG - Athos Fava;X
+165297;Head of Government;Francisco Pérez Leirós;1933;1972;LWR;Ambitious Union Boss;Medium;ARG - Francisco Pérez Leirós;X
+165298;Head of Government;Juan Gelman;1971;2015;LWR;Happy Amateur;Medium;ARG - Juan Gelman;X
+165299;Head of Government;Mohamed Alí Seineldín;1983;2010;PA;Reformist Soldierhog;High;ARG - Mohamed Ali Seineldin;X
+165300;Head of Government;Alberto Ezcurra Uriburu;1963;1994;FA;Corporate Suit;High;ARG - Alberto Ezcurra Uriburu;X
+165301;Head of Government;Rodolfo Eduardo Almirón;1980;2010;FA;Silent Workhorse;High;ARG - Rodolfo Eduardo Almirón;X
+165302;Head of Government;José López Rega;1963;1990;NS;Backroom Backstabber;High;ARG - José López Rega;X
+165303;Head of Government;Julio Héctor Simón;1985;2020;NS;Flamboyant Tough Guy;High;ARG - Julio Héctor Simón;X

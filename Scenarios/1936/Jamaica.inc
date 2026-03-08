@@ -7,6 +7,10 @@ province = {
   naval_base = { size = 2 current_size = 2 }
 }
 
+#####################
+# Country main data #
+#####################
+
 country = {
   tag                = U89
   capital            = 891 # Kingston
@@ -43,30 +47,29 @@ country = {
     defense_lobby     = 5
     interventionism   = 1
   }
-  headofstate            = { type = 9 id = 1260001 }
-  headofgovernment       = { type = 9 id = 1260002 }
-  foreignminister        = { type = 9 id = 1260003 }
-  armamentminister       = { type = 9 id = 1260004 }
-  ministerofsecurity     = { type = 9 id = 1260005 }
-  ministerofintelligence = { type = 9 id = 1260006 }
-  chiefofstaff           = { type = 9 id = 1260007 }
-  chiefofarmy            = { type = 9 id = 1260008 }
-  chiefofnavy            = { type = 9 id = 1260009 }
-  chiefofair             = { type = 9 id = 1260010 }
+  headofstate            = { type = 9 id = 1260001 } # Marcus Garvey
+  headofgovernment       = { type = 9 id = 1260002 } # Marcus Garvey
+  foreignminister        = { type = 9 id = 1260003 } # Marcus Garvey
+  armamentminister       = { type = 9 id = 1260004 } # Marcus Garvey
+  ministerofsecurity     = { type = 9 id = 1260005 } # Marcus Garvey
+  ministerofintelligence = { type = 9 id = 1260006 } # Joshua Cockburn
+  chiefofstaff           = { type = 9 id = 1260007 } # Hubert Julian
+  chiefofarmy            = { type = 9 id = 1260008 } # Hubert Julian
+  chiefofnavy            = { type = 9 id = 1260009 } # Hubert Julian
+  chiefofair             = { type = 9 id = 1260010 } # Hubert Julian
 
-	navalunit = {
-		id       = { type = 13504 id = 1 }
-		name     = "Jamaican Navy"
-		location = 891
-		base     = 891
-	division = {
-		id             = { type = 13504 id = 2 }
-		name           = "Paul Bogley"
-		type           = destroyer
-		model          = 0
-		strength       = 20
-		max_strength   = 20
-	
-	}
+  navalunit = {
+    id       = { type = 13504 id = 1 }
+    name     = "Jamaican Navy"
+    location = 891
+    base     = 891
+    division = {
+      id             = { type = 13504 id = 2 }
+      name           = "Paul Bogley"
+      type           = destroyer
+      model          = 0
+      strength       = 20
+      max_strength   = 20
+    }
   }
 }

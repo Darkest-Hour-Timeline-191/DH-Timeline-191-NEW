@@ -20,7 +20,7 @@ GUA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 305018;Head of Government;Manuel Orellana;1945;1964;SL;Smiling Oilman;High;M46012;X
 305019;Head of Government;Eduardo Villagran Ariza;1945;1964;SC;Political Protege;High;M46006;X
 305020;Head of Government;Manuel Arroyo;1937;1964;FA;Old Admiral;High;M46031;X
-305021;Head of Government;R. Buenaventure Pineda;1944;1964;PA;old airmarshal;High;M46010;X
+305021;Head of Government;R. Buenaventure Pineda;1944;1964;PA;Old Airmarshal;High;M46010;X
 305022;Head of Government;Eduardo Villagran Ariza;1944;1964;PA;Happy Amateur;High;M46006;X
 305023;Foreign Minister;Carlos Argumedo Salazar;1944;1964;LWR;The Cloak N Dagger Schemer;Medium;M46035;X
 305024;Foreign Minister;Jorge Torriello Garrido;1945;1964;SD;General Staffer;Medium;M46011;X
@@ -31,7 +31,7 @@ GUA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 305029;Minister of Armament;Jacopo Arbenz Guzman;1945;1964;SD;Infantry Proponent;Medium;M46021;X
 305030;Minister of Armament;Diego A. Castro Arigon;1946;1964;SD;Administrative Genius;Medium;M46044;X
 305031;Minister of Armament;Julio Herrera;1945;1964;SL;Resource Industrialist;Medium;M46045;X
-305032;Minister of Armament;José Matos;1945;1964;SC;laissez-faire capitalist;Medium;M46014;X
+305032;Minister of Armament;José Matos;1945;1964;SC;Laissez-Faire Capitalist;Medium;M46014;X
 305033;Minister of Armament;T. Castro Dominguez;1937;1964;PA;Corrupt Kleptocrat;Medium;M46005;X
 305034;Minister of Armament;Manuel Arroyo;1940;1964;PA;Theoretical Scientist;Medium;M46031;X
 305035;Minister of Armament;Federico Ponce Vaides;1944;1964;PA;Tank Proponent;Medium;M46007;X
@@ -66,11 +66,50 @@ GUA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 305064;Head of Government;Federico Ponce Vaides;1944;1964;PA;Old General;Very High;M46007;X
 305065;Head of State;Manuel Cabrera;1914;1933;SL;Barking Buffoon;Medium;2650;X
 305066;Head of Government;Manuel Cabrera;1914;1933;SL;Naive Optimist;Medium;2650;X
-305067;Minister of Armament;Lazaro Chacón;1914;1933;SL;MILITARY ENTREPRENEUR;Medium;2651;X
-305068;Minister of Security;Miguel Larrave;1914;1933;ML;CROOKED KLEPTOCRAT;Medium;unknown;X
-305069;Chief of Staff;José Letona;1914;1933;ML;SCHOOL OF DEFENCE;Medium;unknown;X
+305067;Minister of Armament;Lazaro Chacón;1914;1933;SL;Military Entrepreneur;Medium;2651;X
+305068;Minister of Security;Miguel Larrave;1914;1933;ML;Crooked Kleptocrat;Medium;unknown;X
+305069;Chief of Staff;José Letona;1914;1933;ML;School of Defence;Medium;unknown;X
 305070;Head of State;Carlos Herrera;1920;1933;SL;Resigned Generalissimo;Medium;2652;X
 305071;Head of Government;Carlos Herrera;1920;1933;SL;Ambitious Union Boss;Medium;2652;X
 305072;Head of State;José Orellana;1921;1933;SL;Autocratic Charmer;Medium;6893;X
 305073;Head of Government;José Orellana;1921;1933;SL;Backroom Backstabber;Medium;6893;X
-305074;Chief of Army;José Orellana;1914;1933;ML;DECISIVE BATTLE DOCTRINE;Medium;6893;X
+305074;Chief of Army;José Orellana;1914;1933;ML;Decisive Battle Doctrine;Medium;6893;X
+305075;Head of State;Carlos Castillo Armas;1953;1958;PA;Ruthless Powermonger;Medium;M46053;X
+305076;Head of State;Miguel Ydígoras Fuentes;1950;1983;SC;Popular Figurehead;Medium;GUA - Miguel Ydigoras Fuentes;X
+305077;Head of State;Enrique Peralta Azurdia;1963;1998;SC;Resigned Generalissimo;Medium;GUA - Enrique Peralta Azurdia;X
+305078;Head of State;Julio Méndez Montenegro;1966;1997;SD;Ruthless Powermonger;Medium;GUA - Julio Méndez Montenegro;X
+305079;Head of State;Carlos Arana Osorio;1970;2004;PA;Weary Stiffneck;Medium;GUA - Carlos Arana Osorio;X
+305080;Head of State;Kjell Laugerud García;1974;2010;PA;Autocratic Charmer;Medium;GUA - Kjell Laugerud Garcia;X
+305081;Head of State;Fernando Lucas García;1978;2007;PA;Stern Imperialist;Medium;GUA - Fernando Lucas Garcia;X
+305082;Head of State;Efraín Ríos Montt;1974;2019;PA;Stern Imperialist;Medium;GUA - Efrain Rios Montt;X
+305083;Head of State;Óscar Mejía Victores;1983;2017;PA;Autocratic Charmer;Medium;GUA - Oscar Mejia Victores;X
+305084;Head of State;Vinicio Cerezo Arévalo;1985;2020;SC;Popular Figurehead;Medium;GUA - Vinicio Cerezo Arévalo;X
+305085;Head of State;Jorge Serrano Elías;1986;2020;SD;Powerhungry Demagogue;Medium;GUA - Jorge Serrano Elias;X
+305086;Head of State;Ricardo Ramírez de León;1993;2003;ML;Popular Figurehead;Medium;GUA - Ricardo Ramirez de León;X
+305087;Head of State;Álvaro Enrique Arzú;1995;2019;ML;Benevolent Gentleman;Medium;GUA - Alvaro Arzú Yrigoyen;X
+305088;Head of State;Alfonso Portillo Cabrera;1995;2020;SC;Barking Buffoon;Medium;GUA - Alfonso Portillo Cabrera;X
+305089;Head of State;José Cruz Salazar;1958;1993;SD;Reformist Soldierhos;Medium;GUA - José Cruz Salazar;X
+305090;Head of State;Juan Aguilar de León;1966;2000;SC;Insignificant Layman;Medium;unknownminister;X
+305091;Head of State;Mario Fuentes Pieruccini;1970;2000;SD;Barking Buffoon;Medium;GUA - Mario Fuentes Pieruccini;X
+305092;Head of State;Jorge Carpio Nicolle;1985;1994;SL;Die-hard Reformer;Medium;GUA - Jorge Carpio Nicolle;X
+305093;Head of State;Óscar Berger Perdomo;1999;2020;ML;Barking Buffoon;Medium;GUA - Oscar Berger Perdomo;X
+305094;Head of State;José Manuel Fortuny;1944;2006;ST;Ruthless Powermonger;Medium;GUA - José Manuel Fortuny;X
+305095;Head of State;Ricardo Rosales Román;1975;2020;LE;Powerhungry Demagogue;Medium;GUA - Ricardo Rosales Román;X
+305096;Head of Government;Jacopo Arbenz Guzman;1944;1964;LWR;Naive Optimist;High;M46021;X
+305097;Head of Government;Carlos Castillo Armas;1953;1958;PA;Old General;Medium;M46053;X
+305098;Head of Government;Miguel Ydígoras Fuentes;1950;1983;SC;Ambitious Union Boss;Medium;GUA - Miguel Ydigoras Fuentes;X
+305099;Head of Government;Enrique Peralta Azurdia;1963;1998;SC;Naive Optimist;Medium;GUA - Enrique Peralta Azurdia;X
+305100;Head of Government;Julio Méndez Montenegro;1966;1997;SD;Happy Amateur;Medium;GUA - Julio Méndez Montenegro;X
+305101;Head of Government;Carlos Arana Osorio;1970;2004;PA;Flamboyant Tough Guy;Medium;GUA - Carlos Arana Osorio;X
+305102;Head of Government;Kjell Laugerud García;1974;2010;PA;Old General;Medium;GUA - Kjell Laugerud Garcia;X
+305103;Head of Government;Fernando Lucas García;1978;2007;PA;Old General;Medium;GUA - Fernando Lucas Garcia;X
+305104;Head of Government;Efraín Ríos Montt;1974;2019;PA;Backroom Backstabber;Medium;GUA - Efrain Rios Montt;X
+305105;Head of Government;Óscar Mejía Victores;1983;2017;PA;Old General;Medium;GUA - Oscar Mejia Victores;X
+305106;Head of Government;Vinicio Cerezo Arévalo;1985;2020;SC;Naive Optimist;Medium;GUA - Vinicio Cerezo Arévalo;X
+305107;Head of Government;Jorge Serrano Elías;1986;2020;SD;Ambitious Union Boss;Medium;GUA - Jorge Serrano Elias;X
+305108;Head of Government;Ricardo Ramírez de León;1993;2003;ML;Naive Optimist;Medium;GUA - Ricardo Ramirez de León;X
+305109;Head of Government;Álvaro Enrique Arzú;1995;2019;ML;Corporate Suit;Medium;GUA - Alvaro Arzú Yrigoyen;X
+305110;Head of Government;Alfonso Portillo Cabrera;1995;2020;SC;Backroom Backstabber;Medium;GUA - Alfonso Portillo Cabrera;X
+305111;Head of Government;Óscar Berger Perdomo;1999;2020;ML;Ambitious Union Boss;Medium;GUA - Oscar Berger Perdomo;X
+305112;Head of Government;José Manuel Fortuny;1944;2006;ST;Backroom Backstabber;Medium;GUA - José Manuel Fortuny;X
+305113;Head of Government;Ricardo Rosales Román;1975;2020;LE;Ambitious Union Boss;Medium;GUA - Ricardo Rosales Román;X

@@ -3,7 +3,7 @@ ECU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 190001;Head of State;Federico Páez Chiriboaga;1933;1964;SL;Stern Imperialist;High;M40001;X
 190002;Head of Government;Federico Páez Chiriboaga;1933;1964;SL;Flamboyant Tough Guy;High;M40001;X
 190003;Foreign Minister;Alberto Larrea Chiriboaga;1933;1964;SL;Apologetic Clerk;Medium;M40003;X
-190004;Minister of Armament;Fabian Del Castello;1933;1964;SL;laissez-faire capitalist;Medium;M40004;X
+190004;Minister of Armament;Fabian Del Castello;1933;1964;SL;Laissez-Faire Capitalist;Medium;M40004;X
 190005;Minister of Security;Davide Flores;1933;1964;SL;Crime Fighter;Medium;M40005;X
 190006;Head of Military Intelligence;Aurelio Mosquera Narváez;1933;1964;SL;Logistics Specialist;Medium;M40006;X
 190007;Chief of Staff;Benigno Andrade Flores;1933;1964;SL;School of Defence;Very Low;M40007;X
@@ -35,7 +35,7 @@ ECU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 190033;Head of Government;Aurelio Mosquera Narváez;1938;1964;SL;Backroom Backstabber;High;M40006;X
 190034;Head of Government;Andrés de Córdova Nieto;1939;1964;SL;Happy Amateur;High;M40036;X
 190035;Head of Government;Antonio Pons Campuzano;1944;1964;SL;Naive Optimist;High;M40037;X
-190036;Head of Government;Carlos Arosemena Tola;1947;1964;SL;old airmarshal;High;M40038;X
+190036;Head of Government;Carlos Arosemena Tola;1947;1964;SL;Old Airmarshal;High;M40038;X
 190037;Head of Government;Juan de Diaz Mera;1937;1964;SC;Corporate Suit;High;M40015;X
 190038;Head of Government;Carlos Arroyo del Río;1941;1964;SC;Flamboyant Tough Guy;High;M40040;X
 190039;Head of Government;Isidro Ayora Cueva;1944;1964;SC;Political Protege;High;M40041;X
@@ -62,13 +62,13 @@ ECU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 190060;Foreign Minister;Benigno Andrade Flores;1941;1964;PA;General Staffer;Medium;M40007;X
 190061;Minister of Armament;José María Velasco Ibarra;1937;1964;SD;Infantry Proponent;Medium;M40068;X
 190062;Minister of Armament;Neptali Bonofaz Ascázubi;1940;1964;SD;Administrative Genius;Medium;M40028;X
-190063;Minister of Armament;Carlos Arosemena Tola;1941;1964;SD;laissez-faire capitalist;High;M40038;X
+190063;Minister of Armament;Carlos Arosemena Tola;1941;1964;SD;Laissez-Faire Capitalist;High;M40038;X
 190064;Minister of Armament;Nicolas Delgado;1947;1964;SD;Tank Proponent;Medium;M40024;X
 190065;Minister of Armament;Aurelio Mosquera Narváez;1938;1964;SL;Battle Fleet Proponent;High;M40006;X
 190066;Minister of Armament;Antonio Pons Campuzano;1939;1964;SL;Corrupt Kleptocrat;Medium;M40037;X
 190067;Minister of Armament;Federico Páez Chiriboaga;1933;1964;SL;Air to Sea Proponent;Medium;M40001;X
 190068;Minister of Armament;Miquel Andramonte;1944;1964;SL;Air Superiority Proponent;Medium;M40074;X
-190069;Minister of Armament;Fabian Del Castello;1937;1964;SC;laissez-faire capitalist;Medium;M40004;X
+190069;Minister of Armament;Fabian Del Castello;1937;1964;SC;Laissez-Faire Capitalist;Medium;M40004;X
 190070;Minister of Armament;Juan de Diaz Mera;1938;1964;SC;Corrupt Kleptocrat;Medium;M40015;X
 190071;Minister of Armament;Galo Plaza Lasso;1940;1964;SC;Resource Industrialist;High;M40094;X
 190072;Minister of Armament;Julio Moreno Peñaherrera;1943;1964;SC;Theoretical Scientist;High;M40045;X
@@ -137,21 +137,58 @@ ECU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 190135;Minister of Security;Juan de Diaz Mera;1933;1964;PA;Crooked Kleptocrat;Medium;M40015;X
 190136;Head of State;Galo Plaza Lasso;1948;1964;SC;Insignificant Layman;High;M40094;X
 190137;Head of Government;Galo Plaza Lasso;1948;1964;SC;Silent Workhorse;High;M40094;X
-190138;Chief of Army;Leonidas Plaza Guiterrez;1914;1933;ML;ELASTIC DEFENCE DOCTRINE;Very High;2386;X
-190139;Chief of Staff;Leonidas Plaza Guiterrez;1914;1933;ML;SCHOOL OF DEFENCE;Very High;2386;X
-190140;Foreign Minister;Carlos M. Tobar Borgoño;1916;1933;SL;BIASED INTELLECTUAL;High;2415;X
-190141;Foreign Minister;José Rafael Bustamante;1924;1933;SL;IRON FISTED BRUTE;High;2389;X
-190142;Foreign Minister;Luis Napoleón Dillon;1914;1933;ML;GREAT COMPROMISER;High;2385;X
-190143;Foreign Minister;Nicolás Clemente Ponce Borja;1920;1933;SL;THE CLOAK N DAGGER SCHEMER;High;2416;X
-190144;Foreign Minister;Augusto Aguirre Aparicio;1916;1933;SL;APOLOGETIC CLERK;High;unknown;X
-190145;Foreign Minister;Carlos Rafael H. Elizalde;1914;1933;ML;IDEOLOGICAL CRUSADER;High;unknown;X
-190146;Foreign Minister;Leonardo Sotomayor;1924;1933;SL;GENERAL STAFFER;High;unknown;X
+190138;Chief of Army;Leonidas Plaza Guiterrez;1914;1933;ML;Elastic Defence Doctrine;Very High;2386;X
+190139;Chief of Staff;Leonidas Plaza Guiterrez;1914;1933;ML;School of Defence;Very High;2386;X
+190140;Foreign Minister;Carlos M. Tobar Borgoño;1916;1933;SL;Biased Intellectual;High;2415;X
+190141;Foreign Minister;José Rafael Bustamante;1924;1933;SL;Iron Fisted Brute;High;2389;X
+190142;Foreign Minister;Luis Napoleón Dillon;1914;1933;ML;Great Compromiser;High;2385;X
+190143;Foreign Minister;Nicolás Clemente Ponce Borja;1920;1933;SL;The Cloak N Dagger Schemer;High;2416;X
+190144;Foreign Minister;Augusto Aguirre Aparicio;1916;1933;SL;Apologetic Clerk;High;unknown;X
+190145;Foreign Minister;Carlos Rafael H. Elizalde;1914;1933;ML;Ideological Crusader;High;unknown;X
+190146;Foreign Minister;Leonardo Sotomayor;1924;1933;SL;General Staffer;High;unknown;X
 190147;Head of Government;Gonzalo Segundo Córdova;1924;1933;SL;Political Protege;High;2417;X
 190148;Head of Government;Leonidas Plaza Gutiérrez;1914;1933;ML;Corporate Suit;High;2386;X
 190149;Head of Government;Alfredo Baquerizo Moreno;1916;1933;SL;Silent Workhorse;High;2387;X
 190150;Head of Government;José Luis Tamayo;1920;1933;SL;Happy Amateur;High;2388;X
-190151;Head of State;Gonzalo Segundo Córdova;1924;1933;SL;powerhungry demagogue;High;2417;X
-190152;Head of State;Leonidas Plaza Gutiérrez;1914;1933;ML;powerhungry demagogue;High;2386;X
+190151;Head of State;Gonzalo Segundo Córdova;1924;1933;SL;Powerhungry Demagogue;High;2417;X
+190152;Head of State;Leonidas Plaza Gutiérrez;1914;1933;ML;Powerhungry Demagogue;High;2386;X
 190153;Head of State;Alfredo Baquerizo Moreno;1916;1933;SL;Autocratic Charmer;High;2387;X
 190154;Head of State;José Luis Tamayo;1920;1933;SL;Popular Figurehead;High;2388;X
-190155;Minister of Security;Pío Jaramillo Alvarado;1924;1933;SL;BACK STABBER;High;unknown;X
+190155;Minister of Security;Pío Jaramillo Alvarado;1924;1933;SL;Back Stabber;High;unknown;X
+190156;Head of State;C.J. Arosemena Monroy;1961;2005;SD;Die-hard Reformer;Medium;ECU - C J Arosemena Monroy;X
+190157;Head of State;Ramón Castro Jijón;1963;1985;PA;Die-hard Reformer;Medium;ECU - Ramón Castro Jijón;X
+190158;Head of State;Otto Arosemena Gómez;1966;1985;SL;Autocratic Charmer;Medium;ECU - Otto Arosemena Gómez;X
+190159;Head of State;José María Velasco Ibarra;1963;1979;SD;Die-hard Reformer;High;M40033;X
+190160;Head of State;Guillermo Rodríguez Lara;1972;2020;PA;Benevolent Gentleman;Medium;ECU - Guillermo Rodriguez Lara;X
+190161;Head of State;Alfredo Poveda Burbano;1976;1991;PA;Barking Buffoon;Medium;ECU - Alfredo Poveda Burbano;X
+190162;Head of State;Jaime Roldós Aguilera;1979;1982;SD;Die-hard Reformer;Medium;ECU - Jaime Roldós Aguilera;X
+190163;Head of State;Osvaldo Hurtado Larrea;1981;2020;ML;Popular Figurehead;Medium;ECU - Osvaldo Hurtado Larrea;X
+190164;Head of State;León Febres Cordero;1984;2009;SC;Pig-headed Isolationist;Medium;ECU - León Febres Cordero;X
+190165;Head of State;Rodrigo Borja Cevallos;1984;2020;SL;Ruthless Powermonger;Medium;ECU - Rodrigo Borja Cevallos;X
+190166;Head of State;Sixto Durán Ballén;1978;2017;SC;Die-hard Reformer;Medium;ECU - Sixto Durán Ballén;X
+190167;Head of State;Abdalá Bucaram Ortiz;1988;2020;SC;Benevolent Gentleman;Medium;ECU - Abdalá Bucaram Ortiz;X
+190168;Head of State;Fabián Alarcón Rivera;1997;2020;SL;Autocratic Charmer;Medium;ECU - Fabián Alarcón Rivera;X
+190169;Head of State;Jamil Mahuad Witt;1998;2020;ML;Weary Stiffneck;Medium;ECU - Jamil Mahuad Witt;X
+190170;Head of State;Jaime Nebot Saadi;1992;2020;ML;Barking Buffoon;Medium;ECU - Jaime Nebot Saadi;X
+190171;Head of State;Álvaro Noboa Pontón;1998;2020;SL;Ruthless Powermonger;Medium;ECU - Alvaro Noboa Pontón;X
+190172;Head of State;Manuel Agustín Aguirre;1933;1993;LWR;Autocratic Charmer;Medium;ECU - Manuel Agustin Aguirre;X
+190173;Head of State;Nela Martínez Espinosa;1945;2005;LE;Barking Buffoon;Medium;ECU - Nela Martinez Espinosa;X
+190174;Head of State;Pedro Jorge Vera;1950;2000;ST;Die-hard Reformer;Medium;ECU - Pedro Jorge Vera;X
+190175;Head of Government;C.J. Arosemena Monroy;1961;2005;SD;Naive Optimist;Medium;ECU - C J Arosemena Monroy;X
+190176;Head of Government;Ramón Castro Jijón;1963;1985;PA;Old General;Medium;ECU - Ramón Castro Jijón;X
+190177;Head of Government;Otto Arosemena Gómez;1966;1985;SL;Political Protege;Medium;ECU - Otto Arosemena Gómez;X
+190178;Head of Government;José María Velasco Ibarra;1963;1979;SD;Ambitious Union Boss;High;M40033;X
+190179;Head of Government;Guillermo Rodríguez Lara;1972;2020;PA;Naive Optimist;Medium;ECU - Guillermo Rodriguez Lara;X
+190180;Head of Government;Alfredo Poveda Burbano;1976;1991;PA;Smiling Oilman;Medium;ECU - Alfredo Poveda Burbano;X
+190181;Head of Government;Jaime Roldós Aguilera;1979;1982;SD;Ambitious Union Boss;Medium;ECU - Jaime Roldós Aguilera;X
+190182;Head of Government;Osvaldo Hurtado Larrea;1981;2020;ML;Political Protege;Medium;ECU - Osvaldo Hurtado Larrea;X
+190183;Head of Government;León Febres Cordero;1984;2009;SC;Flamboyant Tough Guy;Medium;ECU - León Febres Cordero;X
+190184;Head of Government;Rodrigo Borja Cevallos;1984;2020;SL;Backroom Backstabber;Medium;ECU - Rodrigo Borja Cevallos;X
+190185;Head of Government;Sixto Durán Ballén;1978;2017;SC;Smiling Oilman;Medium;ECU - Sixto Durán Ballén;X
+190186;Head of Government;Abdalá Bucaram Ortiz;1988;2020;SC;Naive Optimist;Medium;ECU - Abdalá Bucaram Ortiz;X
+190187;Head of Government;Fabián Alarcón Rivera;1997;2020;SL;Happy Amateur;Medium;ECU - Fabián Alarcón Rivera;X
+190188;Head of Government;Jaime Nebot Saadi;1992;2020;ML;Flamboyant Tough Guy;Medium;ECU - Jaime Nebot Saadi;X
+190189;Head of Government;Álvaro Noboa Pontón;1998;2020;SL;Political Protege;Medium;ECU - Alvaro Noboa Pontón;X
+190190;Head of Government;Manuel Agustín Aguirre;1933;1993;LWR;Silent Workhorse;Medium;ECU - Manuel Agustin Aguirre;X
+190191;Head of Government;Nela Martínez Espinosa;1945;2005;LE;Backroom Backstabber;Medium;ECU - Nela Martinez Espinosa;X
+190192;Head of Government;Pedro Jorge Vera;1950;2000;ST;Happy Amateur;Medium;ECU - Pedro Jorge Vera;X

@@ -10,7 +10,7 @@ AUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 115008;Chief of Army;Wilhelm Zehner;1933;1964;FA;Elastic Defence Doctrine;High;M23008;X
 115009;Chief of Navy;Paul von Hegedüs;1933;1964;FA;Decisive Naval Battle Doctrine;High;M23009;X
 115010;Chief of Air Force;Alexander Löhr;1933;1964;NS;Army Aviation Doctrine;Medium;M23010;X
-115011;Head of State;Otto I;1933;1964;PA;Autocratic Charmer;High;M23041;X
+115011;Head of State;S.K.u.K.M. Otto I von Habsburg;1933;1964;PA;Benevolent Gentleman;High;M23041;X
 115012;Head of State;Josef Bürckel;1938;1964;FA;Insignificant Layman;High;M23042;X
 115013;Head of State;Arthur Seyss-Inquart;1938;1964;NS;Die-hard Reformer;High;M23011;X
 115014;Head of State;Karl Renner;1938;1964;SD;Benevolent Gentleman;High;M23021;X
@@ -36,9 +36,9 @@ AUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 115034;Foreign Minister;Adolf Schärf;1945;1964;ML;Biased Intellectual;Medium;M23022;X
 115035;Foreign Minister;Alfred Klahr;1938;1964;LE;Ideological Crusader;High;M23033;X
 115036;Foreign Minister;Willi Frank;1945;1964;ST;Iron Fisted Brute;Medium;M23035;X
-115037;Minister of Armament;T. Winkler-Kreuth-Mautner;1945;1964;PA;laissez-faire capitalist;High;M23067;X
+115037;Minister of Armament;T. Winkler-Kreuth-Mautner;1945;1964;PA;Laissez-Faire Capitalist;High;M23067;X
 115038;Minister of Armament;Albert Mendsdorff-Pouilly;1946;1964;PA;Administrative Genius;Medium;M23049;X
-115039;Minister of Armament;Josef Dobretsberger;1933;1964;FA;laissez-faire capitalist;High;M23069;X
+115039;Minister of Armament;Josef Dobretsberger;1933;1964;FA;Laissez-Faire Capitalist;High;M23069;X
 115040;Minister of Armament;Paul von Hegedüs;1938;1964;FA;Battle Fleet Proponent;High;M23009;X
 115041;Minister of Armament;Rudolf Neumayr;1938;1964;NS;Resource Industrialist;Medium;M23014;X
 115042;Minister of Armament;Hans Fischböck;1942;1964;NS;Military Entrepreneur;High;M23072;X
@@ -88,7 +88,7 @@ AUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 115086;Chief of Army;Lothar Rendulic;1942;1964;NS;Armoured Spearhead Doctrine;Medium;M23118;X
 115087;Chief of Army;Heinrich Gleissner;1938;1964;SC;Decisive Battle Doctrine;Very Low;M23028;X
 115088;Chief of Army;Richard Bernaschek;1938;1964;LE;Static Defence Doctrine;Medium;M23038;X
-115089;Chief of Navy;Otto I von Habsburg;1945;1964;PA;Indirect Approach Doctrine;Very High;M23041;X
+115089;Chief of Navy;S.K.u.K.M. Otto I von Habsburg;1945;1964;PA;Indirect Approach Doctrine;Very High;M23041;X
 115090;Chief of Navy;Ignaz Seipel;1938;1964;FA;Power Projection Doctrine;High;M23124;X
 115091;Chief of Navy;Emil Hickmann;1938;1964;NS;Open Seas Doctrine;Low;M23017;X
 115092;Chief of Navy;Robert Winterstein;1938;1964;SC;Indirect Approach Doctrine;Medium;M23025;X
@@ -108,7 +108,7 @@ AUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 115106;Head of State;Theodor Körner;1951;1964;SD;Weary Stiffneck;High;M23144;X
 115107;Head of Government;Leopold Figl;1945;1964;SC;Happy Amateur;High;M23045;X
 115108;Head of Government;Julius Raab;1951;1964;SC;Corporate Suit;Medium;M23004;X
-115109;Minister of Armament;Ferdinand Graf;1945;1964;SC;laissez-faire capitalist;Medium;M23148;X
+115109;Minister of Armament;Ferdinand Graf;1945;1964;SC;Laissez-Faire Capitalist;Medium;M23148;X
 115110;Minister of Security;Josef Gerö;1945;1964;SC;Silent Lawyer;Low;M23149;X
 115111;Minister of Security;Otto Tschabeck;1949;1964;SC;Man of the People;Low;M23150;X
 115112;Head of Military Intelligence;Oskar Helmer;1945;1964;ML;Dismal Enigma;High;M23151;X
@@ -149,4 +149,40 @@ AUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 115147;Minister of Security;Johann Schober;1922;1933;SL;Compassionate Gentleman;Medium;3695;X
 115148;Minister of Security;Walter Breisky;1922;1933;SL;Silent Lawyer;Medium;3696;X
 115149;Minister of Security;Felix Frank;1922;1933;SL;Compassionate Gentleman;Medium;3711;X
-115150;Head of Government;Engelbert Dolfuss;1932;1963;FA;Flamboyant Tough Guy;High;8292;x
+115150;Head of Government;Engelbert Dolfuss;1932;1963;FA;Flamboyant Tough Guy;High;8292;X
+115151;Head of State;Julius Raab;1951;1964;SC;Benevolent Gentleman;Medium;M23004;X
+115152;Head of State;Adolf Schärf;1957;1966;SD;Insignificant Layman;High;M23022;X
+115153;Head of State;Franz Jonas;1965;1975;SL;Powerhungry Demagogue;Medium;AUS - Franz Jonas;X
+115154;Head of State;Rudolf Kirchschläger;1974;2001;SL;Autocratic Charmer;Medium;AUS - Rudolf Kirchschläger;X
+115155;Head of State;Kurt Waldheim;1971;2008;SC;Barking Buffoon;Medium;AUS - Kurt Waldheim;X
+115156;Head of State;Thomas Klestil;1992;2005;ML;Benevolent Gentleman;Medium;AUS - Thomas Klestil;X
+115157;Head of State;Heinrich Gleissner;1951;1964;SC;Barking Buffoon;Medium;AUS - Heinrich Gleissner;X
+115158;Head of State;Wolfgang Denk;1956;1964;SC;Autocratic Charmer;Medium;AUS - Wolfgang Denk;X
+115159;Head of State;Alfons Gorbach;1965;1973;ML;Weary Stiffneck;Medium;AUS - Alfons Gorbach;X
+115160;Head of State;Alois Lugger;1974;2006;SC;Autocratic Charmer;Medium;AUS - Alois Lugger;X
+115161;Head of State;Willfried Gredler;1980;1995;PA;Die-hard Reformer;Medium;AUS - Willfried Gredler;X
+115162;Head of State;Kurt Steyrer;1986;2008;SD;Insignificant Layman;Medium;AUS - Kurt Steyrer;X
+115163;Head of State;Rudolf Streicher;1992;2020;SD;Die-hard Reformer;Medium;AUS - Rudolf Streicher;X
+115164;Head of State;Gertraud Knoll;1998;2020;SL;Weary Stiffneck;Medium;AUS - Gertraud Knoll;X
+115165;Head of State;Friedrich Peter;1964;2006;FA;Die-hard Reformer;High;AUS - Friedrich Peter;X
+115166;Head of State;S.K.u.K.M. Otto I von Habsburg;1933;1964;ML;Benevolent Gentleman;High;M23041;X
+115167;Head of State;S.K.u.K.M. Otto I von Habsburg;1963;2012;ML;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+115168;Head of State;S.K.u.K.M. Otto I von Habsburg;1963;2012;PA;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+115169;Head of Government;Alfons Gorbach;1961;1973;ML;Political Protege;Medium;AUS - Alfons Gorbach;X
+115170;Head of Government;Josef Klaus;1964;2002;SC;Ambitious Union Boss;High;AUS - Josef Klaus;X
+115171;Head of Government;Bruno Kreisky;1970;1991;SD;Naive Optimist;Medium;AUS - Bruno Kreisky;X
+115172;Head of Government;Fred Sinowatz;1983;2009;SL;Happy Amateur;Medium;AUS - Fred Sinowatz;X
+115173;Head of Government;Franz Vranitzky;1986;2020;SL;Flamboyant Tough Guy;Medium;AUS - Franz Vranitzky;X
+115174;Head of Government;Viktor Klima;1997;2020;SL;Corporate Suit;Medium;AUS - Viktor Klima;X
+115175;Head of Government;Bruno Pittermann;1956;1984;SL;Political Protege;Medium;AUS - Bruno Pittermann;X
+115176;Head of Government;Hermann Withalm;1971;2004;SC;Silent Workhorse;Medium;AUS - Hermann Withalm;X
+115177;Head of Government;Josef Taus;1979;2020;SC;Corporate Suit;Medium;AUS - Josef Taus;X
+115178;Head of Government;Alois Mock;1983;2018;ML;Backroom Backstabber;Medium;AUS - Alois Mock;X
+115179;Head of Government;Josef Riegler;1990;2020;SC;Political Protege;Medium;AUS - Josef Riegler;X
+115180;Head of Government;Erhard Busek;1994;2020;ML;Naive Optimist;Medium;AUS - Erhard Busek;X
+115181;Head of Government;Wolfgang Schüssel;1995;2020;SC;Corporate Suit;Medium;AUS - Wolfgang Schüssel;X
+115182;Head of Government;Jörg Haider;1986;2009;PA;Flamboyant Tough Guy;High;AUS - Jörg Haider;X
+115183;Head of Government;Walter Aichinger;1960;1995;PA;Corporate Suit;High;AUS - Walter Aichinger;X
+115184;Head of Government;Norbert Steger;1980;2020;PA;Silent Workhorse;High;AUS - Norbert Steger;X
+115185;Head of Government;Otto Scrinzi;1949;2013;FA;Flamboyant Tough Guy;High;AUS - Otto Scrinzi;X
+115186;Head of Government;Alexander Götz;1970;2019;FA;Corporate Suit;High;AUS - Alexander Götz;X

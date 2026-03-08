@@ -285,15 +285,6 @@ country = {
     interventionism   = 4
   }
   headofstate            = { type = 9 id = 3001 }
-#  headofgovernment       = { type = 9 id = 3002 }
-#  foreignminister        = { type = 9 id = 3003 }
-#  armamentminister       = { type = 9 id = 3076 }
-#  ministerofsecurity     = { type = 9 id = 3005 }
-#  ministerofintelligence = { type = 9 id = 3006 }
-#  chiefofstaff           = { type = 9 id = 3007 }
-#  chiefofarmy            = { type = 9 id = 3008 }
-#  chiefofnavy            = { type = 9 id = 3009 }
-#  chiefofair             = { type = 9 id = 3010 }
 
   landunit = {
     id       = { type = 23500 id = 1 }

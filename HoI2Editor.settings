@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <HoI2EditorSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Main>
-    <GameFolder>C:\Games\Darkest Hour</GameFolder>
+    <GameFolder>D:\Darkest Hour\Darkest Hour</GameFolder>
     <ModFolder>Timeline-191-Master</ModFolder>
+    <ExportFolder>Timeline 191 Master</ExportFolder>
     <LogLevel>3</LogLevel>
     <ForbidLoadMaps>false</ForbidLoadMaps>
     <Location>
@@ -35,7 +36,7 @@
       <int>290</int>
     </ListColumnWidth>
     <Countries>
-      <Country>USA</Country>
+      <Country>U71</Country>
     </Countries>
   </LeaderEditor>
   <MinisterEditor>
@@ -58,7 +59,7 @@
       <int>100</int>
     </ListColumnWidth>
     <Countries>
-      <Country>U10</Country>
+      <Country>SCA</Country>
     </Countries>
   </MinisterEditor>
   <TeamEditor>

@@ -122,9 +122,9 @@ country = {
     defense_lobby     = 4
     interventionism   = 4
   }
-  headofstate            = { type = 6 id = 720053 } # Abdulmejid II
-  headofgovernment       = { type = 6 id = 720069 } # Salih Hulusi Kezrak
+  headofstate            = { type = 6 id = 720053 } # H.I.M. Abdulmejid II
+  headofgovernment       = { type = 6 id = 720067 } # Salih Hulusi Kezrak
   armamentminister       = { type = 6 id = 720025 } # Mehmet Cavit Pasha
-  chiefofstaff           = { type = 6 id = 720188 } # Fevzi Çakmak
-  chiefofarmy            = { type = 6 id = 720213 } # Fevzi Çakmak
+  chiefofstaff           = { type = 6 id = 720188 } # Ibrahim Edhem
+  chiefofarmy            = { type = 6 id = 720213 } # Hamdi Tevfik
 }

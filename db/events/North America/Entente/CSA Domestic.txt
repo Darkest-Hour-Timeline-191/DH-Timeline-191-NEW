@@ -1,4 +1,29 @@
+##########################################################################
+# CSA Domestic events
+# id range 1000 - 1008, 1020 - 1028
+##########################################################################
+
+# 1000 - CSA - 1.11.33 - Confederate States Presidential Election, 1933
+# 1002 - CSA - 1.07.34 - The Supreme Court is abolished
+# 1003 - CSA - post 1.11.35 - The Mississippi Valley Dam Authority
+# 1004 - CSA - 2.08.36 - An incident at the Richmond Olympics
+# 1005 - CSA - 1.11.36 - Featherston meets with General Stuart
+# 1006 - CSA - 1.10.38 - The Seven Words Amendment
+# 1007 - CSA - 5.12.38 - The December Plot
+# 1008 - CSA - 1.11.39 - Confederate States Presidential Election, 1939
+
+# 1020 - CSA - 07.05.34 - MRC Notes
+# 1021 - CSA - 19.08.34 - FPG Legion
+# 1022 - CSA - post 19.08.34 - Freedom Party Divisions
+# 1023 - CSA - 11.10.35 - Barrel Divisions
+# 1024 - CSA - 15.09.36 - New Orleans Laws 
+# 1025 - CSA - 05.01.37 - Lightning War Doctrine
+# 1026 - CSA - 09.11.38 - November Pogroms
+# 1027 - CSA - 22.04.39 - Confederate Nuclear Project
+# 1028 - CSA - 04.07.36 - Anti-Yankee Speech
+
 event = {
+
 	id = 1000
 	random = no
 	country = CSA
@@ -8,7 +33,7 @@ event = {
 	trigger = {
 		government = democratic # unnecessary unless the player cheats, but eh
 		NOT = { ispuppet = CSA } # same as above
-		}
+	}
 
 	name = "Confederate States Presidential Election, 1933"
 	desc = "Another presidential election is finally here. The worldwide depression has hit the CSA quite badly, and some of the people have never quite gotten over of how the Mitchel government mishandled the response to the Great Mississippi Flood of 1927. Will tradition be able to help the Whig candidate, Virginia Senator Samuel Longstreet, over the finishing line, or will the people turn to the two alternatives: Cordell Hull and Huey Long's Radical Liberals, or (heaven forbid!) Jake Featherston's Freedom Party?"
@@ -26,18 +51,20 @@ event = {
 		command = { type = set_domestic which = democratic value = 9 }
 		command = { type = set_domestic which = political_left value = 2 }
 		command = { type = dissent value = 15 }
-		}
+	}
+
 	action_b = {
 		ai_chance = 1
 		name = "Cordell Hull/Huey Long (Rad. Lib.)"
 		command = { type = sleepminister which = 600064 } # Mitchel
-#		command = { type = headofstate which = ? } # 
-#		command = { type = headofgovernment which = ? } # 
+		command = { type = headofstate which = 600092 } # Cordell Hull
+		command = { type = headofgovernment which = 600070 } # Huey Long
 		command = { type = ministerofsecurity which = 600088 } # John Johnston Parker
 		command = { type = set_domestic which = democratic value = 9 }
 		command = { type = set_domestic which = political_left value = 7 }
 		command = { type = dissent value = 10 }	
-		}
+	}
+
 	action_c = {
 		ai_chance = 98
 		name = "Jake Featherston/Willy Knight (Freedom)(Canonical)"
@@ -49,12 +76,12 @@ event = {
 		command = { type = set_domestic which = political_left value = 1 }
 		command = { type = domestic which = interventionism value = 1 }
 		command = { type = dissent value = 3 }	
-		}
 	}
 
-
+}
 
 event = {
+
 	id = 1002
 	random = no
 	country = CSA
@@ -74,9 +101,12 @@ event = {
 		name = ACTION_NAME_GOOD
 		command = { type = dissent value = -3 }
 		# command = { type = sleepminister which = ? } # McReynolds, if he is an available minister
-		# move towards dictatorship/closed society/both
-		}
+		command = { type = domestic which = democratic value = -1 }
+		command = { type = domestic which = free_market value = -1 }
+		command = { type = domestic which = freedom value = -1 }
 	}
+
+}
 
 event = {
 	id = 1003
@@ -107,8 +137,9 @@ event = {
 		command = { type = construct which = ic where = 6427 value = 1 } # Greenville, Mississippi
 		command = { type = construct which = ic where = 679 value = 2 } # New Orleans
 		command = { type = construct which = ic where = 6274 value = 1 } # Baton Rouge
-		}
 	}
+
+}
 
 event = {
 	id = 1004
@@ -131,7 +162,8 @@ event = {
 		ai_chance = 99
 		name = "Fate is on the Sarge's side and he is unharmed! (Canonical)"
 		command = { type = dissent value = 1 } # it is a bit scary to have people try to kill the prez
-		}	
+	}	
+
 	action_b = {
 		ai_chance = 1
 		name = "The President is dead!"
@@ -141,10 +173,12 @@ event = {
 		command = { type = dissent value = 5 } # it is VERY scary to have people trying to kill the prez and SUCCEED
 		command = { type = headofstate which = 600053 } # Willy Knight
 		command = { type = headofgovernment which = 600054 } # Willy Knight (just in case)
-		}
 	}
 
+}
+
 event = {
+
 	id = 1005
 	random = no
 	country = CSA
@@ -166,17 +200,21 @@ event = {
 		ai_chance = 99
 		name = "Drop (figuratively) dead, geezer!(Canonical)"
 		command = { type = dissent value = -1 } #
+		command = { type = domestic which = democratic value = -1 }
 		command = { type = sleepminister which = 600081 } # Stuart as CoA
 		command = { type = sleepleader which = 600096 } # Stuart as land leader
-		}	
+	}
+
 	action_b = {
 		ai_chance = 1
 		name = "Let bygones be bygones"
 		command = { type = dissent value = 1 } #
-		}
 	}
 
+}
+
 event = {
+
 	id = 1006
 	random = no
 	country = CSA
@@ -195,8 +233,12 @@ event = {
 	action = {
 		name = "Six more years!"
 		command = { type = dissent value = -3 }
-		}
+		command = { type = domestic which = democratic value = -1 }
+		command = { type = domestic which = freedom value = -1 }
+		command = { type = domestic which = defense_lobby value = 1 }
 	}
+
+}
 
 event = {
 	id = 1007
@@ -220,7 +262,8 @@ event = {
 		name = "The assassination attempt fails and Knight is impeached (Canonical)"
 		command = { type = dissent value = 1 } # it is a bit scary to have people try to kill the prez
 		command = { type = headofgovernment which = 600082 } # Featherston is HoG as well until 1939
-		}	
+	}	
+
 	action_b = {
 		ai_chance = 1
 		name = "The assassination attempt succeeds!"
@@ -230,10 +273,12 @@ event = {
 		command = { type = dissent value = 10 } # 
 		command = { type = headofstate which = 600053 } # Willy Knight
 		command = { type = headofgovernment which = 600054 } # Willy Knight (just in case)
-		}
 	}
 
+}
+
 event = {
+
 	id = 1008
 	random = no
 	country = CSA
@@ -254,5 +299,436 @@ event = {
 		command = { type = dissent value = -3 }
 		command = { type = headofstate which = 600052 } # 
 		command = { type = headofgovernment which = 600067 } # Donald Partridge
-		}
 	}
+
+}
+
+event = {
+
+	id = 1020
+	random = no
+	country = CSA
+	style = 2
+	picture = "Monetary_policy"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "MRC Notes"
+	desc = "Metallurgical Research Corporation is a dummy company created to quietly bypass any constraints on government spending. Issuing promissory notes to select companies, MRC will allow Featherston to enact his grand plans of military re-armament."
+
+	date = { day = 6 month = may year = 1934 }
+
+	action = {
+		name = "We've got to have money..."
+		command = { type = dissent value = -2 }
+		command = { type = industrial_modifier which = total value = 5 }
+		command = { type = domestic which = free_market value = -1 }
+	}
+
+}
+
+event = {
+
+	id = 1021
+	random = no
+	country = CSA
+	style = 2
+	picture = "German_mobilization2"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "Freedom Party Guard Legion"
+	desc = "Freedom Party Guard leaders wish to create military units drawn exclusively from their ranks and subordinate to the Party directly, but our generals are not impressed..."
+
+	date = { day = 18 month = august year = 1934 }
+	
+	action = {
+		name = "Guard Legion shall lead Confederacy to victory!" 
+		ai_chance = 80       
+		command = { type = dissent value = 2 }	
+		command = { type = free_supplies value = -10 }
+		command = { type = setflag which = csa_fpg_legion }
+		### events for 1935, 1936, 1937, 1938, 1939
+		command = { type = event which = 1022 where = -1 when = 360 }
+		command = { type = event which = 1022 where = -1 when = 720 }
+		command = { type = event which = 1022 where = -1 when = 1080 }
+		command = { type = event which = 1022 where = -1 when = 1440 }
+		command = { type = event which = 1022 where = -1 when = 1800 }
+	}
+	
+	action = {
+		name = "Let them be conscripted into regular units instead..."	
+		ai_chance = 20
+		command = { type = dissent value = -1 }	
+		command = { type = morale which = land value = 3 }	
+		command = { type = setflag which = csa_fpg_no_legion }
+		### events for 1935, 1936, 1937, 1938, 1939
+		command = { type = event which = 1022 where = -1 when = 360 }
+		command = { type = event which = 1022 where = -1 when = 720 }
+		command = { type = event which = 1022 where = -1 when = 1080 }
+		command = { type = event which = 1022 where = -1 when = 1440 }
+		command = { type = event which = 1022 where = -1 when = 1800 }
+	}
+
+}
+
+event = {
+
+	id = 1022
+	random = no
+	persistent = yes
+	country = CSA
+	style = 2
+	picture = "German_mobilization2"
+
+	name = "Soldiers of Freedom Party Guard"
+	desc = "Freedom Party Guard are the vanguard of Confederate society and they will protect it in the battles to come!"
+
+	### 1935
+	
+	action = {
+		trigger = {
+			flag = csa_fpg_legion
+			year = 1935
+			NOT = { year = 1936 }
+		}		
+		name = "Guard Legions shall lead the way!"        
+		command = { type = dissent value = -1 }	
+		command = { type = add_division which = "1st FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "2nd FPG Legionaries" value = infantry when = 10 }
+	}
+
+	action = {
+		trigger = {
+			flag = csa_fpg_no_legion
+			year = 1935
+			NOT = { year = 1936 }
+		}		
+		name = "Guardsmen shall inspire rank and file!" 
+		command = { type = dissent value = -1 }	
+		command = { type = max_organization which = land value = 1 }
+		command = { type = morale which = land value = 1 }
+		command = { type = manpowerpool value = 24 }
+	}
+
+	### 1936
+	
+	action = {
+		trigger = {
+			flag = csa_fpg_legion
+			year = 1936
+			NOT = { year = 1937 }
+		}		
+		name = "Guard Legions shall lead the way!"        
+		command = { type = dissent value = -1 }	
+		command = { type = add_division which = "3rd FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "4th FPG Legionaries" value = infantry when = 10 }
+	}
+
+	action = {
+		trigger = {
+			flag = csa_fpg_no_legion
+			year = 1936
+			NOT = { year = 1937 }
+		}		
+		name = "Guardsmen shall inspire rank and file!" 
+		command = { type = dissent value = -1 }	
+		command = { type = max_organization which = land value = 1 }
+		command = { type = morale which = land value = 1 }
+		command = { type = manpowerpool value = 24 }
+	}
+
+	### 1937
+	
+	action = {
+		trigger = {
+			flag = csa_fpg_legion
+			year = 1937
+			NOT = { year = 1938 }
+		}		
+		name = "Guard Legions shall lead the way!"        
+		command = { type = dissent value = -1 }	
+		command = { type = add_division which = "5th FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "6th FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "1st FPG Armored Dragoons" value = light_armor when = 1 }
+	}
+
+	action = {
+		trigger = {
+			flag = csa_fpg_no_legion
+			year = 1937
+			NOT = { year = 1938 }
+		}		
+		name = "Guardsmen shall inspire rank and file!"   
+		command = { type = dissent value = -1 }	
+		command = { type = max_organization which = land value = 1 }
+		command = { type = morale which = land value = 1 }
+		command = { type = manpowerpool value = 32 }
+	}
+
+	### 1938
+	
+	action = {
+		trigger = {
+			flag = csa_fpg_legion
+			year = 1938
+			NOT = { year = 1939 }
+		}		
+		name = "Guard Legions shall lead the way!"        
+		command = { type = dissent value = -1 }	
+		command = { type = add_division which = "7th FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "8th FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "2nd FPG Armored Dragoons" value = light_armor when = 1 }
+	}
+
+	action = {
+		trigger = {
+			flag = csa_fpg_no_legion
+			year = 1938
+			NOT = { year = 1939 }
+		}		
+		name = "Guardsmen shall inspire rank and file!"  
+		command = { type = dissent value = -1 }	
+		command = { type = max_organization which = land value = 1 }
+		command = { type = morale which = land value = 1 }
+		command = { type = manpowerpool value = 32 }
+	}
+
+	### 1939
+	
+	action = {
+		trigger = {
+			flag = csa_fpg_legion
+			year = 1939
+			NOT = { year = 1940 }
+		}		
+		name = "Guard Legions shall lead the way!"        
+		command = { type = dissent value = -1 }	
+		command = { type = add_division which = "9th FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "10th FPG Legionaries" value = infantry when = 10 }
+		command = { type = add_division which = "3rd FPG Armored Dragoons" value = light_armor when = 1 }
+		command = { type = add_division which = "4th FPG Armored Dragoons" value = light_armor when = 1 }
+	}
+
+	action = {
+		trigger = {
+			flag = csa_fpg_no_legion
+			year = 1939
+			NOT = { year = 1940 }
+		}		
+		name = "Guardsmen shall inspire rank and file!"        
+		command = { type = dissent value = -1 }	
+		command = { type = max_organization which = land value = 1 }
+		command = { type = morale which = land value = 1 }
+		command = { type = manpowerpool value = 40 }
+	}		
+
+}
+
+event = {
+
+	id = 1023
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Barrel Divisions"
+	desc = "Armored vehicles will be essential to future warfare. Confederacy understands that, unlike some other countries..."
+
+	date = { day = 9 month = october year = 1935 }
+
+	action = {
+		name = "Barrels are the way of the future!"
+		command = { type = dissent value = -1 }
+		command = { type = add_division value = light_armor when = 0 }
+		command = { type = add_division value = light_armor when = 0 }
+		command = { type = add_division value = light_armor when = 0 }
+		command = { type = gain_tech which = 2646 } # Post-War Tank III
+		command = { type = gain_tech which = 2650 } # Post-War Tank IV
+		command = { type = gain_tech which = 2030 } # Early Tank
+		command = { type = gain_tech which = 2040 } # Basic Light Tank
+	}
+
+}
+
+event = {
+
+	id = 1024
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "New Orleans Laws"
+	desc = "Featherston's opinions on Black citizens of CSA are well-known. With Freedom Party firmly in charge, legislation has been drafted to specify their place in Confederate society: New Orleans Laws."
+
+	date = { day = 14 month = september year = 1936 }
+
+	action = {
+		name = "Negro must plow the fields!"
+		command = { type = dissent value = -2 }
+		command = { type = domestic which = democratic value = -1 }
+		command = { type = domestic which = defense_lobby value = 1 }
+		command = { type = industrial_modifier which = supplies value = 10 } 
+		command = { type = relative_manpower value = 5 }
+	}
+
+	action = {
+		name = "Negro must build!"
+		command = { type = dissent value = -1 }
+		command = { type = domestic which = democratic value = -1 }
+		command = { type = building_prod_mod which = ic value = 10 } 
+		command = { type = building_prod_mod which = infrastructure value = 10 }
+	}
+
+	action = {
+		name = "Negro must toil in the factories!"
+		command = { type = dissent value = 1 }
+		command = { type = domestic which = democratic value = -1 }
+		command = { type = domestic which = free_market value = -1 }
+		command = { type = industrial_modifier which = total value = 2 }
+	}
+
+}
+
+event = {
+
+	id = 1025
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	name = "Lightning War Doctrine"
+	desc = "To overcome numerically superior opponent like USA, Confederacy should rely on speed and maneuver. Attrition warfare of the Great War was a mistake: future war must strike the enemy like lightning."
+
+	date = { day = 4 month = january year = 1937 }
+
+	action = {
+		name = "Barrels Forward!"
+		command = { type = dissent value = -1 }
+		command = { type = domestic which = defense_lobby value = 1 }
+		command = { type = gain_tech which = 6900 } # Armor Division Formation
+		command = { type = gain_tech which = 6210 } # Mobility Focus Doctrine
+		command = { type = gain_tech which = 6220 } # Spearhead Doctrine
+		command = { type = gain_tech which = 6250 } # Armored Schwerpunkt Doctrine
+		command = { type = gain_tech which = 6260 } # Combined arms Offensive
+		command = { type = gain_tech which = 6230 } # Delay Doctrine
+		command = { type = gain_tech which = 6240 } # Elastic Defense Doctrine
+	}
+	
+}
+
+event = {
+
+	id = 1026
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "November Pogroms"
+	desc = "Driven by Freedom Party instigators, mobs have gathered to attack Black residents all over CSA. With police joining the mobs, the victims are defenseless... and their property can be easily claimed by Featherston's men."
+
+	date = { day = 8 month = november year = 1938 }
+
+	action = {
+		name = "They are not welcome here!"
+		command = { type = dissent value = -3 }
+		command = { type = domestic which = democratic value = -1 }
+		command = { type = domestic which = political_left value = -1 }
+		command = { type = belligerence value = 5 }
+		command = { type = money value = 250 }
+	}
+
+}
+
+event = {
+
+	id = 1027
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "Confederate Nuclear Project"
+	desc = "It has become clear that nuclear reaction has a tremendous potential as a tool of war. Nuclear research is a race and Confederacy must beat everyone, including USA, to the punch!"
+
+	date = { day = 21 month = April year = 1939 }
+
+	action = {
+		name = "Make room for the big bomb!"
+		command = { type = money value = -100 }
+		command = { type = domestic which = defense_lobby value = 1 }
+		### Nuclear BPs
+		command = { type = gain_tech which = 5470 }
+		command = { type = gain_tech which = 5480 }
+		command = { type = gain_tech which = 5490 }
+		command = { type = gain_tech which = 5500 }
+		command = { type = gain_tech which = 5510 }
+		command = { type = gain_tech which = 5520 }
+		command = { type = gain_tech which = 5530 }
+		command = { type = gain_tech which = 5540 }
+		command = { type = gain_tech which = 7170 }
+		command = { type = gain_tech which = 7180 }
+		command = { type = gain_tech which = 7190 }	
+	}
+
+}
+
+event = {
+
+	id = 1028
+	random = no
+	country = CSA
+	style = 2
+	picture = "news_paper"
+
+	trigger = {
+		headofstate = 600052 # Featherston
+	}
+
+	name = "Anti-Yankee Speech"
+	desc = "In his most recent speech, Featherston publicly denounces American government and its imperialist designs against the Confederacy..."
+
+	date = { day = 3 month = july year = 1940 }
+
+	action = {
+		name = "We must act as one against the North!"
+		command = { type = dissent value = -5 }
+		command = { type = relation which = USA value = -25 }
+		command = { type = domestic which = free_market value = -1 }
+		command = { type = domestic which = freedom value = -1 }
+		command = { type = domestic which = defense_lobby value = 1 } 
+		command = { type = max_organization which = land value = 5 }
+		command = { type = morale which = land value = 5 }
+	}
+
+	action = {
+		name = "We are the true heirs of American Revolution!"
+		command = { type = dissent value = -3 }
+		command = { type = belligerence value = 10 }
+		command = { type = relation which = USA value = -50 }	
+		command = { type = domestic which = democratic value = 1 }
+		command = { type = domestic which = freedom value = 1 }	
+		command = { type = domestic which = interventionism value = 2 } 
+	}
+
+}

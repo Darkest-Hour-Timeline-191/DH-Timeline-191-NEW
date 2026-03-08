@@ -18,11 +18,11 @@ VEN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 180016;Foreign Minister;Gustavo Herrera Grau;1945;1964;ML;Iron Fisted Brute;Medium;M38036;X
 180017;Foreign Minister;Carlos Morales Acorzia;1945;1964;SD;Iron Fisted Brute;Medium;M38037;X
 180018;Foreign Minister;Gonzalo Barrios;1947;1964;ML;General Staffer;Medium;M38038;X
-180019;Minister of Armament;Don Pedro Grases;1938;1964;PA;laissez-faire capitalist;Medium;M38039;X
+180019;Minister of Armament;Don Pedro Grases;1938;1964;PA;Laissez-Faire Capitalist;Medium;M38039;X
 180020;Minister of Armament;Carlos Ramos Díaz;1941;1964;SC;Submarine Proponent;Low;M38040;X
 180021;Minister of Armament;Miguel Díaz Fraile;1942;1964;SC;Strategic Air Proponent;Low;M38041;X
 180022;Minister of Armament;Carlos Molina Talavayo;1942;1964;ML;Battle Fleet Proponent;Low;M38042;X
-180023;Minister of Armament;Eloy Lares Martinez;1943;1964;ML;laissez-faire capitalist;Medium;M38043;X
+180023;Minister of Armament;Eloy Lares Martinez;1943;1964;ML;Laissez-Faire Capitalist;Medium;M38043;X
 180024;Minister of Armament;Julio Garcia Jarpa;1945;1964;ML;Military Entrepreneur;Medium;M38044;X
 180025;Minister of Armament;Jose Vicente Rangel;1946;1964;SD;Resource Industrialist;Medium;M38045;X
 180026;Minister of Security;Jose Aguerre Vere;1933;1964;SC;Efficient Sociopath;Medium;M38046;X
@@ -30,7 +30,7 @@ VEN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 180028;Minister of Security;Cesar Zumeta;1939;1964;PA;Compassionate Gentleman;Medium;M38048;X
 180029;Minister of Security;Alejandro Armas;1941;1964;SC;Prince of Terror;Medium;M38049;X
 180030;Minister of Security;Antonio J. Diaz Martinez;1943;1964;ML;Crime Fighter;Medium;M38050;X
-180031;Minister of Security;Romulo Gallegos Freire;1945;1964;SD;Man of The People;Medium;M38051;X
+180031;Minister of Security;Romulo Gallegos Freire;1945;1964;SD;Man of the People;Medium;M38051;X
 180032;Minister of Security;José Sanguino Cárdenas;1946;1964;LWR;Compassionate Gentleman;Medium;M38052;X
 180033;Minister of Security;Concepcion Quijada Gonzalez;1946;1964;SD;Silent Lawyer;Medium;M38053;X
 180034;Minister of Security;Adolfo Gonzalez Aquilar;1947;1964;LWR;Efficient Sociopath;Medium;M38054;X
@@ -81,20 +81,20 @@ VEN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 180079;Head of State;Carlos Delgado Chalbaud;1948;1964;SC;Resigned Generalissimo;Medium;L270004;X
 180080;Head of State;German Suarez Flamerich;1950;1964;SC;Insignificant Layman;Medium;M38084;X
 180081;Head of State;Marcos Perez Jimenez;1952;1964;PA;Barking Buffoon;Medium;L270021;X
-180082;Head of Government;Luis Felipe Llovera Paez;1948;1964;SC;old airmarshal;High;M38086;X
+180082;Head of Government;Luis Felipe Llovera Paez;1948;1964;SC;Old Airmarshal;High;M38086;X
 180083;Head of Government;Marcos Perez Jimenez;1948;1964;PA;Old General;High;L270021;X
 180084;Foreign Minister;German Suarez Flamerich;1948;1964;SC;Biased Intellectual;Medium;M38084;X
 180085;Foreign Minister;Antonio Casas Gonzalez;1952;1964;PA;General Staffer;Medium;M38057;X
 180086;Chief of Army;Marcos Perez Jimenez;1948;1964;SC;Elastic Defence Doctrine;Medium;L270021;X
 180087;Chief of Army;Wolfgang Larrazabal Ugueto;1952;1964;PA;Armoured Spearhead Doctrine;Medium;L270011;X
-180088;Chief of Army;Ignacio Andrade;1900;1933;ML;ARMOURED SPEARHEAD DOCTRINE;Medium;3681;X
-180089;Chief of Army;Juan Vicente Gómez;1902;1933;PA;DECISIVE BATTLE DOCTRINE;Medium;7985;X
-180090;Chief of Army;Juan Penazola;1903;1933;ML;ELASTIC DEFENCE DOCTRINE;Medium;3682;X
-180091;Chief of Army;Eleazar Lopez Contreras;1919;1933;PA;GUNS AND BUTTER DOCTRINE;Medium;3683;X
-180092;Chief of Staff;Ignacio Andrade;1900;1933;ML;SCHOOL OF DEFENCE;Medium;3681;X
-180093;Chief of Staff;Juan Vicente Gómez;1902;1933;PA;SCHOOL OF FIRE SUPPORT;Medium;7985;X
-180094;Chief of Staff;Juan Penazola;1903;1933;ML;SCHOOL OF MASS COMBAT;Medium;3682;X
-180095;Chief of Staff;Eleazar Lopez Contreras;1919;1933;PA;SCHOOL OF MANOEUVRE;Medium;3683;X
+180088;Chief of Army;Ignacio Andrade;1900;1933;ML;Armoured Spearhead Doctrine;Medium;3681;X
+180089;Chief of Army;Juan Vicente Gómez;1902;1933;PA;Decisive Battle Doctrine;Medium;7985;X
+180090;Chief of Army;Juan Penazola;1903;1933;ML;Elastic Defence Doctrine;Medium;3682;X
+180091;Chief of Army;Eleazar Lopez Contreras;1919;1933;PA;Guns and Butter Doctrine;Medium;3683;X
+180092;Chief of Staff;Ignacio Andrade;1900;1933;ML;School of Defence;Medium;3681;X
+180093;Chief of Staff;Juan Vicente Gómez;1902;1933;PA;School of Fire Support;Medium;7985;X
+180094;Chief of Staff;Juan Penazola;1903;1933;ML;School of Mass Combat;Medium;3682;X
+180095;Chief of Staff;Eleazar Lopez Contreras;1919;1933;PA;School of Manoeuvre;Medium;3683;X
 180096;Foreign Minister;Pedro Itriago Chacin;1914;1933;PA;General Staffer;Medium;3684;X
 180097;Foreign Minister;Ignacio Andrade;1916;1933;ML;General Staffer;Medium;3681;X
 180098;Foreign Minister;Esteban Gil Borges;1914;1933;SL;Great Compromiser;Medium;3685;X
@@ -102,9 +102,52 @@ VEN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 180100;Head of Government;Cipriano Castro;1900;1933;PA;Old General;Medium;3687;X
 180101;Head of Government;Juan Vicente Gómez;1910;1933;PA;Old General;Medium;3688;X
 180102;Head of Government;Victorino Marquez Bustillos;1914;1933;SL;Old General;Medium;3689;X
-180103;Head of Military Intelligence;Eustoquio Gomez;1908;1933;PA;DISMAL ENIGMA;Medium;3690;X
+180103;Head of Military Intelligence;Eustoquio Gomez;1908;1933;PA;Dismal Enigma;Medium;3690;X
 180104;Head of State;Joaquín Crespo;1900;1933;PA;Stern Imperialist;Medium;3686;X
 180105;Head of State;Cipriano Castro;1900;1933;PA;Stern Imperialist;Medium;3687;X
 180106;Head of State;Juan Vicente Gómez;1910;1933;PA;Stern Imperialist;Medium;3688;X
 180107;Head of State;Victorino Marquez Bustillos;1914;1933;SL;Stern Imperialist;Medium;3689;X
-180108;Minister of Security;Ignacio Andrade;1917;1933;ML;SILENT LAWYER;Medium;3681;X
+180108;Minister of Security;Ignacio Andrade;1917;1933;ML;Silent Lawyer;Medium;3681;X
+180109;Head of State;Wolfgang Larrazabal Ugueto;1957;2004;SL;Die-hard Reformer;Medium;L270011;X
+180110;Head of State;Romulo Betancourt;1958;1982;SD;Autocratic Charmer;High;L270001;X
+180111;Head of State;Raúl Leoni Otero;1963;1973;ML;Autocratic Charmer;Medium;VEN - Raúl Leoni;X
+180112;Head of State;Rafael Caldera Rodríguez;1947;2010;ML;Ruthless Powermonger;Medium;VEN - Rafael Caldera;X
+180113;Head of State;Carlos Andrés Pérez;1974;2011;SD;Powerhungry Demagogue;Medium;VEN - Carlos Andrés Pérez;X
+180114;Head of State;Luis Herrera Campins;1978;2011;ML;Die-hard Reformer;Medium;VEN - Luis Herrera;X
+180115;Head of State;Jaime Lusinchi;1984;2015;SL;Insignificant Layman;Medium;VEN - Jaime Lusinchi;X
+180116;Head of State;Ramón Velásquez Mujica;1993;2015;SD;Weary Stiffneck;Medium;VEN - Ramón José Velásquez;X
+180117;Head of State;Hugo Chávez Frías;1998;2014;LWR;Die-hard Reformer;Medium;VEN - Hugo Chávez;X
+180118;Head of State;Gonzalo Barrios Bustillos;1968;1994;SD;Insignificant Layman;Medium;VEN - Gonzalo Barrios;X
+180119;Head of State;Lorenzo Fernández;1974;1985;ML;Powerhungry Demagogue;Medium;VEN - Lorenzo Fernández;X
+180120;Head of State;Luis Piñerúa Ordaz;1978;2002;ML;Ruthless Powermonger;Medium;VEN - Luis Pinerua Ordaz;X
+180121;Head of State;Eduardo Fernández Jiménez;1988;2020;ML;Autocratic Charmer;Medium;VEN - Eduardo Fernández;X
+180122;Head of State;Claudio Fermín Maldonado;1993;2020;SD;Weary Stiffneck;Medium;VEN - Claudio Fermin;X
+180123;Head of State;Henrique Salas Römer;1998;2020;ML;Popular Figurehead;Medium;VEN - Henrique Salas Römer;X
+180124;Head of State;Juan Bautista Fuenmayor;1933;1999;ST;Powerhungry Demagogue;Medium;VEN - Juan Bautista Fuenmayor;X
+180125;Head of State;Jesús Faría;1951;1996;LE;Die-hard Reformer;Medium;VEN - Jesús Faria;X
+180126;Head of State;Alonso Ojeda Olaechea;1975;2007;LE;Weary Stiffneck;Medium;VEN - Alonso Ojeda;X
+180127;Head of State;Trino Meleán;1990;1997;LE;Insignificant Layman;Medium;VEN - Trino Meleán;X
+180128;Head of State;Jesús Molina Villegas;1962;2000;LWR;Reformist Soldierhos;Medium;VEN - Jesús Molina Villegas;X
+180129;Head of Government;Romulo Gallegos Freire;1948;1964;SD;Political Protege;Medium;M38051;X
+180130;Head of Government;Carlos Delgado Chalbaud;1948;1964;SC;Old General;Medium;L270004;X
+180131;Head of Government;German Suarez Flamerich;1950;1964;SC;Silent Workhorse;Medium;M38084;X
+180132;Head of Government;Wolfgang Larrazabal Ugueto;1957;2004;SL;Old Admiral;Medium;L270011;X
+180133;Head of Government;Romulo Betancourt;1958;1982;SD;Flamboyant Tough Guy;High;L270001;X
+180134;Head of Government;Raúl Leoni Otero;1963;1973;ML;Happy Amateur;Medium;VEN - Raúl Leoni;X
+180135;Head of Government;Rafael Caldera Rodríguez;1947;2010;ML;Backroom Backstabber;Medium;VEN - Rafael Caldera;X
+180136;Head of Government;Carlos Andrés Pérez;1974;2011;SD;Happy Amateur;Medium;VEN - Carlos Andrés Pérez;X
+180137;Head of Government;Luis Herrera Campins;1978;2011;ML;Flamboyant Tough Guy;Medium;VEN - Luis Herrera;X
+180138;Head of Government;Jaime Lusinchi;1984;2015;SL;Political Protege;Medium;VEN - Jaime Lusinchi;X
+180139;Head of Government;Ramón Velásquez Mujica;1993;2015;SD;Silent Workhorse;Medium;VEN - Ramón José Velásquez;X
+180140;Head of Government;Hugo Chávez Frías;1998;2014;LWR;Flamboyant Tough Guy;Medium;VEN - Hugo Chávez;X
+180141;Head of Government;Gonzalo Barrios Bustillos;1968;1994;SD;Happy Amateur;Medium;VEN - Gonzalo Barrios;X
+180142;Head of Government;Lorenzo Fernández;1974;1985;ML;Ambitious Union Boss;Medium;VEN - Lorenzo Fernández;X
+180143;Head of Government;Luis Piñerúa Ordaz;1978;2002;ML;Backroom Backstabber;Medium;VEN - Luis Pinerua Ordaz;X
+180144;Head of Government;Eduardo Fernández Jiménez;1988;2020;ML;Naive Optimist;Medium;VEN - Eduardo Fernández;X
+180145;Head of Government;Claudio Fermín Maldonado;1993;2020;SD;Ambitious Union Boss;Medium;VEN - Claudio Fermin;X
+180146;Head of Government;Henrique Salas Römer;1998;2020;ML;Naive Optimist;Medium;VEN - Henrique Salas Römer;X
+180147;Head of Government;Juan Bautista Fuenmayor;1933;1999;ST;Backroom Backstabber;Medium;VEN - Juan Bautista Fuenmayor;X
+180148;Head of Government;Jesús Faría;1951;1996;LE;Political Protege;Medium;VEN - Jesús Faria;X
+180149;Head of Government;Alonso Ojeda Olaechea;1975;2007;LE;Happy Amateur;Medium;VEN - Alonso Ojeda;X
+180150;Head of Government;Trino Meleán;1990;1997;LE;Naive Optimist;Medium;VEN - Trino Meleán;X
+180151;Head of Government;Jesús Molina Villegas;1962;2000;LWR;Reformist Soldierhog;Medium;VEN - Jesús Molina Villegas;X

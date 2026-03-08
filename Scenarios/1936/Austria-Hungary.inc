@@ -137,16 +137,16 @@ country = {
     defense_lobby     = 5
     interventionism   = 4
   }
-  headofstate            = { type = 9 id = 860068 } # S.K.u.K.M Karl I
+  headofstate            = { type = 9 id = 860068 } # S.K.M. Karl I
   headofgovernment       = { type = 9 id = 860073 } # Leopold Figl
-  foreignminister        = { type = 9 id = 860082 } # Karl Gruber
-  armamentminister       = { type = 9 id = 860088 } # Josef Dobretsberger
-  ministerofsecurity     = { type = 9 id = 860094 } # Karl Tuppy
-  ministerofintelligence = { type = 9 id = 860100 } # Karl Tuppy
-  chiefofstaff           = { type = 9 id = 860106 } # Alfred von Jansa
-  chiefofarmy            = { type = 9 id = 860109 } # Alfred von Jansa
-  chiefofnavy            = { type = 9 id = 860112 } # Edgar Angeli
-  chiefofair             = { type = 9 id = 860113 } # Milan Emil Uzelac
+  foreignminister        = { type = 9 id = 860082 }
+  armamentminister       = { type = 9 id = 860088 }
+  ministerofsecurity     = { type = 9 id = 860094 }
+  ministerofintelligence = { type = 9 id = 860100 }
+  chiefofstaff           = { type = 9 id = 860106 }
+  chiefofarmy            = { type = 9 id = 860109 }
+  chiefofnavy            = { type = 9 id = 860112 }
+  chiefofair             = { type = 9 id = 860113 }
 
   landunit = {
     id       = { type = 14000 id = 9000 }
@@ -243,7 +243,7 @@ country = {
 
   division_development = {
     id             = { type = 14000 id = 9014 }
-    name           = "SMS Weyprecht" # named after Karl Weyprecht
+    name           = "SMS Weyprecht"
     type           = light_cruiser
     model          = 4
     cost           = 0.4

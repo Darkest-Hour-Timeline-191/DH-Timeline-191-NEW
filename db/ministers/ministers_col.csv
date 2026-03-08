@@ -29,7 +29,7 @@ COL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 175027;Head of Government;Joaquin Fernandez;1938;1964;SC;Corporate Suit;High;M37035;X
 175028;Head of Government;Carlos Arango Vélez;1942;1964;SC;Silent Workhorse;High;M37036;X
 175029;Head of Government;Jorge Eliecer Gaitan;1945;1964;SC;Naive Optimist;High;M37037;X
-175030;Head of Government;Mariano Ospina Pérez;1946;1964;SC;Happy Amateur;High;M37038;X
+175030;Head of Government;Mariano Ospina Pérez;1946;1964;ML;Happy Amateur;High;M37038;X
 175031;Head of Government;Julio Valdez;1938;1964;FA;Old General;High;M37011;X
 175032;Head of Government;Ruben Piedrahita Arango;1945;1964;PA;Old General;High;M37017;X
 175033;Head of Government;Querista Sellor;1938;1964;LE;Backroom Backstabber;High;M37021;X
@@ -52,7 +52,7 @@ COL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 175050;Minister of Armament;Gregorio Obregon;1937;1964;SD;Tank Proponent;Medium;M37073;X
 175051;Minister of Armament;Alain Adair Arriaga;1942;1964;SD;Resource Industrialist;High;M37074;X
 175052;Minister of Armament;Alfonso Lopéz Pumarejo;1937;1964;SD;Infantry Proponent;Medium;M37001;X
-175053;Minister of Armament;Francisco Barberi Zamorano;1944;1964;SD;laissez-faire capitalist;Medium;M37076;X
+175053;Minister of Armament;Francisco Barberi Zamorano;1944;1964;SD;Laissez-Faire Capitalist;Medium;M37076;X
 175054;Minister of Armament;Humberto Chica Pinzon;1938;1964;SL;Theoretical Scientist;Medium;M37077;X
 175055;Minister of Armament;Camilo Daza Alvarez;1940;1964;SL;Air Superiority Proponent;Medium;M37078;X
 175056;Minister of Armament;Alejandro Galvis;1942;1964;SL;Corrupt Kleptocrat;Medium;M37079;X
@@ -68,7 +68,7 @@ COL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 175066;Minister of Armament;Julio Valdez;1947;1964;PA;Theoretical Scientist;Medium;M37011;X
 175067;Minister of Armament;Jorge Roa Martinez;1938;1964;LWR;Infantry Proponent;Medium;M37005;X
 175068;Minister of Armament;Gabriel Quintanilla Morales;1946;1964;LWR;Battle Fleet Proponent;Medium;M37029;X
-175069;Minister of Armament;Carlos Lozano y Lozano;1947;1964;LWR;laissez-faire capitalist;High;M37044;X
+175069;Minister of Armament;Carlos Lozano y Lozano;1947;1964;LWR;Laissez-Faire Capitalist;High;M37044;X
 175070;Minister of Security;Rafael Giraldo Vargas;1942;1964;SD;Crooked Kleptocrat;Medium;M37093;X
 175071;Minister of Security;Raphael Hollmann;1943;1964;SD;Compassionate Gentleman;Medium;M37094;X
 175072;Minister of Security;Alberto Lleras Camargo;1939;1964;SD;Silent Lawyer;High;M37033;X
@@ -144,11 +144,11 @@ COL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 175142;Chief of Staff;Guillermo Valencia Castillo;1915;1933;SC;School of Fire Support;High;2365;X
 175143;Chief of Staff;Gral. Pedro Justo Berrío;1915;1933;PA;School of Mass Combat;High;unknown;X
 175144;Chief of Staff;Antonio José Cadavid;1915;1933;SL;School of Mass Combat;High;unknown;X
-175145;Chief of Staff;Gral. Salvador Franco;1916;1933;PA;school of manoeuvre;High;unknown;X
-175146;Chief of Staff;Jorge Roa;1918;1933;SC;school of manoeuvre;High;unknown;X
+175145;Chief of Staff;Gral. Salvador Franco;1916;1933;PA;School of Manoeuvre;High;unknown;X
+175146;Chief of Staff;Jorge Roa;1918;1933;SC;School of Manoeuvre;High;unknown;X
 175147;Chief of Staff;Bonifacio Vélez;1921;1933;SC;School of Fire Support;High;unknown;X
 175148;Chief of Staff;Aristóbulo Archila;1921;1933;SC;School of Mass Combat;High;5969;X
-175149;Chief of Staff;Carlos Vélez Daníes;1922;1933;SC;school of defence;High;5970;X
+175149;Chief of Staff;Carlos Vélez Daníes;1922;1933;SC;School of Defence;High;5970;X
 175150;Chief of Staff;José Ulises Osorio;1922;1933;SC;School of Mass Combat;High;5971;X
 175151;Chief of Staff;Gral. Alfonso Jaramillo Isaza;1923;1933;PA;School of Fire Support;High;unknown;X
 175152;Chief of Staff;Gral. Carlos Jaramillo Isaza;1924;1933;PA;School of Mass Combat;High;unknown;X
@@ -184,3 +184,41 @@ COL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 175182;Head of State;Gral. Jorge Holguín;1921;1933;PA;Benevolent Gentleman;Very High;2369;X
 175183;Head of State;Pedro Nel Ospina;1920;1933;SC;Autocratic Charmer;High;2363;X
 175184;Minister of Security;Emilio Ferrero;1914;1933;SC;Crime Fighter;High;5981;X
+175185;Head of State;Laureano Gómez Castro;1944;1966;SC;Die-hard Reformer;Medium;M37067;X
+175185;Head of State;Roberto Urdaneta Arbeláez;1951;1973;PA;Weary Stiffneck;Medium;M37066;X
+175187;Head of State;Guillermo Leon Valencia;1962;1972;SC;Weary Stiffneck;Medium;COL - Guillermo Leon Valencia;X
+175188;Head of State;Carlos Lleras Restrepo;1966;1995;SD;Powerhungry Demagogue;Medium;COL - Carlos Lleras Restrepo;X
+175189;Head of State;Misael Pastrana Borrero;1970;1998;SC;Insignificant Layman;Medium;COL - Misael Pastrana Borrero;X
+175190;Head of State;Alfonso Lopez Michelsen;1962;2008;SL;Stern Imperialist;Medium;COL - Alfonso Lopez Michelsen;X
+175191;Head of State;Julio César Turbay Ayala;1978;2006;SL;Weary Stiffneck;Medium;COL - Julio César Turbay Ayala;X
+175192;Head of State;Belisario Betancur Cuartas;1978;2019;SC;Popular Figurehead;Medium;COL - Belisario Betancur Cuartas;X
+175193;Head of State;Virgilio Barco Vargas;1986;1998;SL;Pig-headed Isolationist;Medium;COL - Virgilio Barco Vargas;X
+175194;Head of State;César Gaviria Trujillo;1990;2020;SL;Barking Buffoon;Medium;COL - César Gaviria Trujillo;X
+175195;Head of State;Ernesto Samper Pizano;1994;2020;SD;Ruthless Powermonger;Medium;COL - Ernesto Samper Pizano;X
+175196;Head of State;Andrés Pastrana Arango;1994;2020;ML;Barking Buffoon;Medium;COL - Andrés Pastrana Arango;X
+175197;Head of State;Jorge Leyva Urdaneta;1958;1969;SC;Benevolent Gentleman;Medium;unknownminister;X
+175198;Head of State;José Jaramillo Giraldo;1966;1980;LWR;Autocratic Charmer;Medium;COL - José Jaramillo Giraldo;X
+175199;Head of State;Gustavo Rojas Pinilla;1970;1975;SC;Resigned Generalissimo;High;COL - Gustavo Rojas Pinilla;X
+175200;Head of State;Álvaro Gómez Hurtado;1974;1996;SC;Popular Figurehead;Medium;COL - Alvaro Gómez Hurtado;X
+175201;Head of State;Horacio Serpa Uribe;1998;2020;SD;Insignificant Layman;Medium;COL - Horacio Serpa Uribe;X
+175202;Head of State;Pedro Antonio Marín;1964;2009;LE;Ruthless Powermonger;Medium;COL - Pedro Antonio Marin;X
+175203;Head of State;Gilberto Vieira White;1941;2001;ST;Powerhungry Demagogue;Medium;COL - Gilberto Vieira White;X
+175204;Head of Government;Roberto Urdaneta Arbeláez;1951;1973;PA;Silent Workhorse;Medium;M37066;X
+175205;Head of Government;Laureano Gómez Castro;1944;1966;SC;Flamboyant Tough Guy;Medium;M37067;X
+175206;Head of Government;Guillermo Leon Valencia;1962;1972;SC;Smiling Oilman;Medium;COL - Guillermo Leon Valencia;X
+175207;Head of Government;Carlos Lleras Restrepo;1966;1995;SD;Political Protege;Medium;COL - Carlos Lleras Restrepo;X
+175208;Head of Government;Misael Pastrana Borrero;1970;1998;SC;Naive Optimist;Medium;COL - Misael Pastrana Borrero;X
+175209;Head of Government;Álvaro Gómez Hurtado;1974;1996;SC;Backroom Backstabber;Medium;COL - Alvaro Gómez Hurtado;X
+175210;Head of Government;Julio César Turbay Ayala;1978;2006;SL;Happy Amateur;Medium;COL - Julio César Turbay Ayala;X
+175211;Head of Government;Belisario Betancur Cuartas;1978;2019;SC;Political Protege;Medium;COL - Belisario Betancur Cuartas;X
+175212;Head of Government;Virgilio Barco Vargas;1986;1998;SL;Political Protege;Medium;COL - Virgilio Barco Vargas;X
+175213;Head of Government;César Gaviria Trujillo;1990;2020;SL;Naive Optimist;Medium;COL - César Gaviria Trujillo;X
+175214;Head of Government;Ernesto Samper Pizano;1994;2020;SD;Happy Amateur;Medium;COL - Ernesto Samper Pizano;X
+175215;Head of Government;Andrés Pastrana Arango;1994;2020;ML;Backroom Backstabber;Medium;COL - Andrés Pastrana Arango;X
+175216;Head of Government;Jorge Leyva Urdaneta;1958;1969;SC;Silent Workhorse;Medium;unknownminister;X
+175217;Head of Government;José Jaramillo Giraldo;1966;1980;LWR;Ambitious Union Boss;Medium;COL - José Jaramillo Giraldo;X
+175218;Head of Government;Gustavo Rojas Pinilla;1970;1975;SC;Old General;High;COL - Gustavo Rojas Pinilla;X
+175219;Head of Government;Álvaro Gómez Hurtado;1974;1996;SC;Naive Optimist;Medium;COL - Alvaro Gómez Hurtado;X
+175220;Head of Government;Horacio Serpa Uribe;1998;2020;SD;Happy Amateur;Medium;COL - Horacio Serpa Uribe;X
+175221;Head of Government;Pedro Antonio Marín;1964;2009;LE;Ambitious Union Boss;Medium;COL - Pedro Antonio Marin;X
+175222;Head of Government;Gilberto Vieira White;1941;2001;ST;Backroom Backstabber;Medium;COL - Gilberto Vieira White;X

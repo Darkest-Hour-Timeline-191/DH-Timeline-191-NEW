@@ -55,7 +55,7 @@ LIT;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 140053;Minister of Armament;Jonas Cernius;1940;1964;PA;Battle Fleet Proponent;Medium;M28014;X
 140054;Minister of Armament;Aras Abrutis;1945;1964;PA;Administrative Genius;Medium;M28075;X
 140055;Minister of Armament;Juozas Purickis;1938;1964;SC;Administrative Genius;Medium;M28076;X
-140056;Minister of Armament;Leonas Bistras;1941;1964;SC;laissez-faire capitalist;Medium;M28077;X
+140056;Minister of Armament;Leonas Bistras;1941;1964;SC;Laissez-Faire Capitalist;Medium;M28077;X
 140057;Minister of Armament;Gintare Klumbyte;1945;1964;SC;Corrupt Kleptocrat;Medium;M28078;X
 140058;Minister of Armament;Vytautas Martinaitis;1938;1964;ST;Submarine Proponent;Medium;M28079;X
 140059;Minister of Armament;Mecislovas Gedvilas;1940;1964;ST;Theoretical Scientist;Medium;M28024;X
@@ -118,6 +118,39 @@ LIT;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 140116;Chief of Air Force;Mykolas Filipavicius;1945;1964;SC;Air Superiority Doctrine;Medium;M28093;X
 140117;Chief of Air Force;Aleksandras Guzevicius;1938;1964;ST;Vertical Envelopment Doctrine;Medium;M28030;X
 140118;Chief of Air Force;Juozas Baukarskas;1945;1964;ST;Army Aviation Doctrine;Medium;M28145;X
-140119;Head of State;Mindaugas II;1914;1933;PA;Popular Figurehead;Medium;2824;X
+140119;Head of State;H.M. Mindaugas II;1914;1933;PA;Popular Figurehead;Medium;2824;X
 140120;Head of State;Kazys Grinius;1920;1964;LE;Undistinguished Suit;High;6950;X
 140121;Head of Government;Aleksandras Stulginskis;1920;1964;LE;Undistinguished Suit;High;6951;X
+140122;Head of State;H.M. Mindaugas III;1945;1982;PA;Benevolent Gentleman;High;GER - Duke Karl Gero of Urach;X
+140123;Head of State;H.M. Mindaugas IV;1981;2020;PA;Insignificant Layman;High;GER - Duke Inigo of Urach;X
+140124;Head of State;Petras Griskevicius;1964;1988;LWR;Popular Figurehead;Low;LIT - Petras Griskevicius;X
+140125;Head of State;Ringaudas Songaila;1987;2020;LWR;Barking Buffoon;Low;LIT - Ringaudas Songaila;X
+140126;Head of State;Algirdas Brazauskas;1988;2011;LWR;Powerhungry Demagogue;Low;LIT - Algirdas Brazauskas;X
+140127;Head of State;Vytautas Landsbergis;1985;2020;SC;Barking Buffoon;High;LIT - Vytautas Landsbergis;X
+140128;Head of State;Algirdas Brazauskas;1988;2011;SD;Powerhungry Demagogue;Low;LIT - Algirdas Brazauskas;X
+140129;Head of State;Valdas Adamkus;1997;2020;SC;Popular Figurehead;Medium;LIT - Valdas Adamkus;X
+140130;Head of State;Stasys Lozoraitis Jr.;1993;1996;ML;Insignificant Layman;Medium;LIT - Stasys Lozoraitis Jr.;X
+140131;Head of State;Arturas Paulauskas;1997;2020;SD;Ruthless Powermonger;Low;LIT - Arturas Paulauskas;X
+140132;Head of State;Vladas Žalnerauskas;1979;2010;PA;Weary Stiffneck;High;LIT - Vladas Zalnerauskas;X
+140133;Head of State;Stasys Cenkus;1944;1984;FA;Autocratic Charmer;High;LIT - Stasys Cenkus;X
+140134;Head of State;Algimantas Dailide;1982;2017;FA;Insignificant Layman;High;LIT - Algimantas Dailide;X
+140135;Head of State;Aleksandras Lileikis;1963;2002;NS;Stern Imperialist;High;LIT - Aleksandras Lileikis;X
+140136;Head of State;H.M. Mindaugas III;1945;1982;ML;Benevolent Gentleman;High;GER - Duke Karl Gero of Urach;X
+140137;Head of State;H.M. Mindaugas IV;1981;2020;ML;Insignificant Layman;High;GER - Duke Inigo of Urach;X
+140138;Head of Government;Mecislovas Gedvilas;1944;1964;LWR;Political Protege;Low;LIT - Mecislovas Gedvilas;X
+140139;Head of Government;Motiejus Sumauskas;1956;1964;LWR;Silent Workhorse;Low;LIT - Motiejus Sumauskas;X
+140140;Head of Government;Juozas Maniusis;1967;1988;LWR;Backroom Backstabber;Low;LIT - Juozas Maniusis;X
+140141;Head of Government;Ringaudas Songaila;1981;2020;LWR;Backroom Backstabber;Low;LIT - Ringaudas Songaila;X
+140142;Head of Government;Vytautas Sakalauskas;1985;2002;LWR;Political Protege;Low;LIT - Vytautas Sakalauskas;X
+140143;Head of Government;Kazimira Prunskiene;1985;2020;ML;Silent Workhorse;High;LIT - Kazimira Prunskiene;X
+140144;Head of Government;Gediminas Vagnorius;1991;2020;ML;Naive Optimist;Medium;LIT - Gediminas Vagnorius;X
+140145;Head of Government;Bronislovas Lubys;1991;2012;ML;Corporate Suit;Medium;LIT - Bronislovas Lubys;X
+140146;Head of Government;Adolfas Slezevicius;1992;2020;SD;Corporate Suit;Medium;LIT - Adolfas Slezevicius;X
+140147;Head of Government;Rolandas Paksas;1998;2020;SC;Ambitious Union Boss;Medium;LIT - Rolandas Paksas;X
+140148;Head of Government;Andrius Kubilius;1999;2020;SC;Silent Workhorse;Medium;LIT - Andrius Kubilius;X
+140149;Head of Government;Jonas Zemaitis;1948;1970;PA;Old General;High;M28036;X
+140150;Head of Government;Rimantas Matulis;1969;2020;PA;Happy Amateur;High;LIT - Rimantas Matulis;X
+140151;Head of Government;Leonas Prapuolenis;1948;1973;FA;Flamboyant Tough Guy;High;LIT - Leonas Prapuolenis;X
+140152;Head of Government;Pilypas Žukauskas;1972;2010;FA;Corporate Suit;High;LIT - Pilypas Zukauskas;X
+140153;Head of Government;Visvaldas Mažonas;1985;2020;FA;Flamboyant Tough Guy;High;LIT - Visvaldas Mazonas;X
+140154;Head of Government;Vladas Zajanckauskas;1964;2015;NS;Political Protege;High;LIT - Vladas Zajanckauskas;X

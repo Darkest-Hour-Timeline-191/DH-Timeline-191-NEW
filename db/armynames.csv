@@ -521,6 +521,36 @@ BEN;27e Corps d'Armée Beninien
 BEN;28e Corps d'Armée Beninien
 BEN;29e Corps d'Armée Beninien
 BEN;30e Corps d'Armée Beninien
+BHU;I. Bhutanese Corps
+BHU;II. Bhutanese Corps
+BHU;III. Bhutanese Corps
+BHU;IV. Bhutanese Corps
+BHU;V. Bhutanese Corps
+BHU;VI. Bhutanese Corps
+BHU;VII. Bhutanese Corps
+BHU;VIII. Bhutanese Corps
+BHU;IX. Bhutanese Corps
+BHU;X. Bhutanese Corps
+BHU;XI. Bhutanese Corps
+BHU;XII. Bhutanese Corps
+BHU;XIII. Bhutanese Corps
+BHU;XIV. Bhutanese Corps
+BHU;XV. Bhutanese Corps
+BHU;XVI. Bhutanese Corps
+BHU;XVII. Bhutanese Corps
+BHU;XVIII. Bhutanese Corps
+BHU;XIX. Bhutanese Corps
+BHU;XX. Bhutanese Corps
+BHU;XXI. Bhutanese Corps
+BHU;XXII. Bhutanese Corps
+BHU;XXIII. Bhutanese Corps
+BHU;XXIV. Bhutanese Corps
+BHU;XXV. Bhutanese Corps
+BHU;XXVI. Bhutanese Corps
+BHU;XXVII. Bhutanese Corps
+BHU;XXVIII. Bhutanese Corps
+BHU;XXIX. Bhutanese Corps
+BHU;XXX. Bhutanese Corps
 BLR;1-y Korpus
 BLR;2-y Korpus
 BLR;3-y Korpus
@@ -590,36 +620,6 @@ BLR;67-y Korpus
 BLR;68-y Korpus
 BLR;69-y Korpus
 BLR;70-y Korpus
-BHU;I. Bhutanese Corps
-BHU;II. Bhutanese Corps
-BHU;III. Bhutanese Corps
-BHU;IV. Bhutanese Corps
-BHU;V. Bhutanese Corps
-BHU;VI. Bhutanese Corps
-BHU;VII. Bhutanese Corps
-BHU;VIII. Bhutanese Corps
-BHU;IX. Bhutanese Corps
-BHU;X. Bhutanese Corps
-BHU;XI. Bhutanese Corps
-BHU;XII. Bhutanese Corps
-BHU;XIII. Bhutanese Corps
-BHU;XIV. Bhutanese Corps
-BHU;XV. Bhutanese Corps
-BHU;XVI. Bhutanese Corps
-BHU;XVII. Bhutanese Corps
-BHU;XVIII. Bhutanese Corps
-BHU;XIX. Bhutanese Corps
-BHU;XX. Bhutanese Corps
-BHU;XXI. Bhutanese Corps
-BHU;XXII. Bhutanese Corps
-BHU;XXIII. Bhutanese Corps
-BHU;XXIV. Bhutanese Corps
-BHU;XXV. Bhutanese Corps
-BHU;XXVI. Bhutanese Corps
-BHU;XXVII. Bhutanese Corps
-BHU;XXVIII. Bhutanese Corps
-BHU;XXIX. Bhutanese Corps
-BHU;XXX. Bhutanese Corps
 BOL;I Cuerpo del Ejército
 BOL;II Cuerpo del Ejército
 BOL;III Cuerpo del Ejército
@@ -4825,71 +4825,6 @@ ITA;LXVII Corpo d'Armata
 ITA;LXVIII Corpo d'Armata
 ITA;LXIX Corpo d'Armata
 ITA;LXX Corpo d'Armata
-JOR;I Jordanian Corps
-JOR;II Jordanian Corps
-JOR;III Jordanian Corps
-JOR;IV Jordanian Corps
-JOR;V Jordanian Corps
-JOR;VI Jordanian Corps
-JOR;VII Jordanian Corps
-JOR;VIII Jordanian Corps
-JOR;IX Jordanian Corps
-JOR;X Jordanian Corps
-JOR;XI Jordanian Corps
-JOR;XII Jordanian Corps
-JOR;XIII Jordanian Corps
-JOR;XIV Jordanian Corps
-JOR;XV Jordanian Corps
-JOR;XXI Jordanian Corps
-JOR;XXII Jordanian Corps
-JOR;XXIII Jordanian Corps
-JOR;XXIV Jordanian Corps
-JOR;XXV Jordanian Corps
-JOR;XXVI Jordanian Corps
-JOR;XXVII Jordanian Corps
-JOR;XXVIII Jordanian Corps
-JOR;XXIX Jordanian Corps
-JOR;XXX Jordanian Corps
-JOR;XXXI Jordanian Corps
-JOR;XXXII Jordanian Corps
-JOR;XXXIII Jordanian Corps
-JOR;XXXIV Jordanian Corps
-JOR;XXXV Jordanian Corps
-JOR;XXXVI Jordanian Corps
-JOR;XXXVII Jordanian Corps
-JOR;XXXVIII Jordanian Corps
-JOR;XXXIX Jordanian Corps
-JOR;XL Jordanian Corps
-JOR;XLI Jordanian Corps
-JOR;XLII Jordanian Corps
-JOR;XLIII Jordanian Corps
-JOR;XLIV Jordanian Corps
-JOR;XLV Jordanian Corps
-JOR;XLVI Jordanian Corps
-JOR;XLVII Jordanian Corps
-JOR;XLVIII Jordanian Corps
-JOR;XLIX Jordanian Corps
-JOR;L Jordanian Corps
-JOR;LI Jordanian Corps
-JOR;LII Jordanian Corps
-JOR;LIII Jordanian Corps
-JOR;LIV Jordanian Corps
-JOR;LV Jordanian Corps
-JOR;LVI Jordanian Corps
-JOR;LVII Jordanian Corps
-JOR;LVIII Jordanian Corps
-JOR;LIX Jordanian Corps
-JOR;LX Jordanian Corps
-JOR;LXI Jordanian Corps
-JOR;LXII Jordanian Corps
-JOR;LXIII Jordanian Corps
-JOR;LXIV Jordanian Corps
-JOR;LXV Jordanian Corps
-JOR;LXVI Jordanian Corps
-JOR;LXVII Jordanian Corps
-JOR;LXVIII Jordanian Corps
-JOR;LXIX Jordanian Corps
-JOR;LXX Jordanian Corps
 JAP;Dai 1 Gun
 JAP;Dai 2 Gun
 JAP;Dai 3 Gun
@@ -5188,6 +5123,71 @@ JAP;Dai 279 Gun
 JAP;Dai 280 Gun
 JAP;Dai 281 Gun
 JAP;Dai 282 Gun
+JOR;I Jordanian Corps
+JOR;II Jordanian Corps
+JOR;III Jordanian Corps
+JOR;IV Jordanian Corps
+JOR;V Jordanian Corps
+JOR;VI Jordanian Corps
+JOR;VII Jordanian Corps
+JOR;VIII Jordanian Corps
+JOR;IX Jordanian Corps
+JOR;X Jordanian Corps
+JOR;XI Jordanian Corps
+JOR;XII Jordanian Corps
+JOR;XIII Jordanian Corps
+JOR;XIV Jordanian Corps
+JOR;XV Jordanian Corps
+JOR;XXI Jordanian Corps
+JOR;XXII Jordanian Corps
+JOR;XXIII Jordanian Corps
+JOR;XXIV Jordanian Corps
+JOR;XXV Jordanian Corps
+JOR;XXVI Jordanian Corps
+JOR;XXVII Jordanian Corps
+JOR;XXVIII Jordanian Corps
+JOR;XXIX Jordanian Corps
+JOR;XXX Jordanian Corps
+JOR;XXXI Jordanian Corps
+JOR;XXXII Jordanian Corps
+JOR;XXXIII Jordanian Corps
+JOR;XXXIV Jordanian Corps
+JOR;XXXV Jordanian Corps
+JOR;XXXVI Jordanian Corps
+JOR;XXXVII Jordanian Corps
+JOR;XXXVIII Jordanian Corps
+JOR;XXXIX Jordanian Corps
+JOR;XL Jordanian Corps
+JOR;XLI Jordanian Corps
+JOR;XLII Jordanian Corps
+JOR;XLIII Jordanian Corps
+JOR;XLIV Jordanian Corps
+JOR;XLV Jordanian Corps
+JOR;XLVI Jordanian Corps
+JOR;XLVII Jordanian Corps
+JOR;XLVIII Jordanian Corps
+JOR;XLIX Jordanian Corps
+JOR;L Jordanian Corps
+JOR;LI Jordanian Corps
+JOR;LII Jordanian Corps
+JOR;LIII Jordanian Corps
+JOR;LIV Jordanian Corps
+JOR;LV Jordanian Corps
+JOR;LVI Jordanian Corps
+JOR;LVII Jordanian Corps
+JOR;LVIII Jordanian Corps
+JOR;LIX Jordanian Corps
+JOR;LX Jordanian Corps
+JOR;LXI Jordanian Corps
+JOR;LXII Jordanian Corps
+JOR;LXIII Jordanian Corps
+JOR;LXIV Jordanian Corps
+JOR;LXV Jordanian Corps
+JOR;LXVI Jordanian Corps
+JOR;LXVII Jordanian Corps
+JOR;LXVIII Jordanian Corps
+JOR;LXIX Jordanian Corps
+JOR;LXX Jordanian Corps
 KAZ;1ya Korpus Qazaqstan
 KAZ;2ya Korpus Qazaqstan
 KAZ;3ya Korpus Qazaqstan
@@ -7394,75 +7394,6 @@ PHI;LXVII. Phillipine Corps
 PHI;LXVIII. Phillipine Corps
 PHI;LXIX. Phillipine Corps
 PHI;LXX. Phillipine Corps
-PRI;1ya Primorskaya Korpus
-PRI;2ya Primorskaya Korpus
-PRI;3ya Primorskaya Korpus
-PRI;4ya Primorskaya Korpus
-PRI;5ya Primorskaya Korpus
-PRI;6ya Primorskaya Korpus
-PRI;7ya Primorskaya Korpus
-PRI;8ya Primorskaya Korpus
-PRI;10ya Primorskaya Korpus
-PRI;11ya Primorskaya Korpus
-PRI;12ya Primorskaya Korpus
-PRI;13ya Primorskaya Korpus
-PRI;14ya Primorskaya Korpus
-PRI;15ya Primorskaya Korpus
-PRI;16ya Primorskaya Korpus
-PRI;17ya Primorskaya Korpus
-PRI;18ya Primorskaya Korpus
-PRI;19ya Primorskaya Korpus
-PRI;20ya Primorskaya Korpus
-PRI;21ya Primorskaya Korpus
-PRI;22ya Primorskaya Korpus
-PRI;23ya Primorskaya Korpus
-PRI;24ya Primorskaya Korpus
-PRI;25ya Primorskaya Korpus
-PRI;26ya Primorskaya Korpus
-PRI;27ya Primorskaya Korpus
-PRI;28ya Primorskaya Korpus
-PRI;29ya Primorskaya Korpus
-PRI;30ya Primorskaya Korpus
-PRI;31ya Primorskaya Korpus
-PRI;32ya Primorskaya Korpus
-PRI;33ya Primorskaya Korpus
-PRI;34ya Primorskaya Korpus
-PRI;35ya Primorskaya Korpus
-PRI;36ya Primorskaya Korpus
-PRI;37ya Primorskaya Korpus
-PRI;38ya Primorskaya Korpus
-PRI;39ya Primorskaya Korpus
-PRI;40ya Primorskaya Korpus
-PRI;41ya Primorskaya Korpus
-PRI;42ya Primorskaya Korpus
-PRI;43ya Primorskaya Korpus
-PRI;44ya Primorskaya Korpus
-PRI;45ya Primorskaya Korpus
-PRI;46ya Primorskaya Korpus
-PRI;47ya Primorskaya Korpus
-PRI;48ya Primorskaya Korpus
-PRI;49ya Primorskaya Korpus
-PRI;50ya Primorskaya Korpus
-PRI;51ya Primorskaya Korpus
-PRI;52ya Primorskaya Korpus
-PRI;53ya Primorskaya Korpus
-PRI;54ya Primorskaya Korpus
-PRI;55ya Primorskaya Korpus
-PRI;56ya Primorskaya Korpus
-PRI;57ya Primorskaya Korpus
-PRI;58ya Primorskaya Korpus
-PRI;59ya Primorskaya Korpus
-PRI;60ya Primorskaya Korpus
-PRI;61ya Primorskaya Korpus
-PRI;62ya Primorskaya Korpus
-PRI;63ya Primorskaya Korpus
-PRI;64ya Primorskaya Korpus
-PRI;65ya Primorskaya Korpus
-PRI;66ya Primorskaya Korpus
-PRI;67ya Primorskaya Korpus
-PRI;68ya Primorskaya Korpus
-PRI;69ya Primorskaya Korpus
-PRI;70ya Primorskaya Korpus
 POL;10. Armia
 POL;11. Armia
 POL;12. Armia
@@ -7623,6 +7554,75 @@ POR;67o Corpo do Portugal
 POR;68o Corpo do Portugal
 POR;69o Corpo do Portugal
 POR;70o Corpo do Portugal
+PRI;1ya Primorskaya Korpus
+PRI;2ya Primorskaya Korpus
+PRI;3ya Primorskaya Korpus
+PRI;4ya Primorskaya Korpus
+PRI;5ya Primorskaya Korpus
+PRI;6ya Primorskaya Korpus
+PRI;7ya Primorskaya Korpus
+PRI;8ya Primorskaya Korpus
+PRI;10ya Primorskaya Korpus
+PRI;11ya Primorskaya Korpus
+PRI;12ya Primorskaya Korpus
+PRI;13ya Primorskaya Korpus
+PRI;14ya Primorskaya Korpus
+PRI;15ya Primorskaya Korpus
+PRI;16ya Primorskaya Korpus
+PRI;17ya Primorskaya Korpus
+PRI;18ya Primorskaya Korpus
+PRI;19ya Primorskaya Korpus
+PRI;20ya Primorskaya Korpus
+PRI;21ya Primorskaya Korpus
+PRI;22ya Primorskaya Korpus
+PRI;23ya Primorskaya Korpus
+PRI;24ya Primorskaya Korpus
+PRI;25ya Primorskaya Korpus
+PRI;26ya Primorskaya Korpus
+PRI;27ya Primorskaya Korpus
+PRI;28ya Primorskaya Korpus
+PRI;29ya Primorskaya Korpus
+PRI;30ya Primorskaya Korpus
+PRI;31ya Primorskaya Korpus
+PRI;32ya Primorskaya Korpus
+PRI;33ya Primorskaya Korpus
+PRI;34ya Primorskaya Korpus
+PRI;35ya Primorskaya Korpus
+PRI;36ya Primorskaya Korpus
+PRI;37ya Primorskaya Korpus
+PRI;38ya Primorskaya Korpus
+PRI;39ya Primorskaya Korpus
+PRI;40ya Primorskaya Korpus
+PRI;41ya Primorskaya Korpus
+PRI;42ya Primorskaya Korpus
+PRI;43ya Primorskaya Korpus
+PRI;44ya Primorskaya Korpus
+PRI;45ya Primorskaya Korpus
+PRI;46ya Primorskaya Korpus
+PRI;47ya Primorskaya Korpus
+PRI;48ya Primorskaya Korpus
+PRI;49ya Primorskaya Korpus
+PRI;50ya Primorskaya Korpus
+PRI;51ya Primorskaya Korpus
+PRI;52ya Primorskaya Korpus
+PRI;53ya Primorskaya Korpus
+PRI;54ya Primorskaya Korpus
+PRI;55ya Primorskaya Korpus
+PRI;56ya Primorskaya Korpus
+PRI;57ya Primorskaya Korpus
+PRI;58ya Primorskaya Korpus
+PRI;59ya Primorskaya Korpus
+PRI;60ya Primorskaya Korpus
+PRI;61ya Primorskaya Korpus
+PRI;62ya Primorskaya Korpus
+PRI;63ya Primorskaya Korpus
+PRI;64ya Primorskaya Korpus
+PRI;65ya Primorskaya Korpus
+PRI;66ya Primorskaya Korpus
+PRI;67ya Primorskaya Korpus
+PRI;68ya Primorskaya Korpus
+PRI;69ya Primorskaya Korpus
+PRI;70ya Primorskaya Korpus
 PRK;1 DPRK Corps
 PRK;2 DPRK Corps
 PRK;3 DPRK Corps
@@ -10418,6 +10418,1043 @@ TUR;LXVII. Kara Kuvvetleri Ordusu
 TUR;LXVIII. Kara Kuvvetleri Ordusu
 TUR;LXIX. Kara Kuvvetleri Ordusu
 TUR;LXX. Kara Kuvvetleri Ordusu
+UBO;I Cuerpo del Ejército
+UBO;II Cuerpo del Ejército
+UBO;III Cuerpo del Ejército
+UBO;IV Cuerpo del Ejército
+UBO;V Cuerpo del Ejército
+UBO;VI Cuerpo del Ejército
+UBO;VII Cuerpo del Ejército
+UBO;VIII Cuerpo del Ejército
+UBO;IX Cuerpo del Ejército
+UBO;X Cuerpo del Ejército
+UBO;XI Cuerpo del Ejército
+UBO;XII Cuerpo del Ejército
+UBO;XIII Cuerpo del Ejército
+UBO;XIV Cuerpo del Ejército
+UBO;XV Cuerpo del Ejército
+UBO;XXI Cuerpo del Ejército
+UBO;XXII Cuerpo del Ejército
+UBO;XXIII Cuerpo del Ejército
+UBO;XXIV Cuerpo del Ejército
+UBO;XXV Cuerpo del Ejército
+UBO;XXVI Cuerpo del Ejército
+UBO;XXVII Cuerpo del Ejército
+UBO;XXVIII Cuerpo del Ejército
+UBO;XXIX Cuerpo del Ejército
+UBO;XXX Cuerpo del Ejército
+UBO;XXXI Cuerpo del Ejército
+UBO;XXXII Cuerpo del Ejército
+UBO;XXXIII Cuerpo del Ejército
+UBO;XXXIV Cuerpo del Ejército
+UBO;XXXV Cuerpo del Ejército
+UBO;XXXVI Cuerpo del Ejército
+UBO;XXXVII Cuerpo del Ejército
+UBO;XXXVIII Cuerpo del Ejército
+UBO;XXXIX Cuerpo del Ejército
+UBO;XL Cuerpo del Ejército
+UKR;1-y Korpus
+UKR;2-y Korpus
+UKR;3-y Korpus
+UKR;4-y Korpus
+UKR;5-y Korpus
+UKR;6-y Korpus
+UKR;7-y Korpus
+UKR;8-y Korpus
+UKR;10-y Korpus
+UKR;11-y Korpus
+UKR;12-y Korpus
+UKR;13-y Korpus
+UKR;14-y Korpus
+UKR;15-y Korpus
+UKR;16-y Korpus
+UKR;17-y Korpus
+UKR;18-y Korpus
+UKR;19-y Korpus
+UKR;20-y Korpus
+UKR;21-y Korpus
+UKR;22-y Korpus
+UKR;23-y Korpus
+UKR;24-y Korpus
+UKR;25-y Korpus
+UKR;26-y Korpus
+UKR;27-y Korpus
+UKR;28-y Korpus
+UKR;29-y Korpus
+UKR;30-y Korpus
+UKR;31-y Korpus
+UKR;32-y Korpus
+UKR;33-y Korpus
+UKR;34-y Korpus
+UKR;35-y Korpus
+UKR;36-y Korpus
+UKR;37-y Korpus
+UKR;38-y Korpus
+UKR;39-y Korpus
+UKR;40-y Korpus
+UKR;41-y Korpus
+UKR;42-y Korpus
+UKR;43-y Korpus
+UKR;44-y Korpus
+UKR;45-y Korpus
+UKR;46-y Korpus
+UKR;47-y Korpus
+UKR;48-y Korpus
+UKR;49-y Korpus
+UKR;50-y Korpus
+UKR;51-y Korpus
+UKR;52-y Korpus
+UKR;53-y Korpus
+UKR;54-y Korpus
+UKR;55-y Korpus
+UKR;56-y Korpus
+UKR;57-y Korpus
+UKR;58-y Korpus
+UKR;59-y Korpus
+UKR;60-y Korpus
+UKR;61-y Korpus
+UKR;62-y Korpus
+UKR;63-y Korpus
+UKR;64-y Korpus
+UKR;65-y Korpus
+UKR;66-y Korpus
+UKR;67-y Korpus
+UKR;68-y Korpus
+UKR;69-y Korpus
+UKR;70-y Korpus
+UKR;71-y Korpus
+UKR;72-y Korpus
+UKR;73-y Korpus
+UKR;74-y Korpus
+UKR;75-y Korpus
+UKR;76-y Korpus
+UKR;77-y Korpus
+UKR;78-y Korpus
+UKR;79-y Korpus
+UKR;80-y Korpus
+UKR;81-y Korpus
+UKR;82-y Korpus
+UKR;83-y Korpus
+UKR;84-y Korpus
+UKR;85-y Korpus
+UKR;86-y Korpus
+UKR;87-y Korpus
+UKR;88-y Korpus
+UKR;89-y Korpus
+UKR;90-y Korpus
+UKR;91-y Korpus
+UKR;92-y Korpus
+UKR;93-y Korpus
+UKR;94-y Korpus
+UKR;95-y Korpus
+UKR;96-y Korpus
+UKR;97-y Korpus
+UKR;98-y Korpus
+UKR;99-y Korpus
+UKR;100-y Korpus
+UKR;101-y Korpus
+UKR;102-y Korpus
+UKR;103-y Korpus
+UKR;104-y Korpus
+UKR;105-y Korpus
+UKR;106-y Korpus
+UKR;107-y Korpus
+UKR;108-y Korpus
+UKR;109-y Korpus
+UKR;110-y Korpus
+UKR;111-y Korpus
+UKR;112-y Korpus
+UKR;113-y Korpus
+UKR;114-y Korpus
+UKR;115-y Korpus
+UKR;116-y Korpus
+UKR;117-y Korpus
+UKR;118-y Korpus
+UKR;119-y Korpus
+UKR;120-y Korpus
+UKR;121-y Korpus
+UKR;122-y Korpus
+UKR;123-y Korpus
+UKR;124-y Korpus
+UKR;125-y Korpus
+UKR;126-y Korpus
+UKR;127-y Korpus
+UKR;128-y Korpus
+UKR;129-y Korpus
+UKR;130-y Korpus
+UKR;131-y Korpus
+UKR;132-y Korpus
+UKR;133-y Korpus
+UKR;134-y Korpus
+UKR;135-y Korpus
+UKR;136-y Korpus
+UKR;137-y Korpus
+UKR;138-y Korpus
+UKR;139-y Korpus
+UKR;140-y Korpus
+UKR;141-y Korpus
+UKR;142-y Korpus
+UKR;143-y Korpus
+UKR;144-y Korpus
+UKR;145-y Korpus
+UKR;146-y Korpus
+UKR;147-y Korpus
+UKR;148-y Korpus
+UKR;149-y Korpus
+UKR;150-y Korpus
+UKR;151-y Korpus
+UKR;152-y Korpus
+UKR;153-y Korpus
+UKR;154-y Korpus
+UKR;155-y Korpus
+UKR;156-y Korpus
+UKR;157-y Korpus
+UKR;158-y Korpus
+UKR;159-y Korpus
+UKR;160-y Korpus
+UKR;161-y Korpus
+UKR;162-y Korpus
+UKR;163-y Korpus
+UKR;164-y Korpus
+UKR;165-y Korpus
+UKR;166-y Korpus
+UKR;167-y Korpus
+UKR;168-y Korpus
+UKR;169-y Korpus
+UKR;170-y Korpus
+UKR;171-y Korpus
+UKR;172-y Korpus
+UKR;173-y Korpus
+UKR;174-y Korpus
+UKR;175-y Korpus
+UKR;176-y Korpus
+UKR;177-y Korpus
+UKR;178-y Korpus
+UKR;179-y Korpus
+UKR;180-y Korpus
+UKR;181-y Korpus
+UKR;182-y Korpus
+UKR;183-y Korpus
+UKR;184-y Korpus
+UKR;185-y Korpus
+UKR;186-y Korpus
+UKR;187-y Korpus
+UKR;188-y Korpus
+UKR;189-y Korpus
+UKR;190-y Korpus
+UKR;191-y Korpus
+UKR;192-y Korpus
+UKR;193-y Korpus
+UKR;194-y Korpus
+UKR;195-y Korpus
+UKR;196-y Korpus
+UKR;197-y Korpus
+UKR;198-y Korpus
+UKR;199-y Korpus
+UKR;200-y Korpus
+URU;I Cuerpo del Ejército
+URU;II Cuerpo del Ejército
+URU;III Cuerpo del Ejército
+URU;IV Cuerpo del Ejército
+URU;V Cuerpo del Ejército
+URU;VI Cuerpo del Ejército
+URU;VII Cuerpo del Ejército
+URU;VIII Cuerpo del Ejército
+URU;IX Cuerpo del Ejército
+URU;X Cuerpo del Ejército
+URU;XI Cuerpo del Ejército
+URU;XII Cuerpo del Ejército
+URU;XIII Cuerpo del Ejército
+URU;XIV Cuerpo del Ejército
+URU;XV Cuerpo del Ejército
+URU;XXI Cuerpo del Ejército
+URU;XXII Cuerpo del Ejército
+URU;XXIII Cuerpo del Ejército
+URU;XXIV Cuerpo del Ejército
+URU;XXVI Cuerpo del Ejército
+URU;XXVII Cuerpo del Ejército
+URU;XXVIII Cuerpo del Ejército
+URU;XXIX Cuerpo del Ejército
+URU;XXX Cuerpo del Ejército
+URU;XXXI Cuerpo del Ejército
+URU;XXXII Cuerpo del Ejército
+URU;XXXIII Cuerpo del Ejército
+URU;XXXIV Cuerpo del Ejército
+URU;XXXV Cuerpo del Ejército
+URU;XXXVI Cuerpo del Ejército
+URU;XXXVII Cuerpo del Ejército
+URU;XXXVIII Cuerpo del Ejército
+URU;XXXIX Cuerpo del Ejército
+URU;XL Cuerpo del Ejército
+USA;US I Corps
+USA;US II Corps
+USA;US III Corps
+USA;US IV Corps
+USA;US V Corps
+USA;US VI Corps
+USA;US VII Corps
+USA;US VIII Corps
+USA;US IX Corps
+USA;US X Corps
+USA;US XI Corps
+USA;US XII Corps
+USA;US XIII Corps
+USA;US XIV Corps
+USA;US XV Corps
+USA;US XXI Corps
+USA;US XXII Corps
+USA;US XXIII Corps
+USA;US XXIV Corps
+USA;US XXV Corps
+USA;US XXVI Corps
+USA;US XXVII Corps
+USA;US XXVIII Corps
+USA;US XXIX Corps
+USA;US XXX Corps
+USA;US XXXI Corps
+USA;US XXXII Corps
+USA;US XXXIII Corps
+USA;US XXXIV Corps
+USA;US XXXV Corps
+USA;US XXXVI Corps
+USA;US XXXVII Corps
+USA;US XXXVIII Corps
+USA;US XXXIX Corps
+USA;US XL Corps
+USA;US XLI Corps
+USA;US XLII Corps
+USA;US XLIII Corps
+USA;US XLIV Corps
+USA;US XLV Corps
+USA;US XLVI Corps
+USA;US XLVII Corps
+USA;US XLVIII Corps
+USA;US XLIX Corps
+USA;US L Corps
+USA;US LI Corps
+USA;US LII Corps
+USA;US LIII Corps
+USA;US LIV Corps
+USA;US LV Corps
+USA;US LVI Corps
+USA;US LVII Corps
+USA;US LVIII Corps
+USA;US LIX Corps
+USA;US LX Corps
+USA;US LXI Corps
+USA;US LXII Corps
+USA;US LXIII Corps
+USA;US LXIV Corps
+USA;US LXV Corps
+USA;US LXVI Corps
+USA;US LXVII Corps
+USA;US LXVIII Corps
+USA;US LXIX Corps
+USA;US LXX Corps
+USA;US LXXI Corps
+USA;US LXXII Corps
+USA;US LXXIII Corps
+USA;US LXXIV Corps
+USA;US LXXV Corps
+USA;US LXXVI Corps
+USA;US LXXVII Corps
+USA;US LXXVIII Corps
+USA;US LXXIX Corps
+USA;US LXXX Corps
+USA;US LXXXI Corps
+USA;US LXXXII Corps
+USA;US LXXXIII Corps
+USA;US LXXXIV Corps
+USA;US LXXXV Corps
+USA;US LXXXVI Corps
+USA;US LXXXVII Corps
+USA;US LXXXVIII Corps
+USA;US LXXXIX Corps
+USA;US XC Corps
+USA;US XCI Corps
+USA;US XCII Corps
+USA;US XCIII Corps
+USA;US XCIV Corps
+USA;US XCV Corps
+USA;US XCVI Corps
+USA;US XCVII Corps
+USA;US XCVIII Corps
+USA;US XCIX Corps
+USA;US C Corps
+USA;US CI Corps
+USA;US CII Corps
+USA;US CIII Corps
+USA;US CIV Corps
+USA;US CV Corps
+USA;US CVI Corps
+USA;US CVII Corps
+USA;US CVIII Corps
+USA;US CIX Corps
+USA;US CX Corps
+USA;US CXI Corps
+USA;US CXII Corps
+USA;US CXIII Corps
+USA;US CXIV Corps
+USA;US CXV Corps
+USA;US CXVI Corps
+USA;US CXVII Corps
+USA;US CXVIII Corps
+USA;US CXIX Corps
+USA;US CXX Corps
+USA;US CXXI Corps
+USA;US CXXII Corps
+USA;US CXXIII Corps
+USA;US CXXIV Corps
+USA;US CXXV Corps
+USA;US CXXVI Corps
+USA;US CXXVII Corps
+USA;US CXXVIII Corps
+USA;US CXXIX Corps
+USA;US CXXX Corps
+USA;US CXXXI Corps
+USA;US CXXXII Corps
+USA;US CXXXIII Corps
+USA;US CXXXIV Corps
+USA;US CXXXV Corps
+USA;US CXXXVI Corps
+USA;US CXXXVII Corps
+USA;US CXXXVIII Corps
+USA;US CXXXIX Corps
+USA;US CXL Corps
+USA;US CXLI Corps
+USA;US CXLII Corps
+USA;US CXLIII Corps
+USA;US CXLIV Corps
+USA;US CXLV Corps
+USA;US CXLVI Corps
+USA;US CXLVII Corps
+USA;US CXLVIII Corps
+USA;US CXLIX Corps
+USA;US CXL Corps
+USA;US CLI Corps
+USA;US CLII Corps
+USA;US CLIII Corps
+USA;US CLIV Corps
+USA;US CLV Corps
+USA;US CLVI Corps
+USA;US CLVII Corps
+USA;US CLVIII Corps
+USA;US CLIX Corps
+USA;US CLX Corps
+USA;US CLXI Corps
+USA;US CLXII Corps
+USA;US CLXIII Corps
+USA;US CLXIV Corps
+USA;US CLXV Corps
+USA;US CLXVI Corps
+USA;US CLXVII Corps
+USA;US CLXVIII Corps
+USA;US CLXIX Corps
+USA;US CLXX Corps
+USA;US CLXXI Corps
+USA;US CLXXII Corps
+USA;US CLXXIII Corps
+USA;US CLXXIV Corps
+USA;US CLXXV Corps
+USA;US CLXXVI Corps
+USA;US CLXXVII Corps
+USA;US CLXXVIII Corps
+USA;US CLXXIX Corps
+USA;US CLXXX Corps
+USA;US CLXXXI Corps
+USA;US CLXXXII Corps
+USA;US CLXXXIII Corps
+USA;US CLXXXIV Corps
+USA;US CLXXXV Corps
+USA;US CLXXXVI Corps
+USA;US CLXXXVII Corps
+USA;US CLXXXVIII Corps
+USA;US CLXXXIX Corps
+USA;US CXC Corps
+USA;US CXCI Corps
+USA;US CXCII Corps
+USA;US CXCIII Corps
+USA;US CXCIV Corps
+USA;US CXCV Corps
+USA;US CXCVI Corps
+USA;US CXCVII Corps
+USA;US CXCVIII Corps
+USA;US CXCIX Corps
+USA;US CC Corps
+USA;US CCI Corps
+USA;US CCII Corps
+USA;US CCIII Corps
+USA;US CCIV Corps
+USA;US CCV Corps
+USA;US CCVI Corps
+USA;US CCVII Corps
+USA;US CCVIII Corps
+USA;US CCIX Corps
+USA;US CCX Corps
+USA;US CCXI Corps
+USA;US CCXII Corps
+USA;US CCXIII Corps
+USA;US CCXIV Corps
+USA;US CCXV Corps
+USA;US CCXVI Corps
+USA;US CCXVII Corps
+USA;US CCXVIII Corps
+USA;US CCXIX Corps
+USA;US CCXX Corps
+USA;US CCXXI Corps
+USA;US CCXXII Corps
+USA;US CCXXIII Corps
+USA;US CCXXIV Corps
+USA;US CCXXV Corps
+USA;US CCXXVI Corps
+USA;US CCXXVII Corps
+USA;US CCXXVIII Corps
+USA;US CCXXIX Corps
+USA;US CCXXX Corps
+USA;US CCXXXI Corps
+USA;US CCXXXII Corps
+USA;US CCXXXIII Corps
+USA;US CCXXXIV Corps
+USA;US CCXXXV Corps
+USA;US CCXXXVI Corps
+USA;US CCXXXVII Corps
+USA;US CCXXXVIII Corps
+USA;US CCXXXIX Corps
+USA;US CCXL Corps
+USA;US CCXLI Corps
+USA;US CCXLII Corps
+USA;US CCXLIII Corps
+USA;US CCXLIV Corps
+USA;US CCXLV Corps
+USA;US CCXLVI Corps
+USA;US CCXLVII Corps
+USA;US CCXLVIII Corps
+USA;US CCXLIX Corps
+USA;US CCL Corps
+USA;US CCLI Corps
+USA;US CCLII Corps
+USA;US CCLIII Corps
+USA;US CCLIV Corps
+USA;US CCLV Corps
+USA;US CCLVI Corps
+USA;US CCLVII Corps
+USA;US CCLVIII Corps
+USA;US CCLIX Corps
+USA;US CCLX Corps
+USA;US CCLXI Corps
+USA;US CCLXII Corps
+USA;US CCLXIII Corps
+USA;US CCLXIV Corps
+USA;US CCLXV Corps
+USA;US CCLXVI Corps
+USA;US CCLXVII Corps
+USA;US CCLXVIII Corps
+USA;US CCLXIX Corps
+USA;US CCLXX Corps
+USA;US CCLXXI Corps
+USA;US CCLXXII Corps
+USA;US CCLXXIII Corps
+USA;US CCLXXIV Corps
+USA;US CCLXXV Corps
+USA;US CCLXXVI Corps
+USA;US CCLXXVII Corps
+USA;US CCLXXVIII Corps
+USA;US CCLXXIX Corps
+USA;US CCLXXX Corps
+USA;US CCLXXXI Corps
+USA;US CCLXXXII Corps
+USA;US CCLXXXIII Corps
+USA;US CCLXXXIV Corps
+USA;US CCLXXXV Corps
+USA;US CCLXXXVI Corps
+USA;US CCLXXXVII Corps
+USA;US CCLXXXVIII Corps
+USA;US CCLXXXIX Corps
+USA;US CCXC Corps
+USA;US CCXCI Corps
+USA;US CCXCII Corps
+USA;US CCXCIII Corps
+USA;US CCXCIV Corps
+USA;US CCXCV Corps
+USA;US CCXCVI Corps
+USA;US CCXCVII Corps
+USA;US CCXCVIII Corps
+USA;US CCXCIX Corps
+USA;US CCC Corps
+UZB;1ya Ozbekiston Korpus
+UZB;2ya Ozbekiston Korpus
+UZB;3ya Ozbekiston Korpus
+UZB;4ya Ozbekiston Korpus
+UZB;5ya Ozbekiston Korpus
+UZB;6ya Ozbekiston Korpus
+UZB;7ya Ozbekiston Korpus
+UZB;8ya Ozbekiston Korpus
+UZB;10ya Ozbekiston Korpus
+UZB;11ya Ozbekiston Korpus
+UZB;12ya Ozbekiston Korpus
+UZB;13ya Ozbekiston Korpus
+UZB;14ya Ozbekiston Korpus
+UZB;15ya Ozbekiston Korpus
+UZB;16ya Ozbekiston Korpus
+UZB;17ya Ozbekiston Korpus
+UZB;18ya Ozbekiston Korpus
+UZB;19ya Ozbekiston Korpus
+UZB;20ya Ozbekiston Korpus
+UZB;21ya Ozbekiston Korpus
+UZB;22ya Ozbekiston Korpus
+UZB;23ya Ozbekiston Korpus
+UZB;24ya Ozbekiston Korpus
+UZB;25ya Ozbekiston Korpus
+UZB;26ya Ozbekiston Korpus
+UZB;27ya Ozbekiston Korpus
+UZB;28ya Ozbekiston Korpus
+UZB;29ya Ozbekiston Korpus
+UZB;30ya Ozbekiston Korpus
+UZB;31ya Ozbekiston Korpus
+UZB;32ya Ozbekiston Korpus
+UZB;33ya Ozbekiston Korpus
+UZB;34ya Ozbekiston Korpus
+UZB;35ya Ozbekiston Korpus
+UZB;36ya Ozbekiston Korpus
+UZB;37ya Ozbekiston Korpus
+UZB;38ya Ozbekiston Korpus
+UZB;39ya Ozbekiston Korpus
+UZB;40ya Ozbekiston Korpus
+UZB;41ya Ozbekiston Korpus
+UZB;42ya Ozbekiston Korpus
+UZB;43ya Ozbekiston Korpus
+UZB;44ya Ozbekiston Korpus
+UZB;45ya Ozbekiston Korpus
+UZB;46ya Ozbekiston Korpus
+UZB;47ya Ozbekiston Korpus
+UZB;48ya Ozbekiston Korpus
+UZB;49ya Ozbekiston Korpus
+UZB;50ya Ozbekiston Korpus
+UZB;51ya Ozbekiston Korpus
+UZB;52ya Ozbekiston Korpus
+UZB;53ya Ozbekiston Korpus
+UZB;54ya Ozbekiston Korpus
+UZB;55ya Ozbekiston Korpus
+UZB;56ya Ozbekiston Korpus
+UZB;57ya Ozbekiston Korpus
+UZB;58ya Ozbekiston Korpus
+UZB;59ya Ozbekiston Korpus
+UZB;60ya Ozbekiston Korpus
+UZB;61ya Ozbekiston Korpus
+UZB;62ya Ozbekiston Korpus
+UZB;63ya Ozbekiston Korpus
+UZB;64ya Ozbekiston Korpus
+UZB;65ya Ozbekiston Korpus
+UZB;66ya Ozbekiston Korpus
+UZB;67ya Ozbekiston Korpus
+UZB;68ya Ozbekiston Korpus
+UZB;69ya Ozbekiston Korpus
+UZB;70ya Ozbekiston Korpus
+VEN;I Cuerpo del Ejército
+VEN;II Cuerpo del Ejército
+VEN;III Cuerpo del Ejército
+VEN;IV Cuerpo del Ejército
+VEN;V Cuerpo del Ejército
+VEN;VI Cuerpo del Ejército
+VEN;VII Cuerpo del Ejército
+VEN;VIII Cuerpo del Ejército
+VEN;IX Cuerpo del Ejército
+VEN;X Cuerpo del Ejército
+VEN;XI Cuerpo del Ejército
+VEN;XII Cuerpo del Ejército
+VEN;XIII Cuerpo del Ejército
+VEN;XIV Cuerpo del Ejército
+VEN;XV Cuerpo del Ejército
+VEN;XXI Cuerpo del Ejército
+VEN;XXII Cuerpo del Ejército
+VEN;XXIII Cuerpo del Ejército
+VEN;XXIV Cuerpo del Ejército
+VEN;XXV Cuerpo del Ejército
+VEN;XXVI Cuerpo del Ejército
+VEN;XXVII Cuerpo del Ejército
+VEN;XXVIII Cuerpo del Ejército
+VEN;XXIX Cuerpo del Ejército
+VEN;XXX Cuerpo del Ejército
+VEN;XXXI Cuerpo del Ejército
+VEN;XXXII Cuerpo del Ejército
+VEN;XXXIII Cuerpo del Ejército
+VEN;XXXIV Cuerpo del Ejército
+VEN;XXXV Cuerpo del Ejército
+VEN;XXXVI Cuerpo del Ejército
+VEN;XXXVII Cuerpo del Ejército
+VEN;XXXVIII Cuerpo del Ejército
+VEN;XXXIX Cuerpo del Ejército
+VEN;XL Cuerpo del Ejército
+VIC;1ère Corps d'Armée
+VIC;2e Corps d'Armée
+VIC;3e Corps d'Armée
+VIC;4e Corps d'Armée
+VIC;5e Corps d'Armée
+VIC;6e Corps d'Armée
+VIC;7e Corps d'Armée
+VIC;8e Corps d'Armée
+VIC;9e Corps d'Armée
+VIC;10e Corps d'Armée
+VIC;11e Corps d'Armée
+VIC;12e Corps d'Armée
+VIC;13e Corps d'Armée
+VIC;14e Corps d'Armée
+VIC;15e Corps d'Armée
+VIC;16e Corps d'Armée
+VIC;17e Corps d'Armée
+VIC;18e Corps d'Armée
+VIC;19e Corps d'Armée
+VIC;20e Corps d'Armée
+VIC;21e Corps d'Armée
+VIC;22e Corps d'Armée
+VIC;23e Corps d'Armée
+VIC;24e Corps d'Armée
+VIC;25e Corps d'Armée
+VIC;26e Corps d'Armée
+VIC;27e Corps d'Armée
+VIC;28e Corps d'Armée
+VIC;29e Corps d'Armée
+VIC;30e Corps d'Armée
+VIC;31e Corps d'Armée
+VIC;32e Corps d'Armée
+VIC;33e Corps d'Armée
+VIC;34e Corps d'Armée
+VIC;35e Corps d'Armée
+VIC;36e Corps d'Armée
+VIC;37e Corps d'Armée
+VIC;38e Corps d'Armée
+VIC;39e Corps d'Armée
+VIC;40e Corps d'Armée
+VIC;41e Corps d'Armée
+VIC;42e Corps d'Armée
+VIC;43e Corps d'Armée
+VIC;44e Corps d'Armée
+VIC;45e Corps d'Armée
+VIC;46e Corps d'Armée
+VIC;47e Corps d'Armée
+VIC;48e Corps d'Armée
+VIC;49e Corps d'Armée
+VIC;50e Corps d'Armée
+VIC;51e Corps d'Armée
+VIC;52e Corps d'Armée
+VIC;53e Corps d'Armée
+VIC;54e Corps d'Armée
+VIC;55e Corps d'Armée
+VIC;56e Corps d'Armée
+VIC;57e Corps d'Armée
+VIC;58e Corps d'Armée
+VIC;59e Corps d'Armée
+VIC;60e Corps d'Armée
+VIC;61e Corps d'Armée
+VIC;62e Corps d'Armée
+VIC;63e Corps d'Armée
+VIC;64e Corps d'Armée
+VIC;65e Corps d'Armée
+VIC;66e Corps d'Armée
+VIC;67e Corps d'Armée
+VIC;68e Corps d'Armée
+VIC;69e Corps d'Armée
+VIC;70e Corps d'Armée
+VIC;71e Corps d'Armée
+VIC;72e Corps d'Armée
+VIC;73e Corps d'Armée
+VIC;74e Corps d'Armée
+VIC;75e Corps d'Armée
+VIC;76e Corps d'Armée
+VIC;77e Corps d'Armée
+VIC;78e Corps d'Armée
+VIC;79e Corps d'Armée
+VIC;80e Corps d'Armée
+VIE;1ère Corps d'Armée Vietnamien
+VIE;2e Corps d'Armée Vietnamien
+VIE;3e Corps d'Armée Vietnamien
+VIE;4e Corps d'Armée Vietnamien
+VIE;5e Corps d'Armée Vietnamien
+VIE;6e Corps d'Armée Vietnamien
+VIE;7e Corps d'Armée Vietnamien
+VIE;8e Corps d'Armée Vietnamien
+VIE;9e Corps d'Armée Vietnamien
+VIE;10e Corps d'Armée Vietnamien
+VIE;11e Corps d'Armée Vietnamien
+VIE;12e Corps d'Armée Vietnamien
+VIE;13e Corps d'Armée Vietnamien
+VIE;14e Corps d'Armée Vietnamien
+VIE;15e Corps d'Armée Vietnamien
+VIE;16e Corps d'Armée Vietnamien
+VIE;17e Corps d'Armée Vietnamien
+VIE;18e Corps d'Armée Vietnamien
+VIE;19e Corps d'Armée Vietnamien
+VIE;20e Corps d'Armée Vietnamien
+VIE;21e Corps d'Armée Vietnamien
+VIE;22e Corps d'Armée Vietnamien
+VIE;23e Corps d'Armée Vietnamien
+VIE;24e Corps d'Armée Vietnamien
+VIE;25e Corps d'Armée Vietnamien
+VIE;26e Corps d'Armée Vietnamien
+VIE;27e Corps d'Armée Vietnamien
+VIE;28e Corps d'Armée Vietnamien
+VIE;29e Corps d'Armée Vietnamien
+VIE;30e Corps d'Armée Vietnamien
+VIE;31e Corps d'Armée Vietnamien
+VIE;32e Corps d'Armée Vietnamien
+VIE;33e Corps d'Armée Vietnamien
+VIE;34e Corps d'Armée Vietnamien
+VIE;35e Corps d'Armée Vietnamien
+VIE;36e Corps d'Armée Vietnamien
+VIE;37e Corps d'Armée Vietnamien
+VIE;38e Corps d'Armée Vietnamien
+VIE;39e Corps d'Armée Vietnamien
+VIE;40e Corps d'Armée Vietnamien
+VIE;41e Corps d'Armée Vietnamien
+VIE;42e Corps d'Armée Vietnamien
+VIE;43e Corps d'Armée Vietnamien
+VIE;44e Corps d'Armée Vietnamien
+VIE;45e Corps d'Armée Vietnamien
+VIE;46e Corps d'Armée Vietnamien
+VIE;47e Corps d'Armée Vietnamien
+VIE;48e Corps d'Armée Vietnamien
+VIE;49e Corps d'Armée Vietnamien
+VIE;50e Corps d'Armée Vietnamien
+VIE;51e Corps d'Armée Vietnamien
+VIE;52e Corps d'Armée Vietnamien
+VIE;53e Corps d'Armée Vietnamien
+VIE;54e Corps d'Armée Vietnamien
+VIE;55e Corps d'Armée Vietnamien
+VIE;56e Corps d'Armée Vietnamien
+VIE;57e Corps d'Armée Vietnamien
+VIE;58e Corps d'Armée Vietnamien
+VIE;59e Corps d'Armée Vietnamien
+VIE;60e Corps d'Armée Vietnamien
+VIE;61e Corps d'Armée Vietnamien
+VIE;62e Corps d'Armée Vietnamien
+VIE;63e Corps d'Armée Vietnamien
+VIE;64e Corps d'Armée Vietnamien
+VIE;65e Corps d'Armée Vietnamien
+VIE;66e Corps d'Armée Vietnamien
+VIE;67e Corps d'Armée Vietnamien
+VIE;68e Corps d'Armée Vietnamien
+VIE;69e Corps d'Armée Vietnamien
+VIE;70e Corps d'Armée Vietnamien
+VIE;71e Corps d'Armée Vietnamien
+VIE;72e Corps d'Armée Vietnamien
+VIE;73e Corps d'Armée Vietnamien
+VIE;74e Corps d'Armée Vietnamien
+VIE;75e Corps d'Armée Vietnamien
+VIE;76e Corps d'Armée Vietnamien
+VIE;77e Corps d'Armée Vietnamien
+VIE;78e Corps d'Armée Vietnamien
+VIE;79e Corps d'Armée Vietnamien
+VIE;80e Corps d'Armée Vietnamien
+WLL;1ère Corps d'Armée Wallonien
+WLL;2e Corps d'Armée Wallonien
+WLL;3e Corps d'Armée Wallonien
+WLL;4e Corps d'Armée Wallonien
+WLL;5e Corps d'Armée Wallonien
+WLL;6e Corps d'Armée Wallonien
+WLL;7e Corps d'Armée Wallonien
+WLL;8e Corps d'Armée Wallonien
+WLL;9e Corps d'Armée Wallonien
+WLL;10e Corps d'Armée Wallonien
+WLL;11e Corps d'Armée Wallonien
+WLL;12e Corps d'Armée Wallonien
+WLL;13e Corps d'Armée Wallonien
+WLL;14e Corps d'Armée Wallonien
+WLL;15e Corps d'Armée Wallonien
+WLL;16e Corps d'Armée Wallonien
+WLL;17e Corps d'Armée Wallonien
+WLL;18e Corps d'Armée Wallonien
+WLL;19e Corps d'Armée Wallonien
+WLL;20e Corps d'Armée Wallonien
+WLL;21e Corps d'Armée Wallonien
+WLL;22e Corps d'Armée Wallonien
+WLL;23e Corps d'Armée Wallonien
+WLL;24e Corps d'Armée Wallonien
+WLL;25e Corps d'Armée Wallonien
+WLL;26e Corps d'Armée Wallonien
+WLL;27e Corps d'Armée Wallonien
+WLL;28e Corps d'Armée Wallonien
+WLL;29e Corps d'Armée Wallonien
+WLL;30e Corps d'Armée Wallonien
+WLL;31e Corps d'Armée Wallonien
+WLL;32e Corps d'Armée Wallonien
+WLL;33e Corps d'Armée Wallonien
+WLL;34e Corps d'Armée Wallonien
+WLL;35e Corps d'Armée Wallonien
+WLL;36e Corps d'Armée Wallonien
+WLL;37e Corps d'Armée Wallonien
+WLL;38e Corps d'Armée Wallonien
+WLL;39e Corps d'Armée Wallonien
+WLL;40e Corps d'Armée Wallonien
+WLL;41e Corps d'Armée Wallonien
+WLL;42e Corps d'Armée Wallonien
+WLL;43e Corps d'Armée Wallonien
+WLL;44e Corps d'Armée Wallonien
+WLL;45e Corps d'Armée Wallonien
+WLL;46e Corps d'Armée Wallonien
+WLL;47e Corps d'Armée Wallonien
+WLL;48e Corps d'Armée Wallonien
+WLL;49e Corps d'Armée Wallonien
+WLL;50e Corps d'Armée Wallonien
+WLL;51e Corps d'Armée Wallonien
+WLL;52e Corps d'Armée Wallonien
+WLL;53e Corps d'Armée Wallonien
+WLL;54e Corps d'Armée Wallonien
+WLL;55e Corps d'Armée Wallonien
+WLL;56e Corps d'Armée Wallonien
+WLL;57e Corps d'Armée Wallonien
+WLL;58e Corps d'Armée Wallonien
+WLL;59e Corps d'Armée Wallonien
+WLL;60e Corps d'Armée Wallonien
+WLL;61e Corps d'Armée Wallonien
+WLL;62e Corps d'Armée Wallonien
+WLL;63e Corps d'Armée Wallonien
+WLL;64e Corps d'Armée Wallonien
+WLL;65e Corps d'Armée Wallonien
+WLL;66e Corps d'Armée Wallonien
+WLL;67e Corps d'Armée Wallonien
+WLL;68e Corps d'Armée Wallonien
+WLL;69e Corps d'Armée Wallonien
+WLL;70e Corps d'Armée Wallonien
+WLL;71e Corps d'Armée Wallonien
+WLL;72e Corps d'Armée Wallonien
+WLL;73e Corps d'Armée Wallonien
+WLL;74e Corps d'Armée Wallonien
+WLL;75e Corps d'Armée Wallonien
+WLL;76e Corps d'Armée Wallonien
+WLL;77e Corps d'Armée Wallonien
+WLL;78e Corps d'Armée Wallonien
+WLL;79e Corps d'Armée Wallonien
+WLL;80e Corps d'Armée Wallonien
+YEM;I Corps al-Yamaniyah
+YEM;II Corps al-Yamaniyah
+YEM;III Corps al-Yamaniyah
+YEM;IV Corps al-Yamaniyah
+YEM;V Corps al-Yamaniyah
+YEM;VI Corps al-Yamaniyah
+YEM;VII Corps al-Yamaniyah
+YEM;VIII Corps al-Yamaniyah
+YEM;IX Corps al-Yamaniyah
+YEM;X Corps al-Yamaniyah
+YEM;XI Corps al-Yamaniyah
+YEM;XII Corps al-Yamaniyah
+YEM;XIII Corps al-Yamaniyah
+YEM;XIV Corps al-Yamaniyah
+YEM;XV Corps al-Yamaniyah
+YEM;XXI Corps al-Yamaniyah
+YEM;XXII Corps al-Yamaniyah
+YEM;XXIII Corps al-Yamaniyah
+YEM;XXIV Corps al-Yamaniyah
+YEM;XXV Corps al-Yamaniyah
+YEM;XXVI Corps al-Yamaniyah
+YEM;XXVII Corps al-Yamaniyah
+YEM;XXVIII Corps al-Yamaniyah
+YEM;XXIX Corps al-Yamaniyah
+YEM;XXX Corps al-Yamaniyah
+YEM;XXXI Corps al-Yamaniyah
+YEM;XXXII Corps al-Yamaniyah
+YEM;XXXIII Corps al-Yamaniyah
+YEM;XXXIV Corps al-Yamaniyah
+YEM;XXXV Corps al-Yamaniyah
+YEM;XXXVI Corps al-Yamaniyah
+YEM;XXXVII Corps al-Yamaniyah
+YEM;XXXVIII Corps al-Yamaniyah
+YEM;XXXIX Corps al-Yamaniyah
+YEM;XL Corps al-Yamaniyah
+YEM;XLI Corps al-Yamaniyah
+YEM;XLII Corps al-Yamaniyah
+YEM;XLIII Corps al-Yamaniyah
+YEM;XLIV Corps al-Yamaniyah
+YEM;XLV Corps al-Yamaniyah
+YEM;XLVI Corps al-Yamaniyah
+YEM;XLVII Corps al-Yamaniyah
+YEM;XLVIII Corps al-Yamaniyah
+YEM;XLIX Corps al-Yamaniyah
+YEM;L Corps al-Yamaniyah
+YEM;LI Corps al-Yamaniyah
+YEM;LII Corps al-Yamaniyah
+YEM;LIII Corps al-Yamaniyah
+YEM;LIV Corps al-Yamaniyah
+YEM;LV Corps al-Yamaniyah
+YEM;LVI Corps al-Yamaniyah
+YEM;LVII Corps al-Yamaniyah
+YEM;LVIII Corps al-Yamaniyah
+YEM;LIX Corps al-Yamaniyah
+YEM;LX Corps al-Yamaniyah
+YEM;LXI Corps al-Yamaniyah
+YEM;LXII Corps al-Yamaniyah
+YEM;LXIII Corps al-Yamaniyah
+YEM;LXIV Corps al-Yamaniyah
+YEM;LXV Corps al-Yamaniyah
+YEM;LXVI Corps al-Yamaniyah
+YEM;LXVII Corps al-Yamaniyah
+YEM;LXVIII Corps al-Yamaniyah
+YEM;LXIX Corps al-Yamaniyah
+YEM;LXX Corps al-Yamaniyah
+YUG;I. Kraljevska Jugoslavenska Armija
+YUG;II. Kraljevska Jugoslavenska Armija
+YUG;III. Kraljevska Jugoslavenska Armija
+YUG;IV. Kraljevska Jugoslavenska Armija
+YUG;V. Kraljevska Jugoslavenska Armija
+YUG;VI. Kraljevska Jugo. Armija
+YUG;VII. Kraljevska Jugo. Armija
+YUG;VIII. Kraljevska Jugo. Armija
+YUG;IX. Kraljevska Jugo. Armija
+YUG;X. Kraljevska Jugo. Armija
+YUG;XI. Kraljevska Jugo. Armija
+YUG;XII. Kraljevska Jugo. Armija
+YUG;XIII. Kraljevska Jugo. Armija
+YUG;XIV. Kraljevska Jugo. Armija
+YUG;XV. Kraljevska Jugo. Armija
+YUG;XXI. Kraljevska Jugo. Armija
+YUG;XXII. Kraljevska Jugo. Armija
+YUG;XXIII. Kraljevska Jugo. Armija
+YUG;XXIV. Kraljevska Jugo. Armija
+YUG;XXV. Kraljevska Jugo. Armija
+YUG;XXVI. Kraljevska Jugo. Armija
+YUG;XXVII. Kraljevska Jugo. Armija
+YUG;XXVIII. Kraljevska Jugo. Armija
+YUG;XXIX. Kraljevska Jugo. Armija
+YUG;XXX. Kraljevska Jugo. Armija
+YUG;XXXI. Kraljevska Jugo. Armija
+YUG;XXXII. Kraljevska Jugo. Armija
+YUG;XXXIII. Kraljevska Jugo. Armija
+YUG;XXXIV. Kraljevska Jugo. Armija
+YUG;XXXV. Kraljevska Jugo. Armija
+YUG;XXXVI. Kraljevska Jugo. Armija
+YUG;XXXVII. Kraljevska Jugo. Armija
+YUG;XXXVIII. Kraljevska Jugo. Armija
+YUG;XXXIX. Kraljevska Jugo. Armija
+YUG;XL. Kraljevska Jugo. Armija
+YUG;XLI. Kraljevska Jugo. Armija
+YUG;XLII. Kraljevska Jugo. Armija
+YUG;XLIII. Kraljevska Jugo. Armija
+YUG;XLIV. Kraljevska Jugo. Armija
+YUG;XLV. Kraljevska Jugo. Armija
+YUG;XLVI. Kraljevska Jugo. Armija
+YUG;XLVII. Kraljevska Jugo. Armija
+YUG;XLVIII. Kraljevska Jugo. Armija
+YUG;XLIX. Kraljevska Jugo. Armija
+YUG;L. Kraljevska Jugo. Armija
+YUG;LI. Kraljevska Jugo. Armija
+YUG;LII. Kraljevska Jugo. Armija
+YUG;LIII. Kraljevska Jugo. Armija
+YUG;LIV. Kraljevska Jugo. Armija
+YUG;LV. Kraljevska Jugo. Armija
+YUG;LVI. Kraljevska Jugo. Armija
+YUG;LVII. Kraljevska Jugo. Armija
+YUG;LVIII. Kraljevska Jugo. Armija
+YUG;LIX. Kraljevska Jugo. Armija
+YUG;LX. Kraljevska Jugo. Armija
+YUG;LXI. Kraljevska Jugo. Armija
+YUG;LXII. Kraljevska Jugo. Armija
+YUG;LXIII. Kraljevska Jugo. Armija
+YUG;LXIV. Kraljevska Jugo. Armija
+YUG;LXV. Kraljevska Jugo. Armija
+YUG;LXVI. Kraljevska Jugo. Armija
+YUG;LXVII. Kraljevska Jugo. Armija
+YUG;LXVIII. Kraljevska Jugo. Armija
+YUG;LXIX. Kraljevska Jugo. Armija
+YUG;LXX. Kraljevska Jugo. Armija
 U01;1ère Corps d'Armée
 U01;2e Corps d'Armée
 U01;3e Corps d'Armée
@@ -11829,6 +12866,57 @@ U22;XXIII. Armékorps
 U22;XXIV. Armékorps
 U22;XXV. Armékorps
 U22;XXX. Armékorps
+U25;1st Royal Hawaiian Army
+U25;2nd Royal Hawaiian Army
+U25;3rd Royal Hawaiian Army
+U25;4th Royal Hawaiian Army
+U25;5th Royal Hawaiian Army
+U25;6th Royal Hawaiian Army
+U25;7th Royal Hawaiian Army
+U25;8th Royal Hawaiian Army
+U25;9th Royal Hawaiian Army
+U25;10th Royal Hawaiian Army
+U25;11th Royal Hawaiian Army
+U25;12th Royal Hawaiian Army
+U25;14th Royal Hawaiian Army
+U25;15th Royal Hawaiian Army
+U25;16th Royal Hawaiian Army
+U25;17th Royal Hawaiian Army
+U25;18th Royal Hawaiian Army
+U25;19th Royal Hawaiian Army
+U25;20th Royal Hawaiian Army
+U25;21st Royal Hawaiian Army
+U25;22nd Royal Hawaiian Army
+U25;23rd Royal Hawaiian Army
+U25;24th Royal Hawaiian Army
+U25;25th Royal Hawaiian Army
+U25;26th Royal Hawaiian Army
+U25;27th Royal Hawaiian Army
+U25;28th Royal Hawaiian Army
+U25;29th Royal Hawaiian Army
+U25;30th Royal Hawaiian Army
+U25;30th Royal Hawaiian Army
+U25;31st Royal Hawaiian Army
+U25;32nd Royal Hawaiian Army
+U25;33rd Royal Hawaiian Army
+U25;34th Royal Hawaiian Army
+U25;35th Royal Hawaiian Army
+U25;36th Royal Hawaiian Army
+U25;37th Royal Hawaiian Army
+U25;38th Royal Hawaiian Army
+U25;39th Royal Hawaiian Army
+U25;40th Royal Hawaiian Army
+U25;40th Royal Hawaiian Army
+U25;41st Royal Hawaiian Army
+U25;42nd Royal Hawaiian Army
+U25;43rd Royal Hawaiian Army
+U25;44th Royal Hawaiian Army
+U25;45th Royal Hawaiian Army
+U25;46th Royal Hawaiian Army
+U25;47th Royal Hawaiian Army
+U25;48th Royal Hawaiian Army
+U25;49th Royal Hawaiian Army
+U25;50th Royal Hawaiian Army
 U26;I. Schweiz Feldkorps
 U26;II. Suisse Corps d'Armée
 U26;III. Svizzera Corpo d'Armata
@@ -12450,6 +13538,78 @@ U35;XXXVII Cuerpo del Ejército
 U35;XXXVIII Cuerpo del Ejército
 U35;XXXIX Cuerpo del Ejército
 U35;XL Cuerpo del Ejército
+U40;CXL. Armeekorps
+U40;CXLI. Armeekorps
+U40;CXLII. Armeekorps
+U40;CXLIII. Armeekorps
+U40;CXLIV. Armeekorps
+U40;CXLV. Armeekorps
+U40;CXLVI. Armeekorps
+U40;CXLVII. Armeekorps
+U41;CXLVIII. Armeekorps
+U41;CXLIX. Armeekorps
+U41;CXL. Armeekorps
+U41;CLI. Armeekorps
+U41;CLII. Armeekorps
+U41;CLIII. Armeekorps
+U41;CLIV. Armeekorps
+U41;CLV. Armeekorps
+U42;CLVI. Armeekorps
+U42;CLVII. Armeekorps
+U42;CLVIII. Armeekorps
+U42;CLIX. Armeekorps
+U42;CLX. Armeekorps
+U42;CLXI. Armeekorps
+U42;CLXII. Armeekorps
+U42;CLXIII. Armeekorps
+U43;CLXIV. Armeekorps
+U43;CLXV. Armeekorps
+U43;CLXVI. Armeekorps
+U43;CLXVII. Armeekorps
+U43;CLXVIII. Armeekorps
+U43;CLXIX. Armeekorps
+U43;CLXX. Armeekorps
+U43;CLXXI. Armeekorps
+U44;CLXXII. Armeekorps
+U44;CLXXIII. Armeekorps
+U44;CLXXIV. Armeekorps
+U44;CLXXV. Armeekorps
+U44;CLXXVI. Armeekorps
+U44;CLXXVII. Armeekorps
+U44;CLXXVIII. Armeekorps
+U44;CLXXIX. Armeekorps
+U45;CLXXX. Armeekorps
+U45;CLXXXI. Armeekorps
+U45;CLXXXII. Armeekorps
+U45;CLXXXIII. Armeekorps
+U45;CLXXXIV. Armeekorps
+U45;CLXXXV. Armeekorps
+U45;CLXXXVI. Armeekorps
+U45;CLXXXVII. Armeekorps
+U46;CLXXXVIII. Armeekorps
+U46;CLXXXIX. Armeekorps
+U46;CXC. Armeekorps
+U46;CXCI. Armeekorps
+U46;CXCII. Armeekorps
+U46;CXCIII. Armeekorps
+U46;CXCIV. Armeekorps
+U46;CXCV. Armeekorps
+U47;CXCVI. Armeekorps
+U47;CXCVII. Armeekorps
+U47;CXCVIII. Armeekorps
+U47;CXCIX. Armeekorps
+U47;CC. Armeekorps
+U47;CCI. Armeekorps
+U47;CCII. Armeekorps
+U47;CCIII. Armeekorps
+U48;CCIV. Armeekorps
+U48;CCV. Armeekorps
+U48;CCVI. Armeekorps
+U48;CCVII. Armeekorps
+U48;CCVIII. Armeekorps
+U48;CCIX. Armeekorps
+U48;CCX. Armeekorps
+U48;CCXI. Armeekorps
 U57;I Cuerpo del Ejército
 U57;II Cuerpo del Ejército
 U57;III Cuerpo del Ejército
@@ -14201,1077 +15361,3 @@ U99;47e Corps d'Armée de le Togo
 U99;48e Corps d'Armée de le Togo
 U99;49e Corps d'Armée de le Togo
 U99;50e Corps d'Armée de le Togo
-UKR;1-y Korpus
-UKR;2-y Korpus
-UKR;3-y Korpus
-UKR;4-y Korpus
-UKR;5-y Korpus
-UKR;6-y Korpus
-UKR;7-y Korpus
-UKR;8-y Korpus
-UKR;10-y Korpus
-UKR;11-y Korpus
-UKR;12-y Korpus
-UKR;13-y Korpus
-UKR;14-y Korpus
-UKR;15-y Korpus
-UKR;16-y Korpus
-UKR;17-y Korpus
-UKR;18-y Korpus
-UKR;19-y Korpus
-UKR;20-y Korpus
-UKR;21-y Korpus
-UKR;22-y Korpus
-UKR;23-y Korpus
-UKR;24-y Korpus
-UKR;25-y Korpus
-UKR;26-y Korpus
-UKR;27-y Korpus
-UKR;28-y Korpus
-UKR;29-y Korpus
-UKR;30-y Korpus
-UKR;31-y Korpus
-UKR;32-y Korpus
-UKR;33-y Korpus
-UKR;34-y Korpus
-UKR;35-y Korpus
-UKR;36-y Korpus
-UKR;37-y Korpus
-UKR;38-y Korpus
-UKR;39-y Korpus
-UKR;40-y Korpus
-UKR;41-y Korpus
-UKR;42-y Korpus
-UKR;43-y Korpus
-UKR;44-y Korpus
-UKR;45-y Korpus
-UKR;46-y Korpus
-UKR;47-y Korpus
-UKR;48-y Korpus
-UKR;49-y Korpus
-UKR;50-y Korpus
-UKR;51-y Korpus
-UKR;52-y Korpus
-UKR;53-y Korpus
-UKR;54-y Korpus
-UKR;55-y Korpus
-UKR;56-y Korpus
-UKR;57-y Korpus
-UKR;58-y Korpus
-UKR;59-y Korpus
-UKR;60-y Korpus
-UKR;61-y Korpus
-UKR;62-y Korpus
-UKR;63-y Korpus
-UKR;64-y Korpus
-UKR;65-y Korpus
-UKR;66-y Korpus
-UKR;67-y Korpus
-UKR;68-y Korpus
-UKR;69-y Korpus
-UKR;70-y Korpus
-UKR;71-y Korpus
-UKR;72-y Korpus
-UKR;73-y Korpus
-UKR;74-y Korpus
-UKR;75-y Korpus
-UKR;76-y Korpus
-UKR;77-y Korpus
-UKR;78-y Korpus
-UKR;79-y Korpus
-UKR;80-y Korpus
-UKR;81-y Korpus
-UKR;82-y Korpus
-UKR;83-y Korpus
-UKR;84-y Korpus
-UKR;85-y Korpus
-UKR;86-y Korpus
-UKR;87-y Korpus
-UKR;88-y Korpus
-UKR;89-y Korpus
-UKR;90-y Korpus
-UKR;91-y Korpus
-UKR;92-y Korpus
-UKR;93-y Korpus
-UKR;94-y Korpus
-UKR;95-y Korpus
-UKR;96-y Korpus
-UKR;97-y Korpus
-UKR;98-y Korpus
-UKR;99-y Korpus
-UKR;100-y Korpus
-UKR;101-y Korpus
-UKR;102-y Korpus
-UKR;103-y Korpus
-UKR;104-y Korpus
-UKR;105-y Korpus
-UKR;106-y Korpus
-UKR;107-y Korpus
-UKR;108-y Korpus
-UKR;109-y Korpus
-UKR;110-y Korpus
-UKR;111-y Korpus
-UKR;112-y Korpus
-UKR;113-y Korpus
-UKR;114-y Korpus
-UKR;115-y Korpus
-UKR;116-y Korpus
-UKR;117-y Korpus
-UKR;118-y Korpus
-UKR;119-y Korpus
-UKR;120-y Korpus
-UKR;121-y Korpus
-UKR;122-y Korpus
-UKR;123-y Korpus
-UKR;124-y Korpus
-UKR;125-y Korpus
-UKR;126-y Korpus
-UKR;127-y Korpus
-UKR;128-y Korpus
-UKR;129-y Korpus
-UKR;130-y Korpus
-UKR;131-y Korpus
-UKR;132-y Korpus
-UKR;133-y Korpus
-UKR;134-y Korpus
-UKR;135-y Korpus
-UKR;136-y Korpus
-UKR;137-y Korpus
-UKR;138-y Korpus
-UKR;139-y Korpus
-UKR;140-y Korpus
-UKR;141-y Korpus
-UKR;142-y Korpus
-UKR;143-y Korpus
-UKR;144-y Korpus
-UKR;145-y Korpus
-UKR;146-y Korpus
-UKR;147-y Korpus
-UKR;148-y Korpus
-UKR;149-y Korpus
-UKR;150-y Korpus
-UKR;151-y Korpus
-UKR;152-y Korpus
-UKR;153-y Korpus
-UKR;154-y Korpus
-UKR;155-y Korpus
-UKR;156-y Korpus
-UKR;157-y Korpus
-UKR;158-y Korpus
-UKR;159-y Korpus
-UKR;160-y Korpus
-UKR;161-y Korpus
-UKR;162-y Korpus
-UKR;163-y Korpus
-UKR;164-y Korpus
-UKR;165-y Korpus
-UKR;166-y Korpus
-UKR;167-y Korpus
-UKR;168-y Korpus
-UKR;169-y Korpus
-UKR;170-y Korpus
-UKR;171-y Korpus
-UKR;172-y Korpus
-UKR;173-y Korpus
-UKR;174-y Korpus
-UKR;175-y Korpus
-UKR;176-y Korpus
-UKR;177-y Korpus
-UKR;178-y Korpus
-UKR;179-y Korpus
-UKR;180-y Korpus
-UKR;181-y Korpus
-UKR;182-y Korpus
-UKR;183-y Korpus
-UKR;184-y Korpus
-UKR;185-y Korpus
-UKR;186-y Korpus
-UKR;187-y Korpus
-UKR;188-y Korpus
-UKR;189-y Korpus
-UKR;190-y Korpus
-UKR;191-y Korpus
-UKR;192-y Korpus
-UKR;193-y Korpus
-UKR;194-y Korpus
-UKR;195-y Korpus
-UKR;196-y Korpus
-UKR;197-y Korpus
-UKR;198-y Korpus
-UKR;199-y Korpus
-UKR;200-y Korpus
-URU;I Cuerpo del Ejército
-URU;II Cuerpo del Ejército
-URU;III Cuerpo del Ejército
-URU;IV Cuerpo del Ejército
-URU;V Cuerpo del Ejército
-URU;VI Cuerpo del Ejército
-URU;VII Cuerpo del Ejército
-URU;VIII Cuerpo del Ejército
-URU;IX Cuerpo del Ejército
-URU;X Cuerpo del Ejército
-URU;XI Cuerpo del Ejército
-URU;XII Cuerpo del Ejército
-URU;XIII Cuerpo del Ejército
-URU;XIV Cuerpo del Ejército
-URU;XV Cuerpo del Ejército
-URU;XXI Cuerpo del Ejército
-URU;XXII Cuerpo del Ejército
-URU;XXIII Cuerpo del Ejército
-URU;XXIV Cuerpo del Ejército
-URU;XXVI Cuerpo del Ejército
-URU;XXVII Cuerpo del Ejército
-URU;XXVIII Cuerpo del Ejército
-URU;XXIX Cuerpo del Ejército
-URU;XXX Cuerpo del Ejército
-URU;XXXI Cuerpo del Ejército
-URU;XXXII Cuerpo del Ejército
-URU;XXXIII Cuerpo del Ejército
-URU;XXXIV Cuerpo del Ejército
-URU;XXXV Cuerpo del Ejército
-URU;XXXVI Cuerpo del Ejército
-URU;XXXVII Cuerpo del Ejército
-URU;XXXVIII Cuerpo del Ejército
-URU;XXXIX Cuerpo del Ejército
-URU;XL Cuerpo del Ejército
-USA;US I Corps
-USA;US II Corps
-USA;US III Corps
-USA;US IV Corps
-USA;US V Corps
-USA;US VI Corps
-USA;US VII Corps
-USA;US VIII Corps
-USA;US IX Corps
-USA;US X Corps
-USA;US XI Corps
-USA;US XII Corps
-USA;US XIII Corps
-USA;US XIV Corps
-USA;US XV Corps
-USA;US XXI Corps
-USA;US XXII Corps
-USA;US XXIII Corps
-USA;US XXIV Corps
-USA;US XXV Corps
-USA;US XXVI Corps
-USA;US XXVII Corps
-USA;US XXVIII Corps
-USA;US XXIX Corps
-USA;US XXX Corps
-USA;US XXXI Corps
-USA;US XXXII Corps
-USA;US XXXIII Corps
-USA;US XXXIV Corps
-USA;US XXXV Corps
-USA;US XXXVI Corps
-USA;US XXXVII Corps
-USA;US XXXVIII Corps
-USA;US XXXIX Corps
-USA;US XL Corps
-USA;US XLI Corps
-USA;US XLII Corps
-USA;US XLIII Corps
-USA;US XLIV Corps
-USA;US XLV Corps
-USA;US XLVI Corps
-USA;US XLVII Corps
-USA;US XLVIII Corps
-USA;US XLIX Corps
-USA;US L Corps
-USA;US LI Corps
-USA;US LII Corps
-USA;US LIII Corps
-USA;US LIV Corps
-USA;US LV Corps
-USA;US LVI Corps
-USA;US LVII Corps
-USA;US LVIII Corps
-USA;US LIX Corps
-USA;US LX Corps
-USA;US LXI Corps
-USA;US LXII Corps
-USA;US LXIII Corps
-USA;US LXIV Corps
-USA;US LXV Corps
-USA;US LXVI Corps
-USA;US LXVII Corps
-USA;US LXVIII Corps
-USA;US LXIX Corps
-USA;US LXX Corps
-USA;US LXXI Corps
-USA;US LXXII Corps
-USA;US LXXIII Corps
-USA;US LXXIV Corps
-USA;US LXXV Corps
-USA;US LXXVI Corps
-USA;US LXXVII Corps
-USA;US LXXVIII Corps
-USA;US LXXIX Corps
-USA;US LXXX Corps
-USA;US LXXXI Corps
-USA;US LXXXII Corps
-USA;US LXXXIII Corps
-USA;US LXXXIV Corps
-USA;US LXXXV Corps
-USA;US LXXXVI Corps
-USA;US LXXXVII Corps
-USA;US LXXXVIII Corps
-USA;US LXXXIX Corps
-USA;US XC Corps
-USA;US XCI Corps
-USA;US XCII Corps
-USA;US XCIII Corps
-USA;US XCIV Corps
-USA;US XCV Corps
-USA;US XCVI Corps
-USA;US XCVII Corps
-USA;US XCVIII Corps
-USA;US XCIX Corps
-USA;US C Corps
-USA;US CI Corps
-USA;US CII Corps
-USA;US CIII Corps
-USA;US CIV Corps
-USA;US CV Corps
-USA;US CVI Corps
-USA;US CVII Corps
-USA;US CVIII Corps
-USA;US CIX Corps
-USA;US CX Corps
-USA;US CXI Corps
-USA;US CXII Corps
-USA;US CXIII Corps
-USA;US CXIV Corps
-USA;US CXV Corps
-USA;US CXVI Corps
-USA;US CXVII Corps
-USA;US CXVIII Corps
-USA;US CXIX Corps
-USA;US CXX Corps
-USA;US CXXI Corps
-USA;US CXXII Corps
-USA;US CXXIII Corps
-USA;US CXXIV Corps
-USA;US CXXV Corps
-USA;US CXXVI Corps
-USA;US CXXVII Corps
-USA;US CXXVIII Corps
-USA;US CXXIX Corps
-USA;US CXXX Corps
-USA;US CXXXI Corps
-USA;US CXXXII Corps
-USA;US CXXXIII Corps
-USA;US CXXXIV Corps
-USA;US CXXXV Corps
-USA;US CXXXVI Corps
-USA;US CXXXVII Corps
-USA;US CXXXVIII Corps
-USA;US CXXXIX Corps
-USA;US CXL Corps
-USA;US CXLI Corps
-USA;US CXLII Corps
-USA;US CXLIII Corps
-USA;US CXLIV Corps
-USA;US CXLV Corps
-USA;US CXLVI Corps
-USA;US CXLVII Corps
-USA;US CXLVIII Corps
-USA;US CXLIX Corps
-USA;US CXL Corps
-USA;US CLI Corps
-USA;US CLII Corps
-USA;US CLIII Corps
-USA;US CLIV Corps
-USA;US CLV Corps
-USA;US CLVI Corps
-USA;US CLVII Corps
-USA;US CLVIII Corps
-USA;US CLIX Corps
-USA;US CLX Corps
-USA;US CLXI Corps
-USA;US CLXII Corps
-USA;US CLXIII Corps
-USA;US CLXIV Corps
-USA;US CLXV Corps
-USA;US CLXVI Corps
-USA;US CLXVII Corps
-USA;US CLXVIII Corps
-USA;US CLXIX Corps
-USA;US CLXX Corps
-USA;US CLXXI Corps
-USA;US CLXXII Corps
-USA;US CLXXIII Corps
-USA;US CLXXIV Corps
-USA;US CLXXV Corps
-USA;US CLXXVI Corps
-USA;US CLXXVII Corps
-USA;US CLXXVIII Corps
-USA;US CLXXIX Corps
-USA;US CLXXX Corps
-USA;US CLXXXI Corps
-USA;US CLXXXII Corps
-USA;US CLXXXIII Corps
-USA;US CLXXXIV Corps
-USA;US CLXXXV Corps
-USA;US CLXXXVI Corps
-USA;US CLXXXVII Corps
-USA;US CLXXXVIII Corps
-USA;US CLXXXIX Corps
-USA;US CXC Corps
-USA;US CXCI Corps
-USA;US CXCII Corps
-USA;US CXCIII Corps
-USA;US CXCIV Corps
-USA;US CXCV Corps
-USA;US CXCVI Corps
-USA;US CXCVII Corps
-USA;US CXCVIII Corps
-USA;US CXCIX Corps
-USA;US CC Corps
-USA;US CCI Corps
-USA;US CCII Corps
-USA;US CCIII Corps
-USA;US CCIV Corps
-USA;US CCV Corps
-USA;US CCVI Corps
-USA;US CCVII Corps
-USA;US CCVIII Corps
-USA;US CCIX Corps
-USA;US CCX Corps
-USA;US CCXI Corps
-USA;US CCXII Corps
-USA;US CCXIII Corps
-USA;US CCXIV Corps
-USA;US CCXV Corps
-USA;US CCXVI Corps
-USA;US CCXVII Corps
-USA;US CCXVIII Corps
-USA;US CCXIX Corps
-USA;US CCXX Corps
-USA;US CCXXI Corps
-USA;US CCXXII Corps
-USA;US CCXXIII Corps
-USA;US CCXXIV Corps
-USA;US CCXXV Corps
-USA;US CCXXVI Corps
-USA;US CCXXVII Corps
-USA;US CCXXVIII Corps
-USA;US CCXXIX Corps
-USA;US CCXXX Corps
-USA;US CCXXXI Corps
-USA;US CCXXXII Corps
-USA;US CCXXXIII Corps
-USA;US CCXXXIV Corps
-USA;US CCXXXV Corps
-USA;US CCXXXVI Corps
-USA;US CCXXXVII Corps
-USA;US CCXXXVIII Corps
-USA;US CCXXXIX Corps
-USA;US CCXL Corps
-USA;US CCXLI Corps
-USA;US CCXLII Corps
-USA;US CCXLIII Corps
-USA;US CCXLIV Corps
-USA;US CCXLV Corps
-USA;US CCXLVI Corps
-USA;US CCXLVII Corps
-USA;US CCXLVIII Corps
-USA;US CCXLIX Corps
-USA;US CCL Corps
-USA;US CCLI Corps
-USA;US CCLII Corps
-USA;US CCLIII Corps
-USA;US CCLIV Corps
-USA;US CCLV Corps
-USA;US CCLVI Corps
-USA;US CCLVII Corps
-USA;US CCLVIII Corps
-USA;US CCLIX Corps
-USA;US CCLX Corps
-USA;US CCLXI Corps
-USA;US CCLXII Corps
-USA;US CCLXIII Corps
-USA;US CCLXIV Corps
-USA;US CCLXV Corps
-USA;US CCLXVI Corps
-USA;US CCLXVII Corps
-USA;US CCLXVIII Corps
-USA;US CCLXIX Corps
-USA;US CCLXX Corps
-USA;US CCLXXI Corps
-USA;US CCLXXII Corps
-USA;US CCLXXIII Corps
-USA;US CCLXXIV Corps
-USA;US CCLXXV Corps
-USA;US CCLXXVI Corps
-USA;US CCLXXVII Corps
-USA;US CCLXXVIII Corps
-USA;US CCLXXIX Corps
-USA;US CCLXXX Corps
-USA;US CCLXXXI Corps
-USA;US CCLXXXII Corps
-USA;US CCLXXXIII Corps
-USA;US CCLXXXIV Corps
-USA;US CCLXXXV Corps
-USA;US CCLXXXVI Corps
-USA;US CCLXXXVII Corps
-USA;US CCLXXXVIII Corps
-USA;US CCLXXXIX Corps
-USA;US CCXC Corps
-USA;US CCXCI Corps
-USA;US CCXCII Corps
-USA;US CCXCIII Corps
-USA;US CCXCIV Corps
-USA;US CCXCV Corps
-USA;US CCXCVI Corps
-USA;US CCXCVII Corps
-USA;US CCXCVIII Corps
-USA;US CCXCIX Corps
-USA;US CCC Corps
-UZB;1ya Ozbekiston Korpus
-UZB;2ya Ozbekiston Korpus
-UZB;3ya Ozbekiston Korpus
-UZB;4ya Ozbekiston Korpus
-UZB;5ya Ozbekiston Korpus
-UZB;6ya Ozbekiston Korpus
-UZB;7ya Ozbekiston Korpus
-UZB;8ya Ozbekiston Korpus
-UZB;10ya Ozbekiston Korpus
-UZB;11ya Ozbekiston Korpus
-UZB;12ya Ozbekiston Korpus
-UZB;13ya Ozbekiston Korpus
-UZB;14ya Ozbekiston Korpus
-UZB;15ya Ozbekiston Korpus
-UZB;16ya Ozbekiston Korpus
-UZB;17ya Ozbekiston Korpus
-UZB;18ya Ozbekiston Korpus
-UZB;19ya Ozbekiston Korpus
-UZB;20ya Ozbekiston Korpus
-UZB;21ya Ozbekiston Korpus
-UZB;22ya Ozbekiston Korpus
-UZB;23ya Ozbekiston Korpus
-UZB;24ya Ozbekiston Korpus
-UZB;25ya Ozbekiston Korpus
-UZB;26ya Ozbekiston Korpus
-UZB;27ya Ozbekiston Korpus
-UZB;28ya Ozbekiston Korpus
-UZB;29ya Ozbekiston Korpus
-UZB;30ya Ozbekiston Korpus
-UZB;31ya Ozbekiston Korpus
-UZB;32ya Ozbekiston Korpus
-UZB;33ya Ozbekiston Korpus
-UZB;34ya Ozbekiston Korpus
-UZB;35ya Ozbekiston Korpus
-UZB;36ya Ozbekiston Korpus
-UZB;37ya Ozbekiston Korpus
-UZB;38ya Ozbekiston Korpus
-UZB;39ya Ozbekiston Korpus
-UZB;40ya Ozbekiston Korpus
-UZB;41ya Ozbekiston Korpus
-UZB;42ya Ozbekiston Korpus
-UZB;43ya Ozbekiston Korpus
-UZB;44ya Ozbekiston Korpus
-UZB;45ya Ozbekiston Korpus
-UZB;46ya Ozbekiston Korpus
-UZB;47ya Ozbekiston Korpus
-UZB;48ya Ozbekiston Korpus
-UZB;49ya Ozbekiston Korpus
-UZB;50ya Ozbekiston Korpus
-UZB;51ya Ozbekiston Korpus
-UZB;52ya Ozbekiston Korpus
-UZB;53ya Ozbekiston Korpus
-UZB;54ya Ozbekiston Korpus
-UZB;55ya Ozbekiston Korpus
-UZB;56ya Ozbekiston Korpus
-UZB;57ya Ozbekiston Korpus
-UZB;58ya Ozbekiston Korpus
-UZB;59ya Ozbekiston Korpus
-UZB;60ya Ozbekiston Korpus
-UZB;61ya Ozbekiston Korpus
-UZB;62ya Ozbekiston Korpus
-UZB;63ya Ozbekiston Korpus
-UZB;64ya Ozbekiston Korpus
-UZB;65ya Ozbekiston Korpus
-UZB;66ya Ozbekiston Korpus
-UZB;67ya Ozbekiston Korpus
-UZB;68ya Ozbekiston Korpus
-UZB;69ya Ozbekiston Korpus
-UZB;70ya Ozbekiston Korpus
-VEN;I Cuerpo del Ejército
-VEN;II Cuerpo del Ejército
-VEN;III Cuerpo del Ejército
-VEN;IV Cuerpo del Ejército
-VEN;V Cuerpo del Ejército
-VEN;VI Cuerpo del Ejército
-VEN;VII Cuerpo del Ejército
-VEN;VIII Cuerpo del Ejército
-VEN;IX Cuerpo del Ejército
-VEN;X Cuerpo del Ejército
-VEN;XI Cuerpo del Ejército
-VEN;XII Cuerpo del Ejército
-VEN;XIII Cuerpo del Ejército
-VEN;XIV Cuerpo del Ejército
-VEN;XV Cuerpo del Ejército
-VEN;XXI Cuerpo del Ejército
-VEN;XXII Cuerpo del Ejército
-VEN;XXIII Cuerpo del Ejército
-VEN;XXIV Cuerpo del Ejército
-VEN;XXV Cuerpo del Ejército
-VEN;XXVI Cuerpo del Ejército
-VEN;XXVII Cuerpo del Ejército
-VEN;XXVIII Cuerpo del Ejército
-VEN;XXIX Cuerpo del Ejército
-VEN;XXX Cuerpo del Ejército
-VEN;XXXI Cuerpo del Ejército
-VEN;XXXII Cuerpo del Ejército
-VEN;XXXIII Cuerpo del Ejército
-VEN;XXXIV Cuerpo del Ejército
-VEN;XXXV Cuerpo del Ejército
-VEN;XXXVI Cuerpo del Ejército
-VEN;XXXVII Cuerpo del Ejército
-VEN;XXXVIII Cuerpo del Ejército
-VEN;XXXIX Cuerpo del Ejército
-VEN;XL Cuerpo del Ejército
-VIC;1ère Corps d'Armée
-VIC;2e Corps d'Armée
-VIC;3e Corps d'Armée
-VIC;4e Corps d'Armée
-VIC;5e Corps d'Armée
-VIC;6e Corps d'Armée
-VIC;7e Corps d'Armée
-VIC;8e Corps d'Armée
-VIC;9e Corps d'Armée
-VIC;10e Corps d'Armée
-VIC;11e Corps d'Armée
-VIC;12e Corps d'Armée
-VIC;13e Corps d'Armée
-VIC;14e Corps d'Armée
-VIC;15e Corps d'Armée
-VIC;16e Corps d'Armée
-VIC;17e Corps d'Armée
-VIC;18e Corps d'Armée
-VIC;19e Corps d'Armée
-VIC;20e Corps d'Armée
-VIC;21e Corps d'Armée
-VIC;22e Corps d'Armée
-VIC;23e Corps d'Armée
-VIC;24e Corps d'Armée
-VIC;25e Corps d'Armée
-VIC;26e Corps d'Armée
-VIC;27e Corps d'Armée
-VIC;28e Corps d'Armée
-VIC;29e Corps d'Armée
-VIC;30e Corps d'Armée
-VIC;31e Corps d'Armée
-VIC;32e Corps d'Armée
-VIC;33e Corps d'Armée
-VIC;34e Corps d'Armée
-VIC;35e Corps d'Armée
-VIC;36e Corps d'Armée
-VIC;37e Corps d'Armée
-VIC;38e Corps d'Armée
-VIC;39e Corps d'Armée
-VIC;40e Corps d'Armée
-VIC;41e Corps d'Armée
-VIC;42e Corps d'Armée
-VIC;43e Corps d'Armée
-VIC;44e Corps d'Armée
-VIC;45e Corps d'Armée
-VIC;46e Corps d'Armée
-VIC;47e Corps d'Armée
-VIC;48e Corps d'Armée
-VIC;49e Corps d'Armée
-VIC;50e Corps d'Armée
-VIC;51e Corps d'Armée
-VIC;52e Corps d'Armée
-VIC;53e Corps d'Armée
-VIC;54e Corps d'Armée
-VIC;55e Corps d'Armée
-VIC;56e Corps d'Armée
-VIC;57e Corps d'Armée
-VIC;58e Corps d'Armée
-VIC;59e Corps d'Armée
-VIC;60e Corps d'Armée
-VIC;61e Corps d'Armée
-VIC;62e Corps d'Armée
-VIC;63e Corps d'Armée
-VIC;64e Corps d'Armée
-VIC;65e Corps d'Armée
-VIC;66e Corps d'Armée
-VIC;67e Corps d'Armée
-VIC;68e Corps d'Armée
-VIC;69e Corps d'Armée
-VIC;70e Corps d'Armée
-VIC;71e Corps d'Armée
-VIC;72e Corps d'Armée
-VIC;73e Corps d'Armée
-VIC;74e Corps d'Armée
-VIC;75e Corps d'Armée
-VIC;76e Corps d'Armée
-VIC;77e Corps d'Armée
-VIC;78e Corps d'Armée
-VIC;79e Corps d'Armée
-VIC;80e Corps d'Armée
-VIE;1ère Corps d'Armée Vietnamien
-VIE;2e Corps d'Armée Vietnamien
-VIE;3e Corps d'Armée Vietnamien
-VIE;4e Corps d'Armée Vietnamien
-VIE;5e Corps d'Armée Vietnamien
-VIE;6e Corps d'Armée Vietnamien
-VIE;7e Corps d'Armée Vietnamien
-VIE;8e Corps d'Armée Vietnamien
-VIE;9e Corps d'Armée Vietnamien
-VIE;10e Corps d'Armée Vietnamien
-VIE;11e Corps d'Armée Vietnamien
-VIE;12e Corps d'Armée Vietnamien
-VIE;13e Corps d'Armée Vietnamien
-VIE;14e Corps d'Armée Vietnamien
-VIE;15e Corps d'Armée Vietnamien
-VIE;16e Corps d'Armée Vietnamien
-VIE;17e Corps d'Armée Vietnamien
-VIE;18e Corps d'Armée Vietnamien
-VIE;19e Corps d'Armée Vietnamien
-VIE;20e Corps d'Armée Vietnamien
-VIE;21e Corps d'Armée Vietnamien
-VIE;22e Corps d'Armée Vietnamien
-VIE;23e Corps d'Armée Vietnamien
-VIE;24e Corps d'Armée Vietnamien
-VIE;25e Corps d'Armée Vietnamien
-VIE;26e Corps d'Armée Vietnamien
-VIE;27e Corps d'Armée Vietnamien
-VIE;28e Corps d'Armée Vietnamien
-VIE;29e Corps d'Armée Vietnamien
-VIE;30e Corps d'Armée Vietnamien
-VIE;31e Corps d'Armée Vietnamien
-VIE;32e Corps d'Armée Vietnamien
-VIE;33e Corps d'Armée Vietnamien
-VIE;34e Corps d'Armée Vietnamien
-VIE;35e Corps d'Armée Vietnamien
-VIE;36e Corps d'Armée Vietnamien
-VIE;37e Corps d'Armée Vietnamien
-VIE;38e Corps d'Armée Vietnamien
-VIE;39e Corps d'Armée Vietnamien
-VIE;40e Corps d'Armée Vietnamien
-VIE;41e Corps d'Armée Vietnamien
-VIE;42e Corps d'Armée Vietnamien
-VIE;43e Corps d'Armée Vietnamien
-VIE;44e Corps d'Armée Vietnamien
-VIE;45e Corps d'Armée Vietnamien
-VIE;46e Corps d'Armée Vietnamien
-VIE;47e Corps d'Armée Vietnamien
-VIE;48e Corps d'Armée Vietnamien
-VIE;49e Corps d'Armée Vietnamien
-VIE;50e Corps d'Armée Vietnamien
-VIE;51e Corps d'Armée Vietnamien
-VIE;52e Corps d'Armée Vietnamien
-VIE;53e Corps d'Armée Vietnamien
-VIE;54e Corps d'Armée Vietnamien
-VIE;55e Corps d'Armée Vietnamien
-VIE;56e Corps d'Armée Vietnamien
-VIE;57e Corps d'Armée Vietnamien
-VIE;58e Corps d'Armée Vietnamien
-VIE;59e Corps d'Armée Vietnamien
-VIE;60e Corps d'Armée Vietnamien
-VIE;61e Corps d'Armée Vietnamien
-VIE;62e Corps d'Armée Vietnamien
-VIE;63e Corps d'Armée Vietnamien
-VIE;64e Corps d'Armée Vietnamien
-VIE;65e Corps d'Armée Vietnamien
-VIE;66e Corps d'Armée Vietnamien
-VIE;67e Corps d'Armée Vietnamien
-VIE;68e Corps d'Armée Vietnamien
-VIE;69e Corps d'Armée Vietnamien
-VIE;70e Corps d'Armée Vietnamien
-VIE;71e Corps d'Armée Vietnamien
-VIE;72e Corps d'Armée Vietnamien
-VIE;73e Corps d'Armée Vietnamien
-VIE;74e Corps d'Armée Vietnamien
-VIE;75e Corps d'Armée Vietnamien
-VIE;76e Corps d'Armée Vietnamien
-VIE;77e Corps d'Armée Vietnamien
-VIE;78e Corps d'Armée Vietnamien
-VIE;79e Corps d'Armée Vietnamien
-VIE;80e Corps d'Armée Vietnamien
-WLL;1ère Corps d'Armée Wallonien
-WLL;2e Corps d'Armée Wallonien
-WLL;3e Corps d'Armée Wallonien
-WLL;4e Corps d'Armée Wallonien
-WLL;5e Corps d'Armée Wallonien
-WLL;6e Corps d'Armée Wallonien
-WLL;7e Corps d'Armée Wallonien
-WLL;8e Corps d'Armée Wallonien
-WLL;9e Corps d'Armée Wallonien
-WLL;10e Corps d'Armée Wallonien
-WLL;11e Corps d'Armée Wallonien
-WLL;12e Corps d'Armée Wallonien
-WLL;13e Corps d'Armée Wallonien
-WLL;14e Corps d'Armée Wallonien
-WLL;15e Corps d'Armée Wallonien
-WLL;16e Corps d'Armée Wallonien
-WLL;17e Corps d'Armée Wallonien
-WLL;18e Corps d'Armée Wallonien
-WLL;19e Corps d'Armée Wallonien
-WLL;20e Corps d'Armée Wallonien
-WLL;21e Corps d'Armée Wallonien
-WLL;22e Corps d'Armée Wallonien
-WLL;23e Corps d'Armée Wallonien
-WLL;24e Corps d'Armée Wallonien
-WLL;25e Corps d'Armée Wallonien
-WLL;26e Corps d'Armée Wallonien
-WLL;27e Corps d'Armée Wallonien
-WLL;28e Corps d'Armée Wallonien
-WLL;29e Corps d'Armée Wallonien
-WLL;30e Corps d'Armée Wallonien
-WLL;31e Corps d'Armée Wallonien
-WLL;32e Corps d'Armée Wallonien
-WLL;33e Corps d'Armée Wallonien
-WLL;34e Corps d'Armée Wallonien
-WLL;35e Corps d'Armée Wallonien
-WLL;36e Corps d'Armée Wallonien
-WLL;37e Corps d'Armée Wallonien
-WLL;38e Corps d'Armée Wallonien
-WLL;39e Corps d'Armée Wallonien
-WLL;40e Corps d'Armée Wallonien
-WLL;41e Corps d'Armée Wallonien
-WLL;42e Corps d'Armée Wallonien
-WLL;43e Corps d'Armée Wallonien
-WLL;44e Corps d'Armée Wallonien
-WLL;45e Corps d'Armée Wallonien
-WLL;46e Corps d'Armée Wallonien
-WLL;47e Corps d'Armée Wallonien
-WLL;48e Corps d'Armée Wallonien
-WLL;49e Corps d'Armée Wallonien
-WLL;50e Corps d'Armée Wallonien
-WLL;51e Corps d'Armée Wallonien
-WLL;52e Corps d'Armée Wallonien
-WLL;53e Corps d'Armée Wallonien
-WLL;54e Corps d'Armée Wallonien
-WLL;55e Corps d'Armée Wallonien
-WLL;56e Corps d'Armée Wallonien
-WLL;57e Corps d'Armée Wallonien
-WLL;58e Corps d'Armée Wallonien
-WLL;59e Corps d'Armée Wallonien
-WLL;60e Corps d'Armée Wallonien
-WLL;61e Corps d'Armée Wallonien
-WLL;62e Corps d'Armée Wallonien
-WLL;63e Corps d'Armée Wallonien
-WLL;64e Corps d'Armée Wallonien
-WLL;65e Corps d'Armée Wallonien
-WLL;66e Corps d'Armée Wallonien
-WLL;67e Corps d'Armée Wallonien
-WLL;68e Corps d'Armée Wallonien
-WLL;69e Corps d'Armée Wallonien
-WLL;70e Corps d'Armée Wallonien
-WLL;71e Corps d'Armée Wallonien
-WLL;72e Corps d'Armée Wallonien
-WLL;73e Corps d'Armée Wallonien
-WLL;74e Corps d'Armée Wallonien
-WLL;75e Corps d'Armée Wallonien
-WLL;76e Corps d'Armée Wallonien
-WLL;77e Corps d'Armée Wallonien
-WLL;78e Corps d'Armée Wallonien
-WLL;79e Corps d'Armée Wallonien
-WLL;80e Corps d'Armée Wallonien
-YEM;I Corps al-Yamaniyah
-YEM;II Corps al-Yamaniyah
-YEM;III Corps al-Yamaniyah
-YEM;IV Corps al-Yamaniyah
-YEM;V Corps al-Yamaniyah
-YEM;VI Corps al-Yamaniyah
-YEM;VII Corps al-Yamaniyah
-YEM;VIII Corps al-Yamaniyah
-YEM;IX Corps al-Yamaniyah
-YEM;X Corps al-Yamaniyah
-YEM;XI Corps al-Yamaniyah
-YEM;XII Corps al-Yamaniyah
-YEM;XIII Corps al-Yamaniyah
-YEM;XIV Corps al-Yamaniyah
-YEM;XV Corps al-Yamaniyah
-YEM;XXI Corps al-Yamaniyah
-YEM;XXII Corps al-Yamaniyah
-YEM;XXIII Corps al-Yamaniyah
-YEM;XXIV Corps al-Yamaniyah
-YEM;XXV Corps al-Yamaniyah
-YEM;XXVI Corps al-Yamaniyah
-YEM;XXVII Corps al-Yamaniyah
-YEM;XXVIII Corps al-Yamaniyah
-YEM;XXIX Corps al-Yamaniyah
-YEM;XXX Corps al-Yamaniyah
-YEM;XXXI Corps al-Yamaniyah
-YEM;XXXII Corps al-Yamaniyah
-YEM;XXXIII Corps al-Yamaniyah
-YEM;XXXIV Corps al-Yamaniyah
-YEM;XXXV Corps al-Yamaniyah
-YEM;XXXVI Corps al-Yamaniyah
-YEM;XXXVII Corps al-Yamaniyah
-YEM;XXXVIII Corps al-Yamaniyah
-YEM;XXXIX Corps al-Yamaniyah
-YEM;XL Corps al-Yamaniyah
-YEM;XLI Corps al-Yamaniyah
-YEM;XLII Corps al-Yamaniyah
-YEM;XLIII Corps al-Yamaniyah
-YEM;XLIV Corps al-Yamaniyah
-YEM;XLV Corps al-Yamaniyah
-YEM;XLVI Corps al-Yamaniyah
-YEM;XLVII Corps al-Yamaniyah
-YEM;XLVIII Corps al-Yamaniyah
-YEM;XLIX Corps al-Yamaniyah
-YEM;L Corps al-Yamaniyah
-YEM;LI Corps al-Yamaniyah
-YEM;LII Corps al-Yamaniyah
-YEM;LIII Corps al-Yamaniyah
-YEM;LIV Corps al-Yamaniyah
-YEM;LV Corps al-Yamaniyah
-YEM;LVI Corps al-Yamaniyah
-YEM;LVII Corps al-Yamaniyah
-YEM;LVIII Corps al-Yamaniyah
-YEM;LIX Corps al-Yamaniyah
-YEM;LX Corps al-Yamaniyah
-YEM;LXI Corps al-Yamaniyah
-YEM;LXII Corps al-Yamaniyah
-YEM;LXIII Corps al-Yamaniyah
-YEM;LXIV Corps al-Yamaniyah
-YEM;LXV Corps al-Yamaniyah
-YEM;LXVI Corps al-Yamaniyah
-YEM;LXVII Corps al-Yamaniyah
-YEM;LXVIII Corps al-Yamaniyah
-YEM;LXIX Corps al-Yamaniyah
-YEM;LXX Corps al-Yamaniyah
-YUG;I. Kraljevska Jugoslavenska Armija
-YUG;II. Kraljevska Jugoslavenska Armija
-YUG;III. Kraljevska Jugoslavenska Armija
-YUG;IV. Kraljevska Jugoslavenska Armija
-YUG;V. Kraljevska Jugoslavenska Armija
-YUG;VI. Kraljevska Jugo. Armija
-YUG;VII. Kraljevska Jugo. Armija
-YUG;VIII. Kraljevska Jugo. Armija
-YUG;IX. Kraljevska Jugo. Armija
-YUG;X. Kraljevska Jugo. Armija
-YUG;XI. Kraljevska Jugo. Armija
-YUG;XII. Kraljevska Jugo. Armija
-YUG;XIII. Kraljevska Jugo. Armija
-YUG;XIV. Kraljevska Jugo. Armija
-YUG;XV. Kraljevska Jugo. Armija
-YUG;XXI. Kraljevska Jugo. Armija
-YUG;XXII. Kraljevska Jugo. Armija
-YUG;XXIII. Kraljevska Jugo. Armija
-YUG;XXIV. Kraljevska Jugo. Armija
-YUG;XXV. Kraljevska Jugo. Armija
-YUG;XXVI. Kraljevska Jugo. Armija
-YUG;XXVII. Kraljevska Jugo. Armija
-YUG;XXVIII. Kraljevska Jugo. Armija
-YUG;XXIX. Kraljevska Jugo. Armija
-YUG;XXX. Kraljevska Jugo. Armija
-YUG;XXXI. Kraljevska Jugo. Armija
-YUG;XXXII. Kraljevska Jugo. Armija
-YUG;XXXIII. Kraljevska Jugo. Armija
-YUG;XXXIV. Kraljevska Jugo. Armija
-YUG;XXXV. Kraljevska Jugo. Armija
-YUG;XXXVI. Kraljevska Jugo. Armija
-YUG;XXXVII. Kraljevska Jugo. Armija
-YUG;XXXVIII. Kraljevska Jugo. Armija
-YUG;XXXIX. Kraljevska Jugo. Armija
-YUG;XL. Kraljevska Jugo. Armija
-YUG;XLI. Kraljevska Jugo. Armija
-YUG;XLII. Kraljevska Jugo. Armija
-YUG;XLIII. Kraljevska Jugo. Armija
-YUG;XLIV. Kraljevska Jugo. Armija
-YUG;XLV. Kraljevska Jugo. Armija
-YUG;XLVI. Kraljevska Jugo. Armija
-YUG;XLVII. Kraljevska Jugo. Armija
-YUG;XLVIII. Kraljevska Jugo. Armija
-YUG;XLIX. Kraljevska Jugo. Armija
-YUG;L. Kraljevska Jugo. Armija
-YUG;LI. Kraljevska Jugo. Armija
-YUG;LII. Kraljevska Jugo. Armija
-YUG;LIII. Kraljevska Jugo. Armija
-YUG;LIV. Kraljevska Jugo. Armija
-YUG;LV. Kraljevska Jugo. Armija
-YUG;LVI. Kraljevska Jugo. Armija
-YUG;LVII. Kraljevska Jugo. Armija
-YUG;LVIII. Kraljevska Jugo. Armija
-YUG;LIX. Kraljevska Jugo. Armija
-YUG;LX. Kraljevska Jugo. Armija
-YUG;LXI. Kraljevska Jugo. Armija
-YUG;LXII. Kraljevska Jugo. Armija
-YUG;LXIII. Kraljevska Jugo. Armija
-YUG;LXIV. Kraljevska Jugo. Armija
-YUG;LXV. Kraljevska Jugo. Armija
-YUG;LXVI. Kraljevska Jugo. Armija
-YUG;LXVII. Kraljevska Jugo. Armija
-YUG;LXVIII. Kraljevska Jugo. Armija
-YUG;LXIX. Kraljevska Jugo. Armija
-YUG;LXX. Kraljevska Jugo. Armija
-U40;CXL. Armeekorps
-U40;CXLI. Armeekorps
-U40;CXLII. Armeekorps
-U40;CXLIII. Armeekorps
-U40;CXLIV. Armeekorps
-U40;CXLV. Armeekorps
-U40;CXLVI. Armeekorps
-U40;CXLVII. Armeekorps
-U41;CXLVIII. Armeekorps
-U41;CXLIX. Armeekorps
-U41;CXL. Armeekorps
-U41;CLI. Armeekorps
-U41;CLII. Armeekorps
-U41;CLIII. Armeekorps
-U41;CLIV. Armeekorps
-U41;CLV. Armeekorps
-U42;CLVI. Armeekorps
-U42;CLVII. Armeekorps
-U42;CLVIII. Armeekorps
-U42;CLIX. Armeekorps
-U42;CLX. Armeekorps
-U42;CLXI. Armeekorps
-U42;CLXII. Armeekorps
-U42;CLXIII. Armeekorps
-U43;CLXIV. Armeekorps
-U43;CLXV. Armeekorps
-U43;CLXVI. Armeekorps
-U43;CLXVII. Armeekorps
-U43;CLXVIII. Armeekorps
-U43;CLXIX. Armeekorps
-U43;CLXX. Armeekorps
-U43;CLXXI. Armeekorps
-U44;CLXXII. Armeekorps
-U44;CLXXIII. Armeekorps
-U44;CLXXIV. Armeekorps
-U44;CLXXV. Armeekorps
-U44;CLXXVI. Armeekorps
-U44;CLXXVII. Armeekorps
-U44;CLXXVIII. Armeekorps
-U44;CLXXIX. Armeekorps
-U45;CLXXX. Armeekorps
-U45;CLXXXI. Armeekorps
-U45;CLXXXII. Armeekorps
-U45;CLXXXIII. Armeekorps
-U45;CLXXXIV. Armeekorps
-U45;CLXXXV. Armeekorps
-U45;CLXXXVI. Armeekorps
-U45;CLXXXVII. Armeekorps
-U46;CLXXXVIII. Armeekorps
-U46;CLXXXIX. Armeekorps
-U46;CXC. Armeekorps
-U46;CXCI. Armeekorps
-U46;CXCII. Armeekorps
-U46;CXCIII. Armeekorps
-U46;CXCIV. Armeekorps
-U46;CXCV. Armeekorps
-U47;CXCVI. Armeekorps
-U47;CXCVII. Armeekorps
-U47;CXCVIII. Armeekorps
-U47;CXCIX. Armeekorps
-U47;CC. Armeekorps
-U47;CCI. Armeekorps
-U47;CCII. Armeekorps
-U47;CCIII. Armeekorps
-U48;CCIV. Armeekorps
-U48;CCV. Armeekorps
-U48;CCVI. Armeekorps
-U48;CCVII. Armeekorps
-U48;CCVIII. Armeekorps
-U48;CCIX. Armeekorps
-U48;CCX. Armeekorps
-U48;CCXI. Armeekorps

@@ -13,8 +13,6 @@ event = "db\events\AI\AI_research.txt"
 # Mods placeholder
 
 event = "db\events\Mods.txt"
-
-event = "db\events\CSA flavour.txt"
 event = "db\events\Europe flavour.txt"
 
 # Timeline 191 Events

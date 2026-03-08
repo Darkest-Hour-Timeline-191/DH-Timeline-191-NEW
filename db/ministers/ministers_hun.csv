@@ -10,7 +10,7 @@ HUN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 105008;Chief of Army;István Shvoy;1933;1964;FA;Decisive Battle Doctrine;Medium;M21008;X
 105009;Chief of Navy;Miklós Horthy de Nagybánya;1933;1964;FA;Decisive Naval Battle Doctrine;Medium;M21001;X
 105010;Chief of Air Force;László Tomor;1933;1964;FA;Air Superiority Doctrine;Medium;M21010;X
-105011;Head of State;Ferenc Szálasi;1944;1964;NS;Powerhungry Demagogue;High;M21021;X
+105011;Head of State;Ferenc Szálasi;1933;1964;NS;Powerhungry Demagogue;High;M21021;X
 105012;Head of State;Miklós Horthy de Nagybánya;1944;1964;NS;Resigned Generalissimo;High;M21001;X
 105013;Head of State;Otto I Habsburg;1945;1964;PA;Benevolent Gentleman;High;M21044;X
 105014;Head of State;Károly Peyer;1945;1964;SD;Insignificant Layman;High;M21045;X
@@ -33,7 +33,7 @@ HUN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 105031;Head of Government;Zoltán Tildy;1933;1964;SC;Silent Workhorse;High;M21011;X
 105032;Head of Government;Ferenc Nagy;1946;1964;SC;Happy Amateur;High;M21012;X
 105033;Head of Government;László Rajk;1933;1964;ST;Flamboyant Tough Guy;High;M21035;X
-105034;Head of Government;Mátyas Rákosi;1944;1964;ST;Local tyrant;High;M21032;X
+105034;Head of Government;Mátyas Rákosi;1944;1964;ST;Local Tyrant;High;M21032;X
 105035;Foreign Minister;Döme Sztójay;1944;1964;NS;Ideological Crusader;Medium;M21051;X
 105036;Foreign Minister;Gábor Kemény;1944;1964;NS;Great Compromiser;Medium;M21067;X
 105037;Foreign Minister;Béla Imrédy de Omoravia;1938;1964;FA;Ideological Crusader;Medium;M21024;X
@@ -49,7 +49,7 @@ HUN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 105047;Foreign Minister;Erik Molnár;1933;1964;ST;Ideological Crusader;Medium;M21079;X
 105048;Foreign Minister;Matta Zalka;1944;1964;ST;General Staffer;Medium;M21037;X
 105049;Foreign Minister;László Rajk;1947;1964;ST;Iron Fisted Brute;Medium;M21035;X
-105050;Minister of Armament;Jenö Rácz;1939;1964;NS;laissez-faire capitalist;Medium;M21022;X
+105050;Minister of Armament;Jenö Rácz;1939;1964;NS;Laissez-Faire Capitalist;Medium;M21022;X
 105051;Minister of Armament;Bela Imrédy de Omoravia;1933;1964;FA;Infantry Proponent;Medium;M21024;X
 105052;Minister of Armament;Lajos Reményi-Schneller;1938;1964;FA;Administrative Genius;Medium;M21084;X
 105053;Minister of Armament;Laszlo Endre;1944;1964;FA;Strategic Air Proponent;Medium;M21085;X
@@ -159,3 +159,42 @@ HUN;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 105157;Head of State;Belá Kun;1914;1933;ST;Die-hard Reformer;Medium;3868;X
 105158;Head of State;Archduke Josef;1919;1933;ML;Popular Figurehead;Medium;3869;X
 105159;Head of State;Karl;1920;1933;SL;Popular Figurehead;Medium;3870;X
+105160;Head of State;Mihály Károlyi;1933;1957;SL;Insignificant Layman;Medium;HUN - Mihály Károlyi;X
+105161;Head of State;Mihály II Károlyi de Nagykároly;1933;1957;PA;Insignificant Layman;Medium;HUN - Mihály Károlyi;X
+105162;Head of State;Miklós Horthy de Nagybánya II;1956;1994;PA;Pig-headed Isolationist;High;HUN - Miklós Horthy II;X
+105163;Head of State;H.M. Gyula I Cseszneky;1933;1971;PA;Benevolent Gentleman;High;HUN - Gyula Cseszneky;X
+105164;Head of State;H.M. Pál I Esterházy;1933;1990;PA;Popular Figurehead;High;HUN - Pal V Esterházy;X
+105165;Head of State;H.M. Fidél I Pálffy;1933;1971;NS;Die-hard Reformer;High;HUN - Fidél Pálffy;X
+105166;Head of State;H.M. Maria II Pálffy;1972;1992;NS;Insignificant Layman;High;unknownminister;X
+105167;Head of State;Arpád Szakasits;1933;1964;SD;Ruthless Powermonger;Medium;M21061;X
+105168;Head of State;Mátyás Szurös;1963;2020;SD;Popular Figurehead;Medium;HUN - Mátyás Szurös;X
+105169;Head of State;Miklós Bánffy;1933;1950;SL;Weary Stiffneck;Medium;HUN - Miklós Bánffy;X
+105170;Head of State;S.K.u.K.M. Otto II von Habsburg;1933;1964;ML;Benevolent Gentleman;High;M21044;X
+105171;Head of State;S.K.u.K.M. Otto II von Habsburg;1963;2012;ML;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+105172;Head of State;Arpad Göncz;1963;2016;ML;Benevolent Gentleman;High;HUN - Arpad Göncz;X
+105173;Head of State;Sándor Rácz;1964;2014;SC;Die-hard Reformer;High;HUN - Sándor Rácz;X
+105174;Head of State;Gergely Pongrátz;1964;2005;PA;Resigned Generalissimo;High;HUN - Gergely Pongrátz;X
+105175;Head of State;István Antal;1945;1976;FA;Barking Buffoon;High;HUN - István Antal;X
+105176;Head of State;Arpad Henney;1955;1981;NS;Weary Stiffneck;High;HUN - Arpad Henney;X
+105177;Head of State;Mihály Pünkösti;1969;1993;NS;Reformist Soldierhos;High;HUN - Mihály Pünkösti;X
+105178;Head of State;Miklós Horthy de Nagybánya II;1956;1994;ML;Pig-headed Isolationist;High;HUN - Miklós Horthy II;X
+105179;Head of State;H.M. Gyula I Cseszneky;1933;1971;SC;Benevolent Gentleman;High;HUN - Gyula Cseszneky;X
+105180;Head of State;H.M. Pál I Esterházy;1933;1990;SC;Popular Figurehead;High;HUN - Pal V Esterházy;X
+105181;Head of State;S.K.u.K.M. Otto II von Habsburg;1933;1964;PA;Benevolent Gentleman;High;M21044;X
+105182;Head of State;S.K.u.K.M. Otto II von Habsburg;1963;2012;PA;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+105183;Head of Government;Ferenc Szálasi;1933;1964;NS;Flamboyant Tough Guy;High;M21021;X
+105184;Head of Government;Lajos Dinnyes;1947;1964;ML;Happy Amateur;High;M21183;X
+105185;Head of Government;Károly Peyer;1933;1964;SD;Naive Optimist;High;M21045;X
+105186;Head of Government;Miklós Takács;1956;1968;SD;Silent Workhorse;High;HUN - Miklós Takács;X
+105187;Head of Government;Miklós Németh;1967;2020;SD;Happy Amateur;Medium;HUN - Miklós Németh;X
+105188;Head of Government;Károly Rassay;1933;1964;SL;Political Protege;High;HUN - Károly Rassay;X
+105189;Head of Government;Reszö Kastner;1947;1992;SL;Naive Optimist;Medium;M21089;X
+105190;Head of Government;Gyula Horn;1980;2014;SL;Backroom Backstabber;Medium;HUN - Gyula Horn;X
+105191;Head of Government;Endre Bajcsy-Zsilinszky;1933;1964;SC;Flamboyant Tough Guy;High;M21074;X
+105192;Head of Government;József Antall;1963;1994;SC;Flamboyant Tough Guy;High;HUN - József Antall;X
+105193;Head of Government;Gergely Pongrátz;1963;2005;PA;Old General;High;HUN - Gergely Pongrátz;X
+105194;Head of Government;Lajos Für;1980;2014;PA;Ambitious Union Boss;High;HUN - Lajos Für;X
+105195;Head of Government;István Antal;1945;1976;FA;Backroom Backstabber;High;HUN - István Antal;X
+105196;Head of Government;Ferenc Farkas de Kisbarnak;1955;1981;FA;Reformist Soldierhog;High;L31125;X
+105197;Head of Government;Arpad Henney;1955;1981;NS;Weary Stiffneck;High;HUN - Arpad Henney;X
+105198;Head of Government;Mihály Pünkösti;1969;1993;NS;Reformist Soldierhog;High;HUN - Mihály Pünkösti;X

@@ -18,7 +18,7 @@ ICL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 360016;Chief of Army;Kai Hammerich;1942;1964;SL;Decisive Battle Doctrine;Medium;M581016;X
 360017;Chief of Navy;Paul Ipsen;1942;1964;SL;Open Seas Doctrine;Medium;M581017;X
 360018;Chief of Air Force;Asger E.V. Grandjean;1942;1964;SL;Naval Aviation Doctrine;Medium;M581018;X
-360019;Head of State;Asgeir Asgeirsson;1952;1964;SL;Pig-headed Isolationist;High;M581019;X
+360019;Head of State;Asgeir Asgeirsson;1952;1973;SL;Pig-headed Isolationist;High;M581019;X
 360020;Head of Government;Olafur Thors;1942;1964;ML;Flamboyant Tough Guy;High;M581003;X
 360021;Foreign Minister;Vilhjalmur Thor;1942;1964;SL;Apologetic Clerk;High;M581021;X
 360022;Head of Government;Stefan J. Stefansson;1944;1964;SD;Ambitious Union Boss;High;M581006;X
@@ -34,3 +34,35 @@ ICL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 360032;Minister of Armament;Eysteinn Jönsson;1950;1964;SD;Administrative Genius;Medium;M581032;X
 360033;Foreign Minister;Gudmundur Gudmundsson;1953;1964;ML;The Cloak N Dagger Schemer;High;M581033;X
 360034;Minister of Security;Einar Arnorsson;1953;1964;ML;Crime Fighter;Medium;M581034;X
+360035;Head of State;Kristjan Eldjarn;1968;1983;ML;Powerhungry Demagogue;Medium;ICL - Kristjan Eldjarn;X
+360036;Head of State;Vigdis Finnbogadóttir;1980;2020;SL;Popular Figurehead;Medium;ICL - Vigdis Finnbogadóttir;X
+360037;Head of State;Ólafur Ragnar Grímsson;1996;2020;SD;Barking Buffoon;Medium;ICL - Olafur Ragnar Grimsson;X
+360038;Head of State;Gunnar Thoroddsen;1968;1984;SC;Insignificant Layman;Medium;ICL - Gunnar Thoroddsen;X
+360039;Head of State;Guðlaugur Þorvaldsson;1980;2020;ML;Benevolent Gentleman;Medium;ICL - Gudlaugur Thorvaldsson;X
+360040;Head of State;Sigrún Þorsteinsdóttir;1988;2020;ML;Popular Figurehead;Medium;ICL - Sigrún Thorsteinsdóttir;X
+360041;Head of State;Pétur Kr. Hafstein;1996;2020;SC;Weary Stiffneck;Medium;ICL - Pétur Kristján Hafstein;X
+360042;Head of State;Ólafur Pétursson;1941;1973;FA;Pig-headed Isolationist;High;ICL - Olafur Pétursson;X
+360043;Head of State;Bjarni Jónsson;1972;2009;FA;Popular Figurehead;High;ICL - Bjarni Jónsson;X
+360044;Head of State;Björn Sv. Björnsson;1944;1999;NS;Reformist Soldierhos;High;ICL - Björn Sveinsson Björnsson;X
+360045;Head of State;H.M. Christian X;1933;1948;ML;Weary Stiffneck;High;M16001;X
+360046;Head of State;H.M. Frederik IX;1947;1973;ML;Autocratic Charmer;High;M16138;X
+360047;Head of State;H.M. Margrethe II;1972;2020;ML;Popular Figurehead;High;DEN - Margrethe II;X
+360048;Head of State;H.M. Christian X;1933;1948;PA;Weary Stiffneck;High;M16001;X
+360049;Head of State;H.M. Frederik IX;1947;1973;PA;Autocratic Charmer;High;M16138;X
+360050;Head of State;H.M. Margrethe II;1972;2020;PA;Popular Figurehead;High;DEN - Margrethe II;X
+360051;Head of Government;Emil Jonsson;1959;1971;SD;Flamboyant Tough Guy;Medium;ICL - Emil Jonsson;X
+360052;Head of Government;Bjarni Benediktsson;1963;1971;ML;Flamboyant Tough Guy;Medium;ICL - Bjarni Benediktsson;X
+360053;Head of Government;Jóhann Hafstein;1970;1981;ML;Smiling Oilman;Medium;ICL - Jóhann Hafstein;X
+360054;Head of Government;Ólafur Jóhannesson;1971;1985;SL;Silent Workhorse;Medium;ICL - Olafur Jóhannesson;X
+360055;Head of Government;Geir Hallgrimsson;1974;1991;ML;Happy Amateur;Medium;ICL - Geir Hallgrimsson;X
+360056;Head of Government;Benedikt Gröndal;1974;2011;SD;Naive Optimist;Medium;ICL - Benedikt Gröndal;X
+360057;Head of Government;Gunnar Thoroddsen;1980;1984;SC;Silent Workhorse;Medium;ICL - Gunnar Thoroddsen;X
+360058;Head of Government;Steingrimur Hermannsson;1983;2011;SC;Silent Workhorse;Medium;ICL - Steingrimur Hermannsson;X
+360059;Head of Government;Þorsteinn Pálsson;1987;2020;ML;Ambitious Union Boss;Medium;ICL - Thorsteinn Palsson;X
+360060;Head of Government;Davíð Oddsson;1991;2020;SC;Political Protege;Medium;ICL - David Oddsson;X
+360061;Head of Government;Gylfi Gislason;1971;2005;SD;Political Protege;Medium;ICL - Gylfi Gislason;X
+360062;Head of Government;Jón Baldvin Hannibalsson;1991;2020;SD;Backroom Backstabber;Medium;ICL - Jon Baldvin Hannibalsson;X
+360063;Head of Government;Margrét Frímannsdóttir;1999;2020;SD;Happy Amateur;Medium;ICL - Margrét Frímannsdóttir;X
+360064;Head of Government;Albert Guðmundsson;1985;1995;PA;Ambitious Union Boss;High;ICL - Albert Gudmundsson;X
+360065;Head of Government;Ólafur Pétursson;1941;1973;FA;Happy Amateur;High;ICL - Olafur Pétursson;X
+360066;Head of Government;Gisli Sigurbjörnsson;1955;1996;FA;Political Protege;High;ICL - Gisli Sigurbjörnsson;X

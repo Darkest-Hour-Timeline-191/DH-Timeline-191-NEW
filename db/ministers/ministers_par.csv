@@ -32,9 +32,9 @@ PAR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 200030;Foreign Minister;Cesar Augusto Vasconcellos;1947;1964;PA;General Staffer;Medium;M42082;X
 200031;Minister of Armament;Riccardo Odriosola;1933;1964;LWR;Resource Industrialist;Medium;M42051;X
 200032;Minister of Armament;José Estigarribia Insaurralde;1937;1964;SC;Military Entrepreneur;Medium;M42063;X
-200033;Minister of Armament;Julio Manuel Morales;1939;1964;SL;laissez-faire capitalist;Medium;M42085;X
+200033;Minister of Armament;Julio Manuel Morales;1939;1964;SL;Laissez-Faire Capitalist;Medium;M42085;X
 200034;Minister of Armament;Alejandro Marin;1939;1964;SD;Infantry Proponent;Medium;M42086;X
-200035;Minister of Armament;Pablo Max Ynsfrán;1940;1964;PA;laissez-faire capitalist;Medium;M42044;X
+200035;Minister of Armament;Pablo Max Ynsfrán;1940;1964;PA;Laissez-Faire Capitalist;Medium;M42044;X
 200036;Minister of Armament;Salvador Villagrán Maffiodo;1942;1964;SC;Administrative Genius;Medium;M42054;X
 200037;Minister of Armament;Juan Natalicio Gonzalez;1944;1964;SC;Tank Proponent;Medium;M42089;X
 200038;Minister of Armament;Alírio Ugarte Díaz;1946;1964;SC;Theoretical Scientist;Medium;M42090;X
@@ -58,14 +58,14 @@ PAR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 200056;Chief of Army;Higenio Morinigo Martinez;1939;1964;SL;Decisive Battle Doctrine;Medium;M42064;X
 200057;Chief of Army;Isaias Baez Allende;1942;1964;SC;Elastic Defence Doctrine;Medium;M42112;X
 200058;Chief of Army;Amancio Pampliega;1944;1964;SC;Guns and Butter Doctrine;Medium;M42048;X
-200059;Chief of Army;Alfred Stroessner Matiauda;1946;1964;SC;Armoured Spearhead Doctrine;Medium;M42114;X
+200059;Chief of Army;Alfredo Stroessner Matiauda;1946;1964;SC;Armoured Spearhead Doctrine;Medium;M42114;X
 200060;Chief of Navy;Juan Stefanich;1939;1964;SD;Power Projection Doctrine;Medium;M42049;X
 200061;Chief of Navy;Enrico T. Rizzo;1940;1964;PA;Indirect Approach Doctrine;Medium;M42118;X
 200062;Chief of Navy;Jesus G. Arraza;1944;1964;SC;Base Control Doctrine;Medium;M42119;X
 200063;Chief of Air Force;Hernan Rojas Baltassare;1939;1964;SL;Vertical Envelopment Doctrine;Medium;M42050;X
 200064;Chief of Air Force;Héctor Velasquez;1944;1964;SC;Army Aviation Doctrine;Medium;M42124;X
 200065;Head of State;Luís Avelino Argaña;1933;1964;FA;Powerhungry Demagogue;High;M42041;X
-200066;Head of Government;Luís Avelino Argaña;1933;1964;FA;old airmarshal;High;M42041;X
+200066;Head of Government;Luís Avelino Argaña;1933;1964;FA;Old Airmarshal;High;M42041;X
 200067;Head of State;Riccardo Odriosola;1933;1964;LE;Weary Stiffneck;High;M42051;X
 200068;Head of Government;Riccardo Odriosola;1933;1964;LE;Backroom Backstabber;High;M42051;X
 200069;Head of State;Juan Manuel Frutos;1948;1964;PA;Resigned Generalissimo;High;M42006;X
@@ -78,10 +78,10 @@ PAR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 200076;Head of Military Intelligence;Felipe Molas Lopez;1946;1964;ML;Technical Specialist;Medium;M42128;X
 200077;Minister of Armament;Remigio Bastia Martín;1948;1964;SC;Resource Industrialist;Medium;M42133;X
 200078;Minister of Security;Tomas Romero Pereira;1950;1964;PA;Prince of Terror;Medium;M42134;X
-200079;Chief of Army;Americo Benitez;1914;1933;SL;DECISIVE BATTLE DOCTRINE;Medium;2926;X
-200080;Chief of Navy;Manuel Gondra;1914;1933;SL;DECISIVE NAVAL BATTLE DOCTRINE;Medium;2927;X
-200081;Chief of Staff;Americo Benitez;1914;1933;SL;SCHOOL OF PSYCHOLOGY;Medium;2926;X
-200082;Foreign Minister;Antolín Irala;1914;1933;SL;GREAT COMPROMISER;Medium;unknown;X
+200079;Chief of Army;Americo Benitez;1914;1933;SL;Decisive Battle Doctrine;Medium;2926;X
+200080;Chief of Navy;Manuel Gondra;1914;1933;SL;Decisive Naval Battle Doctrine;Medium;2927;X
+200081;Chief of Staff;Americo Benitez;1914;1933;SL;School of Psychology;Medium;2926;X
+200082;Foreign Minister;Antolín Irala;1914;1933;SL;Great Compromiser;Medium;unknown;X
 200083;Head of Government;Eduardo Schaerer Vera;1914;1933;SL;Ambitious Union Boss;Medium;unknown;X
 200084;Head of Government;Manuel Franco;1916;1933;SL;Political Protege;Medium;unknown;X
 200085;Head of Government;José Candia;1919;1933;SL;Silent Workhorse;Medium;unknown;X
@@ -92,8 +92,36 @@ PAR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 200090;Head of State;Eduardo Schaerer Vera;1914;1933;SL;Stern Imperialist;Medium;unknown;X
 200091;Head of State;Manuel Franco;1916;1933;SL;Weary Stiffneck;Medium;unknown;X
 200092;Head of State;José Candia;1919;1933;SL;Ruthless Powermonger;Medium;unknown;X
-200093;Head of State;Manuel Pereira;1920;1933;SL;powerhungry demagogue;Medium;unknown;X
+200093;Head of State;Manuel Pereira;1920;1933;SL;Powerhungry Demagogue;Medium;unknown;X
 200094;Head of State;Eusebio Ayala;1921;1933;SL;Insignificant Layman;Medium;unknown;X
 200095;Head of State;Luis Vera;1924;1933;SL;Autocratic Charmer;Medium;unknown;X
-200096;Minister of Armament;Felix Paiva;1914;1933;SL;RESOURCE INDUSTRIALIST;Medium;unknown;X
-200097;Minister of Security;Manuel Gondra;1914;1933;SL;CRIME FIGHTER;Medium;2927;X
+200096;Minister of Armament;Felix Paiva;1914;1933;SL;Resource Industrialist;Medium;unknown;X
+200097;Minister of Security;Manuel Gondra;1914;1933;SL;Crime Fighter;Medium;2927;X
+200098;Head of State;José Estigarribia Insaurralde;1939;1964;SD;Resigned Generalissimo;High;M42063;X
+200099;Head of State;Alfredo Stroessner Matiauda;1954;2007;FA;Autocratic Charmer;Medium;M42114;X
+200100;Head of State;Andrés Rodriguez Pedotti;1989;1998;SC;Resigned Generalissimo;Medium;PAR - Andrés Rodriguez Pedotti;X
+200101;Head of State;Juan Wasmosy Monti ;1992;2020;SC;Insignificant Layman;Medium;PAR - Juan Carlos Wasmosy;X
+200102;Head of State;Raúl Cubas Grau;1998;2020;SC;Popular Figurehead;Medium;PAR - Raúl Cubas;X
+200103;Head of State;Luis González Macchi;1999;2020;SC;Barking Buffoon;Medium;PAR - Luis González Macchi;X
+200104;Head of State;Domingo Laíno Figueredo;1989;2020;SL;Popular Figurehead;Medium;PAR - Domingo Laino Figueredo;X
+200105;Head of State;Oscar Creydt;1933;1988;ST;Powerhungry Demagogue;Medium;PAR - Oscar Creydt;X
+200106;Head of State;Antonio Maidana;1964;1981;LE;Die-hard Reformer;Medium;PAR - Antonio Maidana;X
+200107;Head of State;Obdulio Barthe;1978;1982;LE;Weary Stiffneck;Medium;PAR - Obdulio Barthe;X
+200108;Head of State;Julio Rojas;1981;1991;LE;Insignificant Layman;Medium;unknownminister;X
+200109;Head of State;Ananías Maidana Palacios;1989;2011;LE;Autocratic Charmer;Medium;PAR - Ananias Maidana Palacios;X
+200110;Head of State;Miguel Ángel Soler;1964;2000;LWR;Weary Stiffneck;Medium;PAR - Miguel Angel Soler;X
+200111;Head of Government;José Estigarribia Insaurralde;1939;1964;SD;Backroom Backstabber;High;M42063;X
+200112;Head of Government;Juan Manuel Frutos;1948;1964;PA;Silent Workhorse;High;M42006;X
+200113;Head of Government;Juan Natalicio Gonzalez;1948;1964;SC;Naive Optimist;High;M42089;X
+200114;Head of Government;Federico Chaves;1949;1964;SC;Political Protege;High;M42004;X
+200115;Head of Government;Alfredo Stroessner Matiauda;1954;2007;FA;Old General;Medium;M42114;X
+200116;Head of Government;Andrés Rodriguez Pedotti;1989;1998;SC;Silent Workhorse;Medium;PAR - Andrés Rodriguez Pedotti;X
+200117;Head of Government;Juan Wasmosy Monti ;1992;2020;SC;Political Protege;Medium;PAR - Juan Carlos Wasmosy;X
+200118;Head of Government;Raúl Cubas Grau;1998;2020;SC;Naive Optimist;Medium;PAR - Raúl Cubas;X
+200119;Head of Government;Luis González Macchi;1999;2020;SC;Happy Amateur;Medium;PAR - Luis González Macchi;X
+200120;Head of Government;Oscar Creydt;1933;1988;ST;Flamboyant Tough Guy;Medium;PAR - Oscar Creydt;X
+200121;Head of Government;Antonio Maidana;1964;1981;LE;Ambitious Union Boss;Medium;PAR - Antonio Maidana;X
+200122;Head of Government;Obdulio Barthe;1978;1982;LE;Political Protege;Medium;PAR - Obdulio Barthe;X
+200123;Head of Government;Julio Rojas;1981;1991;LE;Happy Amateur;Medium;unknownminister;X
+200124;Head of Government;Ananías Maidana Palacios;1989;2011;LE;Ambitious Union Boss;Medium;PAR - Ananias Maidana Palacios;X
+200125;Head of Government;Miguel Ángel Soler;1964;2000;LWR;Naive Optimist;Medium;PAR - Miguel Angel Soler;X

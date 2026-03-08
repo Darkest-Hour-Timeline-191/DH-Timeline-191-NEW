@@ -1,0 +1,788 @@
+##########################################################################
+# CSA USA war events
+# id range 1300 - 1320
+##########################################################################
+
+# 1300 - CSA - 12.04.41 - Invasion of USA
+# 1301 - USA - The President Has Been Killed!
+# 1302 - USA - Philadelphia under Threat
+
+# 1311 - CSA - Support Mormon Rebels?
+# 1312 - USA - Mormons Are Rebelling!
+# 1313 - U10 - State of Desert Rising
+# 1314 - CSA - Mormon Gamble Has Paid Off
+
+# 1321 - CSA - Triumphant Peace
+# 1322 - USA - The Confederacy Offers Terms...
+# 1323 - CSA - Yankees Refuse to Surrender!
+# 1324 - CSA - Treaty of Baltimore: Continental Borders
+# 1325 - CSA - Treaty of Baltimore: Fate of the Desert
+# 1326 - CSA - Treaty of Baltimore: Fate of the North
+# 1327 - CSA - Treaty of Baltimore: Fate of Hawaii
+# 1328 - USA - Treaty of Baltimore - Bitter Peace
+# 1329 - RUS/ENG/JAP/CAN - Confederacy Makes Concessions
+# 1330 - CSA - US Territories Integrated
+# 1331 - CSA - Triumphant Peace
+
+event = {
+
+	id = 1300
+	random = no
+	country = CSA
+	style = 2
+    save_date = yes # for 1301
+	picture = "Wehrmacht" 
+    decision_picture = "decision_anschluss"   
+
+	decision = {
+		government = fascist
+		NOT = { alliance = { country = USA } } 
+        NOT = { war = { country = USA } } 
+        exists = USA
+	}
+
+    decision_trigger = {
+        government = fascist
+		NOT = { alliance = { country = USA } } 
+        NOT = { war = { country = USA } } 
+        exists = USA		
+	}
+
+    trigger = {
+        government = fascist
+		NOT = { alliance = { country = USA } } 
+        NOT = { war = { country = USA } } 
+        exists = USA
+        random = 90
+    }
+
+	name = "Invasion of USA"
+	desc = "After years of preparation, the Confederacy is finally ready to confront northern imperialists and take back the lands they have stolen in 1918."
+
+	date = { day = 11 month = april year = 1941 }
+    offset = 5 
+    deathdate = { day = 29 month = december year = 1950 }
+
+	action = {
+		name = "Crush the Yankees!"
+        command = { type = dissent value = -5 }
+		command = { type = war which = USA }
+        command = { type = domestic which = defense_lobby value = 1 }
+        command = { type = domestic which = interventionism value = 1 }		 
+	}
+
+}
+
+event = {
+
+    id = 1301
+	random = no
+	country = USA
+	style = 2
+	picture = "tommygun" 
+
+    trigger = {
+        # 175 days after CSA takes decision to invade USA, still at war
+        event = { id = 1300 days = 175 }
+        war = { country = CSA }
+    }    
+
+    name = "The President Has Been Killed!"
+	desc = "The President of the United States has fallen victim to a Confederate bombing raid! While it is unclear whether it was a pre-planned assassination or just a case of rotten luck, this will cause turmoil in the moment when America can afford it the least."
+
+    date = { day = 0 month = january year = 1941 }
+    offset = 7 
+    deathdate = { day = 29 month = december year = 1945 }
+
+    action = {
+		name = "He will be avenged."
+        command = { type = dissent value = 10 }
+        ### Comb through all possible HoS and kill them if they're HoS at the time
+		command = { trigger = { headofstate = 240001 } type = sleepminister which = 240001 }
+        command = { trigger = { headofstate = 240011 } type = sleepminister which = 240011 }
+        command = { trigger = { headofstate = 240012 } type = sleepminister which = 240012 }
+        command = { trigger = { headofstate = 240013 } type = sleepminister which = 240013 }
+        command = { trigger = { headofstate = 240014 } type = sleepminister which = 240014 }
+        command = { trigger = { headofstate = 240015 } type = sleepminister which = 240015 }
+        command = { trigger = { headofstate = 240016 } type = sleepminister which = 240016 }
+        command = { trigger = { headofstate = 240017 } type = sleepminister which = 240017 }
+        command = { trigger = { headofstate = 240018 } type = sleepminister which = 240018 }
+        command = { trigger = { headofstate = 240019 } type = sleepminister which = 240019 }
+        command = { trigger = { headofstate = 240020 } type = sleepminister which = 240020 }
+        command = { trigger = { headofstate = 240021 } type = sleepminister which = 240021 }
+        command = { trigger = { headofstate = 240146 } type = sleepminister which = 240146 }
+        command = { trigger = { headofstate = 240149 } type = sleepminister which = 240149 }
+        command = { trigger = { headofstate = 240169 } type = sleepminister which = 240169 }
+        command = { trigger = { headofstate = 240196 } type = sleepminister which = 240196 }
+        command = { trigger = { headofstate = 240201 } type = sleepminister which = 240201 }
+        command = { trigger = { headofstate = 240202 } type = sleepminister which = 240202 }
+        command = { trigger = { headofstate = 240214 } type = sleepminister which = 240214 }
+        command = { trigger = { headofstate = 240382 } type = sleepminister which = 240382 }
+        command = { trigger = { headofstate = 240384 } type = sleepminister which = 240384 }
+        command = { trigger = { headofstate = 240389 } type = sleepminister which = 240389 }
+        command = { trigger = { headofstate = 240394 } type = sleepminister which = 240394 }
+        command = { trigger = { headofstate = 240414 } type = sleepminister which = 240414 }
+        command = { trigger = { headofstate = 240415 } type = sleepminister which = 240415 }
+        command = { trigger = { headofstate = 240418 } type = sleepminister which = 240418 }
+        command = { trigger = { headofstate = 240420 } type = sleepminister which = 240420 }
+        command = { trigger = { headofstate = 240426 } type = sleepminister which = 240426 }
+	}
+
+}
+
+event = {
+
+    id = 1302
+	random = no
+	country = USA
+	style = 2
+	picture = "tommygun" 
+
+    trigger = {
+        # CSA occupies York or Baltimore
+        OR = {
+            control = { province = 2688 data = CSA } # York
+            control = { province = 607 data = CSA } # Baltimore
+        }
+        war = { country = CSA }
+    }    
+
+    name = "Philadelphia under Threat"
+	desc = "Confederate troops are nearing the capital! Perhaps it's time to evacuate the government to a more defensible position..."
+
+    date = { day = 0 month = january year = 1934 }
+    offset = 5 
+    deathdate = { day = 29 month = december year = 1945 }
+
+    action = {
+        trigger = {
+            control = { province = 602 data = -1 }
+        }
+		name = "Yes, evacuate to New York!"
+        command = { type = dissent value = 2 }
+        command = { type = capital which = 602 } 
+	}
+
+    action = {
+        trigger = {
+            control = { province = 600 data = -1 }
+        }
+		name = "Boston is a better spot!"
+        command = { type = dissent value = 5 }
+        command = { type = capital which = 600 } 
+	}
+
+    action = {
+		name = "No, we'll make our stand here!"
+        command = { type = dissent value = -5 }
+	}
+
+}
+
+
+event = {
+
+    id = 1311
+	random = no
+	country = CSA
+	style = 2
+	picture = "tommygun" 
+
+    trigger = {
+        war = { country = USA }
+    }    
+
+    name = "Support Mormon Rebels?"
+	desc = "Mormons are an ever-discontent minority in the American society. If we support them with weapons and advisers, they might provide useful distraction for the United States."
+
+    date = { day = 10 month = january year = 1933 }
+    offset = 5 
+    deathdate = { day = 29 month = december year = 1950 }
+
+    action = {
+		name = "Yes, give them arms to fight Yankees!"
+        ai_chance = 90
+        command = { type = dissent value = -1 }
+		command = { type = supplies value = -2500 }
+        command = { type = money value = -250 }
+        command = { type = domestic which = interventionism value = 1 }	
+        command = { type = event which = 1312 where = USA when = 2 } # Mormons Are Rebelling! 
+	}
+
+    action = {
+		name = "No, we need every rifle we have."
+        ai_chance = 10        
+        command = { type = dissent value = 1 }
+        command = { type = domestic which = defense_lobby value = 1 }
+	}
+
+}
+
+event = {
+
+    id = 1312
+	random = no
+	country = USA
+	style = 2
+	picture = "tommygun" 
+
+    name = "Mormons Are Rebelling!"
+	desc = "Damn Confederates have supplied Mormon traitors with weapons. Now the bastards are wreaking havoc in our rear even as the Southerners are advancing north!"
+
+    action = {
+		name = "At least there will be no arrests this time."
+        command = { type = dissent value = 5 }
+        command = { type = independence which = U10 value = 1 }
+        command = { type = supplies value = -2000 }
+        command = { type = resource which = oil value = -1000 }
+        command = { type = damage_division which = -1 where = 20 }
+		command = { type = damage_division which = -1 where = 20 }
+		command = { type = damage_division which = -1 where = 20 }
+		command = { type = damage_division which = -1 where = 20 }      
+        command = { type = damage_division which = -1 where = 20 }  
+        command = { type = event which = 1313 where = U10 when = 0 } # State of Desert Rising
+	}
+
+}
+
+event = {
+
+    id = 1313
+	random = no
+	country = U10
+	style = 2
+	picture = "tommygun" 
+
+    name = "State of Desert Rising!"
+	desc = "Thanks to our Confederate allies, we now have the means to fight oppressive American government!"
+
+    action = {
+		name = "To war!"
+        command = { type = dissent value = -15 }
+        command = { type = supplies value = 2500 }
+        command = { type = money value = 250 }
+        command = { type = access which = CSA }
+        command = { type = relation which = CSA value = 100 }
+        command = { type = add_division value = infantry }
+        command = { type = add_division value = infantry }
+        command = { type = add_division value = infantry }
+        command = { type = add_division value = infantry }
+        command = { type = add_division value = infantry }
+        command = { type = add_division value = militia }
+        command = { type = add_division value = militia }
+        command = { type = add_division value = militia }
+        command = { type = add_division value = militia }
+        command = { type = add_division value = militia }
+        command = { type = event which = 1314 where = CSA when = 1 } # Mormon Gamble Has Paid Off
+	}
+
+}
+
+event = {
+
+    id = 1314
+	random = no
+	country = CSA
+	style = 2
+	picture = "tommygun" 
+
+    name = "Mormon Gamble Has Paid Off"
+	desc = "The Mormons have risen against American authorities, creating a new front behind enemy lines!"
+
+    action = {
+		name = "To war!"
+        command = { type = dissent value = -1 }
+        command = { type = alliance which = U10 } # the sole reason for this event, to make sure CSA is the leader of the alliance, not U10
+        command = { type = access which = U10 }
+	}
+
+}
+
+
+
+
+event = {
+
+	id = 1321
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+    decision_picture = "decision_Rhineland"   
+
+	decision = {
+	    war = { country = USA }
+	}
+
+    decision_trigger = {
+        war = { country = USA }	
+        control = { province = 615 data = CSA } # Cleveland
+        control = { province = 2720 data = CSA } # Cincinnati
+        control = { province = 628 data = CSA } # Columbus 
+        control = { province = 606 data = CSA } # Washington DC
+        control = { province = 607 data = CSA } # Baltimore
+        control = { province = 614 data = CSA } # Pittsburgh
+        control = { province = 765 data = CSA } # San Francisco
+	}
+
+    trigger = {
+        war = { country = USA }
+        control = { province = 615 data = CSA } # Cleveland
+        control = { province = 2720 data = CSA } # Cincinnati
+        control = { province = 628 data = CSA } # Columbus 
+        control = { province = 606 data = CSA } # Washington DC
+        control = { province = 607 data = CSA } # Baltimore
+        control = { province = 614 data = CSA } # Pittsburgh
+        control = { province = 765 data = CSA } # San Francisco
+        random = 90
+    }
+
+	name = "Triumphant Peace"
+	desc = "Confederate military has made great gains in our war against the USA. Perhaps it is time to force favorable peace terms upon the North?"
+
+	date = { day = 1 month = february year = 1933 }
+    offset = 5 
+    deathdate = { day = 29 month = december year = 1950 }
+
+	action = {
+		name = "Send them the list of our demands!"
+        ai_chance = 80
+        command = { type = dissent value = -1 }
+        command = { type = event which = 1322 where = USA when = 3 } # The Confederacy Offers Terms...
+	}
+
+    action = {
+		name = "No, we must utterly crush them!"
+        ai_chance = 20
+        command = { type = dissent value = 1 }
+        command = { type = belligerence which = CSA value = 5 }	  
+	}
+
+}
+
+event = {
+
+    id = 1322
+	random = no
+	country = USA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "The Confederacy Offers Terms..."
+	desc = "The war against the Confederacy is not going well. The South offers us harsh peace terms, but are we desperate enough to accept them?"
+
+    action = {
+		name = "We have no choice but to surrender..."
+        ai_chance = 80
+        command = { type = dissent value = 5 }
+        command = { type = peace which = CSA }
+        command = { type = trade which = USA where = CSA supplies = -25 when = 7200 value = 1 }	
+        command = { type = trade which = USA where = CSA money = -10 when = 7200 value = 1 }	
+        command = { type = event which = 1324 where = CSA when = 1 } # Treaty of Baltimore: Continental Borders
+	}
+
+    action = {
+		name = "Death to southern tyrants!"
+        ai_chance = 20
+        command = { type = dissent value = -5 }
+        command = { type = event which = 1323 where = USA when = 1 } # Yankees Refuse to Surrender!
+	}
+
+}
+
+event = {
+
+    id = 1323
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Yankees Refuse to Surrender!"
+	desc = "Our victory is in sight, but they decided to do things the hard way."
+
+    action = {
+		name = "So be it..."
+        command = { type = dissent value = -1 }
+	}
+
+}
+
+event = {
+
+    id = 1324
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Treaty of Baltimore: Continental Borders"
+	desc = "The first issue of the day is the future US-Confederate border. Are we content with returning to 1914 borders, or do we want more?"
+
+    action = {
+		name = "1914 borders it is!"
+        ai_chance = 70
+        command = { type = dissent value = -1 }
+        # core Nogales
+        command = { type = addcore which = 2706 }
+        command = { type = secedeprovince which = CSA value = 2706 when = 2 }
+        # cede Arkansas, Tennessee, Kentucky, Virginia, Texas, Sequoyah
+        command = { type = secedearea which = CSA value = "Arkansas" when = 2 }
+        command = { type = secedearea which = CSA value = "Tennessee" when = 2 }
+        command = { type = secedearea which = CSA value = "Kentucky" when = 2 }
+        command = { type = secedearea which = CSA value = "Virginia" when = 2 }
+        command = { type = secedearea which = CSA value = "Texas" when = 2 }
+        command = { type = secedearea which = CSA value = "Oklahoma" when = 2 }
+        command = { trigger = { exists = U10 } type = event which = 1325 where = CSA when = 1 } # Treaty of Baltimore: Fate of the Desert
+        command = { type = event which = 1326 where = CSA when = 2 } # Treaty of Baltimore: Fate of the North
+	}
+
+    action = {
+		name = "Demand Arizona, New Mexico and California as well."
+        ai_chance = 20
+        command = { type = dissent value = 1 }
+        # core Nogales
+        command = { type = addcore which = 2706 }
+        command = { type = secedeprovince which = CSA value = 2706 when = 2 }
+        # cede Arkansas, Tennessee, Kentucky, Virginia, Texas, Sequoyah
+        command = { type = secedearea which = CSA value = "Arkansas" when = 2 }
+        command = { type = secedearea which = CSA value = "Tennessee" when = 2 }
+        command = { type = secedearea which = CSA value = "Kentucky" when = 2 }
+        command = { type = secedearea which = CSA value = "Virginia" when = 2 }
+        command = { type = secedearea which = CSA value = "Texas" when = 2 }
+        command = { type = secedearea which = CSA value = "Oklahoma" when = 2 }
+        # cede and claim California, Arizona, New mexico
+        command = { type = secedearea which = CSA value = "California" when = 2 }
+        command = { type = add_claim_area which = "California" }
+        command = { type = secedearea which = CSA value = "Arizona" when = 2 }
+        command = { type = add_claim_area which = "Arizona" }
+        command = { type = secedearea which = CSA value = "New Mexico" when = 2 }
+        command = { type = add_claim_area which = "New Mexico" }
+        command = { type = setflag which = csa_mid_gains }
+        command = { type = event which = 1330 where = CSA when = 540 } # US Territories Integrated
+        command = { trigger = { exists = U10 } type = event which = 1325 where = CSA when = 1 } # Treaty of Baltimore: Fate of the Desert
+        command = { type = event which = 1326 where = CSA when = 2 } # Treaty of Baltimore: Fate of the North
+	}
+
+    action = {
+		name = "Confederacy shall rival USA in size and population!"
+        ai_chance = 10
+        command = { type = dissent value = 2 }
+        # core Nogales
+        command = { type = addcore which = 2706 }
+        command = { type = secedeprovince which = CSA value = 2706 when = 2 }
+        # cede Arkansas, Tennessee, Kentucky, Virginia, Texas, Sequoyah
+        command = { type = secedearea which = CSA value = "Arkansas" when = 2 }
+        command = { type = secedearea which = CSA value = "Tennessee" when = 2 }
+        command = { type = secedearea which = CSA value = "Kentucky" when = 2 }
+        command = { type = secedearea which = CSA value = "Virginia" when = 2 }
+        command = { type = secedearea which = CSA value = "Texas" when = 2 }
+        command = { type = secedearea which = CSA value = "Oklahoma" when = 2 }
+        # cede and claim California, Arizona, New mexico
+        command = { type = secedearea which = CSA value = "California" when = 2 }
+        command = { type = add_claim_area which = "California" }
+        command = { type = secedearea which = CSA value = "Arizona" when = 2 }
+        command = { type = add_claim_area which = "Arizona" }
+        command = { type = secedearea which = CSA value = "New Mexico" when = 2 }
+        command = { type = add_claim_area which = "New Mexico" }
+        # cede and claim Nevada, Utah, Colorado, Kansas, Missouri, West Virginia
+        command = { type = secedearea which = CSA value = "Nevada" when = 2 }
+        command = { type = add_claim_area which = "Nevada" }
+        command = { type = secedearea which = CSA value = "Utah" when = 2 }
+        command = { type = add_claim_area which = "Utah" }
+        command = { type = secedearea which = CSA value = "Colorado" when = 2 }
+        command = { type = add_claim_area which = "Colorado" }
+        command = { type = secedearea which = CSA value = "Kansas" when = 2 }
+        command = { type = add_claim_area which = "Kansas" }
+        command = { type = secedearea which = CSA value = "Missouri" when = 2 }
+        command = { type = add_claim_area which = "Missouri" }
+        command = { type = secedearea which = CSA value = "West Virginia" when = 2 }
+        command = { type = add_claim_area which = "West Virginia" }
+        command = { type = setflag which = csa_max_gains }
+        command = { type = event which = 1330 where = CSA when = 1080 } # US Territories Integrated
+        command = { type = event which = 1326 where = CSA when = 2 } # Treaty of Baltimore: Fate of the North
+	}
+
+}
+
+event = {
+
+    id = 1325
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Treaty of Baltimore: Fate of the Desert"
+	desc = "The Mormons were sympathetic to our cause... should we make sure they are given the territories they are due?"
+
+    action = {
+		name = "Yes, Mormons will get all of their lands!"
+        ai_chance = 70
+        command = { type = relation which = U10 value = 25 }
+        command = { type = secedeprovince which = U10 value = 733 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6157 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6158 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6159 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6160 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6161 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6162 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6163 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6164 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6215 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6139 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6138 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6140 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6173 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6172 when = 2 }
+        command = { type = secedeprovince which = U10 value = 708 when = 2 }
+        command = { type = secedeprovince which = U10 value = 706 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6170 when = 2 }
+        command = { type = secedeprovince which = U10 value = 6142 when = 2 }
+	}
+
+    action = {
+		name = "Nah..."
+        ai_chance = 30
+        command = { type = relation which = U10 value = -25 }        
+	}
+
+}
+
+event = {
+
+    id = 1326
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Treaty of Baltimore: Fate of the North"
+	desc = "The United States have claimed great deal of territory north of 49th parallel following the Great War. With the United States defeated, we are in a unique position to determine its future."
+
+    action = {
+        trigger = {
+            NOT = { war = { country = ENG } }
+            NOT = { war = { country = RUS } }
+        }
+		name = "Allocate Canada to Britain, Alaska - to Russia."
+        ai_chance = 40
+        command = { trigger = { exists = CAN } type = inherit which = CAN value = 0 }
+        command = { trigger = { exists = QUE } type = inherit which = QUE value = 0 }
+        command = { type = relation which = ENG value = 25 }
+        # Cede Canada to UK
+        command = { type = secederegion which = ENG value = "Northern Canada" when = 2 }
+        command = { type = secederegion which = ENG value = "Eastern Canada" when = 2 }
+        command = { type = secederegion which = ENG value = "Western Canada" when = 2 }
+        command = { type = secederegion which = ENG value = "Canada" when = 2 }
+        command = { type = event which = 1329 where = ENG when = 2 } # Confederacy Makes Concessions
+        command = { type = relation which = RUS value = 25 }     
+        # Cede Alaska to Russia
+        command = { type = event which = 1329 where = RUS when = 2 } # Confederacy Makes Concessions 
+        command = { type = secederegion which = RUS value = "Alaska" when = 2 } 
+        # 1327 - CSA - Treaty of Baltimore: Fate of Hawaii
+        command = { type = event which = 1327 where = CSA when = 1 } 
+	}
+
+    action = {
+        name = "We need a friendly regime in Canada!"
+        ai_chance = 30
+        command = { trigger = { NOT = { exists = CAN } } type = secederegion which = CSA value = "Northern Canada" when = 2 }
+        command = { trigger = { NOT = { exists = CAN } } type = secederegion which = CSA value = "Eastern Canada" when = 2 }
+        command = { trigger = { NOT = { exists = CAN } } type = secederegion which = CSA value = "Western Canada" when = 2 }
+        command = { trigger = { NOT = { exists = CAN } } type = secederegion which = CSA value = "Canada" when = 2 }
+        command = { trigger = { NOT = { exists = CAN } } type = independence which = CAN }
+        command = { type = make_puppet which = CAN }
+        command = { type = secederegion which = CAN value = "Northern Canada" when = 2 }
+        command = { type = secederegion which = CAN value = "Eastern Canada" when = 2 }
+        command = { type = secederegion which = CAN value = "Western Canada" when = 2 }
+        command = { type = secederegion which = CAN value = "Canada" when = 2 }
+        command = { type = relation which = CAN value = 100 }
+        command = { type = event which = 1329 where = CAN when = 2 } # Confederacy Makes Concessions
+        # 1327 - CSA - Treaty of Baltimore: Fate of Hawaii
+        command = { type = event which = 1327 where = CSA when = 1 }  
+    }
+
+    action = {
+		name = "Just leave things be as they are."
+        ai_chance = 30
+        command = { type = relation which = USA value = 10 } 
+        # 1327 - CSA - Treaty of Baltimore: Fate of Hawaii
+        command = { type = event which = 1327 where = CSA when = 1 }         
+	}
+
+}
+
+event = {
+
+    id = 1327
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Treaty of Baltimore: Fate of Hawaii"
+	desc = "Hawaii have a strategic location in the Pacific. Claiming them for Confederacy - or another power - might serve as a great boon."
+
+    action = {
+		name = "Take Hawaii."
+        ai_chance = 30
+        # cede HW
+        command = { type = secedearea which = CSA value = "Hawaii" when = 2 }
+        # Treaty of Baltimore - Bitter Peace
+        command = { type = event which = 1328 where = USA when = 1 } 
+        # Triumphant Peace
+        command = { type = event which = 1331 where = CSA when = 1 } 
+	}
+
+
+    action = {
+		name = "Grant Hawaii to Japan."
+        ai_chance = 30
+        # cede HW to JAP
+        command = { type = secedearea which = JAP value = "Hawaii" when = 2 }
+        command = { type = relation which = JAP value = 25 } 
+        # Confederacy Makes Concessions
+        command = { type = event which = 1329 where = JAP when = 1 } 
+        # Treaty of Baltimore - Bitter Peace
+        command = { type = event which = 1328 where = USA when = 1 } 
+        # Triumphant Peace
+        command = { type = event which = 1331 where = CSA when = 1 } 
+
+	}
+
+    action = {
+		name = "We don't care about Hawaii."
+        ai_chance = 30
+        command = { type = relation which = USA value = 10 } 
+        # Treaty of Baltimore - Bitter Peace
+        command = { type = event which = 1328 where = USA when = 1 } 
+        # Triumphant Peace
+        command = { type = event which = 1331 where = CSA when = 1 } 
+	}
+
+}
+
+event = {
+
+    id = 1328
+	random = no
+	country = USA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Treaty of Baltimore - Bitter Peace"
+	desc = "The peace forced upon us by vicious South is a travesty, a humiliation the United States might never recover from."
+
+    action = {
+		name = "God save America, for men could not..."
+        command = { type = dissent value = 10 }  
+	}
+
+}
+
+event = {
+
+    id = 1329
+	random = no
+	persistent = yes
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Confederacy Makes Concessions"
+	desc = "With the United States defeated, Confederacy has carte blanche to re-roganize North America. Fortunately for us, Confederates have proven to be amenable to our interests..."
+
+    action = {
+        trigger = { country = RUS }
+		name = "Confederacy accepts our overlordship of Alaska!"
+        command = { type = dissent value = -1 }  
+        command = { type = relation which = CSA value = 10 } 
+	}
+
+    action = {
+        trigger = { country = ENG }
+		name = "Confederacy returns Canada to us!"
+        command = { type = dissent value = -1 }  
+        command = { type = relation which = CSA value = 10 } 
+        command = { trigger = { NOT = { exists = CAN } } type = independence which = CAN }
+        command = { type = make_puppet which = CAN }
+        command = { type = access which = CAN }
+        command = { type = relation which = CAN value = 200 }
+	}
+
+    action = {
+        trigger = { country = JAP }
+		name = "Confederacy delivered Hawaii to us!"
+        command = { type = dissent value = -1 }  
+        command = { type = relation which = CSA value = 10 } 
+	}    
+
+    action = {
+        trigger = { country = CAN }
+		name = "Confederacy allows us autonomy!"
+        command = { type = dissent value = -1 }  
+        command = { type = relation which = CSA value = 10 } 
+        command = { type = alliance which = CSA }
+	}    
+
+}
+
+event = {
+
+    id = 1330
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "US Territories Integrated"
+	desc = "At long last, our conquests have been integrated into the Confederacy. Many locals find our rule much more palatable than US propaganda had suggested before the war."
+
+    action = {
+        trigger = {
+            flag = csa_mid_gains
+        }
+		name = "Great!"
+        command = { type = add_core_area which = "California" }
+        command = { type = add_core_area which = "Arizona" }
+        command = { type = add_core_area which = "New Mexico" }        
+	}
+
+    action = {
+        trigger = {
+            flag = csa_max_gains
+        }
+		name = "Excellent!"
+        command = { type = add_core_area which = "California" }
+        command = { type = add_core_area which = "Arizona" }
+        command = { type = add_core_area which = "New Mexico" }  
+        command = { type = add_core_area which = "Nevada" }
+        command = { type = add_core_area which = "Utah" }
+        command = { type = add_core_area which = "Colorado" }
+        command = { type = add_core_area which = "Kansas" }
+        command = { type = add_core_area which = "Missouri" }
+        command = { type = add_core_area which = "West Virginia" }    
+	}
+
+}
+
+event = {
+
+    id = 1331
+	random = no
+	country = CSA
+	style = 2
+	picture = "Peace_conference" 
+
+    name = "Triumphant Peace"
+	desc = "And thus the Confederacy has triumphed against the evil that was the United States, unseating its only rival for the place of American hegemon. Tomorrow we build a new world. Tonight we celebrate."
+
+    action = {
+		name = "Excellent!"
+        command = { type = dissent value = -10 }
+        command = { type = belligerence which = CSA value = -50 }  
+	}
+
+}
+
+

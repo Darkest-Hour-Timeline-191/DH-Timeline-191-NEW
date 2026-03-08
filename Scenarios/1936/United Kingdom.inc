@@ -329,6 +329,7 @@ country = {
       access     = yes
       guaranteed = { year = 1934 month = february day = 11 }
     }
+    relation = { tag = SPA value = 50 }
   }
   SpyInfo                = { country = "GER" NumberOfSpies = 3 }
   SpyInfo                = { country = "FRA" NumberOfSpies = 4 }
@@ -511,7 +512,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 509 }
     name     = "Scottish Command"
-    location = 1166 # Edinburgh
+    location = 1166
     division = {
       id             = { type = 12700 id = 510 }
       name           = "51st (Highland) Division"
@@ -544,7 +545,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 514 }
     name     = "Western Command"
-    location = 3038 # Liverpool
+    location = 3038
     division = {
       id             = { type = 12700 id = 515 }
       name           = "42nd (East Lancashire) Division"
@@ -633,7 +634,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 527 }
     name     = "London District"
-    location = 19 # hey, this might actually be correct! :D
+    location = 19
     division = {
       id             = { type = 12700 id = 528 }
       name           = "1st (London) Division"
@@ -652,7 +653,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 8 }
     name     = "China Command"
-    location = 1315 # Hong Kong
+    location = 1315
     division = {
       id             = { type = 12700 id = 9 }
       name           = "Hong Kong Defence Force"
@@ -665,7 +666,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 10 }
     name     = "Malaya Command"
-    location = 1353 # Singapura
+    location = 1353
     division = {
       id             = { type = 12700 id = 11 }
       name           = "Singapore Fortress"
@@ -678,7 +679,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 282 }
     name     = "Royal West African Frontier Force"
-    location = 1008 # Lagos
+    location = 1008
     division = {
       id             = { type = 12700 id = 283 }
       name           = "The Nigeria Regiment"
@@ -690,7 +691,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 12 }
     name     = "British Troops on Gibraltar"
-    location = 348 # Gibraltar
+    location = 348
     division = {
       id             = { type = 12700 id = 13 }
       name           = "Gibraltar Defence Force"
@@ -703,7 +704,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 14 }
     name     = "Ceylon Command"
-    location = 1517 # Colombo
+    location = 1517
     division = {
       id             = { type = 12700 id = 15 }
       name           = "Ceylon Defence Force"
@@ -715,7 +716,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 16 }
     name     = "Malta Command"
-    location = 31 # Valletta
+    location = 31
     division = {
       id             = { type = 12700 id = 17 }
       name           = "Malta Defence Force"
@@ -728,7 +729,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 18 }
     name     = "Egypt Command"
-    location = 900 # as-Suways
+    location = 900
     division = {
       id             = { type = 12700 id = 19 }
       name           = "7th Infantry Division"
@@ -749,7 +750,7 @@ country = {
   landunit = {
     id       = { type = 12700 id = 43 }
     name     = "Gold Coast Defence Force"
-    location = 1002 # Accra
+    location = 1002
     division = {
       id             = { type = 12700 id = 44 }
       name           = "The Gold Coast Regiment"
@@ -1383,7 +1384,7 @@ country = {
   navalunit = {
     id       = { type = 12700 id = 187 }
     name     = "East Indies Station"
-    location = 1353 # Singapura
+    location = 1353
     base     = 1353
     division = {
       id             = { type = 12700 id = 188 }
@@ -1433,7 +1434,7 @@ country = {
   navalunit = {
     id       = { type = 12700 id = 194 }
     name     = "China Station"
-    location = 1315 # Hong Kong
+    location = 1315
     base     = 1315
     division = {
       id             = { type = 12700 id = 195 }
@@ -2001,7 +2002,7 @@ country = {
   airunit = { 
     id       = { type = 12700 id = 78 }
     name     = "Egypt Air Command"
-    location = 907 # al-Iskandariyya/Alexandria
+    location = 907
     base     = 907
     division = {
       id             = { type = 12700 id = 79 }
@@ -2014,7 +2015,7 @@ country = {
   airunit = { 
     id       = { type = 12700 id = 82 }
     name     = "Far East Air Command"
-    location = 1353 # Singapura
+    location = 1353
     base     = 1353
     division = {
       id             = { type = 12700 id = 83 }

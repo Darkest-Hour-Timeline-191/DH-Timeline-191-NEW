@@ -1,6 +1,6 @@
-HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyality;Picture Name;X
+HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-15001;Head of State;Wilhelmina;1933;1964;SC;Stern Imperialist;High;M8001;X
+15001;Head of State;H.M. Wilhelmina;1933;1964;SC;Stern Imperialist;High;M8001;X
 15002;Head of Government;Hendricus Colijn;1933;1964;ML;Silent Workhorse;High;M8002;X
 15003;Foreign Minister;Frans B. van Blokland;1933;1964;SC;Ideological Crusader;Low;M8003;X
 15004;Minister of Armament;Pieter Oud;1933;1964;ML;Submarine Proponent;Medium;M8004;X
@@ -10,7 +10,7 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15008;Chief of Army;Izaak Reynders;1933;1964;SC;Static Defence Doctrine;Very High;M8008;X
 15009;Chief of Navy;Johannes Furstner;1933;1964;ML;Indirect Approach Doctrine;High;M8009;X
 15010;Chief of Air Force;Marius Raaijmakers;1933;1964;ML;Air Superiority Doctrine;High;M8010;X
-15011;Head of State;Wilhelmina;1945;1964;PA;Stern Imperialist;High;M8001;X
+15011;Head of State;H.M. Wilhelmina;1945;1964;PA;Stern Imperialist;High;M8001;X
 15012;Head of State;Anton Mussert;1937;1964;NS;Barking Buffoon;High;M8011;X
 15013;Head of State;Benjamin Boers;1937;1964;ST;Insignificant Layman;High;M8040;X
 15014;Head of State;Jan Dieters;1940;1964;ST;Autocratic Charmer;High;M8041;X
@@ -47,10 +47,10 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15045;Foreign Minister;David Wijnkoop;1940;1964;ST;Biased Intellectual;Low;M8022;X
 15046;Foreign Minister;Saul de Groot;1941;1964;LE;Ideological Crusader;Low;M8021;X
 15047;Foreign Minister;Willem van Ravesteyn;1943;1964;LE;Apologetic Clerk;Medium;M8023;X
-15048;Minister of Armament;Jacob van Gelderen;1937;1964;SD;laissez-faire capitalist;High;M8077;X
+15048;Minister of Armament;Jacob van Gelderen;1937;1964;SD;Laissez-Faire Capitalist;High;M8077;X
 15049;Minister of Armament;Lambertus H. Mansholt;1939;1964;SD;Resource Industrialist;Medium;M8078;X
 15050;Minister of Armament;Charles Welter;1940;1964;SD;Theoretical Scientist;Medium;M8079;X
-15051;Minister of Armament;Johan Albarda;1941;1964;SD;laissez-faire capitalist;High;M8043;X
+15051;Minister of Armament;Johan Albarda;1941;1964;SD;Laissez-Faire Capitalist;High;M8043;X
 15052;Minister of Armament;Jacques de Kadt;1942;1964;SD;Military Entrepreneur;High;M8081;X
 15053;Minister of Armament;Charles Guillaume Cramer;1944;1964;SD;Air Superiority Proponent;Very High;M8062;X
 15054;Minister of Armament;Alexander Fiévez;1946;1964;ML;Administrative Genius;Medium;M8083;X
@@ -71,7 +71,7 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15069;Minister of Armament;C.J. Huygens;1937;1964;NS;Administrative Genius;Very Low;M8014;X
 15070;Minister of Armament;Gerrit van Burink;1943;1964;NS;Infantry Proponent;Medium;M8100;X
 15071;Minister of Armament;Gerrit van Burink;1945;1964;PA;Infantry Proponent;Medium;M8100;X
-15072;Minister of Armament;Peiter Bergsma;1937;1964;ST;laissez-faire capitalist;Medium;M8102;X
+15072;Minister of Armament;Peiter Bergsma;1937;1964;ST;Laissez-Faire Capitalist;Medium;M8102;X
 15073;Minister of Armament;Jacques de Kadt;1939;1964;LE;Military Entrepreneur;High;M8081;X
 15074;Minister of Armament;Jan Postma;1940;1964;LE;Theoretical Scientist;Low;M8024;X
 15075;Minister of Armament;Jacobus Engels;1944;1964;LE;Strategic Air Proponent;High;M8105;X
@@ -134,9 +134,9 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15132;Head of State;Alexander von Falkenhausen;1940;1964;NS;Resigned Generalissimo;Very High;M510086;X
 15133;Head of State;Arthur Seyss-Inquart;1940;1964;NS;Powerhungry Demagogue;Very High;M58;X
 15134;Chief of Navy;Karel Doorman;1933;1964;LWR;Open Seas Doctrine;Low;M8029;X
-15135;Head of State;Wilhelmina;1933;1964;SL;Stern Imperialist;Very High;M8001;X
-15136;Head of State;Juliana;1948;1964;SD;Popular Figurehead;High;M8186;X
-15137;Head of State;Juliana;1948;1964;SC;Popular Figurehead;High;M8186;X
+15135;Head of State;H.M. Wilhelmina;1933;1964;SL;Stern Imperialist;Very High;M8001;X
+15136;Head of State;H.M. Juliana;1948;1981;ML;Popular Figurehead;High;M8186;X
+15137;Head of State;H.M. Juliana;1948;1981;PA;Popular Figurehead;High;M8186;X
 15138;Head of Government;Willem Drees;1948;1964;SD;Ambitious Union Boss;High;M8130;X
 15139;Foreign Minister;Dirk U. Stikker;1948;1964;SL;Great Compromiser;Medium;M8189;X
 15140;Foreign Minister;Jan Willem Beyen;1951;1964;SL;Apologetic Clerk;Medium;M8190;X
@@ -148,15 +148,15 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15146;Minister of Security;Henrik Mulderije;1951;1964;SL;Crime Fighter;Medium;M8196;X
 15147;Minister of Security;Leendert A. Donker;1952;1964;SD;Compassionate Gentleman;Medium;M8197;X
 15148;Chief of Air Force;Hendrik Walaardt Sacré;1914;1933;ML;Army Aviation Doctrine;Very High;2653;X
-15149;Chief of Army;Cornelis Snijders;1914;1933;ML;static defence doctrine;Very High;2654;X
-15150;Chief of Army;Cornelis Snijders;1914;1933;PA;static defence doctrine;Very High;2654;X
-15151;Chief of Army;Nicolaas Bosboom;1914;1933;ML;elastic defence doctrine;Very High;2655;X
+15149;Chief of Army;Cornelis Snijders;1914;1933;ML;Static Defence Doctrine;Very High;2654;X
+15150;Chief of Army;Cornelis Snijders;1914;1933;PA;Static Defence Doctrine;Very High;2654;X
+15151;Chief of Army;Nicolaas Bosboom;1914;1933;ML;Elastic Defence Doctrine;Very High;2655;X
 15152;Chief of Army;P. Forbes Wels;1922;1933;ML;Guns and Butter Doctrine;Very High;3904;X
 15153;Chief of Navy;Jean Rambonnet;1914;1933;ML;Open Seas Doctrine;High;2656;X
 15154;Chief of Navy;Jean Rambonnet;1914;1933;PA;Open Seas Doctrine;High;2656;X
 15155;Chief of Navy;Willem Naudin ten Cate;1918;1933;ML;Decisive Naval Battle Doctrine;High;2657;X
-15156;Chief of Staff;Cornelis Snijders;1914;1933;ML;school of defence;Very High;2654;X
-15157;Chief of Staff;Cornelis Snijders;1914;1933;PA;school of defence;Very High;2654;X
+15156;Chief of Staff;Cornelis Snijders;1914;1933;ML;School of Defence;Very High;2654;X
+15157;Chief of Staff;Cornelis Snijders;1914;1933;PA;School of Defence;Very High;2654;X
 15158;Chief of Staff;Nicolaas Bosboom;1914;1933;ML;School of Fire Support;Very High;2655;X
 15159;Chief of Staff;P. Forbes Wels;1922;1933;ML;School of Fire Support;Very High;3904;X
 15160;Foreign Minister;David Wijnkoop;1914;1933;ST;Ideological Crusader;Very High;2658;X
@@ -170,11 +170,11 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15168;Head of Government;David Wijnkoop;1914;1933;ST;Flamboyant Tough Guy;High;2658;X
 15169;Head of Government;Pieter Cort van der Linden;1914;1933;SL;Naive Optimist;Very High;2661;X
 15170;Head of Government;Pieter Troelstra;1914;1933;LWR;Happy Amateur;High;2663;X
-15171;Head of Military Intelligence;Cornelis Snijders;1914;1933;PA;LOGISTICS SPECIALIST;High;2654;X
+15171;Head of Military Intelligence;Cornelis Snijders;1914;1933;PA;Logistics Specialist;High;2654;X
 15172;Head of Military Intelligence;J.J. Le Roy;1914;1933;SL;Dismal Enigma;Very High;3905;X
 15173;Head of State;Louis de Visser;1914;1933;ST;Barking Buffoon;High;M8192;X
-15174;Head of State;Wilhelmina;1914;1933;SC;Stern Imperialist;High;2664;X
-15175;Head of State;Wilhelmina;1914;1933;PA;Stern Imperialist;High;2664;X
+15174;Head of State;H.M. Wilhelmina;1914;1933;SC;Stern Imperialist;High;2664;X
+15175;Head of State;H.M. Wilhelmina;1914;1933;PA;Stern Imperialist;High;2664;X
 15176;Minister of Armament;Anthonij Bertling;1914;1933;SL;Corrupt Kleptocrat;High;3860;X
 15177;Minister of Armament;Anton van Gijn;1916;1933;SL;Laissez-Faire Capitalist;High;3861;X
 15178;Minister of Armament;David Wijnkoop;1914;1933;ST;Resource Industrialist;Very High;2658;X
@@ -192,3 +192,21 @@ HOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalit
 15190;Minister of Security;Pieter Cort van der Linden;1914;1933;SL;Compassionate Gentleman;High;2661;X
 15191;Minister of Security;Pieter Rink;1914;1933;SL;Silent Lawyer;High;2670;X
 15192;Minister of Security;Theodorus Heemskerk;1914;1933;SC;Man of the People;High;2671;X
+15193;Head of State;H.M. Beatrix;1980;2014;ML;Popular Figurehead;High;HOL - Beatrix of the Netherlands;X
+15194;Head of State;H.M. Beatrix;1980;2014;PA;Popular Figurehead;High;HOL - Beatrix of the Netherlands;X
+15195;Head of Government;Victor Marijnen;1963;1976;ML;Generic;Medium;HOL - Victor Marijnen;X
+15196;Head of Government;Jo Cals;1965;1972;ML;Corporate Suit;Medium;HOL - Jo Cals;X
+15197;Head of Government;Joop den Uyl;1967;1988;SL;Political Protege;Medium;HOL - Joop den Uyl;X
+15198;Head of Government;Piet de Jong;1967;2017;ML;Old Admiral;Medium;HOL - Piet de Jong;X
+15199;Head of Government;Barend Biesheuvel;1971;2002;ML;Silent Workhorse;Medium;HOL - Barend Biesheuvel;X
+15200;Head of Government;Dries van Agt;1977;2020;ML;Naive Optimist;Medium;HOL - Dries van Agt;X
+15201;Head of Government;Ruud Lubbers;1982;2020;ML;Silent Workhorse;Medium;HOL - Ruud Lubbers;X
+15202;Head of Government;Wim Kok;1989;2019;SL;Backroom Backstabber;Medium;HOL - Wim Kok;X
+15203;Head of Government;Anne Vondeling;1963;1979;SD;Ambitious Union Boss;Medium;HOL - Anne Vondeling;X
+15204;Head of Government;Frans Andriessen;1973;2020;ML;Corporate Suit;Medium;HOL - Frans Andriessen;X
+15205;Head of Government;Frits Bolkestein;1994;2020;SC;Corporate Suit;Medium;HOL - Frits Bolkestein;X
+15206;Head of Government;Raymond Westerling;1944;1988;PA;Reformist Soldierhog;High;HOL - Raymond Westerling;X
+15207;Head of Government;Jan Baars;1933;1990;FA;Ambitious Union Boss;High;HOL - Jan Baars;X
+15208;Head of Government;J.G. Glimmerveen;1980;2020;FA;Backroom Backstabber;High;HOL - Joop Glimmerveen;X
+15209;Head of Government;Paul van Tienen;1963;1996;NS;Reformist Soldierhog;High;HOL - Paul van Tienen;X
+15210;Head of Government;Willem Sassen;1980;2002;NS;Flamboyant Tough Guy;High;HOL - Willem Sassen;X

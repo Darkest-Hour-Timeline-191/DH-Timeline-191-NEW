@@ -18,16 +18,6 @@ province = {
   air_base = { size = 6 current_size = 6 }
 }
 province = { id = 68 landfort = 2 anti_air = 2 } # Liège
-province = { id = 1095 supplypool = 2 } # Boma
-province = {
-  id = 1098 # Léopoldville
-  air_base = { size = 1 current_size = 1 }
-}
-province = {
-  id = 2751 # Matadi
-  air_base = { size = 1 current_size = 1 }
-  naval_base = { size = 3 current_size = 3 }
-}
 
 #####################
 # Country main data #
@@ -93,7 +83,7 @@ country = {
     defense_lobby     = 2
     interventionism   = 2
   }
-  headofstate            = { type = 9 id = 70001 } # Leopold III
+  headofstate            = { type = 9 id = 70001 } # H.M. Leopold III
   headofgovernment       = { type = 9 id = 70002 } # Paul Van Zeeland
   foreignminister        = { type = 9 id = 70003 } # Paul Van Zeeland
   armamentminister       = { type = 9 id = 70004 } # Albert Devèze

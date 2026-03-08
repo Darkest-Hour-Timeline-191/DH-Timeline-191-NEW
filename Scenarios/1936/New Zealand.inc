@@ -68,7 +68,7 @@ country = {
     interventionism   = 5
   }
   headofstate            = { type = 9 id = 215094 } # T.C.A. Hislop
-  headofgovernment       = { type = 9 id = 215166 } # A. N. Field
+  headofgovernment       = { type = 9 id = 215166 } # H.M. Te Atairangikaahu
   foreignminister        = { type = 9 id = 215096 } # A.E. Davy
   armamentminister       = { type = 9 id = 215097 } # A.J. Stallworthy
   ministerofsecurity     = { type = 9 id = 215098 } # W.A. Veitch-Milne

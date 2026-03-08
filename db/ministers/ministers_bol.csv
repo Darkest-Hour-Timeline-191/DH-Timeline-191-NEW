@@ -3,7 +3,7 @@ BOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 205001;Head of State;Jose Tejada Sorzano;1933;1964;SL;Weary Stiffneck;High;M43001;X
 205002;Head of Government;Jose Tejada Sorzano;1933;1964;SL;Smiling Oilman;High;M43001;X
 205003;Foreign Minister;José Maria Gutierrez;1933;1964;SL;Iron Fisted Brute;High;M43003;X
-205004;Minister of Armament;Moritz Hochschild;1933;1964;SL;laissez-faire capitalist;Medium;M43004;X
+205004;Minister of Armament;Moritz Hochschild;1933;1964;SL;Laissez-Faire Capitalist;Medium;M43004;X
 205005;Minister of Security;José Santos Quinteros;1933;1964;SL;Compassionate Gentleman;High;M43005;X
 205006;Head of Military Intelligence;Carlos Altamirano;1933;1964;SL;Dismal Enigma;Medium;M43006;X
 205007;Chief of Staff;Gualberto Villarroel Lopez;1933;1964;SL;School of Fire Support;Very Low;M43007;X
@@ -21,7 +21,7 @@ BOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 205019;Head of State;Tomas Monje Gutierrez;1945;1964;SC;Ruthless Powermonger;High;M43039;X
 205020;Head of State;Eusebio Ayala;1943;1964;LWR;Barking Buffoon;High;M43040;X
 205021;Head of State;Gualberto Villarroel Lopez;1944;1964;LWR;Resigned Generalissimo;High;M43007;X
-205022;Head of State;Victor Paz Estenssorro;1946;1964;SD;Powerhungry Demagogue;High;M43042;X
+205022;Head of State;Victor Paz Estenssorro;1946;1964;LWR;Powerhungry Demagogue;High;M43042;X
 205023;Head of State;Guillermo Lora;1933;1964;LE;Insignificant Layman;High;M43021;X
 205024;Head of State;Daniel Sanchez Bustamante;1944;1964;ST;Autocratic Charmer;High;M43023;X
 205025;Head of State;Enrique Penaranda Castillo;1939;1964;PA;Stern Imperialist;High;M43045;X
@@ -32,7 +32,7 @@ BOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 205030;Head of Government;Abadon Saavedra Mallea;1933;1964;SC;Flamboyant Tough Guy;High;M43036;X
 205031;Head of Government;Carlos Quintanilla Quiroga;1938;1964;SC;Old General;High;M43037;X
 205032;Head of Government;Simon I. Patino;1940;1964;SC;Corporate Suit;High;M43038;X
-205033;Head of Government;Enrique Hertzog Garaizabal;1945;1964;SC;Silent Workhorse;High;M43053;X
+205033;Head of Government;Enrique Hertzog Garaizabal;1947;1964;SC;Silent Workhorse;High;M43053;X
 205034;Head of Government;Rafael Franco Rafél;1933;1964;SL;Naive Optimist;High;M43033;X
 205035;Head of Government;Waldo Belmonte Pool;1939;1964;SL;Happy Amateur;High;M43034;X
 205036;Head of Government;Julian Montellano Carrasco;1944;1964;SL;Political Protege;High;M43056;X
@@ -216,3 +216,37 @@ BOL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 205214;Head of State;Bautista Saavedra;1920;1933;ML;Popular Figurehead;High;2207;X
 205215;Minister of Security;Abel Iturralde Palacios;1914;1933;SL;Man of the People;High;unknown;X
 205216;Minister of Security;José Manuel Ramírez;1914;1933;SL;Man of the People;High;unknown;X
+205217;Head of State;David Toro Ruilova;1933;1964;SD;Autocratic Charmer;High;M43048;X
+205218;Head of State;Hernan Silas Zuazo;1952;1964;SD;Weary Stiffneck;High;M43225;X
+205219;Head of State;René Barrientos Ortuño;1964;1970;PA;Popular Figurehead;Medium;BOL - René Barrientos;X
+205220;Head of State;Alfredo Ovando Candia;1966;1983;PA;Autocratic Charmer;Medium;BOL - Alfredo Ovando Candia;X
+205221;Head of State;Juan José Torres González;1970;2000;LWR;Barking Buffoon;Medium;BOL - Juan José Torres;X
+205222;Head of State;Hugo Banzer Suárez;1971;2003;PA;Benevolent Gentleman;Medium;BOL - Hugo Banzer;X
+205223;Head of State;David Padilla Arancibia;1978;2017;PA;Stern Imperialist;Medium;BOL - David Padilla;X
+205224;Head of State;Lidia Gueiler Tejada;1979;2012;SD;Benevolent Gentleman;Medium;BOL - Lidia Gueiler;X
+205225;Head of State;Luis García Meza;1980;2019;FA;Insignificant Layman;Medium;BOL - Luis Garcia Meza;X
+205226;Head of State;Hernan Silas Zuazo;1963;1997;SD;Weary Stiffneck;High;M43225;X
+205227;Head of State;Victor Paz Estenssorro;1963;2002;LWR;Powerhungry Demagogue;High;BOL - Victor Paz Estenssorro;X
+205228;Head of State;Jaime Paz Zamora;1982;2020;SL;Insignificant Layman;Medium;BOL - Jaime Paz Zamora;X
+205229;Head of State;Gonzalo Sánchez de Lozada;1993;2020;ML;Benevolent Gentleman;Medium;BOL - Gonzalo Sánchez de Lozada;X
+205230;Head of State;Hugo Banzer Suárez;1971;2003;SC;Benevolent Gentleman;Medium;BOL - Hugo Banzer;X
+205231;Head of State;Juan Lechin Oquendo;1963;2002;ST;Powerhungry Demagogue;Medium;BOL - Juan Lechin Oquendo;X
+205232;Head of State;Bernardino Bilbao Rioja;1940;1984;FA;Weary Stiffneck;Medium;BOL - Bernardino Bilbao Rioja;X
+205233;Head of State;Mario Gutiérrez Gutiérrez;1960;2000;FA;Autocratic Charmer;Medium;BOL - Mario Gutiérrez Gutiérrez;X
+205234;Head of Government;Mamerto U. Harriaque;1949;1964;ML;Political Protege;High;M43129;X
+205235;Head of Government;Hernan Silas Zuazo;1952;1964;SD;Naive Optimist;High;M43225;X
+205236;Head of Government;René Barrientos Ortuño;1964;1970;PA;Old General;Medium;BOL - René Barrientos;X
+205237;Head of Government;Alfredo Ovando Candia;1966;1983;PA;Political Protege;Medium;BOL - Alfredo Ovando Candia;X
+205238;Head of Government;Juan José Torres González;1970;2000;LWR;Silent Workhorse;Medium;BOL - Juan José Torres;X
+205239;Head of Government;Hugo Banzer Suárez;1971;2003;PA;Silent Workhorse;Medium;BOL - Hugo Banzer;X
+205240;Head of Government;David Padilla Arancibia;1978;2017;PA;Smiling Oilman;Medium;BOL - David Padilla;X
+205241;Head of Government;Lidia Gueiler Tejada;1979;2012;SD;Happy Amateur;Medium;BOL - Lidia Gueiler;X
+205242;Head of Government;Luis García Meza;1980;2019;FA;Flamboyant Tough Guy;Medium;BOL - Luis Garcia Meza;X
+205243;Head of Government;Hernan Silas Zuazo;1963;1997;SD;Naive Optimist;High;M43225;X
+205244;Head of Government;Victor Paz Estenssorro;1963;2002;LWR;Corporate Suit;High;BOL - Victor Paz Estenssorro;X
+205245;Head of Government;Jaime Paz Zamora;1982;2020;SL;Political Protege;Medium;BOL - Jaime Paz Zamora;X
+205246;Head of Government;Gonzalo Sánchez de Lozada;1993;2020;ML;Corporate Suit;Medium;BOL - Gonzalo Sánchez de Lozada;X
+205247;Head of Government;Hugo Banzer Suárez;1971;2003;SC;Silent Workhorse;Medium;BOL - Hugo Banzer;X
+205248;Head of Government;Juan Lechin Oquendo;1963;2002;ST;Ambitious Union Boss;Medium;BOL - Juan Lechin Oquendo;X
+205249;Head of Government;Bernardino Bilbao Rioja;1940;1984;FA;Old General;Medium;BOL - Bernardino Bilbao Rioja;X
+205250;Head of Government;Mario Gutiérrez Gutiérrez;1960;2000;FA;Political Protege;Medium;BOL - Mario Gutiérrez Gutiérrez;X

@@ -3,7 +3,7 @@ panel      = "scenarios/data/scenario_1933.bmp"
 header = {
   name       = "E3Map"
   startdate  = { year = 1933 }
-  selectable = { ENG FRA GER HOL POR ITA RUS SWE JAP CHI CSA POL NOR BEL DEN SCH GRE BUL YUG ROM U09 IRE EST LAT LIT PER AFG BRA ARG MEX COL VEN PRU ECU URU PAR BOL CHL NZL AST MAN USA ETH SPR CHC ALB SIA SAU MON GUA COS NIC DOM BHU SAL HAI HON LIB LUX NEP OMN QUE SIK SAF TIB YEM CGX CSX CXB CYN U06 U58 U59 U60 U61 U62 U63 U64 U65 U38 U54 U55 U56 U57 EGY U04 U03 U02 U36 U37 U80 U39 U68 USN UAU UCH UBO UTC UGS UCS UIC UTL UPS URO U00 U05 U89 BLR UKR OTT }
+  selectable = { ENG FRA GER HOL POR ITA RUS SWE JAP CHI CSA POL NOR BEL DEN SCH GRE BUL YUG ROM U09 IRE EST LAT LIT PER AFG BRA ARG MEX COL VEN PRU ECU URU PAR BOL CHL NZL AST MAN USA ETH SPR CHC ALB SIA SAU MON GUA COS NIC DOM BHU SAL HAI HON LIB LUX NEP OMN QUE SIK SAF TIB YEM CGX CSX CXB CYN U06 U58 U59 U60 U61 U62 U63 U64 U65 U38 U54 U55 U56 U57 EGY U04 U03 U02 U36 U37 U80 U39 U68 USN UAU UCH UTC UGS UCS UIC UTL UPS URO U00 U05 U89 BLR UKR OTT }
   ENG        = { }
   FRA        = { }
   GER        = { }
@@ -67,10 +67,8 @@ globaldata = {
 }
 
 include = "db\events.txt"
-
 include = "scenarios\1936\vp.inc"
 include = "scenarios\1936\installations.inc"
-
 include = "scenarios\1936\Afghanistan.inc"
 include = "scenarios\1936\Albania.inc"
 include = "scenarios\1936\Argentina.inc"
@@ -168,7 +166,6 @@ include = "scenarios\1936\Sikkim.inc"
 include = "scenarios\1936\Baluchistan Agency.inc"
 include = "scenarios\1936\Deccan States Agency and Kolhapur Residency.inc"
 include = "scenarios\1936\Gwalior Residency.inc"
-include = "scenarios\1936\Madras States Agency.inc"
 include = "scenarios\1936\North-West Frontier States Agency.inc"
 include = "scenarios\1936\Punjab States Agency.inc"
 include = "scenarios\1936\Rajputana Agency.inc"

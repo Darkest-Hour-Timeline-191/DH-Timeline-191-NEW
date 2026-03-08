@@ -11,9 +11,9 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35009;Chief of Navy;Francisco Moreno Fernández;1933;1964;FA;Open Seas Doctrine;High;M10009;X
 35010;Chief of Air Force;Alfredo Kindelán Duany;1933;1964;PA;Carpet Bombing Doctrine;High;M10010;X
 35011;Head of State;Francisco Franco Bahamonde;1933;1964;PA;Stern Imperialist;High;L3426;X
-35012;Head of State;Javier de Borbón-Parma;1933;1964;FA;Autocratic Charmer;High;M10034;X
-35013;Head of State;Juan III;1941;1964;SC;Benevolent Gentleman;High;M10011;X
-35014;Head of State;Alfonso XIII;1933;1964;SC;Insignificant Layman;High;M10039;X
+35012;Head of State;H.M. Javier de Borbón-Parma;1933;1964;FA;Autocratic Charmer;High;M10034;X
+35013;Head of State;H.M. Juan III;1941;1964;SC;Benevolent Gentleman;High;M10011;X
+35014;Head of State;H.M. Alfonso XIII;1933;1964;SC;Insignificant Layman;High;M10039;X
 35015;Head of Government;Emilio Mola Vidal;1933;1964;PA;Old General;High;M10008;X
 35016;Head of Government;Francisco Franco Bahamonde;1933;1964;PA;Silent Workhorse;High;L3426;X
 35017;Head of Government;Tomás Domínguez Arévalo;1937;1964;FA;Happy Amateur;High;M10048;X
@@ -28,7 +28,7 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35026;Foreign Minister;Alberto M. Artejo-Álvarez;1945;1964;PA;Apologetic Clerk;High;M10061;X
 35027;Foreign Minister;Tomás Domínguez Arévalo;1933;1964;FA;Iron Fisted Brute;High;M10048;X
 35028;Foreign Minister;Enrique Plá y Deniel;1938;1964;FA;Ideological Crusader;Medium;M10063;X
-35029;Foreign Minister;Javier de Borbón-Parma;1933;1964;FA;General Staffer;High;M10034;X
+35029;Foreign Minister;H.M. Javier de Borbón-Parma;1933;1964;FA;General Staffer;High;M10034;X
 35030;Foreign Minister;Victor Pradera;1943;1964;FA;Ideological Crusader;High;M10066;X
 35031;Foreign Minister;Luís Hernando de Larramendi;1946;1964;FA;Biased Intellectual;High;M10067;X
 35032;Foreign Minister;Manuel Fal Conde;1947;1964;FA;The Cloak N Dagger Schemer;High;M10049;X
@@ -46,27 +46,27 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35044;Foreign Minister;José Ungría Jiménez;1940;1964;FA;General Staffer;High;M10085;X
 35045;Foreign Minister;Niceto Alcalá-Zamora;1941;1964;ML;Great Compromiser;High;M11001;X
 35046;Foreign Minister;José de Areilza y Martínez-Rodas;1946;1964;ML;The Cloak N Dagger Schemer;High;M10071;X
-35047;Minister of Armament;José de Areilza y Martínez-Rodas;1933;1964;PA;laissez-faire capitalist;High;M10071;X
+35047;Minister of Armament;José de Areilza y Martínez-Rodas;1933;1964;PA;Laissez-Faire Capitalist;High;M10071;X
 35048;Minister of Armament;Ramón Franco Bahamonde;1937;1964;PA;Air Superiority Proponent;Medium;M10089;X
 35049;Minister of Armament;Fidel Dávila Arrondo;1938;1964;PA;Military Entrepreneur;High;M10002;X
 35050;Minister of Armament;Nicolás Franco Bahamonde;1933;1964;PA;Battle Fleet Proponent;Very High;M10092;X
 35051;Minister of Armament;Joaquin Benjumea Búrin;1941;1964;FA;Resource Industrialist;High;M10093;X
-35052;Minister of Armament;José Larraz Lopez;1939;1964;FA;laissez-faire capitalist;High;M11139;X
+35052;Minister of Armament;José Larraz Lopez;1939;1964;FA;Laissez-Faire Capitalist;High;M11139;X
 35053;Minister of Armament;Mariano Ansó;1946;1964;PA;Air to Ground Proponent;Medium;M10096;X
 35054;Minister of Armament;Joaquín Bau Nolla;1937;1964;FA;Administrative Genius;Medium;M10095;X
 35055;Minister of Armament;Luís Hernando de Larramendi;1939;1964;FA;Resource Industrialist;High;M10067;X
-35056;Minister of Armament;José María Lammamié;1945;1964;FA;laissez-faire capitalist;Medium;M10102;X
+35056;Minister of Armament;José María Lammamié;1945;1964;FA;Laissez-Faire Capitalist;Medium;M10102;X
 35057;Minister of Armament;Victor Pradera;1946;1964;FA;Theoretical Scientist;High;M10066;X
-35058;Minister of Armament;J.A. Primo de Rivera de Heredia;1933;1964;FA;Resource Industrialist;High;M10036;X
-35059;Minister of Armament;Raimundo Fernández Cuesta;1937;1964;FA;laissez-faire capitalist;High;M10105;X
+35058;Minister of Armament;José Antonio Primo de Rivera;1933;1964;FA;Resource Industrialist;High;M10036;X
+35059;Minister of Armament;Raimundo Fernández Cuesta;1937;1964;FA;Laissez-Faire Capitalist;High;M10105;X
 35060;Minister of Armament;Manuel Hedilla Larrey;1938;1964;FA;Military Entrepreneur;High;M10050;X
 35061;Minister of Armament;Onésimo Redondo Ortega;1939;1964;FA;Tank Proponent;High;M10107;X
 35062;Minister of Armament;Sancho Dávila;1941;1964;FA;Infantry Proponent;Medium;M10109;X
 35063;Minister of Armament;Agustín Aznar Guerner;1942;1964;FA;Air to Ground Proponent;Medium;M10110;X
-35064;Minister of Armament;José Calvo-Sotelo;1870;1964;PA;laissez-faire capitalist;Very High;M11014;X
+35064;Minister of Armament;José Calvo-Sotelo;1870;1964;PA;Laissez-Faire Capitalist;Very High;M11014;X
 35065;Minister of Armament;José Enrique Varela Iglesias;1933;1964;SC;Military Entrepreneur;High;M10014;X
 35066;Minister of Armament;Juan March Ordinas;1933;1964;SC;Administrative Genius;High;M10113;X
-35067;Minister of Armament;Juan Ignacio Luca de Tena;1939;1964;SC;laissez-faire capitalist;Medium;M10115;X
+35067;Minister of Armament;Juan Ignacio Luca de Tena;1939;1964;SC;Laissez-Faire Capitalist;Medium;M10115;X
 35068;Minister of Armament;Alfredo Kindelán Duany;1937;1964;PA;Strategic Air Proponent;High;M10010;X
 35069;Minister of Armament;Juan Vigón Suerodíaz;1938;1964;SC;Theoretical Scientist;High;M10118;X
 35070;Minister of Armament;Francisco de Borbón de la Torre;1938;1964;SC;Tank Proponent;Medium;M10077;X
@@ -104,7 +104,7 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35102;Head of Military Intelligence;Isidro Gomá y Tomás;1933;1964;FA;Dismal Enigma;High;M10065;X
 35103;Head of Military Intelligence;Joaquín Bau Nolla;1941;1964;FA;Political Specialist;Medium;M10095;X
 35104;Head of Military Intelligence;Luís Hernando de Larramendi;1943;1964;FA;Technical Specialist;High;M10067;X
-35105;Head of Military Intelligence;Ricardo de Rada;1937;1964;FA;Logistics Specialist;High;M10166;X
+35105;Head of Military Intelligence;Ricardo Rada Peral;1937;1964;FA;Logistics Specialist;High;M10166;X
 35106;Head of Military Intelligence;Manuel Hedilla Larrey;1933;1964;FA;Political Specialist;High;M10050;X
 35107;Head of Military Intelligence;José Luís Arrese Magra;1939;1964;FA;Dismal Enigma;High;M10072;X
 35108;Head of Military Intelligence;Dionisio Ridruejo;1942;1964;FA;Technical Specialist;Medium;M10129;X
@@ -122,8 +122,8 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35120;Chief of Staff;Carlos Asensio Cabanillas;1945;1964;PA;School of Mass Combat;High;M10187;X
 35121;Chief of Staff;José Sanjurjo Sacanell;1933;1964;FA;School of Psychology;High;M10040;X
 35122;Chief of Staff;Emilio Mola Vidal;1933;1964;FA;School of Manoeuvre;High;M10008;X
-35123;Chief of Staff;Javier de Borbón-Parma;1939;1964;FA;School of Defence;High;M10034;X
-35124;Chief of Staff;Ricardo de Rada;1940;1964;FA;School of Mass Combat;High;M10166;X
+35123;Chief of Staff;H.M. Javier de Borbón-Parma;1939;1964;FA;School of Defence;High;M10034;X
+35124;Chief of Staff;Ricardo Rada Peral;1940;1964;FA;School of Mass Combat;High;M10166;X
 35125;Chief of Staff;Agustín Aznar Guerner;1938;1964;FA;School of Psychology;High;M10070;X
 35126;Chief of Staff;Agustín Muñoz Grandes;1939;1964;FA;School of Fire Support;High;M10194;X
 35127;Chief of Staff;Sancho Dávila;1941;1964;FA;School of Defence;Medium;M10109;X
@@ -137,7 +137,7 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35135;Chief of Army;Juan Yagüe Blanco;1939;1964;PA;Elastic Defence Doctrine;Medium;M10184;X
 35136;Chief of Army;José Enrique Varela Iglesias;1939;1964;PA;Guns and Butter Doctrine;High;M10014;X
 35137;Chief of Army;José Sanjurjo Sacanell;1933;1964;FA;Armoured Spearhead Doctrine;High;M10040;X
-35138;Chief of Army;Ricardo de Rada;1937;1964;FA;Static Defence Doctrine;High;M10166;X
+35138;Chief of Army;Ricardo Rada Peral;1937;1964;FA;Static Defence Doctrine;High;M10166;X
 35139;Chief of Army;Agustín Aznar Guerner;1938;1964;FA;Guns and Butter Doctrine;High;M10070;X
 35140;Chief of Army;Agustín Muñoz Grandes;1939;1964;FA;Armoured Spearhead Doctrine;High;M10194;X
 35141;Chief of Army;Onésimo Redondo Ortega;1941;1964;FA;Static Defence Doctrine;High;M10107;X
@@ -284,8 +284,8 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35282;Foreign Minister;Enrique de Aguilera;1914;1933;PA;Ideological Crusader;High;3267;X
 35283;Foreign Minister;Manuel Mariátegui;1903;1933;SL;Biased Intellectual;High;3975;X
 35284;Foreign Minister;Juan Pérez Caballero;1905;1933;SC;Ideological Crusader;High;3976;X
-35285;Foreign Minister;Manuel Allendesalazar;1907;1933;SD;Ideological Crusader;High;3977;X
-35286;Foreign Minister;Manuel García Prieto;1910;1933;SD;Ideological Crusader;High;3269;X
+35285;Foreign Minister;Manuel Allende de Salazar;1907;1933;SC;Ideological Crusader;High;3977;X
+35286;Foreign Minister;Manuel García Prieto;1910;1933;ML;Ideological Crusader;High;3269;X
 35287;Head of Government;Eduardo Dato;1913;1933;SC;Naive Optimist;High;3239;X
 35288;Head of Government;Álvaro de Figueroa;1914;1933;ML;Silent Workhorse;High;3254;X
 35289;Head of Government;Antonio Maura;1903;1933;SC;Flamboyant Tough Guy;High;3268;X
@@ -309,38 +309,38 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35307;Head of Government;Luis Hernando de Larramendi;1919;1933;PA;Political Protege;High;3280;X
 35308;Head of Government;José de Selva;1921;1933;PA;Naive Optimist;High;unknown;X
 35309;Head of Government;Antonio Maura y Montaner;1903;1933;SC;Backroom Backstabber;Medium;3978;X
-35310;Head of State;Alfonso XIII;1914;1933;SC;Benevolent Gentleman;Very High;3281;X
-35311;Head of State;Alejandro Lerroux;1914;1933;SD;powerhungry demagogue;Medium;3282;X
+35310;Head of State;H.M. Alfonso XIII;1914;1933;SC;Benevolent Gentleman;Very High;3281;X
+35311;Head of State;Alejandro Lerroux;1914;1933;SD;Powerhungry Demagogue;Medium;3282;X
 35312;Head of State;Manuel Azaña;1924;1933;SD;Autocratic Charmer;High;3274;X
 35313;Head of State;Pablo Iglesias;1914;1933;LE;Benevolent Gentleman;Very High;3283;X
 35314;Head of State;Julián Besteiro;1916;1933;LE;Die-hard Reformer;Very High;3277;X
 35315;Head of State;Antonio García Quejido;1914;1933;LE;Die-hard Reformer;Low;3276;X
 35316;Head of State;Antonio García Quejido;1921;1933;ST;Die-hard Reformer;Medium;3276;X
 35317;Head of State;Ramón Lamoneda;1921;1933;ST;Popular Figurehead;Medium;3278;X
-35318;Minister of Armament;Gabino Bugallal;1914;1933;SC;laissez-faire capitalist;High;3284;X
-35319;Minister of Armament;Félix Suarez-Inclán;1914;1933;ML;laissez-faire capitalist;High;3285;X
+35318;Minister of Armament;Gabino Bugallal;1914;1933;SC;Laissez-Faire Capitalist;High;3284;X
+35319;Minister of Armament;Félix Suarez-Inclán;1914;1933;ML;Laissez-Faire Capitalist;High;3285;X
 35320;Minister of Armament;Angel Urzais;1914;1933;ML;Corrupt Kleptocrat;High;unknown;X
 35321;Minister of Armament;Santiago Alba;1917;1933;SL;Resource Industrialist;High;3257;X
 35322;Minister of Armament;Juan Ventosa;1917;1933;ML;Administrative Genius;High;3979;X
-35323;Minister of Armament;José Caralt;1914;1933;SC;laissez-faire capitalist;High;3980;X
+35323;Minister of Armament;José Caralt;1914;1933;SC;Laissez-Faire Capitalist;High;3980;X
 35324;Minister of Armament;Juan de la Cierva y Peñafiel;1914;1933;SC;Administrative Genius;High;3245;X
 35325;Minister of Armament;Lorenzo Domínguez;1914;1933;SC;Resource Industrialist;High;3286;X
 35326;Minister of Armament;Fermin Calbeton;1920;1933;SC;Administrative Genius;High;3981;X
-35327;Minister of Armament;Manuel Argüelles;1914;1933;SC;laissez-faire capitalist;High;unknown;X
+35327;Minister of Armament;Manuel Argüelles;1914;1933;SC;Laissez-Faire Capitalist;High;unknown;X
 35328;Minister of Armament;Miguel Villanueva;1914;1932;ML;Resource Industrialist;High;3287;X
 35329;Minister of Armament;José Manuel Pedregal;1914;1933;SC;Administrative Genius;High;3288;X
-35330;Minister of Armament;Mariano Ordoñez;1921;1933;SC;laissez-faire capitalist;High;unknown;X
+35330;Minister of Armament;Mariano Ordoñez;1921;1933;SC;Laissez-Faire Capitalist;High;unknown;X
 35331;Minister of Armament;Augusto González Besada;1914;1933;SC;Resource Industrialist;High;3982;X
 35332;Minister of Armament;Francisco Cambó;1916;1933;ML;Resource Industrialist;Medium;3289;X
-35333;Minister of Armament;Francisco Bergamín;1914;1933;SC;laissez-faire capitalist;High;3255;X
-35334;Minister of Armament;Juan José Ruano;1922;1933;SC;laissez-faire capitalist;Medium;unknown;X
+35333;Minister of Armament;Francisco Bergamín;1914;1933;SC;Laissez-Faire Capitalist;High;3255;X
+35334;Minister of Armament;Juan José Ruano;1922;1933;SC;Laissez-Faire Capitalist;Medium;unknown;X
 35335;Minister of Armament;Antonio Mayandía;1914;1933;PA;Theoretical Scientist;High;3290;X
 35336;Minister of Armament;José Calvo Sotelo;1919;1933;PA;Administrative Genius;High;3291;X
 35337;Minister of Armament;Francisco Moreno Fernández;1919;1933;PA;Battle Fleet Proponent;Very High;M10009;X
-35338;Minister of Armament;Marcelino Domingo;1914;1933;SD;laissez-faire capitalist;High;3292;X
+35338;Minister of Armament;Marcelino Domingo;1914;1933;SD;Laissez-Faire Capitalist;High;3292;X
 35339;Minister of Armament;Germán Bernacer;1914;1933;SD;Administrative Genius;High;3293;X
 35340;Minister of Armament;Vicente Barrio;1914;1933;LE;Resource Industrialist;Very High;unknown;X
-35341;Minister of Armament;José Maeso;1916;1933;LE;laissez-faire capitalist;Very High;unknown;X
+35341;Minister of Armament;José Maeso;1916;1933;LE;Laissez-Faire Capitalist;Very High;unknown;X
 35342;Minister of Armament;Daniel Anguiniano;1918;1933;LE;Resource Industrialist;High;3264;X
 35343;Minister of Armament;Luis Fernández;1922;1933;LE;Theoretical Scientist;High;unknown;X
 35344;Minister of Armament;Marcelino Magdalena;1921;1933;ST;Resource Industrialist;Medium;unknown;X
@@ -380,5 +380,27 @@ SPA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 35378;Minister of Security;Álvaro de Figueroa;1905;1933;ML;Crooked Kleptocrat;High;3254;X
 35379;Minister of Security;Juan de la Cierva;1907;1933;SC;Silent Lawyer;High;3220;X
 35380;Minister of Security;Fernando Merino;1911;1933;SC;Crime Fighter;High;unknown;X
-35381;Chief of Staff;Emilio Esteban Infantes;1944;1964;PA;School of Defence;High;6080;x 
-35382;Head of state;Juan Carlos I;1960;1964;SC;Popular Figurehead;Very High;6081;x 
+35381;Chief of Staff;Emilio Esteban Infantes;1944;1964;FA;School of Defence;High;L3437;X
+35382;Head of State;H.M. Juan Carlos I;1960;1991;SC;Popular Figurehead;Very High;9920;X
+35383;Head of State;Francisco Franco Bahamonde;1962;1976;PA;Stern Imperialist;High;SPA - Francisco Franco Bahamonde;X
+35384;Head of State;H.M. Juan Carlos I;1990;2020;SC;Popular Figurehead;Very High;SPA - Juan Carlos I;X
+35385;Head of State;H.M. Juan Carlos I;1960;1991;PA;Popular Figurehead;Very High;9920;X
+35386;Head of State;H.M. Juan Carlos I;1990;2020;PA;Popular Figurehead;Very High;SPA - Juan Carlos I;X
+35387;Head of Government;Francisco Franco Bahamonde;1962;1976;PA;Silent Workhorse;High;SPA - Francisco Franco Bahamonde;X
+35388;Head of Government;Luis Carrero Blanco;1973;1999;PA;Old Admiral;High;SPA - Luis Carrero Blanco;X
+35389;Head of Government;Carlos Arias Navarro;1974;1990;PA;Silent Workhorse;High;SPA - Carlos Arias Navarro;X
+35390;Head of Government;Adolfo Suárez González;1974;2015;SC;Backroom Backstabber;High;SPA - Adolfo Suárez González;X
+35391;Head of Government;Leopoldo Calvo-Sotelo;1981;2009;SC;Corporate Suit;High;SPA - Leopoldo Calvo-Sotelo;X
+35392;Head of Government;Felipe González Márquez;1974;2020;SD;Political Protege;Medium;SPA - Felipe González Márquez;X
+35393;Head of Government;José Maria Aznar López;1989;2020;ML;Naive Optimist;Medium;SPA - José Maria Aznar López;X
+35394;Head of Government;Manuel Azaña Díaz;1933;1940;SD;Silent Workhorse;Low;M11033;X
+35395;Head of Government;Indalencio Prieto Tuero;1939;1963;SD;Political Protege;Low;M11065;X
+35396;Head of Government;Santiago Casares Quiroga;1933;1951;SD;Corporate Suit;Low;M11066;X
+35397;Head of Government;José Giral Pereira;1933;1963;SD;Naive Optimist;Low;M11067;X
+35398;Head of Government;Manuel Portela Valladares;1933;1953;SL;Naive Optimist;Low;M11002;X
+35399;Head of Government;Manuel Fraga Iribarne;1982;2013;SC;Naive Optimist;High;SPA - Manuel Fraga Iribarne;X
+35400;Head of Government;Blas Piñar López;1970;2015;FA;Flamboyant Tough Guy;High;SPA - Blas Piñar López;X
+35401;Head of Government;Alfonso Armada Comyn;1978;2014;FA;Old General;High;SPA - Alfonso Armada Comyn;X
+35402;Head of Government;Adolfo Suárez González;1974;2015;PA;Backroom Backstabber;High;SPA - Adolfo Suárez González;X
+35403;Head of Government;Manuel Fraga Iribarne;1982;2013;PA;Naive Optimist;High;SPA - Manuel Fraga Iribarne;X
+35404;Head of Government;J.M. Gil-Robles Quiñones;1933;1964;SC;Silent Workhorse;High;M10012;X

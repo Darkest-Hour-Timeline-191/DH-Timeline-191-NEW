@@ -1,7 +1,7 @@
 ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-25001;Head of State;Vittorio Emanuele III;1933;1964;FA;Weary Stiffneck;High;M3001;X
-25002;Head of Government;Benito Mussolini;1933;1964;FA;Imperialist buffoon;High;2688;X
+25001;Head of State;H.M. Vittorio Emanuele III;1933;1964;FA;Weary Stiffneck;High;M3001;X
+25002;Head of Government;Benito Mussolini;1933;1964;FA;Imperialist Buffoon;High;2688;X
 25003;Foreign Minister;Gian Galeazzo Ciano;1933;1964;FA;Ideological Crusader;Very High;M3003;X
 25004;Minister of Armament;Benito Mussolini;1933;1964;FA;Resource Industrialist;Very High;2688;X
 25005;Minister of Security;Guido Buffarini-Guidi;1933;1964;FA;Man of the People;Very High;M3005;X
@@ -13,13 +13,13 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25011;Minister of Armament;A. de Marinis de Ricia;1933;1964;SL;Administrative Genius;High;M3014;X
 25012;Head of Military Intelligence;Umberto Ricci;1933;1964;SC;Industrial Specialist;High;M3015;X
 25013;Chief of Army;Enrico Mattei;1943;1964;SC;Decisive Battle Doctrine;High;M3018;X
-25014;Head of State;Vittorio Emanuele III;1933;1964;PA;Weary Stiffneck;High;M3001;X
-25015;Head of State;Vittorio Emanuele III;1933;1964;SC;Weary Stiffneck;High;M3001;X
+25014;Head of State;H.M. Vittorio Emanuele III;1933;1964;PA;Weary Stiffneck;High;M3001;X
+25015;Head of State;H.M. Vittorio Emanuele III;1933;1964;SC;Weary Stiffneck;High;M3001;X
 25016;Head of State;Benito Mussolini;1933;1964;NS;Barking Buffoon;High;2688;X
 25017;Head of State;Paolo Thaon di Revel;1933;1964;NS;Resigned Generalissimo;High;M3035;X
-25018;Head of State;Umberto II;1933;1964;PA;Autocratic Charmer;High;M3011;X
-25019;Head of State;Umberto II;1933;1964;SC;Autocratic Charmer;High;M3011;X
-25020;Head of State;Alcide de Gasperi;1933;1964;SC;die-hard reformer;High;M3038;X
+25018;Head of State;H.M. Umberto II;1933;1964;PA;Autocratic Charmer;High;M3011;X
+25019;Head of State;H.M. Umberto II;1933;1964;SC;Autocratic Charmer;High;M3011;X
+25020;Head of State;Alcide de Gasperi;1933;1964;SC;Die-hard Reformer;High;M3038;X
 25021;Head of State;Enrico de Nicola;1933;1964;SC;Benevolent Gentleman;High;M3039;X
 25022;Head of State;Enrico de Nicola;1933;1964;SL;Benevolent Gentleman;High;M3039;X
 25023;Head of State;Palmiro Togliatti;1939;1964;LE;Powerhungry Demagogue;High;M3021;X
@@ -63,7 +63,7 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25061;Minister of Armament;Cipriano Facchinetti;1943;1964;SC;Resource Industrialist;High;M3083;X
 25062;Minister of Armament;Giovanni Ciraolo;1944;1964;SL;Administrative Genius;High;M3084;X
 25063;Minister of Armament;Luigi Einaudi;1933;1964;SL;Strategic Air Proponent;High;M3085;X
-25064;Minister of Armament;G. Barone Paulucci di Calboli;1947;1964;SL;laissez-faire capitalist;High;M3086;X
+25064;Minister of Armament;G. Barone Paulucci di Calboli;1947;1964;SL;Laissez-Faire Capitalist;High;M3086;X
 25065;Minister of Armament;Vittorio Vidali;1933;1964;LE;Infantry Proponent;High;M3087;X
 25066;Minister of Armament;Mauro Scoccimarro;1941;1964;LE;Air to Sea Proponent;High;M3088;X
 25067;Minister of Armament;Antonio Pesenti;1933;1964;LWR;Resource Industrialist;High;M3024;X
@@ -72,7 +72,7 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25070;Minister of Security;Benito Mussolini;1933;1964;NS;Media Magnate;Very High;2688;X
 25071;Minister of Security;Piero Brandimarte;1945;1964;NS;Efficient Sociopath;High;M3094;X
 25072;Minister of Security;Umberto Ricci;1933;1964;PA;Silent Lawyer;High;M3015;X
-25073;Minister of Security;Robert Farinacci;1933;1964;PA;Back Stabber;High;M3096;X
+25073;Minister of Security;Roberto Farinacci;1933;1964;PA;Back Stabber;High;M3096;X
 25074;Minister of Security;Enrico de Nicola;1933;1964;SC;Man of the People;High;M3039;X
 25075;Minister of Security;Conde Stefano Jacini;1939;1964;SC;Silent Lawyer;High;M3046;X
 25076;Minister of Security;Alcide de Gasperi;1933;1964;SC;Compassionate Gentleman;High;M3038;X
@@ -137,11 +137,11 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25135;Foreign Minister;Giuseppe Pella;1945;1964;SC;Ideological Crusader;High;M3116;X
 25136;Minister of Armament;Randolfo Pacciardi;1933;1964;SC;Military Entrepreneur;High;M3133;X
 25137;Minister of Armament;Emilio Paolo Taviani;1953;1964;SC;Theoretical Scientist;High;M3173;X
-25138;Minister of Security;Amintore Fanfani;1953;1964;SC;Compassionate Gentleman;High;M3174;X
+25138;Minister of Security;Amintore Fanfani;1953;1964;ML;Compassionate Gentleman;High;M3174;X
 25139;Chief of Air Force;Mario Calderara;1914;1932;ML;Naval Aviation Doctrine;Very High;2689;X
 25140;Chief of Air Force;Gabriele d'Annunzio;1920;1932;FA;Army Aviation Doctrine;Very High;2690;X
 25141;Chief of Air Force;Giulio Douhet;1914;1932;ML;Carpet Bombing Doctrine;Very High;2691;X
-25142;Chief of Army;Pietro Badoglio;1919;1932;ML;elastic defence doctrine;Very High;2692;X
+25142;Chief of Army;Pietro Badoglio;1919;1932;ML;Elastic Defence Doctrine;Very High;2692;X
 25143;Chief of Army;Luigi Cadorna;1914;1932;ML;Decisive Battle Doctrine;Very High;2693;X
 25144;Chief of Army;Gabriele d'Annunzio;1920;1932;FA;Guns and Butter Doctrine;Very High;2690;X
 25145;Chief of Army;Armando Diaz;1916;1932;ML;Static Defence Doctrine;Very High;2694;X
@@ -152,11 +152,11 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25150;Chief of Navy;Paolo Thaon di Revel;1920;1932;NS;Open Seas Doctrine;High;2698;X
 25151;Chief of Navy;Camillo Corsi;1916;1932;ML;Decisive Naval Battle Doctrine;Very High;7972;X
 25152;Chief of Staff;Vittorio Alfieri;1917;1932;SL;School of Fire Support;Very High;2699;X
-25153;Chief of Staff;Pietro Badoglio;1919;1932;ML;school of defence;Very High;2692;X
+25153;Chief of Staff;Pietro Badoglio;1919;1932;ML;School of Defence;Very High;2692;X
 25154;Chief of Staff;Luigi Cadorna;1914;1932;ML;Stubborn Disciplinarian;Very High;2693;X
-25155;Chief of Staff;Enrico Caviglia;1919;1932;SL;school of manoeuvre;Very High;2700;X
+25155;Chief of Staff;Enrico Caviglia;1919;1932;SL;School of Manoeuvre;Very High;2700;X
 25156;Chief of Staff;Gabriele d'Annunzio;1920;1932;FA;School of Mass Combat;Very High;2690;X
-25157;Chief of Staff;Armando Diaz;1916;1932;ML;school of defence;Very High;2694;X
+25157;Chief of Staff;Armando Diaz;1916;1932;ML;School of Defence;Very High;2694;X
 25158;Chief of Staff;Gaetano Ettore Giardino;1917;1932;ML;School of Defence;Very High;2701;X
 25159;Chief of Staff;Domenico Grandi;1914;1932;ML;School of Defence;Very High;7973;X
 25160;Chief of Staff;Paolo Morrone;1916;1932;ML;School of Mass Combat;Very High;2702;X
@@ -166,13 +166,13 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25164;Chief of Staff;Giuseppe Vaccari;1921;1932;ML;School of Fire Support;Very High;2696;X
 25165;Chief of Navy;Leone Viale;1914;1932;ML;Base Control Doctrine;Very High;2705;X
 25166;Chief of Staff;Giuseppe Ettore Viganò;1914;1932;SL;School of Defence;Very High;2706;X
-25167;Chief of Staff;Vittorio Italico Zupelli;1914;1932;ML;school of manoeuvre;Very High;2707;X
-25168;Chief of Staff;Vittorio Italico Zupelli;1918;1932;SL;school of manoeuvre;Very High;2707;X
+25167;Chief of Staff;Vittorio Italico Zupelli;1914;1932;ML;School of Manoeuvre;Very High;2707;X
+25168;Chief of Staff;Vittorio Italico Zupelli;1918;1932;SL;School of Manoeuvre;Very High;2707;X
 25169;Foreign Minister;Ivanoe Bonomi;1921;1932;SD;Ideological Crusader;High;2708;X
 25170;Foreign Minister;Felice Napoleone Canevaro;1914;1932;ML;General Staffer;Very High;2709;X
-25171;Foreign Minister;Gabriele d'Annunzio;1920;1932;FA;iron fisted brute;Very High;2690;X
+25171;Foreign Minister;Gabriele d'Annunzio;1920;1932;FA;Iron Fisted Brute;Very High;2690;X
 25172;Foreign Minister;Giacinto Menotti Serrati;1914;1932;ST;Ideological Crusader;Very High;2710;X
-25173;Foreign Minister;Benito Mussolini;1920;1932;FA;iron fisted brute;Very High;2711;X
+25173;Foreign Minister;Benito Mussolini;1920;1932;FA;Iron Fisted Brute;Very High;2711;X
 25174;Foreign Minister;Antonino Paternò-Castello;1914;1932;ML;Great Compromiser;High;2712;X
 25175;Foreign Minister;Vittorio Scialoja;1919;1932;LWR;Great Compromiser;High;2713;X
 25176;Foreign Minister;Carlo Sforza;1920;1932;ML;Great Compromiser;High;2714;X
@@ -201,9 +201,9 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25199;Head of Military Intelligence;Odoardo Marchetti;1917;1932;ML;Dismal Enigma;Very High;unknown;X
 25200;Head of Military Intelligence;Rosolino Poggi;1914;1932;ML;Dismal Enigma;Very High;unknown;X
 25201;Head of State;Giacinto Menotti Serrati;1914;1932;ST;Weary Stiffneck;Medium;2710;X
-25202;Head of State;Vittorio Emanuele III;1914;1932;ML;Insignificant Layman;Medium;2728;X
-25203;Head of State;Vittorio Emanuele III;1914;1932;PA;Weary Stiffneck;Medium;2728;X
-25204;Head of State;Vittorio Emanuele III;1920;1932;FA;Weary Stiffneck;Very High;2728;X
+25202;Head of State;H.M. Vittorio Emanuele III;1914;1932;ML;Insignificant Layman;Medium;2728;X
+25203;Head of State;H.M. Vittorio Emanuele III;1914;1932;PA;Weary Stiffneck;Medium;2728;X
+25204;Head of State;H.M. Vittorio Emanuele III;1920;1932;FA;Weary Stiffneck;Very High;2728;X
 25205;Minister of Armament;Felice Napoleone Canevaro;1914;1932;ML;Battle Fleet Proponent;Very High;2709;X
 25206;Minister of Armament;Paolo Carcano;1914;1932;ML;Laissez-Faire Capitalist;Very High;2729;X
 25207;Minister of Armament;Giuseppe de Nava;1920;1932;ML;Administrative Genius;High;2730;X
@@ -236,10 +236,52 @@ ITA;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 25234;Minister of Security;Antonio Salandra;1914;1932;ML;Efficient Sociopath;High;2724;X
 25235;Minister of Security;Sidney Sonnino;1914;1932;ML;Silent Lawyer;Very High;2715;X
 25236;Minister of Security;Tommaso Tittoni;1914;1932;ML;Silent Lawyer;Very High;2716;X
-25237;Minister of Armament;Arturo Michelini;1954;1964;FA;Laissez-Faire Capitalist;High;6080;x
+25237;Minister of Armament;Arturo Michelini;1954;1964;FA;Laissez-Faire Capitalist;High;6080;X
 25238;Foreign Minister;Augusto De Marsanich;1944;1964;FA;Great Compromiser;High;6081;X
-25239;Head of Government;Augusto De Marsanich;1955;1964;FA;Silent Workhorse;High;6081;x
-25240;Minister of Security;Giorgio Almirante;1946;1964;NS;Back Stabber;High;6082;x
-25241;Foreign Minister;Giorgio Almirante;1945;1964;NS;The Cloak N Dagger Schemer;High;6082;x
+25239;Head of Government;Augusto De Marsanich;1955;1964;FA;Silent Workhorse;High;6081;X
+25240;Minister of Security;Giorgio Almirante;1946;1964;NS;Back Stabber;High;6082;X
+25241;Foreign Minister;Giorgio Almirante;1945;1964;NS;The Cloak N Dagger Schemer;High;6082;X
 25242;Chief of Army;Carlo Porro;1911;1918;ML;Guns and Butter Doctrine;High;8020;X
 25243;Chief of Air Force;Maurizio Moris;1914;1933;FA;Army Aviation Doctrine;High;8021;X
+25244;Head of State;H.M. Umberto II;1963;1984;SC;Autocratic Charmer;High;ITA - Umberto II;X
+25245;Head of State;H.M. Vittorio Emanuele IV;1983;2020;ML;Insignificant Layman;High;ITA - Prince Vittorio Emanuele IV;X
+25246;Head of State;Giovanni Gronchi;1955;1977;ML;Ruthless Powermonger;Medium;ITA - Giovanni Gronchi;X
+25247;Head of State;Antonio Segni;1955;1973;ML;Stern Imperialist;Medium;ITA - Antonio Segni;X
+25248;Head of State;Giuseppe Saragat;1965;1989;SD;Die-hard Reformer;Medium;ITA - Giuseppe Saragat;X
+25249;Head of State;Giovanni Leone;1971;2002;ML;Insignificant Layman;Medium;ITA - Giovanni Leone;X
+25250;Head of State;Alessandro Pertini;1978;1991;SL;Weary Stiffneck;Medium;ITA - Sandro Pertini;X
+25251;Head of State;Francesco Cossiga;1985;2011;ML;Barking Buffoon;Medium;ITA - Francesco Cossiga;X
+25252;Head of State;Oscar Luigi Scalfaro;1992;2012;ML;Benevolent Gentleman;Medium;ITA - Oscar Luigi Scalfaro;X
+25253;Head of State;H.M. Umberto II;1963;1984;PA;Autocratic Charmer;High;ITA - Umberto II;X
+25254;Head of State;H.M. Vittorio Emanuele IV;1983;2020;PA;Insignificant Layman;High;ITA - Prince Vittorio Emanuele IV;X
+25255;Head of Government;Mario Scelba;1954;1992;ML;Political Protege;Medium;M3101;X
+25256;Head of Government;Antonio Segni;1955;1973;ML;Flamboyant Tough Guy;Medium;ITA - Antonio Segni;X
+25257;Head of Government;Adone Zoli;1957;1961;ML;Political Protege;Medium;ITA - Adone Zoli;X
+25258;Head of Government;Amintore Fanfani;1958;2000;ML;Corporate Suit;Medium;M3174;X
+25259;Head of Government;Aldo Moro;1963;1999;ML;Smiling Oilman;Medium;ITA - Aldo Moro;X
+25260;Head of Government;Mariano Rumor;1968;1991;ML;Political Protege;Medium;ITA - Mariano Rumor;X
+25261;Head of Government;Emilio Colombo;1970;2014;ML;Silent Workhorse;Medium;ITA - Emilio Colombo;X
+25262;Head of Government;Giulio Andreotti;1972;2014;SC;Backroom Backstabber;Medium;ITA - Giulio Andreotti;X
+25263;Head of Government;Francesco Cossiga;1979;2011;ML;Ambitious Union Boss;Medium;ITA - Francesco Cossiga;X
+25264;Head of Government;Arnaldo Forlani;1980;2020;ML;Political Protege;Medium;ITA - Arnaldo Forlani;X
+25265;Head of Government;Giovanni Spadolini;1981;1995;ML;Happy Amateur;Medium;ITA - Giovanni Spadolini;X
+25266;Head of Government;Bettino Craxi;1976;2001;SD;Backroom Backstabber;Medium;ITA - Bettino Craxi;X
+25267;Head of Government;Giovanni Goria;1987;1995;ML;Backroom Backstabber;Medium;ITA - Giovanni Goria;X
+25268;Head of Government;Ciriaco De Mita;1983;2020;ML;Ambitious Union Boss;Medium;ITA - Ciriaco De Mita;X
+25269;Head of Government;Giuliano Amato;1992;2020;SL;Happy Amateur;Medium;ITA - Giuliano Amato;X
+25270;Head of Government;Carlo Azeglio Ciampi;1993;2017;SL;Political Protege;Medium;ITA - Carlo Azeglio Ciampi;X
+25271;Head of Government;Silvio Berlusconi;1994;2020;SC;Flamboyant Tough Guy;Medium;ITA - Silvio Berlusconi;X
+25272;Head of Government;Lamberto Dini;1995;2020;SL;Silent Workhorse;Medium;ITA - Lamberto Dini;X
+25273;Head of Government;Romano Prodi;1996;2020;SL;Corporate Suit;Low;ITA - Romano Prodi;X
+25274;Head of Government;Massimo D'Alema;1998;2020;SD;Ambitious Union Boss;Low;ITA - Massimo D'Alema;X
+25275;Head of Government;Pietro Nenni;1953;1964;SL;Political Protege;High;M3062;X
+25276;Head of Government;Luigi Longo;1963;1981;LWR;Political Protege;Low;ITA - Luigi Longo;X
+25277;Head of Government;Enrico Berlinguer;1972;1985;LWR;Silent Workhorse;Low;ITA - Enrico Berlinguer;X
+25278;Head of Government;Alessandro Natta;1984;2002;LWR;Naive Optimist;Low;ITA - Alessandro Natta;X
+25279;Head of Government;Achille Occhetto;1988;2020;LWR;Backroom Backstabber;Low;ITA - Achille Occhetto;X
+25280;Head of Government;Alfredo Covelli;1943;1998;SC;Silent Workhorse;High;ITA - Alfredo Covelli;X
+25281;Head of Government;Domenico Fisichella;1985;2020;SC;Flamboyant Tough Guy;High;ITA - Domenico Fisichella;X
+25282;Head of Government;Gianfranco Fini;1987;2020;PA;Political Protege;High;ITA - Gianfranco Fini;X
+25283;Head of Government;Arturo Michelini;1954;1969;FA;Naive Optimist;High;6080;X
+25284;Head of Government;Alfredo Covelli;1943;1998;PA;Silent Workhorse;High;ITA - Alfredo Covelli;X
+25285;Head of Government;Domenico Fisichella;1985;2020;PA;Flamboyant Tough Guy;High;ITA - Domenico Fisichella;X

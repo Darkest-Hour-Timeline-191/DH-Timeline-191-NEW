@@ -11,7 +11,7 @@ COS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 310009;Chief of Navy;Roberto Juarez Camposino;1933;1964;SL;Open Seas Doctrine;Medium;M47009;X
 310010;Chief of Air Force;Don Arnaldo Zamora;1933;1964;SL;Army Aviation Doctrine;Medium;M47010;X
 310011;Chief of Air Force;Oscar Padilla Sellean;1933;1964;LWR;Naval Aviation Doctrine;Medium;M47030;X
-310012;Head of State;Otilio Ulate;1944;1964;SD;Benevolent Gentleman;High;M47031;X
+310012;Head of State;Otilio Ulate Blanco;1944;1964;ML;Benevolent Gentleman;High;M47031;X
 310013;Head of State;Leon Cortes Castro;1933;1964;SL;Autocratic Charmer;High;M47002;X
 310014;Head of State;Tobias Zúñiaga Montúfar;1940;1964;SL;Stern Imperialist;High;M47033;X
 310015;Head of State;Alejandro de Castro Lopez;1944;1964;SL;Barking Buffoon;High;M47034;X
@@ -31,7 +31,7 @@ COS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 310029;Head of Government;Romualdo Pino Roja;1933;1964;PA;Old General;High;M47011;X
 310030;Head of Government;Manuel Mora Valverde;1940;1964;LE;Happy Amateur;High;M47021;X
 310031;Head of Government;Isalino de Silva Londres;1947;1964;LWR;Political Protege;High;M47040;X
-310032;Foreign Minister;Otilio Ulate;1944;1964;SD;The Cloak N Dagger Schemer;Very High;M47031;X
+310032;Foreign Minister;Otilio Ulate Blanco;1944;1964;ML;The Cloak N Dagger Schemer;Very High;M47031;X
 310033;Foreign Minister;Luís Fernandéz Rodríguez;1947;1964;SD;Ideological Crusader;Medium;M47024;X
 310034;Foreign Minister;Leon Cortes Castro;1933;1964;SL;The Cloak N Dagger Schemer;Medium;M47002;X
 310035;Foreign Minister;Manuel F. Jímenez;1938;1964;SL;General Staffer;Medium;M47054;X
@@ -52,7 +52,7 @@ COS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 310050;Minister of Armament;Chico Orlich Bolmarich;1940;1964;SL;Tank Proponent;High;M47058;X
 310051;Minister of Armament;Roberto Brenes Mesen;1944;1964;SL;Infantry Proponent;Medium;M47056;X
 310052;Minister of Armament;Tobias Zúñiaga Montúfar;1947;1964;SL;Air to Ground Proponent;High;M47033;X
-310053;Minister of Armament;Juan Cortes Castro;1933;1964;SC;laissez-faire capitalist;Medium;M47073;X
+310053;Minister of Armament;Juan Cortes Castro;1933;1964;SC;Laissez-Faire Capitalist;Medium;M47073;X
 310054;Minister of Armament;Otto Cortes Fernandez;1938;1964;SC;Administrative Genius;High;M47035;X
 310055;Minister of Armament;Tobias Picado Cortes;1941;1964;SC;Battle Fleet Proponent;Very High;M47075;X
 310056;Minister of Armament;Ignacio Mendéz Alino;1933;1964;PA;Corrupt Kleptocrat;High;M47014;X
@@ -116,3 +116,34 @@ COS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 310114;Head of State;Francisco Aguilar Barquero;1919;1933;PA;Weary Stiffneck;High;unknown;X
 310115;Head of State;Julio Acosta García;1920;1933;PA;Stern Imperialist;High;unknown;X
 310116;Head of State;Ricardo Jiménez Oreamuno;1914;1933;ML;Weary Stiffneck;High;unknown;X
+310117;Head of State;Jose Figueres Ferrer;1948;1991;SD;Barking Buffoon;Medium;M47041;X
+310118;Head of State;Mario Echandi Jimenez;1958;2012;SC;Stern Imperialist;Medium;COS - Mario Echandi Jimenez;X
+310119;Head of State;Francisco Orlich Bolmarcich;1958;1970;SL;Benevolent Gentleman;Medium;COS - Francisco Orlich Bolmarcich;X
+310120;Head of State;José Trejos Fernández;1966;2011;SC;Stern Imperialist;Medium;COS - José Trejos Fernández;X
+310121;Head of State;Daniel Oduber Quirós;1966;1992;SL;Die-hard Reformer;Medium;COS - Daniel Oduber Quirós;X
+310122;Head of State;Rodrigo Carazo Odio;1978;2010;SC;Autocratic Charmer;Medium;COS - Rodrigo Carazo Odio;X
+310123;Head of State;Luis Monge Álvarez;1978;2013;SL;Weary Stiffneck;Medium;COS - Luis Monge Alvarez;X
+310124;Head of State;Óscar Arias Sánchez;1986;2020;SL;Insignificant Layman;Medium;COS - Oscar Arias Sánchez;X
+310125;Head of State;Rafael Calderón Fournier;1982;2020;SC;Die-hard Reformer;Medium;COS - Rafael Calderón Fournier;X
+310126;Head of State;José María Figueres Olsen;1994;2020;SL;Benevolent Gentleman;Medium;COS - José Figueres Olsen;X
+310127;Head of State;Miguel Rodríguez Echeverría;1994;2020;SC;Autocratic Charmer;Medium;COS - Miguel Rodriguez Echeverria;X
+310128;Head of State;Fernando Castro Cervantes;1947;1964;ML;Insignificant Layman;Medium;COS - Fernando Castro Cervantes;X
+310129;Head of State;Fernando Trejos Escalante;1974;2004;SC;Die-hard Reformer;Medium;COS - Fernando Trejos Escalante;X
+310130;Head of State;Carlos Manuel Castillo;1990;2001;SL;Autocratic Charmer;Medium;COS - Carlos Manuel Castillo;X
+310131;Head of State;José Miguel Corrales Bolaños;1998;2020;SL;Barking Buffoon;Medium;COS - José Corrales Bolaños;X
+310132;Head of Government;Romualdo Jímenez Oreamurio;1933;1964;SL;Happy Amateur;High;M47001;X
+310133;Head of Government;Otilio Ulate Blanco;1944;1964;ML;Backroom Backstabber;High;M47031;X
+310134;Head of Government;Mario Echandi Jimenez;1958;2012;SC;Ambitious Union Boss;Medium;COS - Mario Echandi Jimenez;X
+310135;Head of Government;Francisco Orlich Bolmarcich;1958;1970;SL;Silent Workhorse;Medium;COS - Francisco Orlich Bolmarcich;X
+310136;Head of Government;José Trejos Fernández;1966;2011;SC;Smiling Oilman;Medium;COS - José Trejos Fernández;X
+310137;Head of Government;Daniel Oduber Quirós;1966;1992;SL;Political Protege;Medium;COS - Daniel Oduber Quirós;X
+310138;Head of Government;Rodrigo Carazo Odio;1978;2010;SC;Backroom Backstabber;Medium;COS - Rodrigo Carazo Odio;X
+310139;Head of Government;Luis Monge Álvarez;1978;2013;SL;Naive Optimist;Medium;COS - Luis Monge Alvarez;X
+310140;Head of Government;Rafael Calderón Fournier;1982;2020;SC;Ambitious Union Boss;Medium;COS - Rafael Calderón Fournier;X
+310141;Head of Government;Óscar Arias Sánchez;1986;2020;SL;Political Protege;Medium;COS - Oscar Arias Sánchez;X
+310142;Head of Government;José María Figueres Olsen;1994;2020;SL;Corporate Suit;Medium;COS - José Figueres Olsen;X
+310143;Head of Government;Miguel Rodríguez Echeverría;1994;2020;SC;Political Protege;Medium;COS - Miguel Rodriguez Echeverria;X
+310144;Head of Government;Fernando Castro Cervantes;1947;1964;ML;Happy Amateur;Medium;COS - Fernando Castro Cervantes;X
+310145;Head of Government;Fernando Trejos Escalante;1974;2004;SC;Flamboyant Tough Guy;Medium;COS - Fernando Trejos Escalante;X
+310146;Head of Government;Carlos Manuel Castillo;1990;2001;SL;Happy Amateur;Medium;COS - Carlos Manuel Castillo;X
+310147;Head of Government;José Miguel Corrales Bolaños;1998;2020;SL;Political Protege;Medium;COS - José Corrales Bolaños;X

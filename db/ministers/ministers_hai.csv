@@ -38,11 +38,11 @@ HAI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 350036;Minister of Armament;Luis Dabtes Bellegarde;1937;1964;SC;Corrupt Kleptocrat;Medium;M78005;X
 350037;Minister of Armament;Luc Dominique;1941;1964;SC;Tank Proponent;Medium;M78014;X
 350038;Minister of Armament;Jean Francois Duvalier;1945;1964;SC;Administrative Genius;Low;M78015;X
-350039;Minister of Armament;Louis Dejoie;1946;1964;SC;laissez-faire capitalist;Low;M78033;X
+350039;Minister of Armament;Louis Dejoie;1946;1964;SC;Laissez-Faire Capitalist;Low;M78033;X
 350040;Minister of Armament;Max Charlmes;1937;1964;SL;Strategic Air Proponent;Low;M78062;X
 350041;Minister of Armament;Frederic Doret;1941;1964;SL;Resource Industrialist;Low;M78063;X
 350042;Minister of Armament;Armand Ouellet;1946;1964;SL;Administrative Genius;Low;M78064;X
-350043;Minister of Armament;F. d'Orleans Juste Constant;1946;1964;PA;laissez-faire capitalist;High;M78021;X
+350043;Minister of Armament;F. d'Orleans Juste Constant;1946;1964;PA;Laissez-Faire Capitalist;High;M78021;X
 350044;Minister of Armament;Clement Jumelle;1937;1964;LWR;Air Superiority Proponent;High;M78057;X
 350045;Minister of Armament;Michel Corvington Raymond;1941;1964;LWR;Theoretical Scientist;Medium;M78024;X
 350046;Minister of Security;Stenio Vincent;1937;1964;SC;Crooked Kleptocrat;High;M78001;X
@@ -58,7 +58,7 @@ HAI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 350056;Minister of Security;Daniel Fignole;1946;1964;LWR;Silent Lawyer;High;M78045;X
 350057;Head of Military Intelligence;Joseph Louis Borno;1937;1964;SC;Technical Specialist;High;M78079;X
 350058;Head of Military Intelligence;Luis Dabtes Bellegarde;1941;1964;SC;Industrial Specialist;Medium;M78005;X
-350059;Head of Military Intelligence;dr. Georges Rigaud;1945;1964;SC;Logistics Specialist;Medium;M78049;X
+350059;Head of Military Intelligence;Dr. Georges Rigaud;1945;1964;SC;Logistics Specialist;Medium;M78049;X
 350060;Head of Military Intelligence;Gusley Vildrouin;1937;1964;SL;Logistics Specialist;Low;M78071;X
 350061;Head of Military Intelligence;Andre Dumont;1941;1964;SL;Naval Intelligence Specialist;Medium;M78052;X
 350062;Head of Military Intelligence;Max Charlmes;1946;1964;SL;Technical Specialist;Low;M78062;X
@@ -95,7 +95,7 @@ HAI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 350093;Head of Government;Louis Borno;1915;1933;PA;Happy Amateur;Medium;8000;X
 350098;Head of State;Oreste Zamor;1914;1933;PA;Die-hard Reformer;Medium;8009;X
 350099;Head of State;Joseph Davilmar Théodore;1914;1917;PA;Weary Stiffneck;Medium;unknown;X
-350100;Head of State;Vilbrun Guillaume Sam;1914;1915;PA;powerhungry demagogue;Medium;8013;X
+350100;Head of State;Vilbrun Guillaume Sam;1914;1915;PA;Powerhungry Demagogue;Medium;8013;X
 350101;Head of State;Philippe Sudré Dartiguenave;1914;1926;PA;Stern Imperialist;Medium;8010;X
 350102;Head of State;Louis Borno;1915;1933;PA;Ruthless Powermonger;Medium;8000;X
 350103;Foreign Minister;Jacques Nicolas Léger;1914;1933;PA;Biased Intellectual;Medium;8007;X
@@ -103,7 +103,7 @@ HAI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 350105;Foreign Minister;Justin Bar;1914;1933;PA;Great Compromiser;Medium;8008;X
 350106;Foreign Minister;Tertullian Guilbeaud;1914;1933;PA;Iron Fisted Brute;Medium;8012;X
 350107;Minister of Armament;Ermane Robin;1914;1933;PA;Administrative Genius;Medium;unknown;X
-350108;Minister of Armament;F. Baufossé Laroche;1914;1921;PA;laissez-faire capitalist;Medium;unknown;X
+350108;Minister of Armament;F. Baufossé Laroche;1914;1921;PA;Laissez-Faire Capitalist;Medium;unknown;X
 350109;Minister of Armament;Diogène Délinois;1914;1933;PA;Strategic Air Proponent;Medium;unknown;X
 350110;Minister of Armament;Ernest Laporte;1914;1933;PA;Resource Industrialist;Medium;8005;X
 350111;Minister of Security;Edmond Lespinasse;1914;1933;PA;Back Stabber;Medium;8003;X
@@ -126,3 +126,22 @@ HAI;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 350128;Chief of Air Force;Edmond Polynice;1914;1933;PA;Vertical Envelopment Doctrine;Medium;unknown;X
 350129;Chief of Air Force;Charles Zamor;1914;1933;PA;Carpet Bombing Doctrine;Medium;unknown;X
 350130;Chief of Air Force;Oreste Zamor;1914;1931;PA;Vertical Envelopment Doctrine;Medium;8009;X
+350131;Head of State;Jean Francois Duvalier;1957;1972;LWR;Weary Stiffneck;Medium;M78015;X
+350132;Head of State;Jean-Claude Duvalier;1971;2015;PA;Powerhungry Demagogue;Medium;HAI - Jean-Claude Duvalier;X
+350133;Head of State;Henri Namphy;1986;2019;PA;Pig-headed Isolationist;Medium;HAI - Henri Namphy;X
+350134;Head of State;Prosper Avril;1988;2020;PA;Insignificant Layman;Medium;HAI - Prosper Avril;X
+350135;Head of State;Ertha Pascal-Trouillot;1990;2020;SC;Benevolent Gentleman;Medium;HAI - Ertha Pascal-Trouillot;X
+350136;Head of State;Jean-Bertrand Aristide;1991;2020;SD;Weary Stiffneck;Medium;HAI - Jean-Bertrand Aristide;X
+350137;Head of State;René Préval;1994;2018;ML;Die-hard Reformer;Medium;HAI - René Préval;X
+350138;Head of State;Gérard Pierre-Charles;1959;2005;LE;Powerhungry Demagogue;Medium;HAI - Gérard Pierre-Charles;X
+350139;Head of State;Jean Francois Duvalier;1957;1972;FA;Weary Stiffneck;Medium;M78015;X
+350140;Head of Government;Jean Francois Duvalier;1957;1972;LWR;Flamboyant Tough Guy;Medium;M78015;X
+350141;Head of Government;Jean-Claude Duvalier;1971;2015;PA;Silent Workhorse;Medium;HAI - Jean-Claude Duvalier;X
+350142;Head of Government;Henri Namphy;1986;2019;PA;Backroom Backstabber;Medium;HAI - Henri Namphy;X
+350143;Head of Government;Prosper Avril;1988;2020;PA;Flamboyant Tough Guy;Medium;HAI - Prosper Avril;X
+350144;Head of Government;René Préval;1990;2018;ML;Naive Optimist;Medium;HAI - René Préval;X
+350145;Head of Government;Marc Bazin;1991;2011;SC;Corporate Suit;Medium;HAI - Marc Bazin;X
+350146;Head of Government;Rosny Smarth;1996;2020;SD;Ambitious Union Boss;Medium;HAI - Rosny Smarth;X
+350147;Head of Government;Jacques-Édouard Alexis;1999;2020;ML;Naive Optimist;Medium;HAI - Jacques-Edouard Alexis;X
+350148;Head of Government;Gérard Pierre-Charles;1959;2005;LE;Happy Amateur;Medium;HAI - Gérard Pierre-Charles;X
+350149;Head of Government;Jean Francois Duvalier;1957;1972;FA;Flamboyant Tough Guy;Medium;M78015;X

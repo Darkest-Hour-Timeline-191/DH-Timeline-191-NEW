@@ -22,7 +22,7 @@ SAL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 345020;Foreign Minister;Hector Escobar Serraño;1945;1964;SC;General Staffer;Medium;M77040;X
 345021;Foreign Minister;Joaquin Leiva y Lleida;1946;1964;ML;Biased Intellectual;Medium;M77041;X
 345022;Minister of Armament;Pio Romero Bosque;1938;1964;SL;Administrative Genius;Medium;M77012;X
-345023;Minister of Armament;Pedro Jaime de Matheu;1938;1964;SC;laissez-faire capitalist;Medium;M77043;X
+345023;Minister of Armament;Pedro Jaime de Matheu;1938;1964;SC;Laissez-Faire Capitalist;Medium;M77043;X
 345024;Minister of Armament;Jose Maria Cuellar;1945;1964;ML;Tank Proponent;Very Low;M77022;X
 345025;Minister of Armament;José Gustavo Guerrero;1944;1964;SL;Resource Industrialist;Medium;M77045;X
 345026;Minister of Security;Pedro Jaime de Matheu;1937;1964;SL;Man of the People;Medium;M77043;X
@@ -39,7 +39,7 @@ SAL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 345037;Chief of Air Force;Milton Andrade Cabrera;1944;1964;SD;Army Aviation Doctrine;Medium;M77030;X
 345038;Chief of Staff;Osmín Aguirre y Salinas;1944;1964;PA;School of Mass Combat;High;M77032;X
 345039;Chief of Army;Osmín Aguirre y Salinas;1944;1964;PA;Elastic Defence Doctrine;High;M77032;X
-345040;Minister of Armament;José Gustavo Guerrero;1944;1964;SC;laissez-faire capitalist;Medium;M77045;X
+345040;Minister of Armament;José Gustavo Guerrero;1944;1964;SC;Laissez-Faire Capitalist;Medium;M77045;X
 345041;Chief of Staff;Salvador Castañeda Castro;1945;1964;SC;School of Manoeuvre;High;M77033;X
 345042;Chief of Army;Hector Escobar Serraño;1945;1964;SC;Armoured Spearhead Doctrine;Medium;M77040;X
 345043;Head of State;Augustín Farabundo Martí;1933;1964;LE;Weary Stiffneck;High;M77021;X
@@ -60,12 +60,56 @@ SAL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 345058;Chief of Army;Manuel de Jesús Cordova;1950;1964;PA;Guns and Butter Doctrine;High;M77069;X
 345059;Chief of Army;Manuel Jose Maria Lemus Lopez;1951;1964;PA;Armoured Spearhead Doctrine;High;M77076;X
 345060;Chief of Staff;Manuel de Jesús Cordova;1951;1964;PA;School of Fire Support;High;M77069;X
-345061;Chief of Air Force;Carlos Carmona;1914;1933;PA;CARPET BOMBING DOCTRINE;Very High;unknown;X
+345061;Chief of Air Force;Carlos Carmona;1914;1933;PA;Carpet Bombing Doctrine;Very High;unknown;X
 345062;Head of Government;Alfonso Quiñónez Molina;1914;1933;PA;Corporate Suit;Very High;3102;X
 345063;Head of Government;Carlos Meléndez;1914;1933;PA;Silent Workhorse;Very High;3103;X
 345064;Head of Government;Jorge Meléndez Ramírez;1919;1933;PA;Naive Optimist;Very High;3104;X
-345065;Head of Military Intelligence;Humberto Aberle;1914;1933;PA;DISMAL ENIGMA;Very High;3105;X
+345065;Head of Military Intelligence;Humberto Aberle;1914;1933;PA;Dismal Enigma;Very High;3105;X
 345066;Head of State;Alfonso Quiñónez Molina;1914;1933;PA;Barking Buffoon;Very High;3102;X
 345067;Head of State;Carlos Meléndez;1914;1933;PA;Autocratic Charmer;Very High;3103;X
 345068;Head of State;Jorge Meléndez Ramírez;1919;1933;PA;Autocratic Charmer;Very High;3104;X
-345069;Minister of Armament;Pío Romero Bosque;1919;1933;PA;THEORETICAL SCIENTIST;Very High;3106;X
+345069;Minister of Armament;Pío Romero Bosque;1919;1933;PA;Theoretical Scientist;Very High;3106;X
+345070;Head of State;José Lemus Lopez;1956;1994;SC;Benevolent Gentleman;Medium;SAL - José Maria Lemus Lopez;X
+345071;Head of State;Julio Rivera Carballo;1962;1974;SC;Ruthless Powermonger;Medium;SAL - Julio Rivera Carballo;X
+345072;Head of State;Fidel Sánchez Hernández;1967;2004;SC;Barking Buffoon;Medium;SAL - Fidel Sánchez Hernández;X
+345073;Head of State;Arturo Molina Barraza;1972;2020;PA;Weary Stiffneck;Medium;SAL - Arturo Armando Molina;X
+345074;Head of State;Carlos Romero Mena;1977;2018;PA;Insignificant Layman;Medium;SAL - Carlos Humberto Romero;X
+345075;Head of State;Adolfo Majano Ramos;1979;2020;LWR;Barking Buffoon;Medium;SAL - Adolfo Majano Ramos;X
+345076;Head of State;Jaime Gutierrez Avendano;1979;2013;LWR;Ruthless Powermonger;Medium;SAL - Jaime Gutierrez Avendano;X
+345077;Head of State;Álvaro Magaña Borja;1982;2002;SC;Weary Stiffneck;Medium;SAL - Alvaro Magana;X
+345078;Head of State;José Duarte Fuentes;1984;1991;PA;Ruthless Powermonger;Medium;SAL - José Napoleón Duarte;X
+345079;Head of State;Alfredo Cristiani Burkard;1989;2020;SC;Popular Figurehead;Medium;SAL - Alfredo Cristiani;X
+345080;Head of State;Armando Calderón Sol;1993;2018;SC;Benevolent Gentleman;Medium;SAL - Armando Calderón;X
+345081;Head of State;Francisco Flores Pérez;1998;2017;SC;Autocratic Charmer;Medium;SAL - Francisco Flores Pérez;X
+345082;Head of State;José Asencio Menéndez;1950;1964;SD;Popular Figurehead;Medium;unknownminister;X
+345083;Head of State;Rafael Carranza Anaya;1936;1970;SD;Barking Buffoon;Medium;unknownminister;X
+345084;Head of State;Fabio Castillo Figueroa;1967;1996;SD;Autocratic Charmer;Medium;SAL - Fabio Castillo Figueroa;X
+345085;Head of State;José Antonio Porth;1977;1990;SD;Barking Buffoon;Medium;SAL - José Antonio Porth;X
+345086;Head of State;René Fortin Magaña;1984;2020;SD;Benevolent Gentleman;Medium;SAL - René Fortin Magana;X
+345087;Head of State;Guillermo Ungo Revelo;1989;1992;SD;Insignificant Layman;Medium;SAL - Guillermo Ungo Revelo;X
+345088;Head of State;Rubén Zamora Rivas;1991;2020;SD;Autocratic Charmer;Medium;SAL - Rubén Zamora Rivas;X
+345089;Head of State;Facundo Guardado;1998;2020;SD;Insignificant Layman;Medium;SAL - Facundo Guardado;X
+345090;Head of State;Schafik Hándal;1980;2007;LE;Die-hard Reformer;Medium;SAL - Schafik Hándal;X
+345091;Head of State;Salvador Cayetano Carpio;1941;2000;ST;Ruthless Powermonger;Medium;SAL - Salvador Cayetano Carpio;X
+345092;Head of Government;José Lemus Lopez;1956;1994;SC;Flamboyant Tough Guy;Medium;SAL - José Maria Lemus Lopez;X
+345093;Head of Government;Julio Rivera Carballo;1962;1974;SC;Old General;Medium;SAL - Julio Rivera Carballo;X
+345094;Head of Government;Fidel Sánchez Hernández;1967;2004;SC;Political Protege;Medium;SAL - Fidel Sánchez Hernández;X
+345095;Head of Government;Arturo Molina Barraza;1972;2020;PA;Old General;Medium;SAL - Arturo Armando Molina;X
+345096;Head of Government;Carlos Romero Mena;1977;2018;PA;Naive Optimist;Medium;SAL - Carlos Humberto Romero;X
+345097;Head of Government;Adolfo Majano Ramos;1979;2020;LWR;Backroom Backstabber;Medium;SAL - Adolfo Majano Ramos;X
+345098;Head of Government;Jaime Gutierrez Avendano;1979;2013;LWR;Old General;Medium;SAL - Jaime Gutierrez Avendano;X
+345099;Head of Government;Álvaro Magaña Borja;1982;2002;SC;Political Protege;Medium;SAL - Alvaro Magana;X
+345100;Head of Government;José Duarte Fuentes;1984;1991;PA;Backroom Backstabber;Medium;SAL - José Napoleón Duarte;X
+345101;Head of Government;Alfredo Cristiani Burkard;1989;2020;SC;Corporate Suit;Medium;SAL - Alfredo Cristiani;X
+345102;Head of Government;Armando Calderón Sol;1993;2018;SC;Silent Workhorse;Medium;SAL - Armando Calderón;X
+345103;Head of Government;Francisco Flores Pérez;1998;2017;SC;Happy Amateur;Medium;SAL - Francisco Flores Pérez;X
+345104;Head of Government;José Asencio Menéndez;1950;1964;SD;Happy Amateur;Medium;unknownminister;X
+345105;Head of Government;Rafael Carranza Anaya;1936;1970;SD;Naive Optimist;Medium;unknownminister;X
+345106;Head of Government;Fabio Castillo Figueroa;1967;1996;SD;Smiling Oilman;Medium;SAL - Fabio Castillo Figueroa;X
+345107;Head of Government;José Antonio Porth;1977;1990;SD;Silent Workhorse;Medium;SAL - José Antonio Porth;X
+345108;Head of Government;René Fortin Magaña;1984;2020;SD;Ambitious Union Boss;Medium;SAL - René Fortin Magana;X
+345109;Head of Government;Guillermo Ungo Revelo;1989;1992;SD;Corporate Suit;Medium;SAL - Guillermo Ungo Revelo;X
+345110;Head of Government;Rubén Zamora Rivas;1991;2020;SD;Backroom Backstabber;Medium;SAL - Rubén Zamora Rivas;X
+345111;Head of Government;Facundo Guardado;1998;2020;SD;Political Protege;Medium;SAL - Facundo Guardado;X
+345112;Head of Government;Schafik Hándal;1980;2007;LE;Backroom Backstabber;Medium;SAL - Schafik Hándal;X
+345113;Head of Government;Salvador Cayetano Carpio;1941;2000;ST;Ambitious Union Boss;Medium;SAL - Salvador Cayetano Carpio;X

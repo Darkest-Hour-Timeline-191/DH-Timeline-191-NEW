@@ -1,4 +1,5 @@
 CHL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
+;Replacements;;;;;;;;X
 210001;Head of State;Arturo Alessandri Palma;1933;1964;SL;Stern Imperialist;High;M44001;X
 210002;Head of Government;Gustavo Ross Santa Maria;1933;1964;SL;Naive Optimist;High;M44002;X
 210003;Foreign Minister;Miguel Cruchaga Tacomal;1933;1964;SL;Iron Fisted Brute;Medium;M44003;X
@@ -16,18 +17,18 @@ CHL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 210015;Head of State;Carlos Ibanez del Campo;1942;1964;PA;Resigned Generalissimo;High;M44035;X
 210016;Head of State;J.G. von Mareés;1938;1964;FA;Autocratic Charmer;High;M44011;X
 210017;Head of State;Marmaduke Grove;1938;1964;LE;Barking Buffoon;High;M44021;X
-210018;Head of State;Salvador Allende;1945;1964;LWR;Die-hard Reformer;High;M44039;X
+210018;Head of State;Salvador Allende Gossens;1945;1964;LWR;Die-hard Reformer;High;M44039;X
 210019;Head of Government;Pedro Aguirre Cerda;1938;1964;SD;Political Protege;High;M44031;X
 210020;Head of Government;Antonio J. Rios Morales;1942;1964;SD;Flamboyant Tough Guy;High;M44032;X
 210021;Head of Government;Gabriel Gonzalez Videla;1946;1964;SD;Backroom Backstabber;High;M44033;X
-210022;Head of Government;Arturo Alessandri Palma;1937;1964;SL;Smiling Oilman;High;M44001;X
+210022;Head of Government;Arturo Alessandri Palma;1933;1964;SL;Smiling Oilman;High;M44001;X
 210023;Head of Government;Gustavo Ross Santa Maria;1938;1964;SC;Naive Optimist;High;M44002;X
 210024;Head of Government;Manuel Mora Miranda;1942;1964;SC;Happy Amateur;High;M44045;X
 210025;Head of Government;Carlos Ibanez del Campo;1942;1964;PA;Old General;High;M44035;X
 210026;Head of Government;Misael Galleguillos;1938;1964;FA;Ambitious Union Boss;High;M44012;X
 210027;Head of Government;C.L. Blest Riffo;1938;1964;LE;Old Admiral;High;M44022;X
-210028;Head of Government;Marmaduke Grove;1942;1964;LE;old airmarshal;High;M44021;X
-210029;Head of Government;Salvador Allende;1945;1964;LWR;Naive Optimist;High;M44039;X
+210028;Head of Government;Marmaduke Grove;1942;1964;LE;Old Airmarshal;High;M44021;X
+210029;Head of Government;Salvador Allende Gossens;1945;1964;LWR;Naive Optimist;High;M44039;X
 210030;Foreign Minister;Abraham Ortega Aguayo;1938;1964;SD;Iron Fisted Brute;Medium;M44051;X
 210031;Foreign Minister;Cristobál Saénz Cerda;1940;1964;SD;Apologetic Clerk;Medium;M44052;X
 210032;Foreign Minister;Manuel Mora Miranda;1940;1964;SD;Great Compromiser;Medium;M44045;X
@@ -48,14 +49,14 @@ CHL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 210047;Minister of Armament;Carlos Garcia Palacios;1938;1964;SD;Theoretical Scientist;High;M44068;X
 210048;Minister of Armament;Juan Rios Morales;1938;1964;SD;Resource Industrialist;High;M44069;X
 210049;Minister of Armament;Luis Alamos Barros;1939;1964;SD;Infantry Proponent;High;M44055;X
-210050;Minister of Armament;Pedro Aguirre Cerda;1940;1964;SD;laissez-faire capitalist;Medium;M44031;X
+210050;Minister of Armament;Pedro Aguirre Cerda;1940;1964;SD;Laissez-Faire Capitalist;Medium;M44031;X
 210051;Minister of Armament;Carlos Fuentes Rabe;1941;1964;SD;Military Entrepreneur;High;M44072;X
 210052;Minister of Armament;Francisco Walker Linares;1942;1964;SD;Tank Proponent;Very High;M44073;X
 210053;Minister of Armament;Dario Mujica Gamboa;1944;1964;SD;Air Superiority Proponent;Medium;M44010;X
 210054;Minister of Armament;Manuel C. Pereira;1946;1964;SD;Resource Industrialist;High;M44075;X
 210055;Minister of Armament;José Luis Sánchez Besa;1937;1964;SL;Air to Ground Proponent;High;M44076;X
 210056;Minister of Armament;Cristobál Saénz Cerda;1938;1964;SL;Administrative Genius;Medium;M44052;X
-210057;Minister of Armament;Enrique Villegas;1938;1964;SC;laissez-faire capitalist;High;M44078;X
+210057;Minister of Armament;Enrique Villegas;1938;1964;SC;Laissez-Faire Capitalist;High;M44078;X
 210058;Minister of Armament;Victor Larens Quijada;1939;1964;SC;Submarine Proponent;High;M44079;X
 210059;Minister of Armament;Francisco O'Ryan Orrego;1943;1964;SC;Battle Fleet Proponent;Medium;M44062;X
 210060;Minister of Armament;Misael Galleguillos;1946;1964;SC;Corrupt Kleptocrat;Low;M44012;X
@@ -79,13 +80,13 @@ CHL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 210078;Minister of Security;Ernesto Barras Jarpa;1946;1964;SC;Crooked Kleptocrat;Medium;M44056;X
 210079;Minister of Security;Carlos Ibanez del Campo;1939;1964;PA;Man of the People;Medium;M44035;X
 210080;Minister of Security;Vicente Merino Bielich;1942;1964;PA;Prince of Terror;Medium;M44102;X
-210081;Minister of Security;Carlos Keller;1938;1964;FA;Back Stabber;Low;M44015;X
+210081;Minister of Security;Carlos Keller Rueff;1938;1964;FA;Back Stabber;Low;M44015;X
 210082;Minister of Security;Marmaduke Grove;1938;1964;LE;Man of the People;Medium;M44021;X
 210083;Minister of Security;Cristobál Saénz Cerda;1945;1964;LWR;Prince of Terror;Medium;M44052;X
 210084;Head of Military Intelligence;Federico Escamante;1938;1964;SD;Logistics Specialist;Medium;M44106;X
 210085;Head of Military Intelligence;Juan Rios Morales;1941;1964;SD;Dismal Enigma;High;M44069;X
 210086;Head of Military Intelligence;Eduardo Hillman;1942;1964;SD;Naval Intelligence Specialist;High;M44004;X
-210087;Head of Military Intelligence;Salvador Allende;1943;1964;SD;Industrial Specialist;Low;M44039;X
+210087;Head of Military Intelligence;Salvador Allende Gossens;1943;1964;SD;Industrial Specialist;Low;M44039;X
 210088;Head of Military Intelligence;Dario Mujica Gamboa;1946;1964;SD;Technical Specialist;Medium;M44010;X
 210089;Head of Military Intelligence;Carlos Fuentes Rabe;1938;1964;SL;Industrial Specialist;High;M44072;X
 210090;Head of Military Intelligence;Carlos Puga Monsalve;1940;1964;SL;Technical Specialist;High;M44087;X
@@ -290,6 +291,36 @@ CHL;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 210289;Chief of Air Force;Pedro Pablo Dartnell;1913;1927;PA;Air Superiority Doctrine;Medium;8462;X
 210290;Chief of Air Force;Arístides Pinto Concha;1913;1922;SC;Army Aviation Doctrine;Medium;2351;X
 210291;Chief of Air Force;Juan Ortiz Vega;1923;1925;SC;Carpet Bombing Doctrine;Medium;unknown;X
-210292;Chief of Staff;Augusto Pinochet;1964;1974;PA;School of Manoeuvre;High;6098;X
-210293;Head of Government;Augusto Pinochet;1964;1974;PA;Old General;High;6098;X
-210294;Head of State;Augusto Pinochet;1964;1974;PA;Resigned Generalissimo;High;6098;X
+210292;Head of State;Juan Rios Morales;1942;1947;SD;Barking Buffoon;Medium;M44069;X
+210293;Head of State;Jorge Alessandri Rodriguez;1952;1964;SC;Barking Buffoon;High;M44164;X
+210294;Head of State;Eduardo Frei Montalva;1964;1983;SC;Weary Stiffneck;Medium;CHL - Eduardo Frei Montalva;X
+210295;Head of State;Salvador Allende Gossens;1963;1999;LWR;Die-hard Reformer;High;M44039;X
+210296;Head of State;Augusto Pinochet Ugarte;1973;2007;PA;Die-hard Reformer;High;CHL - Augusto Pinochet Ugarte;X
+210297;Head of State;Patricio Aylwin Azócar;1990;2017;ML;Weary Stiffneck;Medium;CHL - Patricio Aylwin Azócar;X
+210298;Head of State;Eduardo Frei Ruiz-Tagle;1992;2020;ML;Benevolent Gentleman;Medium;CHL - Eduardo Frei Ruiz-Tagle;X
+210299;Head of State;Ricardo Lagos Escobar;1998;2020;SD;Autocratic Charmer;Medium;CHL - Ricardo Lagos Escobar;X
+210300;Head of State;Eduardo Cruz-Coke Lassabe;1946;1975;SC;Weary Stiffneck;Medium;CHL - Eduardo Cruz-Coke Lassabe;X
+210301;Head of State;Hernan Büchi Buc;1989;2020;SC;Pig-headed Isolationist;Medium;CHL - Hernan Büchi Buc;X
+210302;Head of State;Arturo Alessandri Besa;1992;2020;SC;Insignificant Layman;Medium;CHL - Arturo Alessandri Besa;X
+210303;Head of State;Joaquín Lavín Infante;1998;2020;SC;Die-hard Reformer;Medium;CHL - Joaquin Lavin Infante;X
+210304;Head of State;Luis Corvalán Lepe;1958;2011;ST;Ruthless Powermonger;Medium;CHL - Luis Corvalán Lepe;X
+210305;Head of State;Jorge Insunza Becker;1974;2020;LE;Powerhungry Demagogue;Medium;CHL - Jorge Insunza Becker;X
+210306;Head of State;Carlos Keller Rueff;1941;1974;FA;Barking Buffoon;High;M44015;X
+210307;Head of State;Juan Gómez Millas;1964;1988;FA;Weary Stiffneck;High;CHL - Juan Gómez Millas;X
+210308;Head of State;Sergio Miranda Carrington;1980;2014;FA;Die-hard Reformer;High;CHL - Sergio Miranda Carrington;X
+210309;Head of State;Miguel Serrano Fernández;1941;2010;NS;Powerhungry Demagogue;High;CHL - Miguel Serrano Fernández;X
+210310;Head of Government;Eduardo Frei Montalva;1964;1983;SC;Corporate Suit;Medium;CHL - Eduardo Frei Montalva;X
+210311;Head of Government;Salvador Allende Gossens;1963;1999;LWR;Naive Optimist;High;M44039;X
+210312;Head of Government;Augusto Pinochet Ugarte;1973;2007;PA;Old General;High;CHL - Augusto Pinochet Ugarte;X
+210313;Head of Government;Patricio Aylwin Azócar;1990;2017;ML;Ambitious Union Boss;Medium;CHL - Patricio Aylwin Azócar;X
+210314;Head of Government;Eduardo Frei Ruiz-Tagle;1992;2020;ML;Corporate Suit;Medium;CHL - Eduardo Frei Ruiz-Tagle;X
+210315;Head of Government;Ricardo Lagos Escobar;1998;2020;SD;Backroom Backstabber;Medium;CHL - Ricardo Lagos Escobar;X
+210316;Head of Government;Hernan Büchi Buc;1989;2020;SC;Political Protege;Medium;CHL - Hernan Büchi Buc;X
+210317;Head of Government;Arturo Alessandri Besa;1992;2020;SC;Silent Workhorse;Medium;CHL - Arturo Alessandri Besa;X
+210318;Head of Government;Joaquín Lavín Infante;1998;2020;SC;Flamboyant Tough Guy;Medium;CHL - Joaquin Lavin Infante;X
+210319;Head of Government;Luis Corvalán Lepe;1958;2011;ST;Backroom Backstabber;Medium;CHL - Luis Corvalán Lepe;X
+210320;Head of Government;Jorge Insunza Becker;1974;2020;LE;Political Protege;Medium;CHL - Jorge Insunza Becker;X
+210321;Head of Government;Carlos Keller Rueff;1941;1974;FA;Naive Optimist;High;M44015;X
+210322;Head of Government;Juan Gómez Millas;1964;1988;FA;Silent Workhorse;High;CHL - Juan Gómez Millas;X
+210323;Head of Government;Sergio Miranda Carrington;1980;2014;FA;Corporate Suit;High;CHL - Sergio Miranda Carrington;X
+210324;Head of Government;Miguel Serrano Fernández;1941;2010;NS;Flamboyant Tough Guy;High;CHL - Miguel Serrano Fernández;X

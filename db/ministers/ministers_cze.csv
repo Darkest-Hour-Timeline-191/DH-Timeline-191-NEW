@@ -7,7 +7,7 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120005;Minister of Security;Ivan Derer;1933;1964;ML;Man of the People;Medium;M24005;X
 120006;Head of Military Intelligence;Frantisek Machník;1933;1964;ML;Logistics Specialist;Very High;M24006;X
 120007;Chief of Staff;Frantisek Machník;1933;1964;ML;School of Defence;Very High;M24006;X
-120008;Chief of Army;Ludvik Krejci;1933;1964;ML;static defence doctrine;Medium;M24008;X
+120008;Chief of Army;Ludvik Krejci;1933;1964;ML;Static Defence Doctrine;Medium;M24008;X
 120009;Chief of Navy;Antonin Hasal;1933;1964;ML;Indirect Approach Doctrine;Medium;M24009;X
 120010;Chief of Air Force;Emil Janouska;1933;1964;ML;Army Aviation Doctrine;Medium;M24010;X
 120011;Head of State;Emil Hácha;1938;1964;ML;Insignificant Layman;High;2381;X
@@ -18,7 +18,7 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120016;Head of State;Johann Schwerin von Krosigk;1939;1964;NS;Benevolent Gentleman;High;M24037;X
 120017;Head of State;Kurt Daluege;1941;1964;NS;Ruthless Powermonger;High;M24038;X
 120018;Head of State;Karl Hermann Frank;1943;1964;NS;Powerhungry Demagogue;High;M24011;X
-120019;Head of State;Alois Elias;1945;1964;NS;Resigned Generalissimo;High;M24040;X
+120019;Head of State;Alois Elias;1933;1964;NS;Resigned Generalissimo;High;M24040;X
 120020;Head of State;Elias Kohn;1933;1964;ST;Die-hard Reformer;High;M24041;X
 120021;Head of State;Klement Gottwald;1941;1964;ST;Barking Buffoon;High;M24021;X
 120022;Head of Government;Ján Srámek;1939;1964;ML;Ambitious Union Boss;High;M24044;X
@@ -26,7 +26,7 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120024;Head of Government;Rudolf Beran;1938;1964;PA;Political Protege;High;M24012;X
 120025;Head of Government;Bedrich Homola;1945;1964;SC;Happy Amateur;High;M24047;X
 120026;Head of Government;Karel Kalemcek;1933;1964;NS;Happy Amateur;High;M24048;X
-120027;Head of Government;Alois Elias;1939;1964;NS;Old General;High;M24040;X
+120027;Head of Government;Alois Elias;1933;1964;NS;Old General;High;M24040;X
 120028;Head of Government;Joseph Jezek;1945;1964;NS;Flamboyant Tough Guy;High;M24016;X
 120029;Head of Government;Teodor Escherich;1933;1964;ST;Naive Optimist;High;M24051;X
 120030;Head of Government;Gustav Husak;1943;1964;ST;Political Protege;High;M24022;X
@@ -42,7 +42,7 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120040;Foreign Minister;Jaromir Kricaj;1945;1964;NS;Apologetic Clerk;High;M24062;X
 120041;Foreign Minister;Vladimir Clementis;1933;1964;ST;Great Compromiser;Medium;M24023;X
 120042;Foreign Minister;Gustav Husak;1941;1964;ST;Iron Fisted Brute;High;M24022;X
-120043;Foreign Minister;Rudolf Slanský;1943;1964;ST;the cloak n dagger schemer;High;M24024;X
+120043;Foreign Minister;Rudolf Slanský;1943;1964;ST;The Cloak N Dagger Schemer;High;M24024;X
 120044;Minister of Armament;Emil Franke;1933;1964;ML;Theoretical Scientist;High;M24066;X
 120045;Minister of Armament;Karel Basilek;1939;1964;ML;Military Entrepreneur;High;M24068;X
 120046;Minister of Armament;Ferdinand Veverka;1943;1964;ML;Administrative Genius;Medium;M24069;X
@@ -52,11 +52,11 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120050;Minister of Armament;Karel Cérny;1943;1964;PA;Infantry Proponent;High;M24073;X
 120051;Minister of Armament;Antonin Pavlik;1945;1964;PA;Tank Proponent;High;M24074;X
 120052;Minister of Armament;Ernst Kundt;1933;1964;NS;Resource Industrialist;High;M24014;X
-120053;Minister of Armament;Otokar Sebrin;1938;1964;NS;laissez-faire capitalist;High;M24076;X
+120053;Minister of Armament;Otokar Sebrin;1938;1964;NS;Laissez-Faire Capitalist;High;M24076;X
 120054;Minister of Armament;Karel Kalemcek;1941;1964;NS;Administrative Genius;Low;M24048;X
 120055;Minister of Armament;Jan Prhcla;1945;1964;NS;Infantry Proponent;Low;M24078;X
 120056;Minister of Armament;Bohumil Stepanec;1933;1964;ST;Tank Proponent;Medium;M24079;X
-120057;Minister of Armament;Karel Olmanec;1941;1964;ST;laissez-faire capitalist;Medium;M24080;X
+120057;Minister of Armament;Karel Olmanec;1941;1964;ST;Laissez-Faire Capitalist;Medium;M24080;X
 120058;Minister of Armament;Rudolf Slansky;1945;1964;ST;Theoretical Scientist;Medium;M24024;X
 120059;Minister of Security;Victor Folancec;1933;1964;ML;Crime Fighter;Medium;M24082;X
 120060;Minister of Security;Jaromir Kopecky;1939;1964;ML;Prince of Terror;Medium;M24084;X
@@ -132,7 +132,7 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120130;Head of Military Intelligence;Alexej Cepicka;1948;1964;ST;Logistics Specialist;High;M24155;X
 120131;Head of Military Intelligence;Stefan Rais;1950;1964;ST;Dismal Enigma;High;M24158;X
 120132;Chief of Air Force;Heinrich Kostrba;1914;1933;ML;Undistinguished Suit;Medium;2383;X
-120133;Chief of Army;Milan Stefánik;1914;1933;ML;static defence doctrine;Medium;2384;X
+120133;Chief of Army;Milan Stefánik;1914;1933;ML;Static Defence Doctrine;Medium;2384;X
 120134;Chief of Staff;Milan Stefánik;1914;1933;ML;School of Defence;Very High;2384;X
 120135;Foreign Minister;Edouard Benes;1914;1933;SD;Ideological Crusader;High;2379;X
 120136;Head of Government;Vlastimil Tusar;1919;1933;SD;Ambitious Union Boss;High;3726;X
@@ -152,6 +152,33 @@ CZE;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 120150;Minister of Security;Ján Cerný;1920;1933;SL;Silent Lawyer;High;3727;X
 120151;Minister of Security;Ján Malypetr;1922;1933;SL;Crime Fighter;High;3737;X
 120152;Minister of Security;Antonín Svehla;1914;1933;ML;Man of the People;Medium;3738;X
-120153;Minister of Security;Emanuel Moravec;1939;1964;NS;Prince of Terror;Low;6074;x
-120154;Chief of Staff;Emanuel Moravec;1945;1964;NS;School of Defence;Low;6074;x
+120153;Minister of Security;Emanuel Moravec;1939;1964;NS;Prince of Terror;Low;6074;X
+120154;Chief of Staff;Emanuel Moravec;1945;1964;NS;School of Defence;Low;6074;X
 120155;Head of Government;Ján Malypetr;1922;1947;SL;Flamboyant Tough Guy;High;3737;X
+120156;Head of State;Emil Hácha;1938;1964;FA;Insignificant Layman;High;2381;X
+120157;Head of State;H.M. Zdenko I Kinský;1933;1976;PA;Die-hard Reformer;High;CZE - Zdenko Radslav Kinsky;X
+120158;Head of State;H.M. Václav V Kinský;1975;2009;PA;Insignificant Layman;High;unknownminister;X
+120159;Head of State;H.M. Karel VII Schwarzenburg;1933;1987;FA;Autocratic Charmer;High;CZE - Karel VI Schwarzenberg;X
+120160;Head of State;H.M. Karel VIII Schwarzenburg;1986;2020;PA;Popular Figurehead;High;CZE - Karel VII Schwarzenburg;X
+120161;Head of State;S.K.u.K.M. Otto IV von Habsburg;1933;1964;PA;Benevolent Gentleman;High;M23041;X
+120162;Head of State;S.K.u.K.M. Otto IV von Habsburg;1963;2012;PA;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+120163;Head of State;Zdenko Radslav Kinský;1933;1976;ML;Die-hard Reformer;High;CZE - Zdenko Radslav Kinsky;X
+120164;Head of State;Josef Veverka;1933;1972;SD;Die-hard Reformer;High;CZE - Josef Veverka;X
+120165;Head of State;Alexander Dubcek;1963;1993;SD;Autocratic Charmer;Medium;CZE - Alexander Dubcek;X
+120166;Head of State;Václav Vaško;1963;2010;SC;Benevolent Gentleman;High;CZE - Vaclav Vasko;X
+120167;Head of State;Václav Havel;1985;2012;SC;Popular Figurehead;High;CZE - Vaclav Havel;X
+120168;Head of State;Radola Gajda;1933;1964;FA;Resigned Generalissimo;High;L18010;X
+120169;Head of State;Jan Rys-Rozsévac;1939;1992;NS;Die-hard Reformer;High;CZE - Jan Rys-Rozsevac;X
+120170;Head of State;H.M. Karel VIII Schwarzenburg;1986;2020;SC;Popular Figurehead;High;CZE - Karel VII Schwarzenburg;X
+120171;Head of State;S.K.u.K.M. Otto IV von Habsburg;1933;1964;ML;Benevolent Gentleman;High;M23041;X
+120172;Head of State;S.K.u.K.M. Otto IV von Habsburg;1963;2012;ML;Benevolent Gentleman;High;U09 - Otto von Habsburg;X
+120173;Head of Government;Jaroslav Krejci;1933;1964;FA;Political Protege;High;CZE - Jaroslav Krejci;X
+120174;Head of Government;Richard Bienert;1933;1964;FA;Naive Optimist;High;CZE - Richard Bienert;X
+120175;Head of Government;Zdenek Fierlinger;1933;1977;SD;Political Protege;Medium;M24026;X
+120176;Head of Government;Oldrich Cernik;1963;1995;SD;Backroom Backstabber;Medium;CZE - Oldrich Cernik;X
+120177;Head of Government;Marián Calfa;1985;2020;SD;Flamboyant Tough Guy;High;CZE - Marián Calfa;X
+120178;Head of Government;Václav Benda;1963;2000;SC;Silent Workhorse;High;CZE - Vaclav Benda;X
+120179;Head of Government;Václav Klaus;1985;2020;SC;Flamboyant Tough Guy;High;CZE - Vaclav Klaus;X
+120180;Head of Government;Jaroslav Studený;1960;2009;PA;Naive Optimist;High;CZE - Jaroslav Studeny;X
+120181;Head of Government;Radola Gajda;1933;1964;FA;Old General;High;L18010;X
+120182;Head of Government;Jan Rys-Rozsévac;1939;1992;NS;Flamboyant Tough Guy;High;CZE - Jan Rys-Rozsevac;X

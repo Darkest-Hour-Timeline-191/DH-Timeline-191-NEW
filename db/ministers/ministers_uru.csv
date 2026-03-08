@@ -29,7 +29,7 @@ URU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 195027;Foreign Minister;José Serrato;1947;1964;SL;Apologetic Clerk;Medium;M41047;X
 195028;Foreign Minister;Eduardo Rodriguez Larreta;1947;1964;SD;Great Compromiser;Medium;M41048;X
 195029;Foreign Minister;Emilio Frugoni;1947;1964;LWR;The Cloak N Dagger Schemer;Medium;M41021;X
-195030;Minister of Armament;Ignacio Justé Morales;1937;1964;PA;laissez-faire capitalist;Medium;M41050;X
+195030;Minister of Armament;Ignacio Justé Morales;1937;1964;PA;Laissez-Faire Capitalist;Medium;M41050;X
 195031;Minister of Armament;Valentín Gomez;1938;1964;SC;Strategic Air Proponent;Medium;M41051;X
 195032;Minister of Armament;Leopoldo C. Agorio;1938;1964;SD;Theoretical Scientist;Medium;M41052;X
 195033;Minister of Armament;Vittorio Amato Masso;1939;1964;ML;Tank Proponent;Medium;M41053;X
@@ -53,7 +53,7 @@ URU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 195051;Head of Military Intelligence;Enrique Isoba Álvarez;1938;1964;SD;Technical Specialist;Medium;M41026;X
 195052;Head of Military Intelligence;Julio Escalona Vasquez;1943;1964;ML;Dismal Enigma;Medium;M41072;X
 195053;Head of Military Intelligence;Hippolito Gallinal;1943;1964;SD;Logistics Specialist;Medium;M41073;X
-195054;Head of Military Intelligence;Andres Trueba Martínez;1947;1964;SL;Technical Specialist;Medium;M41074;X
+195054;Head of Military Intelligence;Andrés Martínez Trueba;1947;1964;SL;Technical Specialist;Medium;M41074;X
 195055;Head of Military Intelligence;James McFarlane Rubio;1947;1964;LWR;Industrial Specialist;Medium;M41075;X
 195056;Chief of Staff;Cantido Quintio Reyes;1938;1964;SD;School of Defence;Medium;M41077;X
 195057;Chief of Staff;Juan Franki Franque;1943;1964;ML;School of Manoeuvre;Medium;M41078;X
@@ -88,15 +88,15 @@ URU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 195086;Foreign Minister;Calixto Aroyo Tabaorda;1933;1964;LE;Great Compromiser;Medium;M41023;X
 195087;Minister of Armament;Ramón Menendez Súris;1933;1964;LE;Infantry Proponent;Medium;M41024;X
 195088;Minister of Security;Jesús Menendez Súris;1933;1964;LWR;Back Stabber;Medium;M41025;X
-195089;Head of State;Andres Trueba Martínez;1952;1964;SL;Pig-headed Isolationist;Medium;M41074;X
-195090;Chief of Air Force;Juan Manuel Boiso Lanza;1911;1933;ML;AIR SUPERIORITY DOCTRINE;Medium;3588;X
-195091;Chief of Air Force;Alférez Cesáreo L. Berisso;1911;1933;ML;CARPET BOMBING DOCTRINE;Medium;3589;X
-195092;Foreign Minister;Emilio Barbaroux;1911;1933;ML;APOLOGETIC CLERK;Medium;3590;X
-195093;Foreign Minister;Daniel Muñoz;1915;1933;ML;IRON FISTED BRUTE;Medium;3591;X
-195094;Foreign Minister;Baltasar Brum;1919;1933;ML;GENERAL STAFFER;Medium;3592;X
-195095;Foreign Minister;Manuel B. Otero;1919;1933;ML;GREAT COMPROMISER;Medium;unknown;X
-195096;Foreign Minister;Juan Antonio Buero;1919;1933;ML;THE CLOAK N DAGGER SCHEMER;Medium;7992;X
-195097;Foreign Minister;Pedro Manini Ríos;1923;1933;ML;APOLOGETIC CLERK;Medium;unknown;X
+195089;Head of State;Andrés Martínez Trueba;1952;1964;SL;Pig-headed Isolationist;Medium;M41074;X
+195090;Chief of Air Force;Juan Manuel Boiso Lanza;1911;1933;ML;Air Superiority Doctrine;Medium;3588;X
+195091;Chief of Air Force;Alférez Cesáreo L. Berisso;1911;1933;ML;Carpet Bombing Doctrine;Medium;3589;X
+195092;Foreign Minister;Emilio Barbaroux;1911;1933;ML;Apologetic Clerk;Medium;3590;X
+195093;Foreign Minister;Daniel Muñoz;1915;1933;ML;Iron Fisted Brute;Medium;3591;X
+195094;Foreign Minister;Baltasar Brum;1919;1933;ML;General Staffer;Medium;3592;X
+195095;Foreign Minister;Manuel B. Otero;1919;1933;ML;Great Compromiser;Medium;unknown;X
+195096;Foreign Minister;Juan Antonio Buero;1919;1933;ML;The Cloak N Dagger Schemer;Medium;7992;X
+195097;Foreign Minister;Pedro Manini Ríos;1923;1933;ML;Apologetic Clerk;Medium;unknown;X
 195098;Head of Government;José Torcuato Batlle;1911;1933;ML;Ambitious Union Boss;Medium;3593;X
 195099;Head of Government;Feliciano Viera;1915;1933;ML;Naive Optimist;Medium;3594;X
 195100;Head of Government;Baltasar Rodríguez;1919;1933;ML;Silent Workhorse;Medium;7993;X
@@ -105,6 +105,51 @@ URU;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 195103;Head of State;Feliciano Viera;1915;1933;ML;Benevolent Gentleman;Medium;3594;X
 195104;Head of State;Baltasar Rodríguez;1919;1933;ML;Die-hard Reformer;Medium;7993;X
 195105;Head of State;José Serrato;1923;1933;ML;Insignificant Layman;Medium;3595;X
-195106;Minister of Security;Pedro Manini Rios;1911;1933;ML;PRINCE OF TERROR;Medium;7994;X
-195107;Minister of Security;Pablo Varzi;1919;1933;ML;CRIME FIGHTER;Medium;7995;X
-195108;Chief of Air Force;Larre Borges Tyde;1939;1964;ML;Carpet Bombing Doctrine;High;6072;x
+195106;Minister of Security;Pedro Manini Rios;1911;1933;ML;Prince of Terror;Medium;7994;X
+195107;Minister of Security;Pablo Varzi;1919;1933;ML;Crime Fighter;Medium;7995;X
+195108;Chief of Air Force;Larre Borges Tyde;1939;1964;ML;Carpet Bombing Doctrine;High;6072;X
+195109;Head of State;Alberto Fermin Zubiria;1956;1972;SL;Insignificant Layman;Medium;URU - Alberto Fermin Zubiria;X
+195110;Head of State;Arturo Lezama Bagez;1957;1964;SL;Autocratic Charmer;Medium;URU - Arturo Lezama;X
+195111;Head of State;Carlos Fischer Brusoni;1958;1970;SL;Benevolent Gentleman;Medium;URU - Carlos Fischer;X
+195112;Head of State;Martin Echegoyen;1959;1975;ML;Benevolent Gentleman;Medium;URU - Martin Echegoyen;X
+195113;Head of State;Benito Nardone Cetrulo;1960;1965;ML;Stern Imperialist;Medium;URU - Benito Nardone;X
+195114;Head of State;Eduardo Victor Haedo;1961;1971;ML;Insignificant Layman;Medium;URU - Eduardo Victor Haedo;X
+195115;Head of State;Faustino Harrison Usoz;1962;1964;ML;Barking Buffoon;Medium;URU - Faustino Harrison;X
+195116;Head of State;Daniel Fernández Crespo;1963;1965;SL;Die-hard Reformer;Medium;URU - Daniel Fernández Crespo;X
+195117;Head of State;Luis Giannattasio Finocchietti;1964;1966;SL;Autocratic Charmer;Medium;URU - Luis Giannattasio;X
+195118;Head of State;Washington Beltrán Mullin;1965;2004;SC;Ruthless Powermonger;Medium;URU - Washington Beltrán;X
+195119;Head of State;Alberto Héber Usher;1966;1982;ML;Weary Stiffneck;Medium;URU - Alberto Héber Usher;X
+195120;Head of State;Jorge Pacheco Areco;1967;1999;SD;Pig-headed Isolationist;Medium;URU - Jorge Pacheco Areco;X
+195121;Head of State;Juan María Bordaberry Arocena;1972;2012;PA;Weary Stiffneck;Medium;URU - Juan Maria Bordaberry;X
+195122;Head of State;Aparicio Méndez Manfredini;1976;1989;PA;Powerhungry Demagogue;Medium;URU - Aparicio Méndez;X
+195123;Head of State;Gregorio Álvarez Armelino;1981;2017;PA;Stern Imperialist;Medium;URU - Gregorio Conrado Alvarez;X
+195124;Head of State;Julio Sanguinetti Coirolo;1984;2020;SD;Pig-headed Isolationist;Medium;URU - Julio Maria Sanguinetti;X
+195125;Head of State;Luis Lacalle de Herrera;1990;2020;SC;Powerhungry Demagogue;Medium;URU - Luis Alberto Lacalle;X
+195126;Head of State;Jorge Batlle Ibáñez;1990;2020;SD;Ruthless Powermonger;Medium;URU - Jorge Batlle;X
+195127;Head of State;Alberto Zumarán;1984;2020;SC;Benevolent Gentleman;Medium;URU - Alberto Zumarán;X
+195128;Head of State;Eugenio Gómez;1933;1974;ST;Ruthless Powermonger;Medium;URU - Eugenio Gómez;X
+195129;Head of State;Tibaldo Rodney Arismendi;1954;1990;LE;Benevolent Gentleman;Medium;URU - Tibaldo Rodney Arismendi;X
+195130;Head of State;Jaime Gerschuni Pérez;1985;2006;LE;Ruthless Powermonger;Medium;URU - Jaime Gerschuni Pérez;X
+195131;Head of Government;Andrés Martínez Trueba;1952;1964;SL;Naive Optimist;Medium;M41074;X
+195132;Head of Government;Alberto Fermin Zubiria;1956;1972;SL;Corporate Suit;Medium;URU - Alberto Fermin Zubiria;X
+195133;Head of Government;Arturo Lezama Bagez;1957;1964;SL;Ambitious Union Boss;Medium;URU - Arturo Lezama;X
+195134;Head of Government;Carlos Fischer Brusoni;1958;1970;SL;Silent Workhorse;Medium;URU - Carlos Fischer;X
+195135;Head of Government;Martin Echegoyen;1959;1975;ML;Political Protege;Medium;URU - Martin Echegoyen;X
+195136;Head of Government;Benito Nardone Cetrulo;1960;1965;ML;Ambitious Union Boss;Medium;URU - Benito Nardone;X
+195137;Head of Government;Eduardo Victor Haedo;1961;1971;ML;Ambitious Union Boss;Medium;URU - Eduardo Victor Haedo;X
+195138;Head of Government;Faustino Harrison Usoz;1962;1964;ML;Naive Optimist;Medium;URU - Faustino Harrison;X
+195139;Head of Government;Daniel Fernández Crespo;1963;1965;SL;Ambitious Union Boss;Medium;URU - Daniel Fernández Crespo;X
+195140;Head of Government;Luis Giannattasio Finocchietti;1964;1966;SL;Flamboyant Tough Guy;Medium;URU - Luis Giannattasio;X
+195141;Head of Government;Washington Beltrán Mullin;1965;2004;SC;Naive Optimist;Medium;URU - Washington Beltrán;X
+195142;Head of Government;Alberto Héber Usher;1966;1982;ML;Backroom Backstabber;Medium;URU - Alberto Héber Usher;X
+195143;Head of Government;Jorge Pacheco Areco;1967;1999;SD;Happy Amateur;Medium;URU - Jorge Pacheco Areco;X
+195144;Head of Government;Juan María Bordaberry Arocena;1972;2012;PA;Ambitious Union Boss;Medium;URU - Juan Maria Bordaberry;X
+195145;Head of Government;Aparicio Méndez Manfredini;1976;1989;PA;Flamboyant Tough Guy;Medium;URU - Aparicio Méndez;X
+195146;Head of Government;Gregorio Álvarez Armelino;1981;2017;PA;Smiling Oilman;Medium;URU - Gregorio Conrado Alvarez;X
+195147;Head of Government;Julio Sanguinetti Coirolo;1984;2020;SD;Backroom Backstabber;Medium;URU - Julio Maria Sanguinetti;X
+195148;Head of Government;Luis Lacalle de Herrera;1990;2020;SC;Flamboyant Tough Guy;Medium;URU - Luis Alberto Lacalle;X
+195149;Head of Government;Jorge Batlle Ibáñez;1990;2020;SD;Political Protege;Medium;URU - Jorge Batlle;X
+195150;Head of Government;Alberto Zumarán;1984;2020;SC;Silent Workhorse;Medium;URU - Alberto Zumarán;X
+195151;Head of Government;Eugenio Gómez;1933;1974;ST;Backroom Backstabber;Medium;URU - Eugenio Gómez;X
+195152;Head of Government;Tibaldo Rodney Arismendi;1954;1990;LE;Political Protege;Medium;URU - Tibaldo Rodney Arismendi;X
+195153;Head of Government;Jaime Gerschuni Pérez;1985;2006;LE;Flamboyant Tough Guy;Medium;URU - Jaime Gerschuni Pérez;X
