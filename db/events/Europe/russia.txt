@@ -1,0 +1,339 @@
+##########################################################################
+# Russia events
+# id range 3101 - ?
+##########################################################################
+
+# 3101 - RUS - Death of Nicolas II
+# 3102 - RUS - Emperor's New Friends
+
+# 3111 - RUS - Reforming the Army
+# 3112 - RUS - Evgeniy Gusev and His Armored Doctrine
+# 3113 - RUS - Kappel's Mobilization Plans
+# 3114 - RUS - Grishin's Shovel-Men
+# 3115 - RUS - Markov's Guns
+
+##########################################################################
+# Death of Nicolas II
+##########################################################################
+
+event = {
+
+    id = 3101
+    random = no
+    country = RUS    
+
+    trigger = {
+        headofstate = 515095 #Nikolai II
+    }
+
+    name = "Death of Nicolas II"
+    desc = "The Emperor of Russia, Nicolas II, has died in his residence earlier today. With no living male heir, the throne passes to his younger brother - Grand Prince Mikhail. New Emperor must contend with the heavy legacy of his brother's reign: devastating defeat in the Great War, a decade-long civil war and a wobbly Tsardom which is barely held together by exhaustion and fear. Mikhail II has to rise up to the occasion - or be swept aside by the tides of history."
+    style = 2
+    picture = "RusEvent1"
+
+    date = { day = 25 month = november year = 1933 }
+
+    action = {
+        name = "A shot that will ring across the world."
+        command = { type = sleepminister which = 515095 }
+        command = { type = sleepminister which = 515096 }
+        command = { type = headofstate which = 515176 } # Mikhail II
+        command = { type = event which = 3102 where = RUS when = 7 }
+    }
+
+}
+
+##########################################################################
+# Emperor's New Friends
+##########################################################################
+
+event = {
+
+    id = 3102
+    random = no
+    country = RUS    
+
+    name = "Emperor's New Friends"
+    desc = "Officially, the Tsar and Emperor of Russia enjoys limitless authority. In practice Nicolas II relied on a patchwork of political alliances - reactionary officers, large landowners, select bankers - to prop up his reign and suppress popular discontent. But if Russia is to survive, this is simply insufficient. Who does the Emperor turn to for support in this dark hour?"
+    style = 2
+    picture = "Russia"
+
+    action = {
+        name = "Tsardom needs popular legitimacy, re-convene the Duma!"
+        command = { type = set_domestic which = democratic value = 7 }
+	    command = { type = set_domestic which = political_left value = 9 }
+	    command = { type = set_domestic which = freedom value = 8 }
+    }
+
+    action = {
+        name = "The monarchy must become a military dictatorship to save Russia!"
+        command = { type = set_domestic which = democratic value = 3 }
+	    command = { type = set_domestic which = political_left value = 3 }
+	    command = { type = set_domestic which = freedom value = 2 }
+    }
+
+}
+
+##########################################################################
+# Reforming the Army
+##########################################################################
+
+
+event = {
+
+    id = 3111
+    random = no
+    country = RUS
+    style = 2
+
+    decision = {
+        year = 1934
+        atwar = no
+    }
+
+    decision_trigger = {
+        OR = {
+            AND = {
+                AI = no
+                NOT = { dissent = 25 }
+            }
+            AND = {
+                AI = yes
+                NOT = { dissent = 40 }
+            }
+        }
+        oil = 1500
+        supplies = 2000
+    }
+
+    trigger = {
+        OR = {
+            AND = {
+                AI = no
+                NOT = { dissent = 25 }
+            }
+            AND = {
+                AI = yes
+                NOT = { dissent = 40 }
+            }
+        }
+        oil = 1500
+        supplies = 2000
+    }
+
+    name = "Reforming the Army"
+    desc = "Recent military exercises have led to one irrefutable conclusion; the Russian army is a mess! Sweeping reforms are needed if we are to be taken seriously by our neighbors. Each of our top commanders has come up with a plan. Their proposals await your consultation."
+    picture = "Army"
+
+    date = { day = 1 month = january year = 1934 }
+    offset = 2
+    deathdate = { day = 16 month = november year = 1970 }
+
+    action = {
+        ai_chance = 35
+        name = "Kappel: set up a mass army supported by modern weapons."
+        command = { type = activate which = 6570 }
+        command = { type = gain_tech which = 6570 }
+        command = { type = gain_tech which = 6300 } #People's army
+        command = { type = gain_tech which = 6310 } #Large Front
+        #command = { type = waketeam which = 7284 when = 1 }
+        #command = { type = dissent value = -10 } #Kappel is very popular with the army
+        command = { type = supplies value = -1000 }
+        command = { type = set_domestic which = professional_army value = 4 }
+        #command = { type = chiefofstaff which = 4546 }
+        #command = { type = wakeminister which = 4549 } #Evgeniy Messner
+        command = { type = event which = 3113 where = -1 when = 100 }
+    }
+
+    action = {
+        ai_chance = 30
+        name = "Grishin: a modern military under a centralized high-command."
+        command = { type = activate which = 6560 }
+        command = { type = gain_tech which = 6560 }
+        command = { type = gain_tech which = 6030 }
+        command = { type = gain_tech which = 6120 } #Trench Warfare
+        #command = { type = waketeam which = 7285 when = 1 }
+        #command = { type = dissent value = -5 }
+        command = { type = supplies value = -500 }
+        command = { type = set_domestic which = professional_army value = 4 }
+        #command = { type = chiefofstaff which = 4543 }
+        command = { type = event which = 3114 where = -1 when = 100 }
+    }
+
+    action = {
+        ai_chance = 20
+        name = "Markov: promote officers' own initiative at the front."
+        command = { type = activate which = 6010 }
+        command = { type = gain_tech which = 6010 }
+        command = { type = gain_tech which = 6020 }
+        command = { type = gain_tech which = 6040 } #Delay
+        #command = { type = waketeam which = 7287 when = 1 }
+        #command = { trigger = { ai = no } type = dissent value = 5 } #Military top brass is not impressed
+        #command = { trigger = { ai = yes } type = dissent value = -1 }
+        command = { type = supplies value = -500 }
+        command = { type = set_domestic which = professional_army value = 5 }
+        #command = { type = chiefofstaff which = 4262 }
+        command = { type = event which = 3115 where = -1 when = 100 }
+    }
+
+    action = {
+        ai_chance = 15
+        name = "Gusev: a new doctrine of speed and armored vehicles."
+        command = { type = activate which = 6210 }
+        command = { type = gain_tech which = 6210 }
+        command = { type = gain_tech which = 6220 }
+        command = { type = gain_tech which = 6250 } #Schwerpunkt
+        command = { type = gain_tech which = 6900 } #Armor Division formation. Seems logical doesn't it?
+        #command = { type = waketeam which = 7286 when = 1 }
+        #command = { trigger = { ai = no } type = dissent value = 10 } #All our money into tanks?  Are you mad?!?
+        #command = { trigger = { ai = yes } type = dissent value = 5 }
+        command = { type = supplies value = -2500 }
+        command = { type = oilpool value = -1000 }
+        command = { type = set_domestic which = professional_army value = 6 }
+        #command = { type = chiefofarmy which = 4135 }
+        #command = { type = local_setflag which = Gusev_doctrine }
+        command = { type = event which = 3112 where = -1 when = 100 }
+    }
+
+}
+
+##########################################################################
+# Evgeniy Gusev and His Armored Doctrine
+##########################################################################
+
+event = {
+
+    id = 3112
+    random = no
+    country = RUS
+    style = 2
+
+    name = "Evgeniy Gusev and His Armored Doctrine"
+    desc = "To make Gusev's vision of mechanized military a reality, substantial investment is needed."
+    picture = "Russian_tanks"
+
+    action = {
+        ai_chance = 95
+        name = "Invest in the construction of armored formations!"
+        command = { type = add_division which = "Pervaya Tankovaya Divisiya" value = light_armor when = 1 }
+        command = { type = add_division which = "Vtoraya Tankovaya Divisiya" value = light_armor when = 1 }
+        # command = { type = waketeam which = 7228 when = 1 } #Alexei Mikhailovich Surin
+        command = { type = metalpool value = -1500 }
+        command = { type = oilpool value = -1000 }
+        command = { type = supplies value = -1000 }
+        command = { type = money value = -1000 }
+    }
+
+    action = {
+        ai_chance = 5
+        name = "We cannot afford such an investment."
+        command = { type = dissent value = -1 }
+    }
+
+}
+
+##########################################################################
+# Kappel's Mobilization Plans
+##########################################################################
+
+event = {
+
+    id = 3113
+    random = no
+    country = RUS
+    style = 2
+
+    name = "Kappel's Mobilization Plans"
+    desc = "General Kappel has no illusions about skill of his men - or quality of arms Russian state will be able to purchase for them. Russia's greatest advantages are large distances and considerable pool of manpower. Kappel intends to utilize both to their fullest extent by preparing an endless stream of reinforcements for the future war. Our military may not win every battle, but it will win the war of attrition."
+    picture = "rusattsov"
+
+    action = {
+        ai_chance = 95
+        name = "God favors large battalions!"
+        command = { type = build_time which = infantry when = on_upgrade where = relative value = -15 }
+        command = { type = supply_consumption which = land value = -0.05 where = relative }
+        command = { type = oilpool value = -1000 }
+        command = { type = supplies value = -2500 }
+        command = { type = money value = -1000 }
+    }
+
+    action = {
+        ai_chance = 5
+        name = "We cannot afford such an investment."
+        command = { type = dissent value = -1 }
+    }
+
+}
+
+##########################################################################
+# Grishin's Shovel-Men
+##########################################################################
+
+event = {
+
+    id = 3114
+    random = no
+    country = RUS
+    style = 2
+
+    name = "Grishin's Shovel-Men"
+    desc = "General Grishin has learned the lessons of Great War well. Superior fortifications and proper engineering work will carry the day even against a superior opponent. Under his leadership special emphasis will be made on engineering training to aid offensive and defensive action"
+    picture = "russiasoldiersmarch"
+
+    action = {
+        ai_chance = 95
+        name = "Dig hard, dig fast, dig well!"
+        command = { type = ground_def_eff value = 3 when = 0.3 }
+        command = { type = building_prod_mod which = land_fort value = 10 }
+        command = { type = building_prod_mod which = flak value = 10 }
+        command = { type = land_fort_eff value = 10 }
+        command = { type = oilpool value = -1000 }
+        command = { type = supplies value = -2500 }
+        command = { type = money value = -1000 }
+    }
+
+    action = {
+        ai_chance = 5
+        name = "We cannot afford such an investment."
+        command = { type = dissent value = -1 }
+    }
+
+}
+
+##########################################################################
+# Grishin's Shovel-Men
+##########################################################################
+
+event = {
+
+    id = 3115
+    random = no
+    country = RUS
+    style = 2
+
+    name = "Markov's Guns"
+    desc = "General Markov knows that modern war is won the same way every war was won in the last three centuries: superior firepower. If Russia is to prevail against Germany, Russian artillery must become a truly devastating force capable of reducing fortifications, vehicle columns and infantry formations to dust,"
+    picture = "russiasoldiersmarch"
+
+    action = {
+        ai_chance = 95
+        name = "Invest in Russian artillery!"
+        command = { type = build_cost which = artillery when = on_upgrade where = relative value = 15 }
+        command = { type = supply_consumption which = land value = 0.15 where = relative }
+        command = { type = soft_attack which = infantry value = 2 }
+        command = { type = soft_attack which = artillery value = 3 }
+        command = { type = hard_attack which = infantry value = 1 }
+        command = { type = hard_attack which = artillery value = 1 }
+        command = { type = oilpool value = -1000 }
+        command = { type = supplies value = -2500 }
+        command = { type = money value = -1000 }
+    }
+
+    action = {
+        ai_chance = 5
+        name = "We cannot afford such an investment."
+        command = { type = dissent value = -1 }
+    }
+
+}
+

@@ -94,8 +94,8 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515092;Chief of Air Force;Viktor Maltsev;1933;1964;NS;Carpet Bombing Doctrine;High;9195;X
 515093;Chief of Air Force;Semyon Bychkov;1940;1964;FA;Army Aviation Doctrine;High;9316;X
 515094;Chief of Air Force;H.H. Andrei Alexandrovich;1940;1980;SC;Vertical Envelopment Doctrine;High;9317;X
-515095;Head of State;E.I.V. Nikolai II;1894;1933;PA;Despotic Autocrat;High;3045;X
-515096;Head of State;E.I.V. Nikolai II;1915;1933;ML;Despotic Autocrat;High;3045;X
+515095;Head of State;E.I.V. Nikolai II;1894;1935;PA;Despotic Autocrat;High;3045;X
+515096;Head of State;E.I.V. Nikolai II;1915;1935;ML;Despotic Autocrat;High;3045;X
 515097;Head of State;Georgy Lvov;1915;1925;ML;Die-hard Reformer;High;3067;X
 515098;Head of State;Alexander Kerensky;1915;1933;SD;Die-hard Reformer;High;3051;X
 515099;Head of State;E.I.V. Kirill I;1918;1939;PA;Autocratic Charmer;High;3025;X
@@ -104,14 +104,14 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515102;Head of State;E.I.V. Nikolai III;1915;1930;ML;Popular Figurehead;High;4461;X
 515103;Head of Government;Ivan Goremykin;1914;1919;SC;Political Protege;Very High;3060;X
 515104;Head of Government;Vladimir Kokovtsov;1914;1943;PA;Naive Optimist;High;3064;X
-515105;Head of Government;Boris Stürmer;1915;1920;PA;Political Protege;High;3056;X
+515105;Head of Government;Boris Stï¿½rmer;1915;1920;PA;Political Protege;High;3056;X
 515106;Head of Government;Alexander Trepov;1916;1930;PA;Silent Workhorse;High;3065;X
 515107;Head of Government;Nikolay Golitsyn;1916;1925;PA;Happy Amateur;High;3066;X
 515108;Head of Government;Georgy Lvov;1915;1925;ML;Silent Workhorse;High;3067;X
 515109;Head of Government;Alexander Kerensky;1915;1933;SD;Ambitious Union Boss;High;3051;X
 515110;Foreign Minister;Alexander Izvolsky;1906;1920;SC;General Staffer;High;3039;X
 515111;Foreign Minister;Sergey Sazonov;1914;1933;PA;Apologetic Clerk;Very High;8801;X
-515112;Foreign Minister;Boris Stürmer;1916;1920;PA;Iron Fisted Brute;High;3056;X
+515112;Foreign Minister;Boris Stï¿½rmer;1916;1920;PA;Iron Fisted Brute;High;3056;X
 515113;Foreign Minister;Nikolay Pokrovsky;1915;1933;PA;Great Compromiser;High;3059;X
 515114;Foreign Minister;Pavel Milyukov;1914;1943;ML;Ideological Crusader;Medium;3054;X
 515115;Foreign Minister;Mikhail Tereshchenko;1915;1956;SL;Ideological Crusader;High;3058;X
@@ -136,7 +136,7 @@ RUS;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 515134;Minister of Security;Nikolay Maklakov;1910;1917;PA;Crime Fighter;Very High;3085;X
 515135;Minister of Security;Nikolay Shcherbatov;1913;1917;PA;Silent Lawyer;High;3957;X
 515136;Minister of Security;Alexey Khvostov;1913;1933;PA;Back Stabber;High;3086;X
-515137;Minister of Security;Boris Stürmer;1914;1918;PA;Efficient Sociopath;High;3056;X
+515137;Minister of Security;Boris Stï¿½rmer;1914;1918;PA;Efficient Sociopath;High;3056;X
 515138;Minister of Security;Alexander Protopopov;1914;1919;PA;Crooked Kleptocrat;High;3083;X
 515139;Minister of Security;Georgy Lvov;1914;1926;ML;Media Magnate;High;3067;X
 515140;Minister of Security;Nikolay Avksentev;1914;1944;SD;Generic;High;4974;X

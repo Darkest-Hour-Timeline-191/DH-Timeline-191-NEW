@@ -42,7 +42,7 @@ province = {
   naval_base = { size = 4 current_size = 4 }
 }
 province = {
-  id = 143 # Kuolajärvi
+  id = 143 # Kuolajï¿½rvi
   anti_air = 2
   air_base = { size = 10 current_size = 10 }
 }
@@ -215,11 +215,11 @@ province = {
   air_base = { size = 5 current_size = 5 }
 }
 province = {
-  id = 3338 # Sodankylä
+  id = 3338 # Sodankylï¿½
   province_revoltrisk = 10
 }
 province = {
-  id = 3344 # Pitkäranta
+  id = 3344 # Pitkï¿½ranta
   province_revoltrisk = 10
 }
 province = {
@@ -387,20 +387,20 @@ country = {
     defense_lobby     = 6
     interventionism   = 6
   }
-  headofstate            = { type = 9 id = 515176 } # E.I.V. Mikhail II
+  headofstate            = { type = 9 id = 515095 } # E.I.V. Nikolai II
   headofgovernment       = { type = 9 id = 515198 } # Nikolai Y. Markov
   foreignminister        = { type = 9 id = 515019 } # Konstantin Rodzaevsky
   armamentminister       = { type = 9 id = 515032 } # Mikhail Meandrov
   ministerofsecurity     = { type = 9 id = 515047 } # Boris Menshagin
   ministerofintelligence = { type = 9 id = 515053 } # Sergey Bunyachenko
   chiefofstaff           = { type = 9 id = 515065 } # Mikhail Meandrov
-  chiefofarmy            = { type = 9 id = 515068 } # Mikhail Bogdanov
+  chiefofarmy            = { type = 9 id = 515078 } # Nikolai Skorodumov
   chiefofnavy            = { type = 9 id = 515087 } # Sergey Evdokimov
   chiefofair             = { type = 9 id = 515092 } # Viktor Maltsev
 
   landunit = {
     id       = { type = 10848 id = 1 }
-    name     = "Raboche-Krest'yanskaya Imperatorskaya Armyia"
+    name     = "Rossiyskaya Imperatorskaya Armiya"
     location = 175
     division = {
       id             = { type = 10848 id = 2 }
@@ -2180,11 +2180,11 @@ country = {
   }
   landunit = {
     id       = { type = 10848 id = 262 }
-    name     = "Osobyi Kolkhoznyi Korpus"
+    name     = "Osobyi Primorskiy Korpus"
     location = 175
     division = {
       id             = { type = 10848 id = 263 }
-      name           = "1-ya Kolkhoznaya Strelkovaya Diviziya"
+      name           = "1-ya Amurskaya Strelkovaya Diviziya"
       type           = infantry
       model          = 8
       extra          = artillery
@@ -2193,21 +2193,21 @@ country = {
     }
     division = {
       id             = { type = 10848 id = 264 }
-      name           = "2-ya Kolkhoznaya Strelkovaya Diviziya"
+      name           = "2-ya Amurskaya Strelkovaya Diviziya"
       type           = infantry
       model          = 8
       strength       = 80
     }
     division = {
       id             = { type = 10848 id = 265 }
-      name           = "3-ya Kolkhoznaya Strelkovaya Diviziya"
+      name           = "3-ya Amurskaya Strelkovaya Diviziya"
       type           = infantry
       model          = 8
       strength       = 80
     }
     division = {
       id             = { type = 10848 id = 266 }
-      name           = "Kolkhoznaya Kavaleriiskaya Diviziya"
+      name           = "Amurskaya Kavaleriiskaya Diviziya"
       type           = cavalry
       model          = 8
       strength       = 100
@@ -2847,7 +2847,7 @@ country = {
   }
   division_development = {
     id             = { type = 10848 id = 8503 }
-    name           = "Kirov"
+    name           = "Vityaz"
     type           = heavy_cruiser
     model          = 5
     cost           = 0.1
@@ -2858,7 +2858,7 @@ country = {
   }
   division_development = {
     id             = { type = 10848 id = 8504 }
-    name           = "Voroshilov"
+    name           = "Rynda"
     type           = heavy_cruiser
     model          = 5
     cost           = 0.1

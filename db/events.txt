@@ -21,3 +21,6 @@ event = "db\events\Europe flavour.txt"
 event = "db/events/North America/Entente/CSA Domestic.txt"
 event = "db/events/North America/Entente/CSA Capture Events.txt"
 event = "db/events/North America/Entente/CSA flavour.txt"
+
+# Europe
+event = "db/events/Europe/russia.txt"
