@@ -20,3 +20,45 @@ U69;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 1160018;Chief of Army;Antonio Pujol;1933;1995;ST;Static Defence Doctrine;Very High;U69 - Antonio Pujol;X
 1160019;Chief of Navy;Antonio Pujol;1933;1995;ST;Base Control Doctrine;Very High;U69 - Antonio Pujol;X
 1160020;Chief of Air Force;Antonio Pujol;1933;1995;ST;Army Aviation Doctrine;Very High;U69 - Antonio Pujol;X
+1160021;Head of State;Manuel Avila Camacho;1940;1964;SD;Stern Imperialist;High;M36032;X
+1160022;Head of State;Miguel Aleman Valdes;1946;1964;SD;Benevolent Gentleman;High;M36033;X
+1160023;Head of State;Adolfo Ruiz Cortines;1952;1964;SD;Insignificant Layman;High;M36065;X
+1160024;Head of State;Adolfo Lopez Mateos;1958;1970;SD;Popular Figurehead;Medium;MEX - Adolfo Lopez Mateos;X
+1160025;Head of State;Gustavo Díaz Ordaz;1964;1980;SD;Ruthless Powermonger;Medium;MEX - Gustavo Díaz Ordaz;X
+1160026;Head of State;Luis Echeverría Álvarez;1970;2020;SD;Autocratic Charmer;Medium;MEX - Luis Echeverría Alvarez;X
+1160027;Head of State;José López Portillo;1976;2005;SD;Weary Stiffneck;Medium;MEX - José López Portillo;X
+1160028;Head of State;Miguel de la Madrid;1982;2010;SD;Stern Imperialist;Medium;MEX - Miguel de la Madrid;X
+1160029;Head of State;Carlos Salinas de Gortari;1988;2020;SL;Die-hard Reformer;Medium;MEX - Carlos Salinas de Gortari;X
+1160030;Head of State;Ernesto Zedillo;1994;2020;SL;Autocratic Charmer;Medium;MEX - Ernesto Zedillo;X
+1160031;Head of State;Luis Hector Álvarez;1958;2020;ML;Die-hard Reformer;Medium;MEX - Luis Hector Alvarez;X
+1160032;Head of State;José González Torres;1964;1999;ML;Stern Imperialist;Medium;MEX - José González Torres;X
+1160033;Head of State;Efraín González Morfín;1970;2013;ML;Insignificant Layman;Medium;MEX - Efraín González Morfín;X
+1160034;Head of State;Manuel González Hinojosa;1976;2006;ML;Weary Stiffneck;Medium;MEX - Manuel González Hinojosa;X
+1160035;Head of State;Pablo Emilio Madero;1982;2008;ML;Benevolent Gentleman;Medium;MEX - Pablo Emilio Madero;X
+1160036;Head of State;Manuel Clouthier;1988;1990;ML;Die-hard Reformer;Medium;MEX - Manuel Clouthier;X
+1160037;Head of State;Diego Fernández de Cevallos;1994;2020;ML;Barking Buffoon;Medium;MEX - Diego Fernández de Cevallos;X
+1160038;Head of State;Amalia González Caballero;1969;1986;ST;Autocratic Charmer;Very High;U69 - Amalia González Caballero;X
+1160039;Head of State;José Chávez Morado;1970;2003;ST;Ruthless Powermonger;High;U69 - José Chávez Morado;X
+1160040;Head of State;Arnoldo Martínez Verdugo;1969;2013;LE;Benevolent Gentleman;Very High;U69 - Arnoldo Martínez Verdugo;X
+1160041;Head of State;Cuauhtémoc Cárdenas;1985;2020;LWR;Pig-headed Isolationist;High;U69 - Cuauhtémoc Cárdenas;X
+1160042;Head of Government;Manuel Avila Camacho;1940;1964;SD;Corporate Suit;High;M36032;X
+1160043;Head of Government;Miguel Aleman Valdes;1946;1964;SD;Smiling Oilman;High;M36033;X
+1160044;Head of Government;Adolfo Ruiz Cortines;1952;1964;SD;Political Protege;High;M36065;X
+1160045;Head of Government;Adolfo Lopez Mateos;1958;1970;SD;Ambitious Union Boss;Medium;MEX - Adolfo Lopez Mateos;X
+1160046;Head of Government;Gustavo Díaz Ordaz;1964;1980;SD;Backroom Backstabber;Medium;MEX - Gustavo Díaz Ordaz;X
+1160047;Head of Government;Luis Echeverría Álvarez;1970;2020;SD;Corporate Suit;Medium;MEX - Luis Echeverría Alvarez;X
+1160048;Head of Government;José López Portillo;1976;2005;SD;Political Protege;Medium;MEX - José López Portillo;X
+1160049;Head of Government;Miguel de la Madrid;1982;2010;SD;Corporate Suit;Medium;MEX - Miguel de la Madrid;X
+1160050;Head of Government;Carlos Salinas de Gortari;1988;2020;SL;Naive Optimist;Medium;MEX - Carlos Salinas de Gortari;X
+1160051;Head of Government;Ernesto Zedillo;1994;2020;SL;Happy Amateur;Medium;MEX - Ernesto Zedillo;X
+1160052;Head of Government;Luis Hector Álvarez;1958;2020;ML;Political Protege;Medium;MEX - Luis Hector Alvarez;X
+1160053;Head of Government;José González Torres;1964;1999;ML;Smiling Oilman;Medium;MEX - José González Torres;X
+1160054;Head of Government;Efraín González Morfín;1970;2013;ML;Silent Workhorse;Medium;MEX - Efraín González Morfín;X
+1160055;Head of Government;Manuel González Hinojosa;1976;2006;ML;Naive Optimist;Medium;MEX - Manuel González Hinojosa;X
+1160056;Head of Government;Pablo Emilio Madero;1982;2008;ML;Political Protege;Medium;MEX - Pablo Emilio Madero;X
+1160057;Head of Government;Manuel Clouthier;1988;1990;ML;Flamboyant Tough Guy;Medium;MEX - Manuel Clouthier;X
+1160058;Head of Government;Diego Fernández de Cevallos;1994;2020;ML;Flamboyant Tough Guy;Medium;MEX - Diego Fernández de Cevallos;X
+1160059;Head of Government;Amalia González Caballero;1969;1986;ST;Political Protege;Very High;U69 - Amalia González Caballero;X
+1160060;Head of Government;José Chávez Morado;1970;2003;ST;Backroom Backstabber;High;U69 - José Chávez Morado;X
+1160061;Head of Government;Arnoldo Martínez Verdugo;1969;2013;LE;Naive Optimist;Very High;U69 - Arnoldo Martínez Verdugo;X
+1160062;Head of Government;Cuauhtémoc Cárdenas;1985;2020;LWR;Ambitious Union Boss;High;U69 - Cuauhtémoc Cárdenas;X

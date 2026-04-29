@@ -1,6 +1,6 @@
 ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-110001;Head of State;Carol II;1933;1964;SC;Benevolent Gentleman;High;M22001;X
+110001;Head of State;H.M. Carol II;1933;1964;SC;Benevolent Gentleman;High;M22001;X
 110002;Head of Government;Gheorghe Tatarescu;1919;1964;SC;Silent Workhorse;High;M22002;X
 110003;Foreign Minister;Nicolae Titulescu;1912;1964;SC;Great Compromiser;Medium;M22003;X
 110004;Minister of Armament;Constantin I.C. Bratianu;1933;1964;SC;Resource Industrialist;High;M22004;X
@@ -10,21 +10,21 @@ ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 110008;Chief of Army;Marin Ceausu;1933;1964;SC;Static Defence Doctrine;Low;M22008;X
 110009;Chief of Navy;Nicolae Caranfil;1933;1964;SC;Decisive Naval Battle Doctrine;Low;M22009;X
 110010;Chief of Air Force;Dante Vizante;1933;1964;SC;Air Superiority Doctrine;Medium;M22010;X
-110011;Head of State;Carol II;1933;1964;SL;Benevolent Gentleman;High;M22001;X
-110012;Head of State;Carol II;1933;1964;PA;Benevolent Gentleman;High;M22001;X
-110013;Head of State;Mihai I;1939;1964;SC;Insignificant Layman;High;M22011;X
-110014;Head of State;Mihai I;1939;1964;PA;Insignificant Layman;High;M22011;X
-110016;Head of State;Corneliu Zelea Codreanu;1933;1964;NS;Powerhungry Demagogue;High;2985;X
+110011;Head of State;H.M. Carol II;1933;1964;SL;Benevolent Gentleman;High;M22001;X
+110012;Head of State;H.M. Carol II;1933;1964;PA;Benevolent Gentleman;High;M22001;X
+110013;Head of State;H.M. Mihai I;1939;1964;SC;Insignificant Layman;High;M22011;X
+110014;Head of State;H.M. Mihai I;1939;1964;PA;Insignificant Layman;High;M22011;X
+110016;Head of State;Corneliu Zelea Codreanu;1933;1964;NS;Powerhungry Demagogue;High;M22053;X
 110018;Head of State;Horia Sima;1939;1964;NS;Insignificant Layman;High;M22054;X
 110017;Head of State;Lucretiu Patrascanu;1931;1964;LE;Die-hard Reformer;High;2986;X
 110015;Head of State;Constantin I. Parhon;1933;1964;ST;Powerhungry Demagogue;High;M22038;X
 110019;Head of Government;Octavian Goga;1938;1964;SL;Happy Amateur;High;M22041;X
-110020;Head of Government;Miron Cristea;1938;1939;PA;naive optimist;High;M22042;X
+110020;Head of Government;Miron Cristea;1938;1939;PA;Naive Optimist;High;M22042;X
 110021;Head of Government;Armand Calinescu;1939;1964;SL;Smiling Oilman;High;M22043;X
 110022;Head of Government;Gheorghe Argeseanu;1939;1964;SL;Silent Workhorse;High;M22044;X
 110023;Head of Government;Constantin Argetoianu;1939;1964;SL;Political Protege;High;M22045;X
 110024;Head of Government;Ion Gigurtu;1940;1964;SL;Corporate Suit;High;M22047;X
-110025;Head of Government;Ion Antonescu;1940;1964;PA;Old General;High;M22007;X
+110025;Head of Government;Ion Antonescu;1940;1964;FA;Old General;High;M22007;X
 110026;Head of Government;Constantin Sanatescu;1944;1964;PA;Old General;High;M22049;X
 110027;Head of Government;Nicolae Radescu;1944;1964;SC;Happy Amateur;High;M22050;X
 110031;Head of Government;Iuliu Maniu;1938;1964;SD;Naive Optimist;High;M22055;X
@@ -46,15 +46,15 @@ ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 110043;Foreign Minister;Mihai Antonescu;1940;1964;PA;The Cloak N Dagger Schemer;Low;M22077;X
 110044;Foreign Minister;Grigore Niculesco-Buzesti;1944;1964;PA;Apologetic Clerk;Medium;M22078;X
 110045;Foreign Minister;Constantin Visoianu;1944;1964;SC;The Cloak N Dagger Schemer;Medium;M22079;X
-110048;Foreign Minister;Horia Sima;1933;1964;NS;Ideological Crusader;Low;2985;X
+110048;Foreign Minister;Horia Sima;1933;1964;NS;Ideological Crusader;Low;M22054;X
 110049;Foreign Minister;Lucretiu Patrascanu;1931;1964;LE;Great Compromiser;Low;2986;X
 110050;Foreign Minister;Iuliu Hossu;1938;1964;SD;Great Compromiser;Medium;M22084;X
 110051;Foreign Minister;Georges Oprescu;1938;1964;SD;Biased Intellectual;Medium;M22086;X
 110047;Foreign Minister;Ana Pauker;1920;1933;ST;Ideological Crusader;Very High;M22023;X
 110052;Minister of Armament;Virgil Madgearu;1938;1964;SL;Administrative Genius;Medium;M22087;X
-110053;Minister of Armament;Caius Brediceanu;1938;1964;PA;laissez-faire capitalist;High;M22088;X
+110053;Minister of Armament;Caius Brediceanu;1938;1964;PA;Laissez-Faire Capitalist;High;M22088;X
 110055;Minister of Armament;Iuliu Maniu;1939;1964;SC;Administrative Genius;Medium;M22055;X
-110056;Minister of Armament;Constantin Antoniade;1940;1964;SL;laissez-faire capitalist;Low;M22092;X
+110056;Minister of Armament;Constantin Antoniade;1940;1964;SL;Laissez-Faire Capitalist;Low;M22092;X
 110057;Minister of Armament;Gheorghe Potopeanu;1940;1964;FA;Military Entrepreneur;High;M22093;X
 110058;Minister of Armament;Gheorghe Dobre;1942;1964;FA;Infantry Proponent;High;M22094;X
 110059;Minister of Armament;Nicolae Stoenescu;1944;1964;PA;Tank Proponent;Medium;M22095;X
@@ -116,20 +116,20 @@ ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 110116;Chief of Air Force;Emanoil Ionescu;1945;1964;ST;Army Aviation Doctrine;High;M22030;X
 110117;Head of State;Petru Groza;1933;1958;ST;Powerhungry Demagogue;High;M22022;X
 110118;Foreign Minister;Simion Bughici;1933;1964;ST;Apologetic Clerk;Very High;M22163;X
-110119;Chief of Army;Constantin Prezan;1917;1943;PA;static defence doctrine;High;2988;X
+110119;Chief of Army;Constantin Prezan;1917;1943;PA;Static Defence Doctrine;High;2988;X
 110120;Chief of Army;Ferdinand I;1914;1927;PA;Decisive Battle Doctrine;High;2989;X
-110121;Chief of Army;Alexandru Averescu;1914;1938;PA;static defence doctrine;High;2990;X
+110121;Chief of Army;Alexandru Averescu;1914;1938;PA;Static Defence Doctrine;High;2990;X
 110122;Chief of Army;Carol I;1914;1916;PA;Decisive Battle Doctrine;High;2991;X
 110123;Chief of Navy;Nicolae Negru;1917;1933;PA;Decisive Naval Battle Doctrine;Low;2992;X
 110124;Chief of Navy;Constantin Balescu;1918;1933;PA;Open Seas Doctrine;Low;2993;X
 110125;Chief of Navy;Constantin Niculescu-Rizea;1920;1933;PA;Base Control Doctrine;Low;2994;X
-110126;Chief of Staff;Alexandru Averescu;1914;1933;PA;school of defence;High;2990;X
+110126;Chief of Staff;Alexandru Averescu;1914;1933;PA;School of Defence;High;2990;X
 110127;Chief of Staff;Vasile Zottu;1914;1933;PA;School of Mass Combat;High;2995;X
 110128;Chief of Staff;Constantin Cristescu;1914;1933;PA;School of Mass Combat;High;2996;X
 110129;Chief of Staff;Constantin Prezan;1916;1933;PA;School of Mass Combat;High;2988;X
-110130;Chief of Staff;Dumitru Iliescu;1916;1933;PA;school of defence;High;2997;X
+110130;Chief of Staff;Dumitru Iliescu;1916;1933;PA;School of Defence;High;2997;X
 110131;Chief of Army;Alexandru Gorsky;1923;1933;PA;Guns and Butter Doctrine;High;3949;X
-110132;Chief of Staff;Alexandru Lupescu;1923;1933;PA;SCHOOL OF FIRE SUPPORT;High;3950;X
+110132;Chief of Staff;Alexandru Lupescu;1923;1933;PA;School of Fire Support;High;3950;X
 110133;Foreign Minister;Ion N. Lahovari;1914;1933;SC;Apologetic Clerk;High;unknown;X
 110134;Foreign Minister;Alexandru Marghiloman;1914;1933;SC;Ideological Crusader;High;2998;X
 110135;Foreign Minister;Titu Liviu Maiorescu;1914;1933;SC;Apologetic Clerk;Medium;2999;X
@@ -152,13 +152,13 @@ ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 110152;Head of Government;Alexandru Marghiloman;1918;1933;SC;Political Protege;Medium;2998;X
 110153;Head of Government;Artur Vaitoianu;1918;1933;SC;Old General;Medium;3003;X
 110154;Head of Government;Constantin Coanda;1918;1933;PA;Old General;Medium;3001;X
-110155;Head of Government;Corneliu Zelea Codreanu;1933;1964;NS;Flamboyant Tough Guy;High;2985;X
+110155;Head of Government;Corneliu Zelea Codreanu;1933;1964;NS;Flamboyant Tough Guy;High;M22053;X
 110156;Head of Government;Alexandru Averescu;1920;1933;SC;Old General;Medium;2990;X
 110157;Head of Government;Dumitru Take Ionescu;1921;1933;SC;Naive Optimist;Medium;3005;X
-110158;Head of State;Carol I;1914;1933;SC;Stern Imperialist;Medium;2991;X
-110159;Head of State;Ferdinand I;1914;1916;PA;Benevolent Gentleman;Medium;2989;X
-110160;Head of State;Ferdinand I;1914;1916;SC;Benevolent Gentleman;Medium;2989;X
-110161;Head of State;Christian Rakovsky;1914;1941;ST;Die-Hard Reformer;Medium;3008;X
+110158;Head of State;H.M. Carol I;1914;1933;SC;Stern Imperialist;Medium;2991;X
+110159;Head of State;H.M. Ferdinand I;1914;1916;PA;Benevolent Gentleman;Medium;2989;X
+110160;Head of State;H.M. Ferdinand I;1914;1916;SC;Benevolent Gentleman;Medium;2989;X
+110161;Head of State;Christian Rakovsky;1914;1941;ST;Die-hard Reformer;Medium;3008;X
 110162;Minister of Armament;Dumitru Take Ionescu;1914;1933;SC;Resource Industrialist;Medium;3005;X
 110163;Minister of Armament;Petre P. Carp;1914;1933;SC;Resource Industrialist;Medium;3009;X
 110164;Minister of Armament;Emil Costinescu;1914;1933;ML;Laissez-Faire Capitalist;Medium;unknown;X
@@ -193,4 +193,6 @@ ROM;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 110193;Minister of Security;Alexandru Averescu;1920;1933;SC;Crime Fighter;Medium;2990;X
 110194;Minister of Security;Constantin Argetoianu;1920;1933;SC;Prince of Terror;Medium;3013;X
 110195;Minister of Security;Ion Camarasescu;1921;1933;SC;Silent Lawyer;Medium;3024;X
-110196;Head of Government;Ion I.C. Bratianu;1910;1964;SC;Silent Workhorse;High;3018;X
+110196;Head of Government;Ion I.C. Bratianu;1910;1928;SC;Silent Workhorse;High;3018;X
+110197;Head of State;H.M. Mihai I;1963;2018;SC;Insignificant Layman;High;ROM - Mihai of Romania;X
+110198;Head of State;H.M. Mihai I;1963;2018;PA;Insignificant Layman;High;ROM - Mihai of Romania;X

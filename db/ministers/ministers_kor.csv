@@ -1,6 +1,6 @@
 KOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty;Picturename;X
 ;Replacements;;;;;;;;X
-265001;Head of State;Syngman Rhee;1933;1964;SC;Stern Imperialist;Medium;M578001;X
+265001;Head of State;Syngman Rhee;1933;1966;SC;Ruthless Powermonger;Medium;M578001;X
 265002;Head of Government;Kim Ku;1933;1964;SC;Flamboyant Tough Guy;Medium;M578002;X
 265003;Foreign Minister;Kim Gyu Sik;1933;1964;SC;Great Compromiser;Medium;M578003;X
 265004;Minister of Armament;Kim Chang Sook;1933;1964;SC;Military Entrepreneur;Medium;M578004;X
@@ -23,14 +23,14 @@ KOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 265021;Minister of Armament;Rheem Eun Soo;1933;1964;SC;Military Entrepreneur;Medium;M578021;X
 265022;Minister of Security;Baik Cha Bum;1933;1964;SC;Silent Lawyer;Medium;M578022;X
 265023;Head of Military Intelligence;Park Chung Hee;1933;1964;SC;Political Specialist;Medium;M578023;X
-265024;Head of Government;Lee Bom Suk;1933;1964;SC;old airmarshal;Medium;M578010;X
+265024;Head of Government;Lee Bom Suk;1933;1964;SC;Old Airmarshal;Medium;M578010;X
 265025;Head of Government;Shin Sung Mo;1950;1964;SC;Happy Amateur;Medium;M578025;X
 265026;Head of Government;Chang Myon;1950;1964;SC;Silent Workhorse;Medium;M578026;X
 265027;Head of Government;Chang Taek Sang;1952;1964;SC;Corporate Suit;Medium;M578027;X
 265028;Head of Government;Paik Too Chin;1952;1964;SC;Backroom Backstabber;Medium;M578028;X
 265029;Foreign Minister;Chang Myon;1933;1964;SC;Apologetic Clerk;Medium;M578026;X
 265030;Foreign Minister;To Yong Chang;1950;1964;SC;Iron Fisted Brute;Medium;M578030;X
-265031;Minister of Armament;Han Song Paek;1951;1964;SC;laissez-faire capitalist;Medium;M578031;X
+265031;Minister of Armament;Han Song Paek;1951;1964;SC;Laissez-Faire Capitalist;Medium;M578031;X
 265032;Minister of Armament;Shan Sang Ma;1951;1964;SC;Theoretical Scientist;Medium;M578032;X
 265033;Minister of Security;Yong Tae Pyon;1949;1964;SC;Efficient Sociopath;Medium;M578033;X
 265034;Minister of Security;Shin Sung Mo;1952;1964;SC;Crime Fighter;Medium;M578025;X
@@ -38,7 +38,7 @@ KOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 265036;Head of Military Intelligence;Shan Sang Ma;1951;1964;SC;Technical Specialist;Medium;M578032;X
 265037;Foreign Minister;Chang Taek Sang;1952;1964;SC;Biased Intellectual;Medium;M578027;X
 265038;Chief of Air Force;Ahn Chang Nham;1916;1933;ML;Air Superiority Doctrine;High;2802;X
-265039;Chief of Air Force;Seo Whal Bo;1916;1933;ML;vertical envelopment doctrine;High;2803;X
+265039;Chief of Air Force;Seo Whal Bo;1916;1933;ML;Vertical Envelopment Doctrine;High;2803;X
 265040;Chief of Army;Jhi Cheong Cheon;1914;1933;ML;Decisive Battle Doctrine;Medium;2804;X
 265041;Chief of Army;Kim Jwa Jin;1914;1933;SL;Decisive Battle Doctrine;Medium;2805;X
 265042;Chief of Army;Oh Ha Mook;1914;1933;ST;Decisive Battle Doctrine;Medium;2806;X
@@ -57,3 +57,48 @@ KOR;Ruling Cabinet - Start;Name;Start Year;End Year;Ideology;Personality;Loyalty
 265055;Minister of Armament;Kim Dhan Ya;1918;1933;ST;Resource Industrialist;Medium;2813;X
 265056;Minister of Security;Jo Dong Ho;1914;1933;ST;Silent Lawyer;Medium;2814;X
 265057;Minister of Security;Yeo Woon Hyung;1914;1933;ST;Crime Fighter;Medium;2811;X
+265058;Head of State;Yun Po-sun;1960;1991;SL;Barking Buffoon;Medium;KOR - Yun Po-sun;X
+265059;Head of State;Syngman Rhee;1933;1966;PA;Ruthless Powermonger;Medium;M578001;X
+265060;Head of State;Park Chung Hee;1962;2000;FA;Stern Imperialist;High;KOR - Park Chung Hee;X
+265061;Head of State;Choi Kyu-hah;1978;2007;PA;Powerhungry Demagogue;Medium;KOR - Choi Kyu-hah;X
+265062;Head of State;Chun Doo-hwan;1980;2020;FA;Barking Buffoon;High;KOR - Chun Doo-hwan;X
+265063;Head of State;Roh Tae-woo;1987;2020;SC;Die-hard Reformer;High;KOR - Roh Tae-woo;X
+265064;Head of State;Kim Young-sam;1987;2016;ML;Stern Imperialist;Medium;KOR - Kim Young-sam;X
+265065;Head of State;Kim Dae-jung;1971;2010;SL;Benevolent Gentleman;Medium;KOR - Kim Dae-jung;X
+265066;Head of State;Kim Ku;1933;1964;SC;Popular Figurehead;Medium;M578002;X
+265067;Head of State;Cho Bong-am;1952;1964;SD;Powerhungry Demagogue;Medium;KOR - Cho Bong-am;X
+265068;Head of State;Kim Chang-sook;1933;1963;SC;Insignificant Layman;Medium;KOR - Kim Chang-sook;X
+265069;Head of State;Yu Chi-song;1981;2007;SL;Weary Stiffneck;Medium;KOR - Yu Chi-song;X
+265070;Head of State;Lee Hoi-chang;1997;2020;SC;Die-hard Reformer;High;KOR - Lee Hoi-chang;X
+265071;Head of State;H.M. Yi Un;1933;1971;PA;Weary Stiffneck;High;KOR - Prince Yi Un;X
+265072;Head of State;H.M. Yi Ku;1970;2006;PA;Benevolent Gentleman;High;KOR - Prince Yi Ku;X
+265073;Head of State;H.I.M. Hirohito;1901;1990;PA;Puppet Emperor;High;M5001;X
+265074;Head of State;H.I.M. Hirohito;1963;1990;PA;Puppet Emperor;High;JAP - Emperor Showa;X
+265075;Head of State;H.I.M. Akihito;1989;2020;PA;Benevolent Gentleman;High;JAP - Emperor Heisei;X
+265076;Head of State;Ho Hon;1933;1964;LE;Weary Stiffneck;Medium;KOR - Ho Hon;X
+265077;Head of State;Kim Dal-sam;1948;1964;ST;Ruthless Powermonger;Medium;KOR - Kim Dal-sam;X
+265078;Head of State;H.M. Yi Un;1933;1971;SC;Weary Stiffneck;High;KOR - Prince Yi Un;X
+265079;Head of State;H.M. Yi Ku;1970;2006;SC;Benevolent Gentleman;High;KOR - Prince Yi Ku;X
+265080;Head of State;H.I.M. Hirohito;1901;1990;SC;Puppet Emperor;High;M5001;X
+265081;Head of State;H.I.M. Hirohito;1963;1990;SC;Puppet Emperor;High;JAP - Emperor Showa;X
+265082;Head of State;H.I.M. Akihito;1989;2020;ML;Benevolent Gentleman;High;JAP - Emperor Heisei;X
+265083;Head of Government;Syngman Rhee;1933;1966;SC;Backroom Backstabber;Medium;M578001;X
+265084;Head of Government;Syngman Rhee;1933;1966;PA;Backroom Backstabber;Medium;M578001;X
+265085;Head of Government;Heo Jeong;1960;1989;SC;Silent Workhorse;High;KOR - Heo Jeong;X
+265086;Head of Government;Chang Myon;1960;1967;SC;Naive Optimist;Medium;KOR - Chang Myon;X
+265087;Head of Government;Park Chung Hee;1962;2000;FA;Old General;High;KOR - Park Chung Hee;X
+265088;Head of Government;Kim Jong-pil;1972;2019;FA;Political Protege;High;KOR - Kim Jong-pil;X
+265089;Head of Government;Choi Kyu-hah;1975;2007;PA;Happy Amateur;Medium;KOR - Choi Kyu-hah;X
+265090;Head of Government;Nam Duck-woo;1979;2014;FA;Silent Workhorse;High;KOR - Nam Duck-woo;X
+265091;Head of Government;Kim Sang-hyup;1982;1996;PA;Happy Amateur;Medium;KOR - Kim Sang-hyup;X
+265092;Head of Government;Chin Iee-chong;1983;1996;FA;Corporate Suit;Medium;KOR - Chin Iee-chong;X
+265093;Head of Government;Lho Shin-yong;1985;2020;FA;Backroom Backstabber;High;KOR - Lho Shin-yong;X
+265094;Head of Government;Roh Tae-woo;1987;2020;SC;Naive Optimist;High;KOR - Roh Tae-woo;X
+265095;Head of Government;Kim Young-sam;1987;2016;ML;Happy Amateur;Medium;KOR - Kim Young-sam;X
+265096;Head of Government;Kim Dae-jung;1971;2010;SL;Ambitious Union Boss;Medium;KOR - Kim Dae-jung;X
+265097;Head of Government;Cho Bong-am;1952;1964;SD;Backroom Backstabber;Medium;KOR - Cho Bong-am;X
+265098;Head of Government;Kim Chang-sook;1933;1963;SC;Silent Workhorse;Medium;KOR - Kim Chang-sook;X
+265099;Head of Government;Yu Chi-song;1981;2007;SL;Happy Amateur;Medium;KOR - Yu Chi-song;X
+265100;Head of Government;Lee Hoi-chang;1997;2020;SC;Corporate Suit;High;KOR - Lee Hoi-chang;X
+265101;Head of Government;Pak Hon-yong;1933;1964;LE;Ambitious Union Boss;Medium;KOR - Pak Hon-yong;X
+265102;Head of Government;Kim Dal-sam;1948;1964;ST;Reformist Soldierhog;Medium;KOR - Kim Dal-sam;X

@@ -2915,17 +2915,20 @@ U24 = { # Aliancka strefa okupacyjna
 	regular_id = GER
 	intrinsic_gov_type = market_liberal
 }
-U25 = { # Kingdom of Hawaii
+U25 = { # Radziecka strefa okupacyjna
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = {
-663 658 659 660 7242
+300 298 299 301 296 297 310 309 311 80 81 82 83 84 85 86 87 88 89 90 312 313 314 315 375 376 374 76 67 75 74 66
+3248 3247 3246 3249 547 989 2597 3250 1014 3251 970 2627 3252 1015 1016 1018 1904 3253 1405 3257 3256 3255 2381
+3254 2370 3244 3245 546 3243 3242 3241 3240 3239 6500 6520 6521 6917
+7179 7178 7180 7189 7188 7187 7185 7184 7186 7183 7182 7260 7181 7266 7190 7986 7045
 	}
 	min = 1
 	extra = {  }
-	capital = 663
-	regular_id = USA
-	intrinsic_gov_type = paternal_autocrat
+	capital = 300
+	regular_id = GER
+	intrinsic_gov_type = leninist
 }
 U26 = { # Kom. Szwajcaria
 	date = { day = 1 month = january year = 1000 }
@@ -3109,18 +3112,13 @@ U38 = {  # San Marino
 U40 = {  # Lithuanian Belarusian Commonwealth
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 197 }
-	extra = {  }
-	claims = { 
-	205 204 203 202 198 3283 3284 3285 3289
-	194 193 195 196 199 1886 3286 3287 3288 3394
-	206 207 511 577 3280 3281 3282
-	214 3279 3278 3277 213 95 3276 210 3275 272 212 1153
-	188 192 201 216 1564 3455 1874 3399 3400 217 218 221 273 220 3402 3403 274
-	6517 7002
-	7065 7066 7263 7264 7336
+	minimum = { 212 225 3401 1566 273 272 221 1153 274 3403 3402 220 218 217 3399 
+	3400 1874 562 3275 503 102 210 3276 95 213 3278 3277 209 6517 7066 7065 7264 
+	207 206 511 577 2606 3280 3281 3282 3279 7980 7336
 	}
-	capital = 197 
+	extra = { 509 223 214 7263 7335 505 1875 202 3284 3455 215 286 285 219 275 3457 277 6516 6515 7087  }
+	claims = {  }
+	capital = 207 
 	
 }
 
@@ -3496,7 +3494,7 @@ U69 = { # Kom. Meksyk
 	capital =  752
 	intrinsic_gov_type = leninist
 }
-UPR = { # Prusy
+UPR = { # Prussia
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 510 223 2606 3260 304 3261 1811 2647 303 307 511 509 7336 7335 }
@@ -3519,7 +3517,7 @@ U70 = { # Uganda
 	capital = 1064
 }
 
-U71 = { # Dominon of Ulster
+U71 = { # Northern Ireland
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 28 29 7128 7129 }
@@ -3842,20 +3840,13 @@ U99 = { # Togo
 	capital = 1003
 }
 
-UER = { # Ufa
+UER = { # Bavaria
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 
-1570 3677 3678 3675 1150 3676 3669 3668 3670 1828
-3671 3667 1577 3674 3672 3673 3679 3687 3688 1567
-3689 3686 3690 3701 3700 3699 1572 3702 3640 3636
-3642 3637 1573 3638 3639 1593 3641 3660 3658 3661
-1594 3663 3662 1552 3659
-7157 7158 7162 7161 7159 7160
-	}
+	minimum = { 83 85 312 374 375 376 547 3246 3247 3248 3249 7178 7179	 }
 	min = 1
 	extra = {  }				  
-	capital = 1570
+	capital = 376
 }
 
 UES = { # £u¿yce
@@ -3908,26 +3899,59 @@ U68 = { # Sikkim
 	capital =  2043
 }
 
-USN = { # Baluchistan Agency
+USN = { # United American Republic
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 
-2826 5366 2825 5367 5368 5369 5373 5371 5372 5370
- }
+	minimum = { 604 608 609 610 614 618 2686 2688 6377 6378 6379 6380 6381 602 612 2687 2691 6324 6325 6326 6327 6328 6329 6330 6331 6332
+	594 6373 6374 595 6371 6372 596 600 6375 6376 601 2719 6333 603 2689 6463  }
  	min = 1	
 	extra = {  }				  
-	capital =  2826
+	capital =  602 # New York City
+	intrinsic_gov_type = fascist
 }
 
-UAU = { # Deccan States Agency and Kolhapur Residency
+UAP = { # Republic of New Afrika
+	date = { day = 1 month = january year = 1000 }
+	expirydate = { day = 29 month = december year = 3000 }
+	minimum = { 675 2259 2692 6424 6425 6426 6427 6428 6429 678 2255 6430 6431 6432 6433 6434 6435 6436 6437 6438 6439 
+	646 647 670 2711 6440 6441 6442 6443 6444 6445 6446 6447 6448 6449 619 644 645 6478 6479 6480 6481
+	6485 6486 6487 6488 }
+ 	min = 1	
+	extra = { 634 636 637 643 6482 6483 6484 6485 6486 6487 6488  }				  
+	capital = 675 # Jackson, MS
+}
+
+UAU = { # Oceanic Federal Republic
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
 	minimum = { 
-1506 5317 5319 5314
- }
+    1727 1703 1704 1706 1707 1708 1709 1710 1711 1712 1713 1715 1716 1717 1718 1719 1722 1723 1724 1725 
+1729 1730 1732 1733 1693 1696 1697 1698 1700 1702 2966 2967 2968 2969 2970 2971 2972 2973 
+2976 2977 2978 2979 2980 2981 2982 2983 2984 2985 2986 2987 2988 2989 2974 2975
+5895 5896 5897 5898 5899 5900 5901 5902 5903 5904 
+5905 5906 5907 5908 5909 5910 5911 5912 5913 5914 
+5915 5916 5917 5918 5919 5920 5921 5922 5923 5924 
+5925 5926 5927 5928 5929 5930 5931 5932 5933 5934 
+5935 5936 5937 5938 5939 5940 5941 5942 5943 5944 
+5945 5946 5947 5948 5949 5950 5951 5952 5953 5954 
+5955 5956 5957 5958 5959 5960 5961 5962 5963 5964 
+5965 5966 5967 5968 5969 5970 5971 5972 5973 5974 
+5975 5976 5977 5978 5979 5980 5981 5982 5983 5984 
+5985 5986 5987 5988 5989 5990 5991 5992 5993 5994 
+5995 5996 5997 5998 5999 6000 6001 6002 6003 6004 
+6005 6006 6007 6008 6009 6010 6011 6012 6013 6014 
+6015 6016 6017 6018 6019 6020 6021 6022 6023 6024 
+6025 6026 6027 6028 6029 6030 6031 6032 6033 6034 
+6035 6036 6037 6038 6039 6040 6041 6042 6043 6044 
+6045 6046 6047 6048 6049 6050 6051 6052 6053 6054 
+6055 6056 6071 6088
+1871 1868 1869 1870 1872 1873
+6057 6058 6059 6060 6061 6062 6063 6064 6065 6066 6067 6068 6069 6070
+7314
+}
  	min = 1	
 	extra = {  }				  
-	capital =  1506
+	capital =  1727
 }
 
 UCH = { # Gwalior Residency
@@ -3956,15 +3980,13 @@ UBO = { # Carlist-National Spain
  intrinsic_gov_type = fascist
 }
 
-UTC = { # North-West Frontier States Agency
+UTC = { # Taiwan
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 
-2827 5354 5353
- }
+	minimum = { 1322 1323 1324 1923 3133 }
  	min = 1	
 	extra = {  }				  
-	capital =  2827
+	capital = 1323
 }
 
 UGS = { # Punjab States Agency
@@ -4000,15 +4022,16 @@ UIC = { # Baroda and Gujarat States Agency
 	capital =  1464
 }
 
-UTL = { # Central India Agency
+UTL = { # American People's Commonwealth
 	date = { day = 1 month = january year = 1000 }
 	expirydate = { day = 29 month = december year = 3000 }
-	minimum = { 
-631 5264 5266 722 5263 5259 5258 1460 5257
- }
+	minimum = { 621 623 2723 6403 6404 6405 6406 6407 6408 6409 6410 6411 6412 693 694 2261 2684 6334 6335 6336 6337 6338 6339 6340 6341 6342 6343 6344 6345 6346 
+	616 617 622 2721 2722 6413 6414 6415 6416 6417 6418 6419 6420 6421 6422 6423 620 6392 6400 6402 624 691 6347 6348 6349 6350 6351 6352 6353 6354 6355 6356
+	619 613 627 6388 6389 6390 6391 6392 6393 6394 615 628 2685 2720 6382 6383 6384 6385 6386 6387  }
  	min = 1	
 	extra = {  }				  
-	capital =  631
+	capital = 620
+	intrinsic_gov_type = leninist
 }
 
 UPS = { # Eastern States Agency

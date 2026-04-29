@@ -74,8 +74,8 @@ country = {
     defense_lobby     = 6
     interventionism   = 3
   }
-  headofstate            = { type = 9 id = 160229 } # Pedro IV
-  headofgovernment       = { type = 9 id = 160230 } # Afonso Celso Junior
+  headofstate            = { type = 9 id = 160229 } # H.I.M. Pedro IV
+  headofgovernment       = { type = 9 id = 160230 } # H.I.M. Pedro V
 
   landunit = {
     id       = { type = 18000 id = 1 }

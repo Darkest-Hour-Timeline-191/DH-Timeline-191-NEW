@@ -137,9 +137,9 @@ country = {
     defense_lobby     = 5
     interventionism   = 4
   }
-  headofstate            = { type = 9 id = 860068 } # S.K.M. Karl I
-  headofgovernment       = { type = 9 id = 860073 } # Leopold Figl
-  foreignminister        = { type = 9 id = 860082 }
+  headofstate            = { type = 9 id = 860068 } # S.K.u.K.M. Karl I
+  headofgovernment       = { type = 9 id = 860073 } # Kurt Schuschnigg
+  foreignminister        = { type = 9 id = 860082 } # Karl Renner
   armamentminister       = { type = 9 id = 860088 }
   ministerofsecurity     = { type = 9 id = 860094 }
   ministerofintelligence = { type = 9 id = 860100 }

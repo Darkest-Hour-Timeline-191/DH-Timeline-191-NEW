@@ -242,3 +242,7 @@ ministers_yug.csv
 ministers_uch.csv
 ministers_ubo.csv
 ministers_u69.csv
+ministers_upr.csv
+ministers_uer.csv
+ministers_utl.csv
+ministers_usn.csv

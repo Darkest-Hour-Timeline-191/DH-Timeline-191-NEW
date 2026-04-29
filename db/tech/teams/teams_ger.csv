@@ -1,53 +1,99 @@
 GER;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
-38;AEG;100139;6;1883;1996;aeronautics;electronics;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-33;Daimler Motoren Gesellschaft;100134;7;1890;1926;mechanics;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-7;Krupp;100126;9;1900;1970;industrial_engineering;mechanics;technical_efficiency;artillery;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-32;Oberschlesien Eisenwerk;100133;3;1914;1920;industrial_engineering;mechanics;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-3;I.G. Farben;T3;9;1925;1970;chemistry;industrial_engineering;general_equipment;management;technical_efficiency;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-39;Siemens & Halske;100128;8;1847;1966;electronics;industrial_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-14;Siemens;100128;8;1966;1970;electronics;industrial_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-37;Fritz Haber;100138;7;1894;1934;chemistry;rocketry;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1;Blohm & Voss;T1;7;1877;2000;naval_engineering;naval_artillery;technical_efficiency;submarine_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+2;Heinkel Flugzeugwerke;T2;7;1922;1965;bomber_design;aeronautics;technical_efficiency;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+3;I.G. Farben;T3;9;1925;2000;chemistry;industrial_engineering;general_equipment;management;technical_efficiency;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+4;Junkers;100078;7;1895;1969;bomber_design;aeronautics;munitions;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+5;Konrad Zuse;T5;7;1935;1970;mathematics;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+6;Kaiserliche Werft Wilhelmshaven;T6;7;1918;2000;naval_engineering;technical_efficiency;naval_artillery;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+7;Krupp;100126;9;1900;2000;industrial_engineering;mechanics;technical_efficiency;artillery;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+8;MAN;T8;8;1900;1970;mechanics;vehicle_engineering;artillery;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+9;Mauser Werke;100127;8;1900;2004;general_equipment;mechanics;training;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+10;Messerschmitt;T10;9;1916;2000;fighter_design;aeronautics;rocketry;mechanics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+11;Opel;T11;7;1862;2000;mechanics;management;technical_efficiency;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+12;Porsche;T12;9;1931;1970;mechanics;vehicle_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+13;Rheinmetall;100004;7;1889;2000;artillery;mechanics;training;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+14;Siemens;100128;8;1847;2000;electronics;industrial_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+15;Volkswagen;T15;6;1937;2000;mechanics;vehicle_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 16;Werner Heisenberg;T16;7;1927;1976;nuclear_physics;nuclear_engineering;mathematics;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 17;Wernher von Braun;T17;9;1934;1976;rocketry;aeronautics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-5;Konrad Zuse;T5;7;1935;1970;mathematics;electronics;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-9;Mauser Werke;100127;8;1900;1970;general_equipment;mechanics;training;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-8;MAN;T8;8;1900;1970;mechanics;vehicle_engineering;artillery;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-11;Opel;T11;7;1900;1970;mechanics;management;technical_efficiency;vehicle_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-12;Porsche;T12;9;1931;1970;mechanics;vehicle_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-13;Rheinmetall;100004;7;1900;1970;artillery;mechanics;training;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-15;Volkswagen;T15;6;1937;1970;mechanics;vehicle_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-34;Joseph Vollmer;100135;6;1914;1920;mechanics;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1;Blohm & Voss;T1;7;1900;1970;naval_engineering;naval_artillery;technical_efficiency;submarine_design;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-6;Kriegsmarinewerft;T6;7;1918;1970;naval_engineering;technical_efficiency;naval_artillery;electronics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-35;Kaiserliche Werft Wilhelmshaven;100136;6;1853;1918;naval_engineering;naval_artillery;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-36;Vulcan-Werke AG;100137;7;1851;1930;naval_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-31;Luftschiffbau Zeppelin;100132;7;1908;2010;aeronautics;aircraft_testing;mechanics;chemistry;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-40;Albatros Werke;100140;7;1909;1931;aeronautics;mechanics;aircraft_testing;technical_efficiency;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-30;Fokker Aeroplanbau;100131;7;1912;1920;aeronautics;avionics;mechanics;artillery;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-4;Junkers;100078;7;1914;1970;bomber_design;aeronautics;munitions;general_equipment;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-41;Gothaer Waggonfabrik;100141;8;1914;1970;aeronautics;mechanics;electronics;chemistry;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-10;Messerschmitt;T10;9;1916;1970;fighter_design;aeronautics;rocketry;mechanics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-2;Heinkel Flugzeugwerke;T2;7;1922;1970;bomber_design;aeronautics;technical_efficiency;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-26;Focke-Wulf;T26;8;1923;1970;fighter_design;aeronautics;avionics;aircraft_testing;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-27;Arado;100129;7;1933;1942;bomber_design;aeronautics;technical_efficiency;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-29;Arado;100129;7;1943;1970;bomber_design;aeronautics;rocketry;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-49;Alfred von Tirpitz;100148;8;1897;1930;submarine_tactics;centralized_execution;naval_training;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-51;Reinhardt Scheer;100150;4;1913;1928;small_taskforce_tactics;seamanship;submarine_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-50;Franz von Hipper;100149;4;1916;1932;large_taskforce_tactics;small_taskforce_tactics;naval_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+18;Adolf Galland;T18;5;1941;1970;fighter_tactics;piloting;fighter_design;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 19;Erich Raeder;T19;7;1922;1960;large_taskforce_tactics;naval_training;seamanship;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-25;Karl Dönitz;T25;8;1935;1970;submarine_tactics;submarine_design;seamanship;centralized_execution;naval_training;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-52;Manfred von Richthofen;100151;8;1916;1918;centralized_execution;fighter_tactics;training;individual_courage;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+20;Erich von Manstein;T20;9;1935;1970;combined_arms_focus;small_unit_tactics;decentralized_execution;maneuver_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 21;Ernst Udet;T21;7;1918;1954;combined_arms_focus;piloting;fighter_tactics;bomber_tactics;decentralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+22;Heinz Guderian;T22;9;1931;1954;combined_arms_focus;small_unit_tactics;decentralized_execution;training;blitzkrieg_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 23;Hermann Göring;T23;4;1918;1960;bomber_tactics;piloting;airborne_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 24;Hugo Sperrle;T24;7;1935;1970;bomber_tactics;training;centralized_execution;fighter_tactics;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-18;Adolf Galland;T18;5;1941;1970;fighter_tactics;piloting;fighter_design;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-28;Jäger Kampfschule;100130;7;1900;1970;Airborne_Training;Mountain_Training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-46;Alfred von Schlieffen;100145;7;1891;1906;centralized_execution;large_unit_focus;large_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-45;Helmuth von Moltke;100144;6;1906;1916;centralized_execution;large_unit_focus;large_unit_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-48;Max Hoffmann;100147;8;1914;1927;centralized_execution;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+25;Karl Dönitz;T25;8;1935;1970;submarine_tactics;submarine_design;seamanship;centralized_execution;naval_training;small_taskforce_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+26;Focke-Wulf;T26;8;1923;1964;fighter_design;aeronautics;avionics;aircraft_testing;general_equipment;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+27;Arado;100129;7;1933;1942;bomber_design;aeronautics;technical_efficiency;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+28;Jäger Kampfschule;100130;7;1900;2000;airborne_training;mountain_training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+29;Arado;100129;7;1943;2000;bomber_design;aeronautics;rocketry;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+30;Fokker Aeroplanbau;100131;7;1912;1996;aeronautics;avionics;mechanics;artillery;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+31;Luftschiffbau Zeppelin;100132;7;1908;2010;aeronautics;aircraft_testing;mechanics;chemistry;rocketry;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+32;Oberschlesien Eisenwerk;100133;3;1914;1920;industrial_engineering;mechanics;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+33;Daimler Motoren Gesellschaft;100134;7;1890;1926;mechanics;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+34;Joseph Vollmer;100135;6;1914;1920;mechanics;artillery;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+35;Kaiserliche Werft Wilhelmshaven;100136;6;1853;1918;naval_engineering;naval_artillery;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+36;Vulcan-Werke AG;100137;7;1851;1930;naval_engineering;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+37;Fritz Haber;100138;7;1894;1934;chemistry;rocketry;general_equipment;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+38;AEG;100139;6;1883;1996;aeronautics;electronics;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+39;Siemens & Halske;100128;8;1847;1966;electronics;industrial_engineering;technical_efficiency;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+40;Albatros Werke;100140;7;1909;1931;aeronautics;mechanics;aircraft_testing;technical_efficiency;avionics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+41;Gothaer Waggonfabrik;100141;8;1883;2017;aeronautics;mechanics;electronics;chemistry;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+42;Georg Bruchmüller;100142;5;1916;1924;centralized_execution;combined_arms_focus;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 43;Paul von Hindenburg;100502;7;1914;1930;centralized_execution;large_unit_focus;large_unit_tactics;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 44;Erich Ludendorff;100143;7;1914;1936;centralized_execution;large_unit_focus;large_unit_tactics;individual_courage;cavalry_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-42;Georg Bruchmüller;100142;5;1916;1924;centralized_execution;combined_arms_focus;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+45;Helmuth von Moltke;100144;6;1906;1916;centralized_execution;large_unit_focus;large_unit_tactics;infantry_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+46;Alfred von Schlieffen;100145;7;1891;1906;centralized_execution;large_unit_focus;large_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 47;Oskar von Hutier;100146;9;1917;1934;decentralized_execution;small_unit_tactics;individual_courage;combined_arms_focus;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-22;Heinz Guderian;T22;9;1931;1954;combined_arms_focus;small_unit_tactics;decentralized_execution;training;BLITZKRIEG_TACTICS;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-20;Erich von Manstein;T20;9;1935;1970;combined_arms_focus;small_unit_tactics;decentralized_execution;MANEUVER_TACTICS;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+48;Max Hoffmann;100147;8;1914;1927;centralized_execution;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+49;Alfred von Tirpitz;100148;8;1897;1930;submarine_tactics;centralized_execution;naval_training;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+50;Franz von Hipper;100149;4;1916;1932;large_taskforce_tactics;small_taskforce_tactics;naval_training;centralized_execution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+51;Reinhardt Scheer;100150;4;1913;1928;small_taskforce_tactics;seamanship;submarine_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+52;Manfred von Richthofen;100151;8;1916;1918;centralized_execution;fighter_tactics;training;individual_courage;piloting;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+53;Dornier-Flugzeugwerke;GER - Dornier;7;1922;2002;aeronautics;fighter_design;bomber_design;mechanics;munitions;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+54;Friedrich Krupp Germaniawerft;GER - Germaniawerft;8;1863;2000;naval_engineering;naval_artillery;carrier_design;submarine_design;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+55;C.G. Haenel;GER - C G  Haenel;7;1840;2000;artillery;electronics;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+56;Henschel & Sohn;GER - Henschel;7;1810;1964;artillery;mechanics;technical_efficiency;vehicle_engineering;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+57;Orenstein & Koppel;GER - Orenstein-Koppel;8;1876;1999;naval_engineering;mechanics;technical_efficiency;vehicle_engineering;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+58;Telefunken;GER - Telefunken;7;1903;1967;mechanics;electronics;management;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+59;Merck;GER - Merck;7;1850;2000;chemistry;management;industrial_engineering;medicine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+60;BASF;GER - BASF;7;1865;2000;chemistry;general_equipment;management;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+61;Gutehoffnungshütte;GER - Gutehoffnungshutte;8;1810;1986;mechanics;general_equipment;management;industrial_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+62;Thyssen & Co.;GER - Thyssen;9;1891;2000;mechanics;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+63;Albert Einstein;GER - Albert Einstein;9;1900;1955;nuclear_physics;nuclear_engineering;mathematics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+64;Abteilung III b;GER - Abteilung III b;7;1889;2000;electronics;training;mathematics;rt_user_2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+65;Deutsches Heer;GER - Deutsches Heer;9;1871;2000;large_unit_tactics;small_unit_tactics;static_defense_tactics;blitzkrieg_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+66;Kaiserliche Marine;GER - Kaiserliche Marine;7;1872;2000;carrier_tactics;submarine_tactics;large_taskforce_tactics;small_taskforce_tactics;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+67;Luftstreitkräfte;GER - Luftstreitkrafte;8;1913;2000;fighter_tactics;bomber_tactics;training;piloting;individual_courage;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+68;Preußische Kriegsakademie;GER - Prussian Staff College;6;1801;2000;centralized_execution;decentralized_execution;chemistry;general_equipment;training;management;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+69;Gerd von Rundstedt;GER - Gerd von Rundstedt;6;1933;1953;large_unit_tactics;centralized_execution;individual_courage;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+70;Werner von Fritsch;GER - Werner von Fritsch;6;1936;1945;large_unit_focus;combined_arms_focus;technical_efficiency;large_unit_tactics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+71;Erwin von Witzleben;GER - Erwin von Witzleben;6;1933;1964;small_unit_tactics;decentralized_execution;individual_courage;infantry_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+72;Friedrich von Cochenhausen;GER - Friedrich von Cochenhausen;7;1933;1946;small_unit_tactics;centralized_execution;infantry_focus;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+73;Carl Philipp Thoholte;GER - Carl Philipp Thoholte;7;1933;1954;small_unit_tactics;combined_arms_focus;maneuver_tactics;technical_efficiency;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+74;Oswald Lutz;GER - Oswald Lutz;7;1933;1942;small_unit_tactics;decentralized_execution;combined_arms_focus;maneuver_tactics;blitzkrieg_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+75;Ernst Volckheim;GER - Ernst Volckheim;8;1933;1962;small_unit_tactics;decentralized_execution;combined_arms_focus;blitzkrieg_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+76;Siegfried Westphal;GER - Siegfried Westphal;8;1952;1970;small_unit_tactics;large_unit_tactics;combined_arms_focus;maneuver_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+77;Stab Seebatallion Kiel;GER - Stab Seebatallion Kiel;5;1918;2000;marine_training;small_unit_tactics;individual_courage;general_equipment;naval_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+78;Kaiserliche Fallschirmtruppe;GER - Fallschirmtruppe;8;1935;2000;airborne_training;small_unit_tactics;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+79;Gebirgsjägerschule Mittenwald;GER - GBJSM;8;1933;2000;mountain_training;small_unit_tactics;artillery;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+80;Kommando Schnelle Kräfte;GER - KSK;7;1947;2000;airborne_training;marine_training;small_unit_tactics;maneuver_tactics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+81;Alfred Saalwächter;GER - Alfred Saalwachter;5;1933;1955;large_taskforce_tactics;centralized_execution;carrier_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+82;Lothar von Arnauld de la Perière;GER - Lothar von Arnauld;6;1918;1952;centralized_execution;submarine_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+83;Otto Ciliax;GER - Otto Ciliax;7;1941;1960;large_taskforce_tactics;centralized_execution;decentralized_execution;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+84;Friedrich Ruge;GER - Friedrich Ruge;7;1943;1964;naval_engineering;small_taskforce_tactics;decentralized_execution;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+85;Karl-Adolf Zenker;GER - Karl-Adolf Zenker;7;1953;1970;small_taskforce_tactics;centralized_execution;naval_training;seamanship;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+86;Otto Kretschmer;GER - Otto Kretschmer;8;1951;1970;decentralized_execution;submarine_tactics;naval_training;seamanship;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+87;Edward Wegener;GER - Edward Wegener;8;1950;1970;large_taskforce_tactics;small_taskforce_tactics;carrier_tactics;naval_training;maneuver_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+88;Ernst Udet;GER - Ernst Udet;6;1933;1945;bomber_tactics;decentralized_execution;piloting;combined_arms_focus;aeronautics;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+89;Wolfram von Richthofen;GER - Wolfram von Richthofen;6;1937;1945;bomber_tactics;centralized_execution;piloting;aircraft_testing;general_equipment;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+90;Friedrich Christiansen;GER - Friedrich Christiansen;6;1933;1948;bomber_tactics;centralized_execution;piloting;aircraft_testing;naval_training;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+91;Alfred Keller;GER - Alfred Keller;6;1933;1950;bomber_tactics;centralized_execution;piloting;mechanics;training;small_unit_tactics;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+92;Heinrich Trettner;GER - Heinrich Trettner;6;1953;1966;bomber_tactics;centralized_execution;small_unit_tactics;chemistry;piloting;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+93;Adolf Galland;GER - Adolf Galland;6;1944;1970;fighter_tactics;bomber_tactics;decentralized_execution;piloting;combined_arms_focus;training;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+94;Ulrich Grauert;GER - Ulrich Grauert;7;1933;1955;bomber_tactics;centralized_execution;piloting;technical_efficiency;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+95;Johannes Steinhoff;GER - Johannes Steinhoff;7;1948;1970;fighter_tactics;centralized_execution;piloting;technical_efficiency;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+96;Walter Enneccerus;GER - Walter Enneccerus;7;1950;1970;bomber_tactics;centralized_execution;piloting;individual_courage;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+97;Helmuth Wilberg;GER - Helmuth Wilberg;6;1933;1955;fighter_tactics;bomber_tactics;aeronautics;training;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+98;Friedrich-Wilhelms-Universität zu Berlin;UPR - FWU Berlin;7;1810;2000;chemistry;mathematics;medicine;nuclear_physics;nuclear_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;x

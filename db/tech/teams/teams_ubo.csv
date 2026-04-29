@@ -1,13 +1,13 @@
 UBO;Name;Pic Name;Skill;Start Year;End Year;Speciality1;Speciality2;Speciality3;Speciality4;Speciality5;Speciality6;Speciality7;Speciality8;Speciality9;Speciality10;Speciality11;Speciality12;Speciality13;Speciality14;Speciality15;Speciality16;Speciality17;Speciality18;Speciality19;Speciality20;Speciality21;Speciality22;Speciality23;Speciality24;Speciality25;Speciality26;Speciality27;Speciality28;Speciality29;Speciality30;Speciality31;Speciality32;x
-1320001;CASA;T3100;3;1930;1999;aeronautics;bomber_design;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1320002;CROS, SA;T3101;2;1930;1999;chemistry;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320001;CASA;T3100;3;1930;2000;aeronautics;bomber_design;avionics;aircraft_testing;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320002;CROS, SA;T3101;2;1930;2000;chemistry;management;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 1320003;Esperanza & Unceta;100106;4;1926;1953;artillery;general_equipment;munitions;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1320004;Fábrica Nacional de Cañones de Trubia;100319;4;1794;1999;mechanics;artillery;vehicle_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1320005;Altos Hornos de Vizcaya, S.A.;T11000;5;1999;1999;mechanics;chemistry;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320004;Fábrica Nacional de Cañones de Trubia;100319;4;1794;2000;mechanics;artillery;vehicle_engineering;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320005;Altos Hornos de Vizcaya, S.A.;T11000;5;1999;2000;mechanics;chemistry;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 1320006;Astilleros Euskalduna;T11001;4;1984;1984;naval_engineering;electronics;mechanics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1320007;Construcciones Navales del Norte;T11003;4;2020;2020;naval_engineering;naval_artillery;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1320008;Universidad de Deusto;100685;4;2020;2020;management;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-1320009;Instituto Químico de Sarriá;100321;4;2020;2020;chemistry;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320007;Construcciones Navales del Norte;T11003;4;2000;2000;naval_engineering;naval_artillery;electronics;technical_efficiency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320008;Universidad de Deusto;100685;4;2000;2000;management;mechanics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+1320009;Instituto Químico de Sarriá;100321;4;2000;2000;chemistry;nuclear_physics;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 1320010;CETME;SPA - CETME;5;1946;1946;artillery;mechanics;general_equipment;munitions;training;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 1320011;Zeltia;SPA - Zeltia;3;1939;1939;chemistry;medicine;industrial_engineering;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 1320012;Universidad Complutense de Madrid;SPA - UCM;5;1822;1822;mathematics;mechanics;electronics;management;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
